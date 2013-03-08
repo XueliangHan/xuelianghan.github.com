@@ -1,9 +1,5 @@
-#markdown: rdiscount
-pygments: true
-
-
-title:       Xueliang Han's Website
-description: High Quality
+title:       Crazy Hot Ice
+description: Learning, Researching, Sharing
 paginate: 20
 
 safe:        false
@@ -50,3 +46,4 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: style
+

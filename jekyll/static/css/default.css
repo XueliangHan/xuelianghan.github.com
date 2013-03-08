@@ -1,0 +1,158 @@
+
+body{
+  width:90%;
+  margin:15px auto;
+  padding: 0% 5% 5% 5%;
+  font-family: Ubuntu, Arial, 'libra sans', sans-serif;
+  font-size: 17px;
+}
+
+code{
+  font-style: normal;
+  margin: 0 2px;
+  padding: 0px 5px;
+  border: 1px solid #EAEAEA;
+  background-color: #F8F8F8;
+  border-radius: 3px;
+}
+
+pre code{
+  border-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+pre,code{
+  font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+  font-size: 12px;
+}
+pre{
+  font-size:1em;
+  background-color: #F8F8F8;
+  border: 1px solid #CCC;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+pre#char{
+  background-color: white;
+  border-style: none;
+}
+
+p, li{
+  line-height: 20px;
+}
+
+a{
+  color: blue;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+
+em{
+  font-style: normal;
+  font-weight: bold;
+}
+
+#post_list table{
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+#post_list th, td{
+  border: none;
+  height: 40px;
+}
+#post_list tr{
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(230, 230, 230);
+}
+#post_list #title{
+  font-size: 24px;
+}
+#comment{
+  padding-top: 20px;
+}
+
+
+header#page_header{
+  width:100%;
+  text-align: right;
+}
+
+header#page_header nav ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#page_header nav ul li{
+  padding: 0;
+  margin: 0 20px 0 0;
+  display: inline;
+}
+
+#post-pagination {
+  clear: both;
+  width: 100%;
+  text-align: center;
+  padding: 20px 0 0 0;
+  font-size: 18px;
+}
+#post-pagination ul li{
+  display: inline-block;
+}
+#post-pagination#current-page {
+  padding: 3px 10px;
+  font-weight: bold;
+}
+li#page-number{
+  margin-right: 20px;
+}
+
+footer#page_footer{
+  clear: both;
+  width: 100%;
+  display: block;
+  text-align: center;
+  padding: 20px 0 0 0;
+  font-size: small; 
+}
+
+#description {
+  font-style: italic;
+}
+
+#post h1{
+  font-size: 28px;
+}
+#post h2{
+  font-size: 22px;
+  font-weight: normal;
+}
+#post h3{
+  font-size: 20px;
+  font-weight: normal;
+}
+#post table{
+}
+#post th{
+  text-align: left;
+}
+#post td{
+  margin-right: 20px;
+}
+#post_footer table{
+  width: 100%;
+  font-size: 17px;
+  padding-top: 30px;
+}
+#post_footer td#prev{
+  text-align: left;
+}
+#post_footer td#next{
+  text-align: right;
+}
