@@ -1,0 +1,49 @@
+<h1 id='networking'>Networking</h1>
+
+<h2 id='interview_questions'>Interview Questions</h2>
+
+<h3 id='1explain_what_happens_step_by_step_after_you_type_a_rul_into_a_browser_use_as_much_tetails_as_possible'>1.Explain what happens, step by step, after you type a RUL into a browser. Use as much tetails as possible.</h3>
+
+<h4 id='dns_stage'>DNS stage</h4>
+
+<ul>
+<li>
+<p>Browser retrieval the IP address of URL in local hosts file.</p>
+</li>
+
+<li>
+<p>If browser not find IP address of URL in local hosts file, browser will contacts the remote DNS server to find the IP address of URL.</p>
+</li>
+
+<li>
+<p>DNS returns back the IP address of the site.</p>
+</li>
+
+<li>
+<p>(Note: DNS (Domain Name Resolution), the wab and address we type are nothing but an alias to an IP address in human readable form. There is an association called ICANN (Internet Corporation for Assigned names and Numbers) charge all of the centralized registration tasks including IP address assignment, DNS domain name assignment, and protocol parameters management. DNS is a distributed but hierarchical entity, which each domain name server is divided into zones, like some server charge for .com domain, some manage .net domain, but DNS servers can work together to map all domain names to their IP addresses.)</p>
+
+<h4 id='fetching_stage__get_all_data_back'>Fetching stage - Get all data back</h4>
+</li>
+
+<li>
+<p>Browser opens TCP connection to the web server at port 80.</p>
+</li>
+
+<li>
+<p>Browser fetches the html code of the page requested. (More details: Browser fetches all the files of the page requested, suck as: HTML code, CSS code, Javascript code, maybe these files are in different server, but the browser will need them all and will get them all.)</p>
+
+<h4 id='processing_stage'>Processing stage</h4>
+</li>
+
+<li>
+<p>Browser renders the HTML in the display window.</p>
+
+<h4 id='terminating_stage'>Terminating stage</h4>
+</li>
+
+<li>
+<p>Browser terminates the connection when window closed.</p>
+</li>
+</ul>
+
+<h3 id='2'>2.</h3>

@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title> Crazy Hot Ice</title>
+    <title> Search |  Crazy Hot Ice</title>
     <link rel="stylesheet" href="/static/css/default.css" type="text/css" />
 
     <!-- MathJax -->
@@ -51,25 +51,21 @@
     </header>
 
     <section id="page_content">
-      <nav id="post_list">
-  <table>
+      <section id="search">
+  <!-- Put the following javascript before the closing </head> tag. -->
+  <script>
+    (function() {
+     var cx = '009333916160064428241:b6_2xiih_a8';
+     var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+     gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+     '//www.google.com/cse/cse.js?cx=' + cx;
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+     })();
+  </script>
 
-</table>
-
-<!-- Pagination links -->
-<footer id="post-pagination">
-  <ul>
-    <li>PAGES:</li>
-    <li>
-      
-       <a href="/">1</a>
-      
-    </li>
-    
-  </ul>
-</footer>
-
-</nav>
+ <!-- Place this tag where you want both of the search box and the search results to render -->
+ <gcse:search></gcse:search>
+</section>
 
     </section>
 

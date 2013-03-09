@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title> Crazy Hot Ice</title>
+    <title> Read |  Crazy Hot Ice</title>
     <link rel="stylesheet" href="/static/css/default.css" type="text/css" />
 
     <!-- MathJax -->
@@ -51,25 +51,66 @@
     </header>
 
     <section id="page_content">
-      <nav id="post_list">
-  <table>
-
-</table>
-
-<!-- Pagination links -->
-<footer id="post-pagination">
-  <ul>
-    <li>PAGES:</li>
-    <li>
-      
-       <a href="/">1</a>
-      
-    </li>
+      <article id="post">
+  <header>
+    <h1>Read</h1>
     
-  </ul>
+  </header>
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script>
+function getLink(item) {
+  return '<a href="http://book.douban.com/subject/' + item.book.id + '" target="_blank"></a>';
+}
+
+var url = 'http://api.douban.com/v2/book/user/42177876/collections?count=200&alt=xd&callback=?';
+$.getJSON(url, function(data){
+  var col = data.collections;
+  $.each(data.collections, function (i, item) {
+    if (item.status === 'read')
+      $("<img/>").attr("src", item.book.images.medium).appendTo("#read").wrap(getLink(item));
+    else if (item.status === 'reading')
+      $("<img/>").attr("src", item.book.images.medium).appendTo("#reading").wrap(getLink(item));
+    else if (item.status === 'wish')
+      $("<img/>").attr("src", item.book.images.medium).appendTo("#wish").wrap(getLink(item));
+  });
+});
+</script>
+
+<h2>I'm reading</h2>
+<div id="reading"></div>
+<h2>I have read</h2>
+<div id="read"></div>
+<h2>I wish to read</h2>
+<div id="wish"></div>
+
+Powered by <a href="http://www.douban.com">Douban</a> API.
+
+</article>
+
+<footer id="post_footer">
+  <table><tr>
+    
+    
+  </tr></table>
 </footer>
 
-</nav>
+<section id="comment">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'crazy-hot-ice'; // required: replace example with your forum shortname
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
 
     </section>
 
