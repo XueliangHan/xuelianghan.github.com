@@ -7,7 +7,7 @@ Personal INFORMATION
 * Gender: Male
 * Mobile: +86 186-5792-1942
 * Email: xmail.han (at) gmail.com
-* Personal Website: [thinkingnotes.net(Old Blog)](thinkingnotes.net), [New Homepage (Under construction)](xuelianghan.github.com)
+* Personal Website: [thinkingnotes.net(Old Blog)](http://thinkingnotes.net), [New Homepage (Under construction)](http://xuelianghan.github.com)
 * Github: [github.com/XueliangHan](https://github.com/XueliangHan)
 * LindedIn: [LinkedIn.com/profile/view?id=193554159](https://www.linkedin.com/profile/view?id=193554159)
 * StackOverFlow: [stackoverflow.com/users/1805394/thinking-notes](http://www.stackoverflow.com/users/1805394/thinking-notes)
