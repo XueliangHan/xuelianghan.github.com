@@ -43,13 +43,15 @@ Soft QUALIFICATIONS
 ###Strong ABILITY to Self-Learning
 ###Excellent COMMUNICATION & TEAMWORK
 
-###Fluency in ENGLISH (reading, writing, listening, and translating)
+####Fluency in ENGLISH (reading, writing, listening, and translating)
 * I past College English Test 4 & 6 without any preparations, my primary knowledge and information source are English books and news.  
 * I __READ__ professional English books and documents about Computer Science and __WRITE__ articles and blog in English, besides, I don't need subtitles when __LISTENING/WATCHING__ English audios/videos.  
 * As curiosity, I like to read books about advanced technology, science and __TRANSLATE__ them into Chinese for a better understanding and also for fun.  
 
 ###Accountable LEADERSHIP Experience
-###Good at SPORTS
+####Good at SPORTS
+* Good physical body condition, highly skilled in control and ballance physical and mental health.  
+* __Good at__ (Long distance running). __Like__ (diving, swimming, skiing). __Played before__ (ice-skating, roller-skating, basketball, football, ping-pang). __Look forwared to__ (bungee jumping, free fall parachuting, rock climbing)  
 
 Others
 ------
