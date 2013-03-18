@@ -11,6 +11,7 @@ Use markup language (Markdown/Textile) to writing, write code and use jekyll(Rub
 Purpose - The way I want
 -------------------------
 __Enjoyable writing__: With the help of Markdown and Textile, the writing/editing progress has become very enjoyable, I can fully focus on writing, if I want mark text with formatted form, I don't need to move my hand off the keyboard to find the mouse, I just mark it with text (Markdown or Textile).  
+__Clean__: I want my article webpage have just my content, nothing more, no navigative bar, no categories, no tags, no comments, they should be in post page, they should be in Index page or Homepage, post page just content, clearn to read, concentrate to read, simple to use.  
 __Simple publishing__: With the help of Jekyll, Git, and Github, the publishing procedure is extremly simple, I just need excute one commond, the new article will be generated into HTML and upload to my remote server, then you can see it on the website.  
 __Offline editing & Auto syncing__: I can modify any article I wrote before whether there is Internet access or not, because all data is on my local computer, and after edit, all changes I had made is sync to my website on remote server. (Details: I modified many articles which data stored in files and markup by Markdown or Textile, after the command excuted, all HTML files will be regenerated, the time is very fast, then the new HTML files will be sync to remote server, so the website is the latest version.)   
 __Backup__: Meantime, due to the fact of data is both on local computer and remote server, and synced via git, a backup function is archived accidently, I can backup my local data info external drive, and I can  backup my remote server data into other cloud service.   
@@ -52,8 +53,8 @@ Markdown.pl: Generate markdown file to static HTML.
 Conclusion & Problem
 ---------------------
 Jekyll is not what exactly I want, she's job is much more than the script "Markdown.pl", the whole procedure to use Jekyll is a little bothering, and the data storage is not what I want.  
-So, the conclusion got from this project is that, Markdown/Textile is good, Git is good, Github is good, but Jekyll is not what I want, so, I need do it from scratch, what I need is a tools to index and map, like C in "MVC" model, however, this project let me learn a lot about web development.  
-Markdown have a very bothering issus, you must put two "space" at the end of sentence to make a paragraph, still unconfortable.  
+So, the conclusion I got from this project is that Markdown/Textile is good, Git is good, Github is good, but Jekyll is not what exactly I want, so, what I need is a tools to index and map, like C in "MVC" model, however, this project let me learn a lot about web development, I need do it again from scratch, first is decompose the Framework - Jekyll, figure out how it designed and implemeneted, then I can use some part of it to build my tools.  
+By the way, Markdown have a very bothering issue, you must put two "space" at the end of sentence to make a paragraph, still unconfortable, and no spell checking.  
 
 
 Reference
@@ -61,4 +62,5 @@ Reference
 * [RubyGems - Wikipedia](http://en.wikipedia.org/wiki/RubyGems)
 * [Markdown - Wikipedia](http://en.wikipedia.org/wiki/Markdown)
 * [Markup - Github](https://github.com/Markup)
+* [Github Page](https://help.github.com/categories/20/articles)
 * etc.  
