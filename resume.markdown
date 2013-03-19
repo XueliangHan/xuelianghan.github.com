@@ -11,7 +11,7 @@ Personal INFORMATION
 * LindedIn: [LinkedIn.com/profile/view?id=193554159](https://www.linkedin.com/profile/view?id=193554159)
 * StackOverFlow: [stackoverflow.com/users/1805394/thinking-notes](http://www.stackoverflow.com/users/1805394/thinking-notes)
 
-PROJECT Experience
+PROJECT EXPERIENCE
 --------------------------------------------------------------
 (Note: Project property: Independent, Teamwork, Collaborative)
 ###Academic Research Project
@@ -49,6 +49,8 @@ Soft QUALIFICATIONS
 * As curiosity, I like to read books about advanced technology, science and __TRANSLATE__ them into Chinese for a better understanding and also for fun.  
 
 ###Accountable LEADERSHIP Experience
+
+
 ####Good at SPORTS
 * Good physical body condition, highly skilled in control and ballance physical and mental health.  
 * __Good at__ (Long distance running). __Like__ (diving, swimming, skiing). __Played before__ (ice-skating, roller-skating, basketball, football, ping-pang). __Look forwared to__ (bungee jumping, free fall parachuting, rock climbing)  
