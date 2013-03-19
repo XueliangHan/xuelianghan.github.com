@@ -1,5 +1,30 @@
 Xueliang Albert Han
 =====================
+
+Index:
+    Personal Information
+    Project Experience
+        Academic Research Experience
+        Engineering R&D Project Experience
+        Intern Project Experience
+        Open Source Project Experience
+    Knowledge & Skills & Tools
+    Hard Qualifications
+        Algorithm & Concept
+        Data Structure
+        Coding (Write Program, Software Design, System Archtecture)
+    Soft Qualifications
+        Strong ABILITY to self-Learning
+        Excellent COMMUNICATION & TEAMWORK
+        Fluency in ENGLISH (reading, writing, listening, and translating)
+        Accountable LEADERSHIP Experience
+        Good at SPORTS
+    Others
+        Awards & Honors
+        Education & Keep Self-eudcating
+        Social Activities & Interests
+
+
 Personal INFORMATION
 ---------------------
 * Name: Xueliang Han
@@ -21,9 +46,11 @@ PROJECT EXPERIENCE
 
 ###Internship Experience
 
-###Open Source Project
+###Open Source Project May {2012 - Present}
 ####Test & Bug Report Record
 
+###Archived
+Please visted [xuelianghan.github.com/project.html](xuelianghan.github.com/project.html)
 
 KNOWLEDGE & SKILLS & TOOLS
 --------------------------
@@ -60,3 +87,126 @@ Others
 ###Awards & Honors
 ###Education & Keep Self-educating
 ###Social Activities & Interests
+
+
+##Algorithms - Data structure
+Select sort, Insert sort, Bubble sort, Shell sort. 
+Quick sort, Merge sort, Heap sort. 
+ 
+ 
+##CODING - Really, really like to write code
+###I really, really like coding, estimation of lines of code I wrote in college. 
+* 10000-30000: C, C++ 
+* 1000-10000: C#, Java, Python,
+* 0-1000: Assembly-language, HTML, LISP, Lua, Perl, Ruby, Shell, SQL,   
+* Highly interested in functional programming language, such as `LISP`, `Erlang`, `Go`. 
+ 
+ 
+##SOFTWARE DESIGN
+* Good at Extreme Programming, Fast Prototype, and  Quick Iteration. 
+* I like to use C-style and LISP-style to develop program and software. 
+* Passionate at Programming, Software Design, System Architecture, Object Oriented Technology (OOA, OOD, OOP). 
+##软件设计&系统构架
+* 擅长敏捷开发、快速原型、快速迭代 
+* 喜欢编程、软件设计、系统构架，面向对象科技（面向对象分析、面向对象设计、面向对象编程） 
+* 对两种完全不同的程序开发方式（C方式和LISP方式）非常好奇 
+ 
+##ENGINEERING PROJECT EXPERIENCE
+Short version
+ 
+测试和Bug报告
+Linux: Kiwix(开源); Windows: WizNote; Android-Mobile(Contact+, 有道词典, 优酷)
+ 
+##ACADEMIC RESEARCH EXPERIENCE
+###Computing Linguistics of Key Laboratory of Database & Parallel Computing , College of HeiLongJiang Province. Sep 2012 - Present
+* Academic research on NLP(Natural Language Processing) under Prof. Guohong Fu's guiding. 
+* Graduation Thesis and Design: "A Design and Implementation of Classification System for Chinese Micro-blog".
+ 
+ 
+##Knowledge & Skills & Tools
+---------------------
+编程语言：
+主要开发编程语言是C、C++、Python，有使用C++和C#在VC6.0和VS2005下做Windows软件开发的经验，并且使用HTML、CSS、Javascript做Web前台开发（比如创建和维护自己的网站前台），时常使用Lua、Perl、Ruby、Shell写一些脚本来满足各种需求（比如一些自动化的脚本），有时候会使用SQL来进行数据库的各种操作
+ 
+###Language:
+###Professional Knowledge: Network Security \& Personal Privacy, Computer Science, Software Engineering, Computer Hardware
+ 
+###Tools:
+unix/linux env.: Editor(vi/vim,emacs), Auto(GNU make), Compiler(gcc), Debug(gdb,ddd), Trace(strace,ltrace, truss), Version-control(git/svn), Platform(arch, fedora, ubuntu), Text-processing-tools(notepad/markdown/LaTeX). 
+Windows: IDE(CodeBlocks, Eclipse, VC 6.0, Visual Studio 2005), SVN,
+ 
+Architecture construct with Mind-map(FreeMind,FreePlane),
+ 
+###Skills:
+Linux,
+Network Security & Personal Privacy
+Programming
+Reverse Engineering (files, programs)
+Software: Write linux program, Develop windows software
+Web: Build blog, build simple website.
+ 
+ 
+Database(SQLite, MySQL), Library(Linux C Lib), Network(TCP, UDP), OS(Linux, Mac-OS-X, Windows), Server(Apache), Useful(Cross over GFW, Proxy)
+ 
+###Sound working knowledge: Server(Ngix), Library(Node.JS), Framework(Django)
+
+
+
+SOFT QUALIFICATIONS(Career Highlight)
+----------------
+###Abilities
+Able to think hierarchically and abstractive.
+Able to learn new stuff very fast from Internet and deep understand it. 
+Able to distinguish when to use this technique(Language/OS/DB), when shouldn't.
+Able to choose appropriate tools to solve specific problems.(针对特定的问题挑选合适的工具).
+* Strong 3-Dimensional space imagination ability. 
+ 
+###Excellent Communication & Teamwork
+* Better communication ability and skills than most software engineers.
+* Excellent teamwork, easy to work with. 
+* I have one year's experience in a big social association and two years and half experience in a big technical association during the college.
+* Discuss and exchange ideas about the latest and fundamental technologies with other professionals (Such as: game engine, Front End Techs, Back End Techs, algorithms, data structure, programming language, OS, framework, library, cool tools).
+
+ 
+###Accountable Leadership Experience
+* Leader of Network Security Group
+ 
+ 
+ 
+Awards and Honors
+-----------------
+* Prize for outstanding team and leader works in Association of Technical Innovation of Computer Science& Software Engineering of HeiLongJiang University 2010 - 2012.
+* Third Class Scholarship. 2012.
+* Third Prize in HeiLongJiang Provincial Contest in ACM International Collegiate Pro-gramming Contest 2011.
+* Second Prize in HeiLongJiang Provincial Contest in ACM International Collegiate Pro-gramming Contest 2010.
+ 
+ 
+Education
+---------
+### Heilongjiang University, Harbin, Heiloangjiang Province, China. September 2009 - Present
+* Undergraduate of Software Engineering
+* Expected graduation date: July 2013
+### Shuang Yashan first middle school, Shuang Yashan, Heiloangjiang Province, China. 2006 - 2009.
+ 
+ 
+ 
+Social Activities in College
+----------------------------
+I like social, I like to hang out with guys, talk/share with them, and learn from them.
+###Association of Technical Innovation of Computer Science & Software Engineering. May 2010 - May 2012. 
+* Member of Network Security Group. May 2010 - May 2011. 
+* Leader of Network Security Group, guide the lower student about Network Security and Personal Privacy. May 2011 - May 2012. 
+###Association of Enterprise, Entrepreneur Forum Department. Sept 2009 - May 2010. 
+* Learning and practicing how to make a effective communication and efficient teamwork in a group (20+ people). 
+* Training to get a project done by work collaboratively with the people from different department of the association (200 people). 
+
+
+Major Course in College
+------------------------
+* Computer Science: Algorithms Analysis and Design(Self-Selected), Data Structure, Fundamental of Compiling, Operating System, Computer Network, Principles of Database System. 
+* Software Engineering: Introduction to Software Engineering, UML & Object Oriented Analysis and Design, Software Testing, Software Architecture(Self-Selected), System Analysis and Design.
+* Hardware Engineering: Digital Logic, Principles of Computer Organization, Principles of Computer and Interface Technology(Self-Selected). 
+* Programming Language: Assembly-language, C, C++, C#, Java, ASP.Net. 
+* Practical Programming: Data Structure Programming, Operating System Programming, Compiler Programming, Database Programming. 
+* Mathematics: Advanced Algebra, Linear Algebra, Probability and Statistics, Discrete Mathematics, Numerical Analysis. 
+* Other Self-Selected: , The Art of Algorithms & ACM/ICPC(1), The Art of Algorithms & ACM/ICPC(2), Linux OS, Professional Communication Skills Training, Introduction to Information Retrieval, Introduction to Multimedia Technology, Introduction to Business and Enterprise. 
