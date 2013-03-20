@@ -8,8 +8,6 @@ Project description
 Use markup language (Markdown/Textile) to writing, write code and use jekyll(Ruby) to generate static webpage, use git to keep data sync, use github as web host.  
 
 
-The way I don't want
---------------------
 Purpose - The way I want
 -------------------------
 __Enjoyable writing__: With the help of Markdown and Textile, the writing/editing progress has become very enjoyable, I can fully focus on writing, if I want mark text with formatted form, I don't need to move my hand off the keyboard to find the mouse, I just mark it with text (Markdown or Textile).  

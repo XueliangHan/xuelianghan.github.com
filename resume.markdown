@@ -25,7 +25,10 @@ Index:
         Awards & Honors
         Education & Keep Self-eudcating
         Social Activities & Interests
-
+    ..
+        Publications
+        Presentations
+        Teaching Experience
 
 Personal INFORMATION
 ---------------------
@@ -42,7 +45,7 @@ PROJECT EXPERIENCE
 --------------------------------------------------------------
 (Note: Project property: Independent, Teamwork, Collaborative)
 ###Academic Research Project
-####Automatically Text Classification System for Chinese Micro-blog
+"A Design and Implementation of Classification System for Chinese Micro-blog".
 
 ###Engineering R&D Project
 
@@ -52,7 +55,7 @@ PROJECT EXPERIENCE
 ####Test & Bug Report Record
 
 ###Archived
-Please visted [xuelianghan.github.com/project.html](xuelianghan.github.com/project.html)
+Please visted [xuelianghan.github.com/project.html](https://xuelianghan.github.com/project.html)
 
 KNOWLEDGE & SKILLS & TOOLS
 --------------------------
@@ -71,6 +74,10 @@ Soft QUALIFICATIONS
 ----------------------
 ###Strong ABILITY to Self-Learning
 ###Excellent COMMUNICATION & TEAMWORK
+* Excellent teamwork, easy to work with, better communication ability and skills than most software engineers.  
+* Three years of __teamwork experience__ in two big social associations in college, be party host in college too.  
+* Receive __inter-cultural communication__ training in college, have some background knowledge and understandings to the culture in _America, Europe, Russia, Middle East, India, South America, Africa, Japan._
+* Discuss and exchange ideas about the latest and fundamental technologies with other professionals (Such as: _game engine, Front-End, Back-End, algorithms, data structure, programming language, OS, network, framework, library, cool tools_).
 
 ####Fluency in ENGLISH (reading, writing, listening, and translating)
 * I past College English Test 4 and 6 without any preparations, my primary knowledge and information source are English books and news.  
@@ -81,14 +88,14 @@ Soft QUALIFICATIONS
 
 
 ####Good at SPORTS
-* I have a good physical body condition, and highly skilled in control and ballance physical and mental health.  
-* I'm __good at__ _long distance running_, and I __like__ (_diving_, _swimming_, _skiing_) very much. I __played__ (_ice-skating_, _roller-skating_, _basketball_, _football_, _ping-pang_) before, and for now, I'm __looking forwared to__ try these sports (_bungee jumping_, _free fall_ _parachuting_, _rock climbing_)  
+* I have a good physical body condition, and highly skilled in __control__ and __balance__ physical and mental health.  
+* I'm __good at__ _long distance running_, and I __like__ (_diving_, _swimming_, _skiing_) very much. I __played__ (_ice-skating_, _roller-skating_, _basketball_, _football_, _ping-pang_) before, and for now, I'm __looking forward to__ try these sports (_bungee jumping_, _free fall_ _parachuting_, _rock climbing_)  
 
 Others
 ------
 ###Awards & Honors
 ###Education & Keep Self-educating
-###Social Activities & Interests
+###Social ACTIVITIES & INTERESTS
 
 
 ##Algorithms - Data structure
@@ -108,21 +115,8 @@ Quick sort, Merge sort, Heap sort.
 * Good at Extreme Programming, Fast Prototype, and  Quick Iteration. 
 * I like to use C-style and LISP-style to develop program and software. 
 * Passionate at Programming, Software Design, System Architecture, Object Oriented Technology (OOA, OOD, OOP). 
-##软件设计&系统构架
-* 擅长敏捷开发、快速原型、快速迭代 
-* 喜欢编程、软件设计、系统构架，面向对象科技（面向对象分析、面向对象设计、面向对象编程） 
-* 对两种完全不同的程序开发方式（C方式和LISP方式）非常好奇 
- 
-##ENGINEERING PROJECT EXPERIENCE
-Short version
- 
-测试和Bug报告
-Linux: Kiwix(开源); Windows: WizNote; Android-Mobile(Contact+, 有道词典, 优酷)
- 
-##ACADEMIC RESEARCH EXPERIENCE
-###Computing Linguistics of Key Laboratory of Database & Parallel Computing , College of HeiLongJiang Province. Sep 2012 - Present
-* Academic research on NLP(Natural Language Processing) under Prof. Guohong Fu's guiding. 
-* Graduation Thesis and Design: "A Design and Implementation of Classification System for Chinese Micro-blog".
+
+
  
  
 ##Knowledge & Skills & Tools
@@ -162,13 +156,6 @@ Able to learn new stuff very fast from Internet and deep understand it.
 Able to distinguish when to use this technique(Language/OS/DB), when shouldn't.
 Able to choose appropriate tools to solve specific problems.(针对特定的问题挑选合适的工具).
 * Strong 3-Dimensional space imagination ability. 
- 
-###Excellent Communication & Teamwork
-* Better communication ability and skills than most software engineers.
-* Excellent teamwork, easy to work with. 
-* I have one year's experience in a big social association and two years and half experience in a big technical association during the college.
-* Discuss and exchange ideas about the latest and fundamental technologies with other professionals (Such as: game engine, Front End Techs, Back End Techs, algorithms, data structure, programming language, OS, framework, library, cool tools).
-
  
 ###Accountable Leadership Experience
 * Leader of Network Security Group
