@@ -7,6 +7,7 @@ Index
 ------
     Ideas & Thoughts to develop a program
     Utilities
+    Open Source Project
     Projects Details
     Archived Projects
 
@@ -21,6 +22,15 @@ Utilities
 ---------
 (Note: Small programs/scripts to finish one single purpose and one purpose only. Ordered by descend DATE)  
 
+Open Source Project
+--------------------
+###(Open source) Testing & Bug report
+Testing and bug report for Kiwix - A open source offline wiki program under Linux OS. 
+Mobile Apps bug report: Contact+, Youdao Dict.
+ 
+###(Open Source) Projects Related
+Monitoring project: Linux kernel, Webkit Engine, PetaBox(archive.org),
+Monitored before: eMule, Everything, Fastcopy, Perl(Markdown), Google Linear Scanner, SimplyHTML.
 
 
 
@@ -80,13 +90,6 @@ Note: What's in here are dumped from my resume, there are some reasons and thoug
 * Project Description: Take the native Word-pad on Windows as a model, reduce unnecessary functions, only keep the core function, aimed at to reduce the program size and performance.   
 * Project Develop Environment & Tools: Windows 7, Virtual Studio 2005, C#.   
 * Project Highlight: Use __Extreme Programming__ develop in one day, including get familiar with C# language and IDE, solve problems and bugs with QA, Books, and Google.   
-###（独立比赛项目）精简富文本处理软件
-项目时间：2011年10月
-项目描述：开发一个文字处理软件，取代Window自带的写字板，缩小软件体积并只提供最精简的功能
-项目开发环境：VS2005, C#, Windows 7, 使用敏捷开发一天内完成
-项目中主要遇到的问题和解决的技术：
-* 快速学习C#语言，熟悉VS2005开发环境
-* 遇到问题，快速使用问答、书籍和谷歌搜索解决
 
 
 
