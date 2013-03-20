@@ -73,8 +73,8 @@ Soft QUALIFICATIONS
 ###Excellent COMMUNICATION & TEAMWORK
 
 ####Fluency in ENGLISH (reading, writing, listening, and translating)
-* I past College English Test 4 & 6 without any preparations, my primary knowledge and information source are English books and news.  
-* I __read__ professional English books and documents about Computer Science and __write__ articles and blog in English, besides, I don't need subtitles when __listening/watching__ English audios/videos.  
+* I past College English Test 4 and 6 without any preparations, my primary knowledge and information source are English books and news.  
+* I __read__ professional English books and documents about Computer Science and __write__ articles and blog in English, besides, I don't need subtitles to __listen/watch__ English audios/videos.  
 * As curiosity, I like to read books about advanced technology, science and __translate__ them into Chinese for a better understanding and also for fun.  
 
 ###Accountable LEADERSHIP Experience
@@ -82,7 +82,7 @@ Soft QUALIFICATIONS
 
 ####Good at SPORTS
 * Good physical body condition, highly skilled in control and ballance physical and mental health.  
-* I'm __good at__ Long distance running, __like__ (diving, swimming, skiing) very much. I __played__ (ice-skating, roller-skating, basketball, football, ping-pang) before, but they are not interesting anymore, and most important, I'm __looking forwared to__ try these sports (bungee jumping, free fall parachuting, rock climbing)  
+* I'm __good at__ _long distance running_, and I __like__ (_diving_, _swimming_, _skiing_) very much. I __played__ (_ice-skating_, _roller-skating_, _basketball_, _football_, _ping-pang_) before, and for now, I'm __looking forwared to__ try these sports (_bungee jumping_, _free fall_ _parachuting_, _rock climbing_)  
 
 Others
 ------
