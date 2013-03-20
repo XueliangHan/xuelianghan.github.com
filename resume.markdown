@@ -1,3 +1,5 @@
+Note: Under upgrading.
+
 Xueliang Albert Han
 =====================
 
@@ -80,7 +82,7 @@ Soft QUALIFICATIONS
 
 ####Good at SPORTS
 * Good physical body condition, highly skilled in control and ballance physical and mental health.  
-* I'm __good at__ Long distance running, __Like__ (diving, swimming, skiing) very much. I __Played__ (ice-skating, roller-skating, basketball, football, ping-pang) before, but they are not interesting anymore, and most important, I'm __Looking forwared to__ try these sports (bungee jumping, free fall parachuting, rock climbing)  
+* I'm __good at__ Long distance running, __like__ (diving, swimming, skiing) very much. I __played__ (ice-skating, roller-skating, basketball, football, ping-pang) before, but they are not interesting anymore, and most important, I'm __looking forwared to__ try these sports (bungee jumping, free fall parachuting, rock climbing)  
 
 Others
 ------
