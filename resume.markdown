@@ -74,10 +74,10 @@ Soft QUALIFICATIONS
 ----------------------
 ###Strong ABILITY to Self-Learning
 ###Excellent COMMUNICATION & TEAMWORK
-* Excellent teamwork, easy to work with, better communication ability and skills than most software engineers.  
+* __Easy__ to work with, __better__ communication ability and skills than most other software engineers.  
 * Three years of __teamwork experience__ in two big social associations in college, be party host in college too.  
 * Receive __inter-cultural communication__ training in college, have some background knowledge and understandings to the culture in _America, Europe, Russia, Middle East, India, South America, Africa, Japan._
-* Discuss and exchange ideas about the latest and fundamental technologies with other professionals (Such as: _game engine, Front-End, Back-End, algorithms, data structure, programming language, OS, network, framework, library, cool tools_).
+* __Discuss__ and __exchange ideas__ about the engineering, science with other professionals in daily life.(Such as: _game engine, Front-End, Back-End, algorithms, data structure, programming language, OS, network, framework, library, cool tools_)
 
 ####Fluency in ENGLISH (reading, writing, listening, and translating)
 * I past College English Test 4 and 6 without any preparations, my primary knowledge and information source are English books and news.  
