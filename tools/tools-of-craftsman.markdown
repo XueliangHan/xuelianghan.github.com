@@ -1,6 +1,11 @@
 Craftsman's tools
 =================
 
+Tutor
+-----
+###Vi/Vim
+* [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
+
 Configuration files
 -------------------
 * filename: [vimrc](./vimrc), usage: rename vimrc to .vimrc, put it in your HOME directory.  
