@@ -25,9 +25,9 @@ Index:
         Awards & Honors
         Education & Keep Self-eudcating
         Social Activities & Interests
-    ..
-        Publications
-        Presentations
+    0..
+        (Selected) Publications
+        (Selected) Presentations
         Teaching Experience
 
 Personal INFORMATION
