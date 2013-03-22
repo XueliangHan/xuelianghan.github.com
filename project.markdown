@@ -1,14 +1,10 @@
 PROJECT
-=================
+========================================================
 (Project property: Independent, Teamwork, Collaborative)
-Note: What's in here are dumped from my resume, there are some reasons and thoughts:   
-* The resume is limited, 1-2 pages, as time went by, my EXPERIENCE, KNOWLEDGE, SKILLS, TOOLS and etc. are all growing, I can't put all of them into my resume, I must choose and put the highlight into my resume, and some of them looks like toys from today's perspective/view.   
-* But the things I've done represent the past, they are the past time line of mine, I think I shouldn't let them just go and disappeared, so, I put all stuff dumped from my resume into here, for myself, and also for some people who interested.  
-* Please wait, I have many things need to write, thank you very much for your patience!    
 
 
 Index
-------
+-----------------------------------------
     Archived Projects
     Projects Details
     Open Source Project
@@ -19,7 +15,11 @@ Index
 
 
 Archived PROJECT
----------------------------------------------------------
+------------------------------------------------------------------------------------
+Note: What's in here are dumped from my resume, there are some reasons and thoughts:   
+* The resume is limited, 1-2 pages, as time went by, my EXPERIENCE, KNOWLEDGE, SKILLS, TOOLS and etc. are all growing, I can't put all of them into my resume, I must choose and put the highlight into my resume, and some of them looks like toys from today's perspective/view.   
+* But the things I've done represent the past, they are the past time line of mine, I think I shouldn't let them just go and disappeared, so, I put all stuff dumped from my resume into here, for myself, and also for some people who interested.  
+
 ####Oct 2012. (Independent) Simplify Word-pad - Text Processing Software
 * Project Description: Take the native Word-pad on Windows as a model, reduce unnecessary functions, only keep the core function, aimed at to reduce the program size and performance.   
 * Project Develop Environment & Tools: Windows 7, Virtual Studio 2005, C#.   
@@ -32,7 +32,7 @@ Project Details
 Project Description: Build an independent personal website using WordPress from scratch
 Project Dev. Tools: Linux, Shell, Vim, FTP, Chrome.
 Problem Solved: Domain name, Site host server, DNS server, Pic host server, Content Manage System(WordPress), Upload/Configuration/Troubleshooting, Backup, Security, Plug-ins, Code highlight, Mobile interface, SEO, Apply for enterprise Email.
-Future Movement: Build another site using Github as host server, XML as database, Markdown as descript language, Static HTML web-page as information presentation media.
+Future Movement: Build another site using Github as host server, XML as database, Markdown as descript language, Static HTML web-page as information presentation media.   
 
 ###(Independent) TCP+UDP Network Communication Program(C/S)
 Project Date: April 2012
@@ -41,7 +41,7 @@ Project Dev. Environment: C++, Visual C++ 6.0, Windows(XP/7), Use rapidly protot
 Project tough problems and questions:
 * Multi-thread to love multiple request and GUI suspending
 * Use Windows Socket API implement and integrate two protocol (TCP, UDP) in one program.
-* Solve how to deliver function as a parameter
+* Solve how to deliver function as a parameter   
 
 ###(Internship) China Unicom Communication Assistant
 Date: February 2012
@@ -56,7 +56,7 @@ Tough problems & solutions:
 * User information encryption(MD5), Store, Transmit it, 
 * Use critical area to keep thread syncing(init, lock, entry, leave, delete), 
 * Design communication protocol to solve problem of message lost and delay, 
-* Packing message into XML format and transfer it to server via socket. 
+* Packing message into XML format and transfer it to server via socket.   
 
 ###(Team Project) Small RDBMS (Relational Database Management System) (2 Men) Oct 2011 - Dec2011
 * Project Description: Based on Relational Database theory, simulate SQLite, design and implement a RDBMS.
@@ -65,7 +65,7 @@ Tough problems & solutions:
 * Implement DML(Data Manipulation Language): Insert, Delete, Update, Select. 
 * Implement Select: Select and projection of single table, Multiple table join, mixed operation of select/projection/join for multiple table. 
 * Implement DCL(Data Control Language): Create user, Drop user, Grant, Revoke. 
-* Implement Utilities Command: .cls, .exit, .help.
+* Implement Utilities Command: .cls, .exit, .help.   
 
 
 Open Source Project
