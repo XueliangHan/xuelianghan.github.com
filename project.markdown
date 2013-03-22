@@ -61,11 +61,12 @@ Tough problems & solutions:
 ###(Team Project) Small RDBMS (Relational Database Management System) (2 Men) Oct 2011 - Dec2011
 * Project Description: Based on Relational Database theory, simulate SQLite, design and implement a RDBMS.
 * Project Dev. Environment: Language(C++), Dev-Platform(Windows XP/7), Dev-Environment(VC 6.0), STL(Vector). 
-* Implement DDL(Data Define Language): Create table, Drop table, Alter table, Create view, Drop view, Create index, Drop index. 
+* Implement DDL(Data Define Language): Create table, Drop table, Alter table, Create view, Drop view.
 * Implement DML(Data Manipulation Language): Insert, Delete, Update, Select. 
 * Implement Select: Select and projection of single table, Multiple table join, mixed operation of select/projection/join for multiple table. 
 * Implement DCL(Data Control Language): Create user, Drop user, Grant, Revoke. 
-* Implement Utilities Command: .cls, .exit, .help.  
+* Implement Utilities Command: .cls, .exit, .help.
+
 
 Open Source Project
 --------------------

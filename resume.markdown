@@ -60,7 +60,7 @@ Please visted [xuelianghan.github.com/project.html](https://xuelianghan.github.c
 KNOWLEDGE & SKILLS & TOOLS
 --------------------------
 ###KNOWLEDGE
-Professional Knowledge (Major Course in College): Computer Science, Software Engineering, Computer Hardware  
+Major Course in College: Computer Science, Software Engineering, Computer Hardware  
 * Computer Science: Algorithms Analysis and Design(Self-Selected), Data Structure, Fundamental of Compiling, Operating System, Computer Network, Principles of Database System.   
 * Software Engineering: Introduction to Software Engineering, UML & Object Oriented Analysis and Design, Software Testing, Software Architecture(Self-Selected), System Analysis and Design.  
 * Hardware Engineering: Digital Logic, Principles of Computer Organization, Principles of Computer and Interface Technology(Self-Selected).  
