@@ -1,6 +1,10 @@
 PROJECT
 =================
-Please wait, I have many things need to write, thank you very much for your patience!    
+(Project property: Independent, Teamwork, Collaborative)
+Note: What's in here are dumped from my resume, there are some reasons and thoughts:   
+* The resume is limited, 1-2 pages, as time went by, my EXPERIENCE, KNOWLEDGE, SKILLS, TOOLS and etc. are all growing, I can't put all of them into my resume, I must choose and put the highlight into my resume, and some of them looks like toys from today's perspective/view.   
+* But the things I've done represent the past, they are the past time line of mine, I think I shouldn't let them just go and disappeared, so, I put all stuff dumped from my resume into here, for myself, and also for some people who interested.  
+* Please wait, I have many things need to write, thank you very much for your patience!    
 
 
 Index
@@ -16,11 +20,6 @@ Index
 
 Archived PROJECT
 ---------------------------------------------------------
-(Project property: Independent, Teamwork, Collaborative)
-Note: What's in here are dumped from my resume, there are some reasons and thoughts:   
-* The resume is limited, 1-2 pages, as time went by, my EXPERIENCE, KNOWLEDGE, SKILLS, TOOLS and etc. are all growing, I can't put all of them into my resume, I must choose and put the highlight into my resume, and some of them looks like toys from today's perspective/view.   
-* But the things I've done represent the past, they are the past time line of mine, I think I shouldn't let them just go and disappeared, so, I put all stuff dumped from my resume into here, for myself, and also for some people who interested.  
-
 ####Oct 2012. (Independent) Simplify Word-pad - Text Processing Software
 * Project Description: Take the native Word-pad on Windows as a model, reduce unnecessary functions, only keep the core function, aimed at to reduce the program size and performance.   
 * Project Develop Environment & Tools: Windows 7, Virtual Studio 2005, C#.   
