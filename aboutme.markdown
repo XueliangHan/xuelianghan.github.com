@@ -65,7 +65,7 @@ What I pursuit
 * Fruit: Apple, Orange, Grapefruit(柚子).  
 * Hobby: Think, Reading, Social, Sports, Travel  
 * Laptop computer: ASUS UL30, Thnkpad X61T, MacBook Retina 13 (Unfordable for now)  
-* Operating system: *nix, Mac-OS-X, Windows.  
+* Operating system: unix/linux, Mac-OS-X, Windows.  
 * Plant: Cedars - Also known as the trees of God, the trees of righteousness, the plant of the Lord. They are extremely tall and big, they are the symbol of perfect, upward, honor, and life. (植物：香柏树，又称上帝之树，长得极其高大，是完美、向上、尊贵、生命的象征。)  
  
  
