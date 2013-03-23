@@ -29,54 +29,54 @@ Note: What's in here are dumped from my resume, there are some reasons and thoug
 Project Details
 ----------------
 ###(Independent) Build Independent Personal Website Jul 2012, Jan 2013
-Project Description: Build an independent personal website using WordPress from scratch
-Project Dev. Tools: Linux, Shell, Vim, FTP, Chrome.
-Problem Solved: Domain name, Site host server, DNS server, Pic host server, Content Manage System(WordPress), Upload/Configuration/Troubleshooting, Backup, Security, Plug-ins, Code highlight, Mobile interface, SEO, Apply for enterprise Email.
+Project Description: Build an independent personal website using WordPress from scratch  
+Project Dev. Tools: Linux, Shell, Vim, FTP, Chrome.  
+Problem Solved: Domain name, Site host server, DNS server, Pic host server, Content Manage System(WordPress), Upload/Configuration/Troubleshooting, Backup, Security, Plug-ins, Code highlight, Mobile interface, SEO, Apply for enterprise Email.  
 Future Movement: Build another site using Github as host server, XML as database, Markdown as descript language, Static HTML web-page as information presentation media.   
 
 ###(Independent) TCP+UDP Network Communication Program(C/S)
-Project Date: April 2012
-Project Description: Implement network communication between two programs in one computer, and implement network communication between two computers.
-Project Dev. Environment: C++, Visual C++ 6.0, Windows(XP/7), Use rapidly prototype and fast iteration develop method.
-Project tough problems and questions:
-* Multi-thread to love multiple request and GUI suspending
-* Use Windows Socket API implement and integrate two protocol (TCP, UDP) in one program.
+Project Date: April 2012  
+Project Description: Implement network communication between two programs in one computer, and implement network communication between two computers.  
+Project Dev. Environment: C++, Visual C++ 6.0, Windows(XP/7), Use rapidly prototype and fast iteration develop method.  
+Project tough problems and questions:  
+* Multi-thread to love multiple request and GUI suspending  
+* Use Windows Socket API implement and integrate two protocol (TCP, UDP) in one program.  
 * Solve how to deliver function as a parameter   
 
 ###(Internship) China Unicom Communication Assistant
-Date: February 2012
-Company Name: Harbin Ying Li Technology Development Inc.
-Department-Position: Development Department - Software Developer - Windows Platform
-Description: My responsibilities is to develop windows client(Login module and message sending module), meantime wrote a server program to test client. 
-Tough problems & solutions:
-* Input checking and processing, 
-* Multi-thread to solve GUI suspending, 
-* Multi-thread dealing multiple communication request, 
-* Read and write configuration file, Log recording, 
-* User information encryption(MD5), Store, Transmit it, 
-* Use critical area to keep thread syncing(init, lock, entry, leave, delete), 
-* Design communication protocol to solve problem of message lost and delay, 
+Date: February 2012  
+Company Name: Harbin Ying Li Technology Development Inc.  
+Department-Position: Development Department - Software Developer - Windows Platform  
+Description: My responsibilities is to develop windows client(Login module and message sending module), meantime wrote a server program to test client.    
+Tough problems & solutions:   
+* Input checking and processing.   
+* Multi-thread to solve GUI suspending.   
+* Multi-thread dealing multiple communication request.    
+* Read and write configuration file, Log recording.    
+* User information encryption(MD5), Store, Transmit it.   
+* Use critical area to keep thread syncing(init, lock, entry, leave, delete).    
+* Design communication protocol to solve problem of message lost and delay.    
 * Packing message into XML format and transfer it to server via socket.   
 
 ###(Team Project) Small RDBMS (Relational Database Management System) (2 Men) Oct 2011 - Dec2011
-* Project Description: Based on Relational Database theory, simulate SQLite, design and implement a RDBMS.
-* Project Dev. Environment: Language(C++), Dev-Platform(Windows XP/7), Dev-Environment(VC 6.0), STL(Vector). 
-* Implement DDL(Data Define Language): Create table, Drop table, Alter table, Create view, Drop view.
-* Implement DML(Data Manipulation Language): Insert, Delete, Update, Select. 
-* Implement Select: Select and projection of single table, Multiple table join, mixed operation of select/projection/join for multiple table. 
-* Implement DCL(Data Control Language): Create user, Drop user, Grant, Revoke. 
+* Project Description: Based on Relational Database theory, simulate SQLite, design and implement a RDBMS.  
+* Project Dev. Environment: Language(C++), Dev-Platform(Windows XP/7), Dev-Environment(VC 6.0), STL(Vector).   
+* Implement DDL(Data Define Language): Create table, Drop table, Alter table, Create view, Drop view.  
+* Implement DML(Data Manipulation Language): Insert, Delete, Update, Select.   
+* Implement Select: Select and projection of single table, Multiple table join, mixed operation of select/projection/join for multiple table.   
+* Implement DCL(Data Control Language): Create user, Drop user, Grant, Revoke.   
 * Implement Utilities Command: .cls, .exit, .help.   
 
 
 Open Source Project
 --------------------
 ###(Open source) Testing & Bug report
-Testing and bug report for Kiwix - A open source offline wiki program under Linux OS. 
-Mobile Apps bug report: Contact+, Youdao Dict.
- 
+Testing and bug report for Kiwix - A open source offline wiki program under Linux OS.   
+Mobile Apps bug report: Contact+, Youdao Dict.  
+
 ###(Open Source) Projects Related
-Monitoring project: Linux kernel, Webkit Engine, PetaBox(archive.org),
-Monitored before: eMule, Everything, Fastcopy, Perl(Markdown), Google Linear Scanner, SimplyHTML.
+Monitoring project: Linux kernel, Webkit Engine, PetaBox(archive.org),  
+Monitored before: eMule, Everything, Fastcopy, Perl(Markdown), Google Linear Scanner, SimplyHTML.  
 
 
 Ideas & Thoughts to develop a program

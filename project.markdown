@@ -47,15 +47,15 @@ Project tough problems and questions:
 Date: February 2012  
 Company Name: Harbin Ying Li Technology Development Inc.  
 Department-Position: Development Department - Software Developer - Windows Platform  
-Description: My responsibilities is to develop windows client(Login module and message sending module), meantime wrote a server program to test client.   
-Tough problems & solutions:  
-* Input checking and processing,   
-* Multi-thread to solve GUI suspending,   
-* Multi-thread dealing multiple communication request,   
-* Read and write configuration file, Log recording,   
-* User information encryption(MD5), Store, Transmit it,   
-* Use critical area to keep thread syncing(init, lock, entry, leave, delete),   
-* Design communication protocol to solve problem of message lost and delay,   
+Description: My responsibilities is to develop windows client(Login module and message sending module), meantime wrote a server program to test client.    
+Tough problems & solutions:   
+* Input checking and processing.   
+* Multi-thread to solve GUI suspending.   
+* Multi-thread dealing multiple communication request.    
+* Read and write configuration file, Log recording.    
+* User information encryption(MD5), Store, Transmit it.   
+* Use critical area to keep thread syncing(init, lock, entry, leave, delete).    
+* Design communication protocol to solve problem of message lost and delay.    
 * Packing message into XML format and transfer it to server via socket.   
 
 ###(Team Project) Small RDBMS (Relational Database Management System) (2 Men) Oct 2011 - Dec2011
