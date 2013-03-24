@@ -25,6 +25,7 @@ Craftsman's tools
 
 ###Text Processing & Type Settting
 ####Markdown
+* Using LaTeX to do text processing and type setting is extremely slow, and painful if you are not a LaTeX professional, the solution is to use Mardown do the rapidly protoltype and fast iteration, then use LaTeX to optimize the "User Experience".
 * [Online Markdown Editor](http://mahua.jser.me/)
 * [Markdown+Pandoc：轻量级科学论文写作方案](http://www.douban.com/note/245109923/)
 

@@ -23,10 +23,10 @@
 * 实验室：数据库与并行计算计算语言学分室，黑龙江大学   
 
 ###工程项目经验
-####（独立）建立个人网站
-* 正在进行 `Jekyll`无法满足需求，重新使用`HTML`、`CSS`、`JavaScript`建立个人主页
-* 2013-03  从头搭建个人发布网站，使用`Markdown`、`Jekyll`、`Git`、`Github`, `ShellScript`
-* 2012-07  从头搭建个人博客，使用`Linux`、`Apache`、`MySQL`、`WordPress`
+####（独立）建立个人网站（空闲时间）
+* 正在进行 V3.0`Jekyll`并不完全匹配我的需求，正在使用`HTML`、`CSS`、`JavaScript`慢慢写个人主页和网站
+* 2013-03 V2.0-从头搭建个人发布网站，使用`Markdown`、`Jekyll`、`Git`、`Github`, `ShellScript`
+* 2012-07 V1.0-从头搭建个人博客，使用`Linux`、`Apache`、`MySQL`、`WordPress`
 
 ####（独立）TCP+UDP网络通信程序
 * 设计并实现两个网络通讯程序，实现一台机器上和多台机器上的通讯
