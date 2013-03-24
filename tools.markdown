@@ -39,4 +39,5 @@ This is a very geeky Windows XP machine I encountered before.
 
 ####Temporary online tools
 * Online Notepad: [notepad.cc](http://notepad.cc/)
-* Image Upload: [imgur](http://imgur.com/)
+* Online Image Upload & Get URL: [imgur](http://imgur.com/)
+* Online Video Downloader: [KeepVID](http://keepvid.com/)
