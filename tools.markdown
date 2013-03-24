@@ -40,4 +40,4 @@ This is a very geeky Windows XP machine I encountered before.
 ####Temporary online tools
 * Online Notepad: [notepad.cc](http://notepad.cc/)
 * Online Image Upload & Get URL: [imgur](http://imgur.com/)
-* Online Video Downloader: [KeepVID](http://keepvid.com/)
+* Online Video Downloader: [KeepVID](http://keepvid.com/) (Support almost all online video website and Java is needed for faster fetching the download links)
