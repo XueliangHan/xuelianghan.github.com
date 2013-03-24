@@ -14,7 +14,9 @@ Craftsman's tools
 
 ###Debug
 ####GDB (The GNU Project Debugger)
-* [Andrew Gilpin](http://www.cs.cmu.edu/~gilpin/), [GDB Tutorial](http://www.cs.cmu.edu/~gilpin/tutorial/)
+* [GDB - GNU Project](http://www.gnu.org/software/gdb/)
+* [GDB Tutorial](http://www.cs.cmu.edu/~gilpin/tutorial/) from CMU and maintained by [Andrew Gilpin](http://www.cs.cmu.edu/~gilpin/)
+
 
 
 ###Editor
