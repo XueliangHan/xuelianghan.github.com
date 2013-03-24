@@ -6,5 +6,7 @@
 * Open Source Licenses:
 * [Free Software Foundation](http://www.fsf.org/)
 ###Science: Universe(Astronmy), Brain(Neurology) 
-###Technology(GINR): Gene-Technology, Nano-Technology, Robotic-Technology, Information 
+###Technology(GINR): Artificial Intelligence, Gene-Technology, Nano-Technology, Robotic-Technology, Information 
+* Computer Science Field Research: Mobile Computing, Wearable Computing, 
+* Nano Science Field Research: Nano suit
 

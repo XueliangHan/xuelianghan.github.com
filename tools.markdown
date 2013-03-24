@@ -6,9 +6,7 @@ Craftsman's tools
 * Unix/Linux Development Tools Kit: Compiler(GCC), Editor(Vi/Vim, Emacs), Version-control(Git), Linux-distro (Arch, Fedora, Ubuntu)
 %Under-explore: Auto(GNU Make), Debug(GDB, DDD), Database(SQLite, MySQL), GNU Tool Chain, Server(Apache), Trace(Strace,Ltrace,Truss)  
 %Enhance: Become Editor(Vim) master is good, you are 23 now, it's a worthy investment.  
-
 * Windows Development Tools Kit: Database(SQLite expert), Editor(Notepad++), IDE(Visual C++ 6.0, Visual Studio), MSDN, Version-control(SVN)  
-
 * Cross Platform: Continuous Integration Environment - Jenkins(Hudson)}, IDE(Eclipse), Mind-map(FreeMind, FreePlane, Personal-brain), Text-processing(HTML, Markdown, TeXmaker)  
 
 
@@ -37,4 +35,8 @@ Craftsman's tools
 ###Cofiguration text
 ####Java path in Windows
 This is a very geeky Windows XP machine I encountered before. 
-* c:\oracle\product\10.1.0\Db_1\bin;c:\oracle\product\10.1.0\Db_1\jre\1.4.2\bin\client;c:\oracle\product\10.1.0\Db_1\jre\1.7.0\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\MSDEV\BIN;C:\Program Files\Rational\common;c:\matlab6p1\bin\win32
+* c:\oracle\product\10.1.0\Db\_1\bin;c:\oracle\product\10.1.0\Db\_1\jre\1.4.2\bin\client;c:\oracle\product\10.1.0\Db\_1\jre\1.7.0\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\MSDEV\BIN;C:\Program Files\Rational\common;c:\matlab6p1\bin\win32 
+
+####Temporary online tools
+* Online Notepad: [notepad.cc](http://notepad.cc/)
+* Image Upload: [imgur](http://imgur.com/)
