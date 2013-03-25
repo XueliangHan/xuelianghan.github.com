@@ -10,13 +10,18 @@ Famous Quotes from Alan Kay (The brillant deep thoughts)
 * The best way to predict the future is to invent it.
 * The basic principle of recursive design is to make the parts have the same power as the whole.
 * When Newton said he saw further by standing on the shoulders of the giants, computer scientists all to often stand on each other's toes.
+* More to see at reference: Alan Kay - Wikiquote.
 
-About Object Oriented
----------------------
+
+
+Waiting list
+-------------
+###Alan Kay and Steve Jobs
+###Object Oriented
 * Actually I made up the term "object-oriented", and I can tell you I did not have C++ in mind.
 
-Alan Kay and Steve Jobs
------------------------
+###Sofrware Engineering
+* [The Computer Revolution Hasn’t Happened Yet (pdf)](http://www.viewpointsresearch.org/pdf/m2007007a\_revolution.pdf)
 
 
 Reference and Recommemded Readings
