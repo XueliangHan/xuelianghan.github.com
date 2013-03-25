@@ -1,5 +1,5 @@
-Craftsman's tools
-=================
+Craftsman's tools in Computer World
+===================================
 
 
 ###Operating System Related
@@ -10,11 +10,14 @@ Craftsman's tools
 * Cross Platform: Continuous Integration Environment - Jenkins(Hudson)}, IDE(Eclipse), Mind-map(FreeMind, FreePlane, Personal-brain), Text-processing(HTML, Markdown, TeXmaker)  
 
 
-###Debug
+###Debugging
 ####GDB (The GNU Project Debugger)
 * [GDB - GNU Project](http://www.gnu.org/software/gdb/)
 * [GDB Tutorial](http://www.cs.cmu.edu/~gilpin/tutorial/) from CMU and maintained by [Andrew Gilpin](http://www.cs.cmu.edu/~gilpin/)
 
+####Memory Leaks Detechtion
+* [Memory Leaks - Wikipedia](http://en.wikipedia.org/wiki/Memory_leak)
+* IBM Rational Purify, BoundsChecker, Valgrind, Insure++, Dr. Memory and memwatch
 
 
 ###Editor
