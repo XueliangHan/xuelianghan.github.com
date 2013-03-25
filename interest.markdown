@@ -19,6 +19,8 @@
 ###Technology(GINR)
 * Domain & Field: AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
 * Nano Technology: Nano suit
+* Robotic Technology: 
+  * [TED: Vijay Kumar: Robots that fly ... and cooperate](http://www.ted.com/talks/lang/en/vijay_kumar_robots_that_fly_and_cooperate.html) by Prof. [Vijay Kumar](http://www.seas.upenn.edu/~kumar)
 * Technology Related:
   * [Solve For <X>](https://www.solveforx.com/): A forum to encourage and amplify technology-based moonshot thinking and collaboration.
 
