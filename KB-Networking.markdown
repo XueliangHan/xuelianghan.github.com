@@ -28,9 +28,9 @@ Interview Questions
 
 
 
-Theory
-------
-Pmax = B * log2(1+S/N) (Note: RATEmax = Bandwith * log2(1+Signal/Noise)  
-Shomon, bps, db  
-LINKmaxC = B * Log2(1+S/N)  
+Theory of Transmission
+----------------------
+* Pmax = B * log2(1+S/N) (Note: RATEmax = Bandwith * log2(1+Signal/Noise)  
+* Shomon, bps, db  
+* LINKmaxC = B * Log2(1+S/N)  
 
