@@ -33,6 +33,15 @@ It can mean news, articles, blog posts, that's the narrow information part, it c
 * Write Code for Robots
   * [Arduino](http://www.arduino.cc/): For anyone interested in creating interactive objects or environments.
   * [Lego Mindstorms](http://mindstorms.lego.com/): Create small, customizable and programmable robots.
+* W3School
+  * [HTML](http://www.w3schools.com/html/index.asp)
+  * [HTML-Tags](http://www.w3schools.com/tags/default.asp): Core of HTML.
+  * [CSS](http://www.w3schools.com/css/index.asp)
+  * [JavaScript](http://www.w3schools.com/js/index.asp)
+  * [JQuery](http://www.w3schools.com/jquery/index.asp)
+  * [SQL](http://www.w3schools.com/sql/index.asp)
+  * [W3School Sitemap](http://www.w3schools.com/sitemap/default.asp): HTML, CSS, JS, XML Tutorials, Reference, Examples.
+
 
 
 ####Wikipedia and it's sister projects
