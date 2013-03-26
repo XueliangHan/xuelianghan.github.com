@@ -11,6 +11,8 @@ Education & Learning
 ###Coding/Programming (Online education)
 * [Code.org](http://code.org) founded by [Hadi Partovi](http://crunchbase.com/person/hadi-partovi) and [Ali Partovi](http://crunchbase.com/person/ali-partovi)
 * [CodeDojo](http://www.codedojo.com)
+###What the education system is 
+* Blog post [On Education](http://alexmaccaw.com/posts/on_education) by [Alex Maccaw](http://alexmaccaw.com)
 
 Engineering: Open Source, Programming, Software, Web, Mobile. Health & Mechine
 ---------------------------------------------------------------------------------
@@ -36,3 +38,7 @@ Technology(GINR)
 * Technology Related:
   * [Solve For <X>](https://www.solveforx.com/): A forum to encourage and amplify technology-based moonshot thinking and collaboration.
 
+Others I keep an eye on them sometime
+-------------------------------------
+##Economics
+* (Chinese)谢国忠的[搜狐博客](http://xieguozhong.blog.sohu.com/entry)，只说出心中真相，阮一峰推荐的一个经济学领域的
