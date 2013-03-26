@@ -1,11 +1,19 @@
+Interest
+========
 
-##Interest
-
-###Art & Literature: Film, Music, Painting, Photography, Reading 
+Art & Literature: Film, Music, Painting, Photography, Reading
+----------------------------------------------------------------
 ####Film\_Documentary
-* Life in A Day (2010): Extremely recommended, the best film and documentary I've ever seen in my life.
+* Life in A Day (2010): (Love, Fear). Extremely recommended, the best film and documentary I've ever seen in my life.
 
-###Engineering: Open Source, Programming, Software, Web, Mobile. Health & Mechine
+Education & Learning
+--------------------
+###Coding/Programming (Online education)
+* [Code.org](http://code.org) founded by [Hadi Partovi](http://crunchbase.com/person/hadi-partovi) and [Ali Partovi](http://crunchbase.com/person/ali-partovi)
+* [CodeDojo](http://www.codedojo.com)
+
+Engineering: Open Source, Programming, Software, Web, Mobile. Health & Mechine
+---------------------------------------------------------------------------------
 ####Open Source
 * Open Source Licenses:
 * [Free Software Foundation](http://www.fsf.org/)
@@ -13,12 +21,14 @@
 ###Research Field
 * __Computer Science Field Research__: Mobile Computing, Wearable Computing
 
-###Science: Universe(Astronmy), Brain(Neurology) 
+Science: Universe(Astronmy), Brain(Neurology) 
+----------------------------------------------
 * __Astronmy__
 * __Neurology Research__
   * [Neuron (Yale) - for empirically-based simulations of neurons and networks of neurons](http://www.neuron.yale.edu/neuron/)
 
-###Technology(GINR)
+Technology(GINR)
+----------------
 * Domain & Field: AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
 * Nano Technology: Nano suit
 * Robotic Technology: 
