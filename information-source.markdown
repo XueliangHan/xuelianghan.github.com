@@ -15,7 +15,7 @@ It can mean news, articles, blog posts, that's the narrow information part, it c
 
 ####Wikipedia and it's sister projects
 * Book-[Wikibooks](https://en.wikibooks.org/): Free textbooks and manuals
-* Data&Knowledge-[Wikidata](https://en.wikidata.org/): Free knowledge base
+* Data-[Wikidata](https://en.wikidata.org/): Free knowledge base
 * News-[Wikinews](https://en.wikinews.org/): Free-content news
 * Quote-[Wikiquote](https://en.wikiquote.org/): Collection of quotations
 * Source-[Wikisource](https://en.wikisource.org/): Free-content library
