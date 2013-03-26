@@ -4,8 +4,8 @@ Craftsman's tools in Computer World
 
 ###Operating System Related
 * Unix/Linux Development Tools Kit: Compiler(GCC), Editor(Vi/Vim, Emacs), Version-control(Git), Linux-distro (Arch, Fedora, Ubuntu)
-%Under-explore: Auto(GNU Make), Debug(GDB, DDD), Database(SQLite, MySQL), GNU Tool Chain, Server(Apache), Trace(Strace,Ltrace,Truss)  
-%Enhance: Become Editor(Vim) master is good, you are 23 now, it's a worthy investment.  
+  * Under: Auto(GNU Make), Debug(GDB, DDD), Database(SQLite, MySQL), GNU Tool Chain, Server(Apache), Trace(Strace,Ltrace,Truss)  
+  * Enhance: Become Editor(Vim) master is good, you are 23 now, it's a worthy investment.  
 * Windows Development Tools Kit: Database(SQLite expert), Editor(Notepad++), IDE(Visual C++ 6.0, Visual Studio), MSDN, Version-control(SVN)  
 * Cross Platform: Continuous Integration Environment - Jenkins(Hudson)}, IDE(Eclipse), Mind-map(FreeMind, FreePlane, Personal-brain), Text-processing(HTML, Markdown, TeXmaker)  
 
@@ -27,8 +27,17 @@ Craftsman's tools in Computer World
 ###Text Processing & Type Settting
 ####Markdown
 * Using LaTeX to do text processing and type setting is extremely slow, and painful if you are not a LaTeX professional, the solution is to use Mardown do the rapidly protoltype and fast iteration, then use LaTeX to optimize the "User Experience".
-* [Online Markdown Editor](http://mahua.jser.me/)
+* [Markdown by John Gruber](http://daringfireball.net/projects/markdown)
 * [Markdown+Pandoc：轻量级科学论文写作方案](http://www.douban.com/note/245109923/)
+* Tools for Markdown
+* Online
+  * [Dillinger](http://dillinger.io)
+  * [MaHua](http://mahua.jser.me/)
+* Mac OS X: [Mou](http://mouapp.com/)
+* Linux:
+  * (Chinese)[Emacs Markdown](http://linuxtoy.org/archives/emacs-markdown-model.html)
+  * [ReText](sourceforge.net/p/retext/home/ReText/)
+* Windows: [MarkdownPad](http://markdownpad.com/)
 
 ####Temporary online tools
 * Online Notepad: [notepad.cc](http://notepad.cc/)
