@@ -1,6 +1,5 @@
 
-
-Others I keep an eye on them sometime
+My Information Source
 -------------------------------------
 ##Economics
 * (Chinese)郎咸平的[新浪博客](http://blog.sina.com.cn/jsmedia)
