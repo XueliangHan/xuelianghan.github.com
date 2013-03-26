@@ -10,8 +10,30 @@ It can mean news, articles, blog posts, that's the narrow information part, it c
 * (Chinese)谢国忠(Andy Xie)的[搜狐博客](http://xieguozhong.blog.sohu.com/)：只说出心中真相，阮一峰推荐的一个经济学领域的
 
 ###Education - Learning
-####Learning Resource - Open Course
-* [Coursera.org](https://www.coursera.org)
+####Learning Resource - Massive Open Online Academic Education programs
+* University Courses Online
+  * [Coursera.org](https://www.coursera.org/): Take the world's best courses, Online, for Free.
+  * [edX.org](https://www.edx.org/): The Future of Online Education for anyone, anywhere, anytime.  
+  * [Udacity.org](https://www.udacity.org/): {Learn. Think. Do} Invent your future through free interactive college classes.
+* [OCW - MIT:OpenCourseWare](http://ocw.mit.edu/index.htm): MIT have the best classification system which will give you a clean & good cognition.
+  * [Find by topic](http://ocw.mit.edu/courses/find-by-topic/)
+* [Khan Academy](http://www.khanacademy.org/): Mission to accelerate learning for students of all ages and providing a high quality education for anyone, anywhere.
+* [Education on Open Directory Project - Reference](http://www.dmoz.org/Reference/)
+
+####Learning Resource - Specific focus on Computer Science field or related
+* Learn how to code online
+  * [Code.org](http://www.code.org/)
+  * [CodeSchool](http://www.codeschool.com): HTML/CSS, JavaScript, Ruby, iOS, and Electives(R, Git, DevTools, Unix Basics)
+  * [TeachingTree(Computer Science)](http://www.teachingtree.co/): For students to quickly access the exact clips they need in order to learn individual concepts
+* Learn to Make Webpages
+  * [Mozilla's Thimble](https://webmaker.org/en-US/tools/#thimble): Use this app to easily create and share your own web pages.
+* Make Your Own Mobile Apps
+  * [AppInventor](http://www.appinventor.org/): Learn to build apps for Android phones and tablets within hours.
+  * [Codea (iPad)](http://twolivesleft.com/Codea/): Create games and simulations — or just about any visual idea you have.
+* Write Code for Robots
+  * [Arduino](http://www.arduino.cc/): For anyone interested in creating interactive objects or environments.
+  * [Lego Mindstorms](http://mindstorms.lego.com/): Create small, customizable and programmable robots.
+
 
 ####Wikipedia and it's sister projects
 * Book-[Wikibooks](https://en.wikibooks.org/): Free textbooks and manuals
