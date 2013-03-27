@@ -60,13 +60,6 @@ Education & Learning
 * [MediaWiki](https://mediawiki.org/): Free software development
 * [Meta-Wiki](https://meta.wikimedia.org/): Wikimedia project coordination
 
-Engineering: Mobile, Web, Software.
----------------------------------------------------------------------------------
-###Mobile Computing/Wearable Computing (Phone, Glass, Watch)
-Android
-* [Google Android Developer Guide](http://developer.android.com/guide/index.html)
-* [Wiki_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
-
 
 ##Open Movement
 [Open Movement - Wikipedia Category](https://en.wikipedia.org/wiki/Category:Open_methodologies)
@@ -74,28 +67,34 @@ Android
 * Open Source Licenses:
 * [Free Software Foundation](http://www.fsf.org/)
 
-###Research Field
-* __Computer Science Field Research__: Mobile Computing, Wearable Computing
 
-Life & Universe
+Engineering: Mobile, Web, Software.
+---------------------------------------------------------------------------------
+###Mobile Computing/Wearable Computing (Phone, Glass, Watch)
+Android
+* [Google Android Developer Guide](http://developer.android.com/guide/index.html)
+* [Wiki_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
+
+Science: 
 ----------------------------------------------
 ####Intelligence, Life, Human Brain
 * Key words: Cognition/Perception, Neuroscience & Reverse-Engineering, Artificial Intelligence.
 * __Neurology Research__
   * [Neuron (Yale) - for empirically-based simulations of neurons and networks of neurons](http://www.neuron.yale.edu/neuron/)
-* Universe(__Astronmy__, Physic)
-
+####Universe(Astronmy, Physic)
+* __Computer Science Field Research__: Mobile Computing, Wearable Computing
 
 Technology(GINR)
 ----------------
-将科学研究的发现、理论通过工程设计和实现，应用到实践中，建造出工具
 * Domain & Field: AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
-* Nano Technology: Nano suit
-* GT (Gene-Technology)
-* Robotic Technology: 
+* IT (Information Technology):
+* RT (Robotic Technology): 
   * [TED: Vijay Kumar: Robots that fly ... and cooperate](http://www.ted.com/talks/lang/en/vijay_kumar_robots_that_fly_and_cooperate.html) by Prof. [Vijay Kumar](http://www.seas.upenn.edu/~kumar)
 * Technology Related:
   * [Solve For <X>](https://www.solveforx.com/): A forum to encourage and amplify technology-based moonshot thinking and collaboration.
+
+
+
 
 Others I keep an eye on them sometime
 -------------------------------------
