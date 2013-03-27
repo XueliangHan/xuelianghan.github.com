@@ -26,18 +26,14 @@ Craftsman's tools in Computer World
 
 ###Text Processing & Type Settting
 ####Markdown
-* Using LaTeX to do text processing and type setting is extremely slow, and painful if you are not a LaTeX professional, the solution is to use Mardown do the rapidly protoltype and fast iteration, then use LaTeX to optimize the "User Experience".
+Using LaTeX to do text processing and type setting is extremely slow, and painful if you are not a LaTeX professional, the solution is to use Mardown do the rapidly protoltype and fast iteration, then use LaTeX to optimize the "User Experience".
 * [Markdown by John Gruber](http://daringfireball.net/projects/markdown)
-* [Markdown+Pandoc：轻量级科学论文写作方案](http://www.douban.com/note/245109923/)
+* (Chinese)[Markdown+Pandoc：轻量级科学论文写作方案](http://www.douban.com/note/245109923/)
 * Tools for Markdown
-* Online
-  * [Dillinger](http://dillinger.io)
-  * [MaHua](http://mahua.jser.me/)
-* Mac OS X: [Mou](http://mouapp.com/)
-* Linux:
-  * (Chinese)[Emacs Markdown](http://linuxtoy.org/archives/emacs-markdown-model.html)
-  * [ReText](sourceforge.net/p/retext/home/ReText/)
-* Windows: [MarkdownPad](http://markdownpad.com/)
+  * Online: [Dillinger](http://dillinger.io), [MaHua](http://mahua.jser.me/)
+  * Mac OS X: [Mou](http://mouapp.com/)
+  * Linux: (Chinese)[Emacs Markdown](http://linuxtoy.org/archives/emacs-markdown-model.html), [ReText](sourceforge.net/p/retext/home/ReText/)
+  * Windows: [MarkdownPad](http://markdownpad.com/)
 
 ####Temporary online tools
 * Online Notepad: [notepad.cc](http://notepad.cc/)
