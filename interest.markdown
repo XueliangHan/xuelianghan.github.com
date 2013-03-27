@@ -43,6 +43,7 @@ Education & Learning
   * [JavaScript](http://www.w3schools.com/js/index.asp)
   * [JQuery](http://www.w3schools.com/jquery/index.asp)
   * [SQL](http://www.w3schools.com/sql/index.asp)
+  * [MySQL](http://dev.mysql.com/doc/index-topic.html)
   * [W3School Sitemap](http://www.w3schools.com/sitemap/default.asp): HTML, CSS, JS, XML Tutorials, Reference, Examples.
 
 ####Wikipedia and it's sister projects
@@ -62,6 +63,9 @@ Education & Learning
 Engineering: Mobile, Web, Software.
 ---------------------------------------------------------------------------------
 ###Mobile Computing/Wearable Computing (Phone, Glass, Watch)
+Android
+* [Google Android Developer Guide](http://developer.android.com/guide/index.html)
+* [Wiki_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
 
 
 ##Open Movement
