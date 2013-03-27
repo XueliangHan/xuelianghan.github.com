@@ -87,6 +87,8 @@ Science:
 Technology(GINR)
 ----------------
 * Domain & Field: AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
+* AI (Artificial Intelligence)
+  * (Chinese&English)[Psychology and Philosophy about Artificial Intelligence](http://newmind40.com/gb.html)
 * IT (Information Technology):
 * RT (Robotic Technology): 
   * [TED: Vijay Kumar: Robots that fly ... and cooperate](http://www.ted.com/talks/lang/en/vijay_kumar_robots_that_fly_and_cooperate.html) by Prof. [Vijay Kumar](http://www.seas.upenn.edu/~kumar)
