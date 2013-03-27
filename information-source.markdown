@@ -7,6 +7,8 @@ It can mean news, articles, blog posts, that's the narrow information part, it c
 ###Education - Study Abroad
 * (Chinese)Warald小宁的[博客](http://www.1point3acres.com/)
 * (Chinese)一亩三分田[论坛](http://www.1point3acres.com/bbs/)
+  * (Chinese)[论坛资源超级入口](http://www.1point3acres.com/bbs/thread-138-1-1.html)
+* (Chinese)[张驰原](http://blog.pluskid.org/?page_id=82)的[旧博客](http://blog.pluskid.org/?cat=3)
 
 ###Economics
 * (Chinese)郎咸平的[新浪博客](http://blog.sina.com.cn/jsmedia)

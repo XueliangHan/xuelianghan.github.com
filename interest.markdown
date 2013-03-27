@@ -1,5 +1,5 @@
-Interest
-========
+My Interests, Masters & Their works
+===================================
 
 Art & Literature: Film, Music, Painting, Photography, Reading
 ----------------------------------------------------------------
@@ -77,16 +77,21 @@ Android
 ###Research Field
 * __Computer Science Field Research__: Mobile Computing, Wearable Computing
 
-Science: Universe(Astronmy), Brain(Neurology) 
+Life & Universe
 ----------------------------------------------
-* __Astronmy__
+####Intelligence, Life, Human Brain
+* Key words: Cognition/Perception, Neuroscience & Reverse-Engineering, Artificial Intelligence.
 * __Neurology Research__
   * [Neuron (Yale) - for empirically-based simulations of neurons and networks of neurons](http://www.neuron.yale.edu/neuron/)
+* Universe(__Astronmy__, Physic)
+
 
 Technology(GINR)
 ----------------
+将科学研究的发现、理论通过工程设计和实现，应用到实践中，建造出工具
 * Domain & Field: AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
 * Nano Technology: Nano suit
+* GT (Gene-Technology)
 * Robotic Technology: 
   * [TED: Vijay Kumar: Robots that fly ... and cooperate](http://www.ted.com/talks/lang/en/vijay_kumar_robots_that_fly_and_cooperate.html) by Prof. [Vijay Kumar](http://www.seas.upenn.edu/~kumar)
 * Technology Related:
