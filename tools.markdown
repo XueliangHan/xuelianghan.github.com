@@ -19,16 +19,26 @@ Unix/Linux Environment Development Tools Kit
 ####GDB (The GNU Project Debugger)
 * [GDB - GNU Project](http://www.gnu.org/software/gdb/)
 * [GDB Tutorial](http://www.cs.cmu.edu/~gilpin/tutorial/) from CMU and maintained by [Andrew Gilpin](http://www.cs.cmu.edu/~gilpin/)
+
 ####Memory Leaks Detechtion
 * [Memory Leaks - Wikipedia](http://en.wikipedia.org/wiki/Memory_leak)
 * IBM Rational Purify, BoundsChecker, Valgrind, Insure++, Dr. Memory and memwatch
 
-
 ###Editor
 ####Vi/Vim
 * [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
+
 ####Emacs
 
+Mobile Development Tools Kit
+----------------------------
+###Android (Google)
+Build Android Development Environment under Linux Operating System (Ubuntu)
+* A How-To guide - (Blog Post)[Android Development Environment Setup (on ubuntu lucid lynx)](http://od-eon.com/blogs/alumni/horia/android-development-environment-setup-ubuntu-lucid/)
+Compiling Android Source Code   
+  * [Initializing a Build Environment](http://source.android.com/source/initializing.html)
+Work Related Tools Kit
+----------------------
 ###Text Processing & Type Settting
 ####LaTeX
 ####Markdown

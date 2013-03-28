@@ -1,12 +1,17 @@
 My Interests, Masters & Their works
 ===================================
 
-Art & Literature: Film, Music, Painting, Photography, Reading
+I.Art & Literature: Film, Music, Painting, Photography, Reading
 ----------------------------------------------------------------
 * Life in A Day (2010): (Love, Fear). Extremely recommended, the best film and documentary I've ever seen in my life.
 * [Noam Chomsky](http://en.wikipedia.org/wiki/Noam_Chomsky)
+###Language & Culture (English)
+Vocabulary & Grammar [Foundation]
+* Dictionary: Dictionary always been ignored by people, but ultimately, the people who realized their cognition to a word was wrong will figure out a fact that dictionary is the original source. Choose a damn good dictionary from beginning, don't becom a tragedy.
+  * (Chinese)
 
-Education & Learning
+
+II.Education & Learning
 --------------------
 ###Coding/Programming (Online education)
 
@@ -70,14 +75,14 @@ Education & Learning
 * [Free Software Foundation](http://www.fsf.org/)
 
 
-Engineering: Mobile, Web, Software.
+III.Engineering: Mobile, Web, Software.
 ---------------------------------------------------------------------------------
 ###Mobile Computing/Wearable Computing (Phone, Glass, Watch)
 Android
 * [Google Android Developer Guide](http://developer.android.com/guide/index.html)
 * [Wiki\_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
 
-Science: 
+IV.Science: 
 ----------------------------------------------
 ####Intelligence, Life, Human Brain
 * Key words: Cognition/Perception, Neuroscience & Reverse-Engineering, Artificial Intelligence.
@@ -86,7 +91,7 @@ Science:
 ####Universe(Astronmy, Physic)
 * __Computer Science Field Research__: Mobile Computing, Wearable Computing
 
-Technology(GINR)
+V.Technology(GINR)
 ----------------
 * Domain & Field: AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
 * AI (Artificial Intelligence)
