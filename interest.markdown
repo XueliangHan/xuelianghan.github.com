@@ -1,19 +1,10 @@
 My Interests, Masters & Their works
 ===================================
-
-I.Art & Literature: Film, Music, Painting, Photography, Reading
-----------------------------------------------------------------
-* Life in A Day (2010): (Love, Fear). Extremely recommended, the best film and documentary I've ever seen in my life.
-* [Noam Chomsky](http://en.wikipedia.org/wiki/Noam_Chomsky)
-###Language & Culture (English)
-Vocabulary & Grammar [Foundation]
-* Dictionary: Dictionary always been ignored by people, but ultimately, the people who realized their cognition to a word was wrong will figure out a fact that dictionary is the original source which gave them a bad/wrong perception. Choose a damn good dictionary from beginning, don't give even a chance to becom a tragedy.   
-  * (Chinese)[想学好英语？必先学会使用词典！](http://page.renren.com/601010496/note/899133279)
-* Dictionary: Tools, Information Media 
-  * [Merriam-Webster Online Dict](http://www.merriam-webster.com/)
+* (Definition of interest by Merriam-Webster: A feeling that accompanies or causes special attention to an object or class of objects)  
+* My interest: `Engineering`, `Open Source`, `Programming`, `Science`, `Technology`
 
 
-II.Education & Learning
+Education & Learning
 --------------------
 ###Coding/Programming (Online education)
 
@@ -77,14 +68,14 @@ II.Education & Learning
 * [Free Software Foundation](http://www.fsf.org/)
 
 
-III.Engineering: Mobile, Web, Software.
+Engineering: Mobile, Web, Software.
 ---------------------------------------------------------------------------------
 ###Mobile Computing/Wearable Computing (Phone, Glass, Watch)
 Android
 * [Google Android Developer Guide](http://developer.android.com/guide/index.html)
 * [Wiki\_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
 
-IV.Science: 
+Science: 
 ----------------------------------------------
 ####Intelligence, Life, Human Brain
 * Key words: Cognition/Perception, Neuroscience & Reverse-Engineering, Artificial Intelligence.
@@ -93,7 +84,7 @@ IV.Science:
 ####Universe(Astronmy, Physic)
 * __Computer Science Field Research__: Mobile Computing, Wearable Computing
 
-V.Technology(GINR)
+Technology(GINR)
 ----------------
 * Domain & Field: AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
 * AI (Artificial Intelligence)
