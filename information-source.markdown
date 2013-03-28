@@ -15,6 +15,12 @@ My Information Source
 * (Chinese)郎咸平的[新浪博客](http://blog.sina.com.cn/jsmedia)
 * (Chinese)谢国忠(Andy Xie)的[搜狐博客](http://xieguozhong.blog.sohu.com/)：只说出心中真相，阮一峰推荐的一个经济学领域的
 
+###Friends/Fellow/Co-workers
+* [王斌 (Bin Wang)](http://www.crazyhotice.com): Blog on Github, good.
+* [邹宇 (Yu Zou)](http://www.0x90b9.com)
+* [贺宇 (Yu He)](http://www..com)
+
+
 ###News
 ####General News (Gathered all portals)
 * [The Atlantic](http://www.theatlantic.com)
@@ -41,7 +47,7 @@ My Information Source
 * (Advanced)[DARPA](http://www.darpa.mil): Defense Advanced Research Projects Agence). [RSS](http://darpa.mil/Rss.aspx?Colid=24)
 * (Ideas/Thought)[TED](http://www.ted.com)
 * (Review)[TopTenReview](http://www.toptenreview.com):We do the research, so you don't have to. {Software/Electronics/Web Services/Mobile/Appliance/Auto Tech/Science Tech/Small Business/ Careers/ENtertainment/Video.  
-* (Chinese)[YeeYan译言](http://www.yeeyan.com
+* (Chinese)[YeeYan译言](http://www.yeeyan.com): Mark and Translated High Quality English information source.
 
 
 ###Career\_Job/Recruitment Information
@@ -51,6 +57,7 @@ My Information Source
 * [分智网](http://www.fenzhi.com/job-mq.html)
 * [创新工场](http://www.chuangxin.com/portfolio/5110.html)
 * [百度](http://tongxue.baidu.com/baidu/job-list.htm?work_area=2&work_type=2)
+
 ####USA
 * [KPCB Search](http://kpcb.com/careers)
 
