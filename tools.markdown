@@ -1,20 +1,24 @@
 Craftsman's tools in Computer World
 ===================================
+This is a place where I learn how to use tools.  
 
-
-###Operating System Related
+Index
+------
+###A full development tools kit for a specific development need
 * Unix/Linux Development Tools Kit: Compiler(GCC), Editor(Vi/Vim, Emacs), Version-control(Git), Linux-distro (Arch, Fedora, Ubuntu)
   * Under: Auto(GNU Make), Debug(GDB, DDD), Database(SQLite, MySQL), GNU Tool Chain, Server(Apache), Trace(Strace,Ltrace,Truss)  
   * Enhance: Become Editor(Vim) master is good, you are 23 now, it's a worthy investment.  
 * Windows Development Tools Kit: Database(SQLite expert), Editor(Notepad++), IDE(Visual C++ 6.0, Visual Studio), MSDN, Version-control(SVN)  
 * Cross Platform: Continuous Integration Environment - Jenkins(Hudson)}, IDE(Eclipse), Mind-map(FreeMind, FreePlane, Personal-brain), Text-processing(HTML, Markdown, TeXmaker)  
+* Mobile Development - Android  
 
 
+Unix/Linux Environment Development Tools Kit
+--------------------------------------------
 ###Debugging
 ####GDB (The GNU Project Debugger)
 * [GDB - GNU Project](http://www.gnu.org/software/gdb/)
 * [GDB Tutorial](http://www.cs.cmu.edu/~gilpin/tutorial/) from CMU and maintained by [Andrew Gilpin](http://www.cs.cmu.edu/~gilpin/)
-
 ####Memory Leaks Detechtion
 * [Memory Leaks - Wikipedia](http://en.wikipedia.org/wiki/Memory_leak)
 * IBM Rational Purify, BoundsChecker, Valgrind, Insure++, Dr. Memory and memwatch
@@ -23,8 +27,10 @@ Craftsman's tools in Computer World
 ###Editor
 ####Vi/Vim
 * [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
+####Emacs
 
 ###Text Processing & Type Settting
+####LaTeX
 ####Markdown
 * Using LaTeX to do text processing and type setting is extremely slow, and painful if you are not a LaTeX professional, the solution is to use Mardown do the rapidly protoltype and fast iteration, then use LaTeX to optimize the "User Experience".
 * [Markdown by John Gruber](http://daringfireball.net/projects/markdown)
@@ -43,7 +49,7 @@ Craftsman's tools in Computer World
 
 Reference
 ----------------------
-[OverAPI](http://overapi.com): A website indexed all API from almost all languages and many techniques.
+
 
 ###Configuration files
 * filename: [vimrc](./files/vimrc), usage: rename vimrc to .vimrc, put it in your HOME directory.  

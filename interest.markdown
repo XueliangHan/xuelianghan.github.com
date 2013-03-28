@@ -3,8 +3,8 @@ My Interests, Masters & Their works
 
 Art & Literature: Film, Music, Painting, Photography, Reading
 ----------------------------------------------------------------
-####Film\_Documentary
 * Life in A Day (2010): (Love, Fear). Extremely recommended, the best film and documentary I've ever seen in my life.
+* [Noam Chomsky](http://en.wikipedia.org/wiki/Noam_Chomsky)
 
 Education & Learning
 --------------------
@@ -45,6 +45,8 @@ Education & Learning
   * [SQL](http://www.w3schools.com/sql/index.asp)
   * [MySQL](http://dev.mysql.com/doc/index-topic.html)
   * [W3School Sitemap](http://www.w3schools.com/sitemap/default.asp): HTML, CSS, JS, XML Tutorials, Reference, Examples.
+* Others
+  * [OverAPI](http://overapi.com): A website indexed all API from almost all languages and many techniques.
 
 ####Wikipedia and it's sister projects
 * Book-[Wikibooks](https://en.wikibooks.org/): Free textbooks and manuals
@@ -73,7 +75,7 @@ Engineering: Mobile, Web, Software.
 ###Mobile Computing/Wearable Computing (Phone, Glass, Watch)
 Android
 * [Google Android Developer Guide](http://developer.android.com/guide/index.html)
-* [Wiki_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
+* [Wiki\_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
 
 Science: 
 ----------------------------------------------
@@ -88,6 +90,9 @@ Technology(GINR)
 ----------------
 * Domain & Field: AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
 * AI (Artificial Intelligence)
+  * [Noam Chomsky on Where Artificial Intelligence Went Wrong](http://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/)
+  * Tomaso Poggio - Afterward in "Vision"-2010-2ed
+  * [Pluskid-ChiyuanZhan's summarize](http://freemind.pluskid.org/machine-learning/noam-chomsky-on-where-ai-went-wrong)
   * (Chinese&English)[Psychology and Philosophy about Artificial Intelligence](http://newmind40.com/gb.html)
 * IT (Information Technology):
 * RT (Robotic Technology): 
