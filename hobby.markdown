@@ -16,6 +16,9 @@ Art & Literature: Film, Music, Painting, Photography, Reading
   * [TESOPhotography Official Website](http://tesophotography.com)
   * [TSOPhotography-Facebook](http://www.facebook.com/TSOPhotography)
 
+###Reading
+* Series of good translated English book (filtering function, only very good book worth translate)
+  * [20世纪科普经典收藏](http://www.sciencep.com/s_congshu_more.php?type=&id=172&csid=172)
 
 
 Language & Culture (English)
@@ -39,6 +42,7 @@ Language & Culture (English)
   * (Chinese)[选校万能查 查你想查的学校对应的GMAT，GRE，托福分数要求，了解学校和了解就业率](http://page.renren.com/601374366/note/899171844): 很全，真实性有待查证。
 
 
-Travel
-======
+Travel - Different Area/Country/Nation/State with different Language/Culture
+============================================================================
 * (Chinese)[你一辈子可能看不到的美景、世界上最美的地方](http://www.360doc.com/content/12/0912/17/544508_235750036.shtml)
+* (Chinese)(VIDEO)[留美三人行-优库在线]
