@@ -91,16 +91,25 @@ Technology(GINR)
   * [Noam Chomsky on Where Artificial Intelligence Went Wrong](http://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/)
   * Tomaso Poggio - Afterward in "Vision"-2010-2ed
   * [Pluskid-ChiyuanZhan's summarize](http://freemind.pluskid.org/machine-learning/noam-chomsky-on-where-ai-went-wrong)
-  * (Chinese&English)[Psychology and Philosophy about Artificial Intelligence](http://newmind40.com/gb.html)
+  * (Chinese&English Articles)[Psychology and Philosophy about Artificial Intelligence](http://newmind40.com/gb.html)
 * IT (Information Technology):
 * RT (Robotic Technology): 
   * [TED: Vijay Kumar: Robots that fly ... and cooperate](http://www.ted.com/talks/lang/en/vijay_kumar_robots_that_fly_and_cooperate.html) by Prof. [Vijay Kumar](http://www.seas.upenn.edu/~kumar)
 * Technology Related:
   * [Solve For <X>](https://www.solveforx.com/): A forum to encourage and amplify technology-based moonshot thinking and collaboration.
+###Health & Mechine (Practical Study and Apply)
+* (Website)[Ray and Terry's Longevity Products](http://www.rayandterry.com/index.php)
+* (Open Course)[Food and Nutrition at Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=en&cats=food)
+* (Unread)(Information)[Ray Kurzweil Diet Supplements](http://best-herbs-for-health.com/ray-kurzweil-diet-supplements/)
+* (Unread)(Information)[Transcend by Ray Kurzweil and Terry Grossman](http://samsnyder.com/2011/05/17/transcend-by-ray-kurzweil-and-terry-grossman/)
+* (Unread)(BookInfo)[27 Must-Read Fitness, Health, and Happiness Books | Greatist](http://greatist.com/happiness/must-read-books-health-fitness/)
+* Key words: Diet Supplements,
+* Key person: Ray Kurzweil, Terry Grossman M.D
+  * (People)[Melissa McKnight | LinkedIn](http://www.linkedin.com/pub/melissa-mcknight/29/a67/777)
+  * (People)[Sam Snyder](http://samsnyder.com/about): Not a medical professional, improving the health of people around the world by using findings from science to create better software.
 
 
 
 
-Others I keep an eye on them sometime
--------------------------------------
-Health & Mechine
+
+###Others I keep an eye on them sometime
