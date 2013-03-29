@@ -5,12 +5,31 @@ This is a place where I learn how to use tools.
 Index
 ------
 ###A full development tools kit for a specific development need
-* Unix/Linux Development Tools Kit: Compiler(GCC), Editor(Vi/Vim, Emacs), Version-control(Git), Linux-distro (Arch, Fedora, Ubuntu)
-  * Under: Auto(GNU Make), Debug(GDB, DDD), Database(SQLite, MySQL), GNU Tool Chain, Server(Apache), Trace(Strace,Ltrace,Truss)  
+* Unix/Linux Environment Development Tools Kit:
+  * * Auto(GNU Make)
+  * Compiler(GCC)
+  * Editor(Vi/Vim, Emacs)
+  * * Database(SQLite, MySQL)
+  * * Debugger(GDB, DDD)
+  * Version-control(Git)
+  * Linux-distro (Arch, Fedora, Ubuntu)
+  * * GNU Tool Chain, Server(Apache)
+  * * Trace(Strace,Ltrace,Truss)  
   * Enhance: Become Editor(Vim) master is good, you are 23 now, it's a worthy investment.  
-* Windows Development Tools Kit: Database(SQLite expert), Editor(Notepad++), IDE(Visual C++ 6.0, Visual Studio), MSDN, Version-control(SVN)  
-* Cross Platform: Continuous Integration Environment - Jenkins(Hudson)}, IDE(Eclipse), Mind-map(FreeMind, FreePlane, Personal-brain), Text-processing(HTML, Markdown, TeXmaker)  
-* Mobile Development - Android  
+* Windows Environment Development Tools Kit:
+  * Database(SQLite expert)
+  * Editor(Notepad++)
+  * IDE(Visual C++ 6.0, Visual Studio)
+  * MSDN
+  * Version-control(SVN)  
+* Cross Platform Environment:
+  * Continuous Integration Environment - Jenkins(Hudson)}
+  * IDE(Eclipse)
+  * Mind-map(FreeMind, FreePlane, Personal-brain)
+  * Text-processing & Type setting(HTML, Markdown, TeXmaker)  
+* Mobile Environment Development Tools- Android
+* Web Environment Development Tools Kit
+  * Chrome
 
 
 Unix/Linux Environment Development Tools Kit
@@ -27,6 +46,9 @@ Unix/Linux Environment Development Tools Kit
 ###Editor
 ####Vi/Vim
 * [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
+* Copy & Paste cross files
+  * From: "\*yny
+  * To: "\*p
 
 ####Emacs
 

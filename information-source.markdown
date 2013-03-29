@@ -46,6 +46,8 @@ My General Information Source
 
 
 ###Career
+* Career Guide
+  * [Stanford Career Steps](http://studentaffairs.stanford.edu/cdc/career-steps)
 * Job Recruitment Information in China
   * [1ChinaJob Find Job](http://www.1chinajob.com/quick_search)
   * [JobsDigg.com - 自助招聘求职](https://jobsdigg.com/recruit/)
@@ -56,6 +58,10 @@ My General Information Source
   * [KPCB Search](http://kpcb.com/careers)
 
 ###Personal Life and Career Development
+Han's Note: These are the people who have a great (Self, Indepedent) Personal Develop POWER.<br>
+* [Scott H.Yound](http://www.scotthyoung.com): Known by self-learned 33 open courses of MIT in 1 year, publishing article on his website, mainly talking about "Get More from Life".
+* [Steve Pavlina](http://www.stevepavlina.com): Known by graduated from college in 18 month.
+* [What Extremely Successful People Were Doing At Age 25](http://www.businessinsider.com/what-successful-people-did-in-their-20s-2013-3)
 
 
 ###Personal Weblog on IndependentHost
