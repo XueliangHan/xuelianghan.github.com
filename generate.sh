@@ -10,4 +10,4 @@ perl md.pl jianli.markdown > jianli.html
 perl md.pl tools.markdown > tools.html
 perl md.pl Alan_Kay.markdown > Alan_Kay.html
 
-perl md.pl ./draft/What-is-Programming.markdown > ./draft/What-is-Programming.html
+perl md.pl ./draft/what-is-programming.markdown > ./draft/what-is-programming.html
