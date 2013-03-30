@@ -74,26 +74,10 @@ Education & Learning
 * [Free Software Foundation](http://www.fsf.org/)
 
 
-Engineering: Mobile, Web, Software.
----------------------------------------------------------------------------------
-###Mobile Computing/Wearable Computing (Phone, Glass, Watch)
-* [Google Android Developer Guide](http://developer.android.com/guide/index.html)
-* [Wiki\_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
-
-Science: 
-----------------------------------------------
-####Intelligence, Life, Human Brain
-* Key words: Cognition/Perception, Neuroscience & Reverse-Engineering, Artificial Intelligence.
-* __Neurology Research__
-  * [Neuron (Yale) - for empirically-based simulations of neurons and networks of neurons](http://www.neuron.yale.edu/neuron/)
-####Universe(Astronmy, Physic)
-* __Computer Science Field Research__: Mobile Computing, Wearable Computing
-####Master
-* Tesla
-
 Technology(GINR)
 ----------------
-* Domain & Field: AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
+###Domain & Field of Technology
+* AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
 * AI (Artificial Intelligence)
   * [Noam Chomsky on Where Artificial Intelligence Went Wrong](http://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/)
   * Tomaso Poggio - Afterward in "Vision"-2010-2ed
@@ -105,7 +89,7 @@ Technology(GINR)
 * Technology Related:
   * [Solve For <X>](https://www.solveforx.com/): A forum to encourage and amplify technology-based moonshot thinking and collaboration.
 
-###Health & Mechine (Practical Study and Apply)
+###Health & Mechine Technology - (Practical Study Science and Apply it to extend Life)
 * (Website)[Ray and Terry's Longevity Products](http://www.rayandterry.com/index.php)
 * (Open Course)[Food and Nutrition at Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=en&cats=food)
 * (Project)Ray Kurzweil's Health Enhance Project
@@ -116,3 +100,21 @@ Technology(GINR)
 * Key person: Ray Kurzweil, Terry Grossman M.D
   * (People)[Melissa McKnight | LinkedIn](http://www.linkedin.com/pub/melissa-mcknight/29/a67/777)
   * (People)[Sam Snyder](http://samsnyder.com/about): Not a medical professional, improving the health of people around the world by using findings from science to create better software.
+
+###Engineering: Mobile, Web, Software.
+####Mobile Computing/Wearable Computing (Phone, Glass, Watch)
+* [Google Android Developer Guide](http://developer.android.com/guide/index.html)
+* [Wiki\_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
+
+
+###Science 
+####Intelligence, Life, Human Brain
+* Key words: Cognition/Perception, Neuroscience & Reverse-Engineering, Artificial Intelligence.
+* __Neurology Research__
+  * [Neuron (Yale) - for empirically-based simulations of neurons and networks of neurons](http://www.neuron.yale.edu/neuron/)
+
+####Universe(Astronmy, Physic)
+* __Computer Science Field Research__: Mobile Computing, Wearable Computing
+
+####Master
+* Tesla
