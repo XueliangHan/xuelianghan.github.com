@@ -64,6 +64,33 @@ __Backup__: Meantime, due to the fact of data is both on local computer and remo
 
 
 ###Design - New website architecture
-|--index.html
+|-- .git
+|-- images
+|-- javascripts
+|-- statics
+|-- stylesheets
+|--site-file
+|---.gitignore
+|---CNAME
+|---index.html
+|--hobby.html
+|--interest.html
+|--information-source.html
+|--resume.pdf
+|---jianli.html
+|---jianli2.html
+|--project.html
+|--skills.html
+|--tools.html
+|--scripts
+|---generate.sh
+|----convert.sh
+|---up.sh
+|---sitemap.sh
 .
 .
+###Explantion
+* index.html: Navigation page.
+* image folder: Contain the image used in this site.
+* javascripts folder: Contain the javascript used in this site.
+* statics folder: The location of all generated static html page.
