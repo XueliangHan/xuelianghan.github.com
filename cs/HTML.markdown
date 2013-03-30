@@ -3,10 +3,12 @@ HTML(Hyper Text Markup Language)
 
 TAG
 ----
-##li: List
-##ul: Unordered List
-##ol: One Ordered List
-##Example:
+###List
+* li: List
+* ul: Unordered List
+* ol: One Ordered List
+* Example:
+```
     <ul>
         <li>Coffee</li>
         <li>Tea</li>
@@ -17,3 +19,4 @@ TAG
         <li>Tea</li>
         <li>Milk</li>
     </ol>
+```
