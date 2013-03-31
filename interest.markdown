@@ -101,6 +101,7 @@ Technology(GINR)
 
 
 
+
 ###Engineering: Mobile, Web, Software.
 ####Mobile Computing/Wearable Computing (Phone, Glass, Watch, Cloth)
 * Make Your Own Mobile Apps
@@ -111,18 +112,27 @@ Technology(GINR)
 
 
 
-####Web Development - Script Language
+####Web Development Technology
 * Learn to Make Webpages
   * [Mozilla's Thimble](https://webmaker.org/en-US/tools/#thimble): Use this app to easily create and share your own web pages.
 * HTML & HTML5
   * [HTML-W3School](http://www.w3schools.com/html/index.asp)
   * [HTML-Tags-W3School](http://www.w3schools.com/tags/default.asp): Core of HTML.
-* JavaScript
+  * [HTML - Wikipedia](http://en.wikipedia.org/wiki/HTML)
+* JavaScript: An interpreted computer programming language.
   * [JavaScript - Wikipedia](http://en.wikipedia.com/wiki/JavaScript)
   * [JavaScript-W3School](http://www.w3schools.com/js/index.asp)
   * [JQuery-W3School](http://www.w3schools.com/jquery/index.asp)
 * CSS & CSS3
   * [CSS-W3School](http://www.w3schools.com/css/index.asp)
+  * [Cascading Style Sheets - Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* Ajax
+  * [Ajax (programming) - Wikipedia](http://en.wikipedia.org/wiki/Ajax\_(programming))
+* DOM
+  * [DOM (Document Object Model](http://en.wikipedia.org/wiki/Document_Object_Model)
+* JSON
+  * [JSON (JavaScript Object Notation)](http://en.wikipedia.org/wiki/JSON)—lightweight text-based open standard designed for human-readable data interchange
+* XML
 * Perl
   * [Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)
 * Python
