@@ -4,8 +4,8 @@ My Interests, Masters & Their works
 * My interest: `Engineering`, `Open Source`, `Programming`, `Science`, `Technology`
 
 
-Education & Learning
---------------------
+Education(Online Education Revolution)
+--------------------------------------
 ####Opinions about moderm education system
 * Blog post [On Education](http://alexmaccaw.com/posts/on_education) by [Alex Maccaw](http://alexmaccaw.com)
 
@@ -14,7 +14,7 @@ Education & Learning
   * [Coursera.org](https://www.coursera.org/): Take the world's best courses, Online, for Free.
   * [edX.org](https://www.edx.org/): The Future of Online Education for anyone, anywhere, anytime.  
   * [Udacity.org](https://www.udacity.org/): {Learn. Think. Do} Invent your future through free interactive college classes.
-* [OCW - MIT:OpenCourseWare](http://ocw.mit.edu/index.htm): MIT have the best classification system which will give you a clean & good cognition.
+* [MIT-OCW:OpenCourseWare](http://ocw.mit.edu/index.htm): MIT have the best classification system which will give you a clean & good cognition.
   * [Find by topic](http://ocw.mit.edu/courses/find-by-topic/)
 * [Khan Academy](http://www.khanacademy.org/): Mission to accelerate learning for students of all ages and providing a high quality education for anyone, anywhere.
 * [Education on Open Directory Project - Reference](http://www.dmoz.org/Reference/)
@@ -25,32 +25,14 @@ Education & Learning
   * [CodeSchool](http://www.codeschool.com): HTML/CSS, JavaScript, Ruby, iOS, and Electives(R, Git, DevTools, Unix Basics)
   * [CodeDojo](http://www.codedojo.com)
   * [TeachingTree(Computer Science)](http://www.teachingtree.co/): For students to quickly access the exact clips they need in order to learn individual concepts
-* Learn to Make Webpages
-  * [Mozilla's Thimble](https://webmaker.org/en-US/tools/#thimble): Use this app to easily create and share your own web pages.
-* Make Your Own Mobile Apps
-  * [AppInventor](http://www.appinventor.org/): Learn to build apps for Android phones and tablets within hours.
-  * [Codea (iPad)](http://twolivesleft.com/Codea/): Create games and simulations — or just about any visual idea you have.
-* Write Code for Robots
-  * [Arduino](http://www.arduino.cc/): For anyone interested in creating interactive objects or environments.
-  * [Lego Mindstorms](http://mindstorms.lego.com/): Create small, customizable and programmable robots.
-* W3School
-  * [HTML](http://www.w3schools.com/html/index.asp)
-  * [HTML-Tags](http://www.w3schools.com/tags/default.asp): Core of HTML.
-  * [CSS](http://www.w3schools.com/css/index.asp)
-  * [JavaScript](http://www.w3schools.com/js/index.asp)
-  * [JQuery](http://www.w3schools.com/jquery/index.asp)
-  * [SQL](http://www.w3schools.com/sql/index.asp)
-  * [MySQL](http://dev.mysql.com/doc/index-topic.html)
-  * [W3School Sitemap](http://www.w3schools.com/sitemap/default.asp): HTML, CSS, JS, XML Tutorials, Reference, Examples.
 * Others
   * [OverAPI](http://overapi.com): A website indexed all API from almost all languages and many techniques.
 
-###Study Abroad
+####Study Abroad
 * (Chinese)Warald小宁的[博客](http://www.1point3acres.com/)
 * (Chinese)一亩三分田[论坛](http://www.1point3acres.com/bbs/)
   * (Chinese)[论坛资源超级入口](http://www.1point3acres.com/bbs/thread-138-1-1.html)
   * (Chinese)[张驰原](http://blog.pluskid.org/?page_id=82)的[旧博客](http://blog.pluskid.org/?cat=3)
-
 
 ####Wikipedia and it's sister projects
 * Book-[Wikibooks](https://en.wikibooks.org/): Free textbooks and manuals
@@ -67,11 +49,17 @@ Education & Learning
 * [Meta-Wiki](https://meta.wikimedia.org/): Wikimedia project coordination
 
 
+
+
+
 ##Open Movement
 [Open Movement - Wikipedia Category](https://en.wikipedia.org/wiki/Category:Open_methodologies)
 ####Open Source
 * Open Source Licenses:
 * [Free Software Foundation](http://www.fsf.org/)
+
+
+
 
 
 Technology(GINR)
@@ -84,12 +72,22 @@ Technology(GINR)
   * [Pluskid-ChiyuanZhan's summarize](http://freemind.pluskid.org/machine-learning/noam-chomsky-on-where-ai-went-wrong)
   * (Chinese&English Articles)[Psychology and Philosophy about Artificial Intelligence](http://newmind40.com/gb.html)
 * IT (Information Technology):
-* RT (Robotic Technology): 
-  * [TED: Vijay Kumar: Robots that fly ... and cooperate](http://www.ted.com/talks/lang/en/vijay_kumar_robots_that_fly_and_cooperate.html) by Prof. [Vijay Kumar](http://www.seas.upenn.edu/~kumar)
+
+
+
+###RT (Robotic Technology): 
+* Write Code for Robots
+  * [Arduino](http://www.arduino.cc/): For anyone interested in creating interactive objects or environments.
+  * [Lego Mindstorms](http://mindstorms.lego.com/): Create small, customizable and programmable robots.
+* [TED: Vijay Kumar: Robots that fly ... and cooperate](http://www.ted.com/talks/lang/en/vijay_kumar_robots_that_fly_and_cooperate.html) by Prof. [Vijay Kumar](http://www.seas.upenn.edu/~kumar)
+
 * Technology Related:
   * [Solve For <X>](https://www.solveforx.com/): A forum to encourage and amplify technology-based moonshot thinking and collaboration.
 
-###Health & Mechine Technology - (Practical Study Science and Apply it to extend Life)
+
+
+
+###Health & Mechine Technology - (Practical Study Science and Apply it to Extend Life)
 * (Website)[Ray and Terry's Longevity Products](http://www.rayandterry.com/index.php)
 * (Open Course)[Food and Nutrition at Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=en&cats=food)
 * (Project)Ray Kurzweil's Health Enhance Project
@@ -101,10 +99,41 @@ Technology(GINR)
   * (People)[Melissa McKnight | LinkedIn](http://www.linkedin.com/pub/melissa-mcknight/29/a67/777)
   * (People)[Sam Snyder](http://samsnyder.com/about): Not a medical professional, improving the health of people around the world by using findings from science to create better software.
 
+
+
 ###Engineering: Mobile, Web, Software.
-####Mobile Computing/Wearable Computing (Phone, Glass, Watch)
+####Mobile Computing/Wearable Computing (Phone, Glass, Watch, Cloth)
+* Make Your Own Mobile Apps
+  * [AppInventor](http://www.appinventor.org/): Learn to build apps for Android phones and tablets within hours.
+  * [Codea (iPad)](http://twolivesleft.com/Codea/): Create games and simulations — or just about any visual idea you have.
 * [Google Android Developer Guide](http://developer.android.com/guide/index.html)
 * [Wiki\_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
+
+
+
+####Web Development - Script Language
+* Learn to Make Webpages
+  * [Mozilla's Thimble](https://webmaker.org/en-US/tools/#thimble): Use this app to easily create and share your own web pages.
+* HTML & HTML5
+  * [HTML-W3School](http://www.w3schools.com/html/index.asp)
+  * [HTML-Tags-W3School](http://www.w3schools.com/tags/default.asp): Core of HTML.
+* JavaScript
+  * [JavaScript - Wikipedia](http://en.wikipedia.com/wiki/JavaScript)
+  * [JavaScript-W3School](http://www.w3schools.com/js/index.asp)
+  * [JQuery-W3School](http://www.w3schools.com/jquery/index.asp)
+* CSS & CSS3
+  * [CSS-W3School](http://www.w3schools.com/css/index.asp)
+* Perl
+  * [Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)
+* Python
+  * [Python Short Course - CalTech](http://www.wag.caltech.edu/home/rpm/python\_course)
+* W3School
+  * [SQL-W3School](http://www.w3schools.com/sql/index.asp)
+  * [MySQL-W3School](http://dev.mysql.com/doc/index-topic.html)
+  * [W3School Sitemap](http://www.w3schools.com/sitemap/default.asp): HTML, CSS, JS, XML Tutorials, Reference, Examples.
+
+
+
 
 
 ###Science 
@@ -114,7 +143,6 @@ Technology(GINR)
   * [Neuron (Yale) - for empirically-based simulations of neurons and networks of neurons](http://www.neuron.yale.edu/neuron/)
 
 ####Universe(Astronmy, Physic)
-* __Computer Science Field Research__: Mobile Computing, Wearable Computing
 
-####Master
+####Scientific Master
 * Tesla
