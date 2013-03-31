@@ -29,6 +29,7 @@ Index
   * Text-processing & Type setting(HTML, Markdown, TeXmaker)  
 * Mobile Environment Development Tools- Android
 * Web Environment Development Tools Kit
+  * [Google Web Toolkit(GWT)]
   * Chrome
 
 
@@ -55,8 +56,9 @@ Unix/Linux Environment Development Tools Kit
 Mobile Development Tools Kit
 ----------------------------
 ###Android (Google)
-Build Android Development Environment under Linux Operating System (Ubuntu)
-* A How-To guide - (Blog Post)[Android Development Environment Setup (on ubuntu lucid lynx)](http://od-eon.com/blogs/alumni/horia/android-development-environment-setup-ubuntu-lucid/)
+* Build Android Development Environment under Linux Operating System (Ubuntu)
+  * Quick and easy way: Download the ADT (Android Development Tools kit) from [android.com](http://developer.android.com/sdk/index.html), extract the zip package, and you can start developing android apps now.
+  * (Old way)A How-To guide(Blog Post)[Android Development Environment Setup (on ubuntu lucid lynx)](http://od-eon.com/blogs/alumni/horia/android-development-environment-setup-ubuntu-lucid/)
 Compiling Android Source Code   
   * [Initializing a Build Environment](http://source.android.com/source/initializing.html)
 Work Related Tools Kit
