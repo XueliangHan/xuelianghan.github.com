@@ -94,12 +94,34 @@
 <li>Build Android Development Environment under Linux Operating System (Ubuntu)
 <ul>
 <li>Quick and easy way: Download the ADT (Android Development Tools kit) from <a href="http://developer.android.com/sdk/index.html">android.com</a>, extract the zip package, and you can start developing android apps now.</li>
-<li>(Old way)A How-To guide(Blog Post)<a href="http://od-eon.com/blogs/alumni/horia/android-development-environment-setup-ubuntu-lucid/">Android Development Environment Setup (on ubuntu lucid lynx)</a>
-Compiling Android Source Code   </li>
-<li><a href="http://source.android.com/source/initializing.html">Initializing a Build Environment</a>
-<h2>Work Related Tools Kit</h2></li>
+<li>(Old way)A How-To guide(Blog Post)<a href="http://od-eon.com/blogs/alumni/horia/android-development-environment-setup-ubuntu-lucid/">Android Development Environment Setup (on ubuntu lucid lynx)</a></li>
+</ul></li>
+<li>Compiling Android Source Code <br />
+<ul>
+<li><a href="http://source.android.com/source/initializing.html">Initializing a Build Environment</a></li>
 </ul></li>
 </ul>
+
+<h4>Trouble shooting</h4>
+
+<ul>
+<li>Device &amp; USB: Add your device info into /etc/udev/rules.d/51-android.rules using root account
+<ul>
+<li><a href="http://developer.android.com/tools/device.html">Google Tools Device</a></li>
+<li>chmod a+r 51-android.rules</li>
+</ul></li>
+<li>Device: List of devices attached - ???????? no permission, ADB or Eclipse under Ubuntu Linux don't recognize Mobile phone you pluged in.
+<ul>
+<li>Problem: Device don't recognize solved at <a href="http://stackoverflow.com/questions/4260964/debugging-in-eclipse-with-real-android-phone-on-ubuntu-10-10">Stackoverflow - Debugging in Eclipse with real Android phone on Ubuntu 10.10</a></li>
+</ul></li>
+<li>Error: Failed to install *.apk on device *: timeout
+<ul>
+<li>On <a href="http://stackoverflow.com/questions/4775603/android-error-failed-to-install-apk-on-device-timeout">Stackoverflow</a></li>
+<li>Change timeout time from 5000ms to 10000ms through Window -> Preferences - > Android - > ADB Connection Time out (ms).</li>
+</ul></li>
+</ul>
+
+<h2>Work Related Tools Kit</h2>
 
 <h3>Text Processing &amp; Type Settting</h3>
 

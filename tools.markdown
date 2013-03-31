@@ -2,6 +2,10 @@ Craftsman's tools in Computer World
 ===================================
 This is a place where I learn how to use tools.  
 
+
+
+
+
 Index
 ------
 ###A full development tools kit for a specific development need
@@ -33,6 +37,10 @@ Index
   * Chrome
 
 
+
+
+
+
 Unix/Linux Environment Development Tools Kit
 --------------------------------------------
 ###Debugging
@@ -53,14 +61,34 @@ Unix/Linux Environment Development Tools Kit
 
 ####Emacs
 
+
+
+
+
+
 Mobile Development Tools Kit
 ----------------------------
 ###Android (Google)
 * Build Android Development Environment under Linux Operating System (Ubuntu)
   * Quick and easy way: Download the ADT (Android Development Tools kit) from [android.com](http://developer.android.com/sdk/index.html), extract the zip package, and you can start developing android apps now.
   * (Old way)A How-To guide(Blog Post)[Android Development Environment Setup (on ubuntu lucid lynx)](http://od-eon.com/blogs/alumni/horia/android-development-environment-setup-ubuntu-lucid/)
-Compiling Android Source Code   
+* Compiling Android Source Code   
   * [Initializing a Build Environment](http://source.android.com/source/initializing.html)
+
+####Trouble shooting
+* Device & USB: Add your device info into /etc/udev/rules.d/51-android.rules using root account
+  * [Google Tools Device](http://developer.android.com/tools/device.html)
+  * chmod a+r 51-android.rules
+* Device: List of devices attached - ???????? no permission, ADB or Eclipse under Ubuntu Linux don't recognize Mobile phone you pluged in.
+  * Problem: Device don't recognize solved at [Stackoverflow - Debugging in Eclipse with real Android phone on Ubuntu 10.10](http://stackoverflow.com/questions/4260964/debugging-in-eclipse-with-real-android-phone-on-ubuntu-10-10)
+* Error: Failed to install \*.apk on device \*: timeout
+  * On [Stackoverflow](http://stackoverflow.com/questions/4775603/android-error-failed-to-install-apk-on-device-timeout)
+  * Change timeout time from 5000ms to 10000ms through Window -> Preferences - > Android - > ADB Connection Time out (ms).
+
+
+
+
+
 Work Related Tools Kit
 ----------------------
 ###Text Processing & Type Settting
@@ -81,9 +109,12 @@ Work Related Tools Kit
 * Online Video Downloader: [KeepVID](http://keepvid.com/) (Support almost all online video website and Java is needed for faster fetching the download links)
 
 
+
+
+
+
 Reference
 ----------------------
-
 
 ###Configuration files
 * filename: [vimrc](./files/vimrc), usage: rename vimrc to .vimrc, put it in your HOME directory.  
