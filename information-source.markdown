@@ -49,6 +49,9 @@ My General Information Source
 * [TechCrunch](http://techcrunch.com)
 * [The Next Web](http://thenextweb.com)
 * [CNET](http://www.cnet.com)
+* KPCB Internet Trend Report (Very Valuable): 
+  * [2012](http://s3.amazonaws.com/kpcbweb/files/58/KPCB_Internet_Trends_2012_FINAL.pdf?1340750868)
+  * [2011](http://ictvglobal.com/download/Internet%20Trends%202011.pdf)
 
 ###Misc
 * (Advanced)[DARPA](http://www.darpa.mil): Defense Advanced Research Projects Agence). [RSS](http://darpa.mil/Rss.aspx?Colid=24)

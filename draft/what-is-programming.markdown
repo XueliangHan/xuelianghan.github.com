@@ -1,13 +1,14 @@
 What is programming?
+====================
 
-Programming is actually teach you how to think. - Steve Jobs  
+###Quotes
+> Programming is actually teach you how to think. - Steve Jobs  
 
-How to program a computer to do things for you.  
+> How to program a computer to do things for you? 
 
-Machine with intelligence could learn to see - and think - without the need to be programmed to do it.  
+> Machine with intelligence could learn to see - and think - without the need to be programmed to do it.  
 
-
-Program a computer is to tell a computer to do things
+###Program a computer is to tell a computer to do things
 All things are processed as information form in a computer system, information need to be organized, not scattered at everywhere, and follow the procedures to transform into some other structure,
 So the progress in a computing machine is:
 * Input information (That will be the problem/question - computer acceptable form)
