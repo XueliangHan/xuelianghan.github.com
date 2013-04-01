@@ -136,6 +136,7 @@ Technology(GINR)
 
 
 ####Web Development Technology
+#####Web Front-End Technologies
 * Learn to Make Webpages
   * [Mozilla's Thimble](https://webmaker.org/en-US/tools/#thimble): Use this app to easily create and share your own web pages.
 * HTML & HTML5
@@ -156,16 +157,21 @@ Technology(GINR)
 * JSON
   * [JSON (JavaScript Object Notation)](http://en.wikipedia.org/wiki/JSON)—lightweight text-based open standard designed for human-readable data interchange
 * XML
+* Links
+  * [W3School Sitemap](http://www.w3schools.com/sitemap/default.asp): HTML, CSS, JS, XML Tutorials, Reference, Examples.
+  * (Chinese)Blog
+
+#####Web Back-End Technologies
 * Frameworks
   * Clue: WebObjects, advanced and powerful.
 * Perl
   * [Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)
 * Python
   * [Python Short Course - CalTech](http://www.wag.caltech.edu/home/rpm/python\_course)
-* W3School
+* Database
   * [SQL-W3School](http://www.w3schools.com/sql/index.asp)
   * [MySQL-W3School](http://dev.mysql.com/doc/index-topic.html)
-  * [W3School Sitemap](http://www.w3schools.com/sitemap/default.asp): HTML, CSS, JS, XML Tutorials, Reference, Examples.
+  * Type of database: Strucutred Database, Semi-structure(NoSQL) Database, Key-Value Database, etc.
 
 
 
@@ -182,3 +188,7 @@ Technology(GINR)
 ####Scientific Masters and their works
 * 1856-1943(087) [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla), from 1856.07.10 to 1943.01.07
 * 1879-1955(076) [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), from 1879.03.14 to 1955.04.18
+
+* 1941-Present() [Richard Dawkins](https://www.google.com.hk/search?q=Richard+Dawkins&oq=Richard+Dawkins&aqs=chrome.0.57&sourceid=chrome&client=ubuntu&channel=cs&ie=UTF-8), [on Wikipedia](https://en.wikipedia.org/wiki/Richard_Dawkins)  
+  * Growing Up in the Universe (1991)[VIDEO Lecture]: Oxford professor Richard Dawkins presents a series of five one hour lectures on life, the universe, and our place in it. [on Wikipedia](https://en.wikipedia.org/wiki/Growing_Up_in_the_Universe), [on DocuWiki.net](http://docuwiki.net/index.php?title=Growing_up_in_the_Universe) have ED2K download address.
+  * Sex, Death and the Meaning of Life (2012)[VIDEO Lecture]: is a three-part television documentary presented by Richard Dawkins which explores what reason and science might offer in major events of human lives. [on Wikipedia](https://en.wikipedia.org/wiki/Sex,_Death_and_the_Meaning_of_Life), [on DocuWiki.net](http://docuwiki.net/index.php?title=Sex_Death_and_the_Meaning_of_Life)

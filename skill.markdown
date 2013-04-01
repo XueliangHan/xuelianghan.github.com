@@ -14,11 +14,20 @@ Index
 
 
 
-##Soft Skills
-###Time Management (Also called: Time arrangement/Energy management)
-####By Time (Some reference)
+Content
+-------
+###Soft Skills
+####Time Management (Also called: Time arrangement/Energy management)
+#####By Time (Some reference)
 * Morning
   * Point: Morning is the best time that you can get the most tough things done which you probability won't make it after the morning period past.
   * (VIDEO-Interview)[What The Most Successful People Do In The Morning](http://www.businessinsider.com/laura-vanderkam-what-the-most-successful-people-do-before-breakfast-2012-7)
   * (TEXT-Book)[What the Most Successful People Do __Series__](http://lauravanderkam.com/books/successful-people-do/) by [career expert Laura Vanderkam](http://lauravanderkam.com/)
 
+
+
+
+###Others
+####Search, Retrivel Skills
+* Find Media(Music, Documentary, Film/Movie, etc)
+  * Documentary - [DocuWiki.net](http://docuwiki.net/index.php?title=Main_Page): DocuWiki.net serves as an index of documentary films on the Edonkey Network, Wiki with introducation and download address.
