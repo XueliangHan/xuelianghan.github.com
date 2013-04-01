@@ -11,13 +11,15 @@ Index
 ###A full development tools kit for a specific development need
 * Unix/Linux Environment Development Tools Kit:
   * * Auto(GNU Make)
+  * Build System - GNU(Autoconf, Autoheader, Automake, Libtool)
   * Compiler(GCC)
   * Editor(Vi/Vim, Emacs)
   * * Database(SQLite, MySQL)
   * * Debugger(GDB, DDD)
   * Version-control(Git)
   * Linux-distro (Arch, Fedora, Ubuntu)
-  * * GNU Tool Chain, Server(Apache)
+  * * GNU Tool Chain
+  * Server(Apache)
   * * Trace(Strace,Ltrace,Truss)  
   * Enhance: Become Editor(Vim) master is good, you are 23 now, it's a worthy investment.  
 * Windows Environment Development Tools Kit:
@@ -26,6 +28,8 @@ Index
   * IDE(Visual C++ 6.0, Visual Studio)
   * MSDN
   * Version-control(SVN)  
+* Mac OS X
+  * Editor(Vi/Vim, Emacs, Textmate, BBedit)
 * Cross Platform Environment:
   * Continuous Integration Environment - Jenkins(Hudson)}
   * IDE(Eclipse)
@@ -59,8 +63,22 @@ Unix/Linux Environment Development Tools Kit
   * From: "\*yny
   * To: "\*p
 
-####Emacs
+* Emacs
 
+
+###Version Control System - Git
+* (Chinese)[Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command): Good summary.
+
+
+
+
+Mac OS X
+--------
+###Editor
+* Vi/Vim & Emacs inherited from Unix/Linux, I won't talk about it at here.
+* TextMate
+  * [Text - The missing editor for Mac OS X](http://macromates.com)
+  * Key point: Beautiful user interface, powerful micro definition, download and edit bundles, improve the develop efficiency, many Rails developer use it to do ruby programming.
 
 
 

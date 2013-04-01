@@ -3,6 +3,12 @@ My Interests, Masters & Their works
 * (Definition of interest by Merriam-Webster: A feeling that accompanies or causes special attention to an object or class of objects)  
 * My interest: `Engineering`, `Open Source`, `Programming`, `Science`, `Technology`
 
+Index
+------
+* Education (Online Education Revolution)
+* Open Movement
+* Technology (Combination of Engineering and Apply Science)
+* Science - Masters and their works
 
 Education(Online Education Revolution)
 --------------------------------------
@@ -66,13 +72,30 @@ Technology(GINR)
 ----------------
 ###Domain & Field of Technology
 * AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
+
+###Technology News
+* [KurzweilAI](http://www.kurzweilai.com)
+* [MIT Technology Review](http://technologyreview.com)
+* [Hacker News]
+* [Slashdot](http://slashdot.com)
+
+
 * AI (Artificial Intelligence)
   * [Noam Chomsky on Where Artificial Intelligence Went Wrong](http://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/)
   * Tomaso Poggio - Afterward in "Vision"-2010-2ed
   * [Pluskid-ChiyuanZhan's summarize](http://freemind.pluskid.org/machine-learning/noam-chomsky-on-where-ai-went-wrong)
   * (Chinese&English Articles)[Psychology and Philosophy about Artificial Intelligence](http://newmind40.com/gb.html)
-* IT (Information Technology):
 
+####IT(Information Technology) (Internet/Web/Software)
+* [ACM TechNews](http://technews.acm.org): Providing timely information for IT professionals three times a week.
+* [TechCrunch](http://techcrunch.com)
+* [The Next Web](http://thenextweb.com)
+* [CNET](http://www.cnet.com)
+* KPCB Internet Trend Report (Very Valuable): 
+  * [2012](http://s3.amazonaws.com/kpcbweb/files/58/KPCB_Internet_Trends_2012_FINAL.pdf?1340750868)
+  * [2011](http://ictvglobal.com/download/Internet%20Trends%202011.pdf)
+* Chinese
+  * [弯曲评论](http://www.valleytalk.org/)：科技、人物、潮流。
 
 
 ###RT (Robotic Technology): 
@@ -133,6 +156,8 @@ Technology(GINR)
 * JSON
   * [JSON (JavaScript Object Notation)](http://en.wikipedia.org/wiki/JSON)—lightweight text-based open standard designed for human-readable data interchange
 * XML
+* Frameworks
+  * Clue: WebObjects, advanced and powerful.
 * Perl
   * [Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)
 * Python
@@ -146,7 +171,7 @@ Technology(GINR)
 
 
 
-###Science 
+###Science - Pursuit for truth
 ####Intelligence, Life, Human Brain
 * Key words: Cognition/Perception, Neuroscience & Reverse-Engineering, Artificial Intelligence.
 * __Neurology Research__
@@ -154,5 +179,6 @@ Technology(GINR)
 
 ####Universe(Astronmy, Physic)
 
-####Scientific Master
-* Tesla
+####Scientific Masters and their works
+* 1856-1943(087) [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla), from 1856.07.10 to 1943.01.07
+* 1879-1955(076) [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), from 1879.03.14 to 1955.04.18

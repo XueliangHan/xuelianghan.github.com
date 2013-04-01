@@ -1,6 +1,15 @@
 What I see from my life experience
 ==================================
 
+####Answer
+* Ultimately, the tough questions' answer go down to some fundamental thoughts like "what I pursuit?", "what I believe?", "who I want to be?".
+
+####Cognition
+* If you look down to the origin, you will find that all mistake are from the wrong cognition.  
+
+####Change
+* Before you change to new one and give up the privious one which made what you are now, think about it.
+
 ####Tree
 _The trees are strong, my lord, their roots go deep._ --The Lord of Rings   
 The trees in the city and the trees in the wild.  

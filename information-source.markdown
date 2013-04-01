@@ -5,6 +5,7 @@ My General Information Source
 * It can mean news, articles, blog posts, that's the narrow information part, it can also mean learning resource like Coursera/Udacity/Edx, that's the resource part from the board perspective, the information I use in here represent bit, following bit.   
 * Information source which exclude interest, and hobby.
 
+
 ####Wikipedia and it's sister projects
 * Book-[Wikibooks](https://en.wikibooks.org/): Free textbooks and manuals
 * Data-[Wikidata](https://en.wikidata.org/): Free knowledge base
@@ -19,17 +20,17 @@ My General Information Source
 * [MediaWiki](https://mediawiki.org/): Free software development
 * [Meta-Wiki](https://meta.wikimedia.org/): Wikimedia project coordination
 
+
 ###Business
 * [Business Insider](http://www.businessinsider.com/careers)
+
 
 ###Economics
 * (Chinese)郎咸平的[新浪博客](http://blog.sina.com.cn/jsmedia)
 * (Chinese)谢国忠(Andy Xie)的[搜狐博客](http://xieguozhong.blog.sohu.com/)：只说出心中真相，阮一峰推荐的一个经济学领域的
 
 
-
-###News
-####General News (Gathered all portals)
+###General News (Gathered all portals)
 * [The Atlantic](http://www.theatlantic.com)
 * [CNN](http://www.cnn.com)
 * [NY Times](http://www.nytimes.com)
@@ -38,20 +39,6 @@ My General Information Source
 * [USA Today]
 * [Wikipedia Today's Front-page]
 
-####Technology News
-* [KurzweilAI](http://www.kurzweilai.com)
-* [MIT Technology Review](http://technologyreview.com)
-* [Hacker News]
-* [Slashdot](http://slashdot.com)
-
-####IT/Internet/Web/Software
-* [ACM TechNews](http://technews.acm.org): Providing timely information for IT professionals three times a week.
-* [TechCrunch](http://techcrunch.com)
-* [The Next Web](http://thenextweb.com)
-* [CNET](http://www.cnet.com)
-* KPCB Internet Trend Report (Very Valuable): 
-  * [2012](http://s3.amazonaws.com/kpcbweb/files/58/KPCB_Internet_Trends_2012_FINAL.pdf?1340750868)
-  * [2011](http://ictvglobal.com/download/Internet%20Trends%202011.pdf)
 
 ###Misc
 * (Advanced)[DARPA](http://www.darpa.mil): Defense Advanced Research Projects Agence). [RSS](http://darpa.mil/Rss.aspx?Colid=24)
@@ -74,14 +61,11 @@ My General Information Source
   * [KPCB Search](http://kpcb.com/careers)
   * [Sandhill Networks - Technical Recruiting Los Angeles | Job Listings](http://sandhillnet.com/listings.php)
 
-###Personal Life and Career Development
-* Han's Note: These are the people who have a great (Self, Indepedent) Personal Develop POWER.<br>
-* [Scott H.Yound](http://www.scotthyoung.com): Known by self-learned 33 open courses of MIT in 1 year, publishing article on his website, mainly talking about "Get More from Life".
-* [Steve Pavlina](http://www.stevepavlina.com): Known by graduated from college in 18 month.
-* [What Extremely Successful People Were Doing At Age 25](http://www.businessinsider.com/what-successful-people-did-in-their-20s-2013-3)
 
 ####Personal Weblog on IndependentHost
 * (What I observed, [Original]There have more original writing, most of them are more __open__ to talk/share, and they have more power.)
+* Chinese content
+  * [Robbin的自言自语](http://www.robbinfan.com)：范凯CSDN CTO，JavaEye网站创始人，人生旅程、产品类笔记、技术文档，互联网产品设计、研发、运营、团队建设。
 * (Chinese)张驰原(Chiyuan Zhan): MIT Machine Learning Ph.D Candidate, ZJU-CS
   * [New blog](http://blog.pluskid.org), [Old blog](http://lifegoo.pluskid.org), [Old domain](http://pluskid.lifegoo.com)
   * [resume.pdf](http://pluskid.org/data/resume.pdf)

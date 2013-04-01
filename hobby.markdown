@@ -44,6 +44,9 @@ Language & Culture (English)
 
 
 Travel - Different Area/Country/Nation/State with different Language/Culture
-============================================================================
+-----------------------------------------------------------------------------
 * (Chinese)[你一辈子可能看不到的美景、世界上最美的地方](http://www.360doc.com/content/12/0912/17/544508_235750036.shtml)
 * (Chinese)(VIDEO)[留美三人行-优库在线]
+
+###Shang Hai
+* (Blog)[Robbin-我为何喜欢上海不喜欢北京](http://www.robbinfan.com/blog/31/why-love-shanghai)
