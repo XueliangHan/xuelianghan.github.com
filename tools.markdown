@@ -63,10 +63,17 @@ Unix/Linux Environment Development Tools Kit
 * Copy & Paste cross files
   * From: "\*yny
   * To: "\*p
-* Emacs
+
+####Emacs
+* Tutorial, Guide, How-To
   * Official Tutorial: Open emacs -> Press the button "ATL" and "x" same time -> type help-with-tutorial, there you go.
   * [Tips for Learning Elisp? - StackOverFlow](http://stackoverflow.com/questions/41522/tips-for-learning-elisp)
   * (Chinese)[一年成为Emacs高手(像神一样使用编辑器)](http://blog.csdn.net/redguardtoo/article/details/7222501)
+* Configuration file
+  * Emacs master [Steve Purcell's](https://github.com/purcell/emacs.d) configuration file (highly recommended).
+* See master using Emacs
+ * [Writing PPT with org-mode and beamer in Emacs (Youtube Video)](http://www.youtube.com/watch?v=Ho6nMWGtepY)
+ * [Emacs Power: Can your editor do THIS! (Youtube Video)](http://www.youtube.com/watch?v=EQAd41VAXWo)
 
 
 ###Version Control System - Git
