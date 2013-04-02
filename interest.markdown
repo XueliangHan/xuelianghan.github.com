@@ -19,7 +19,7 @@ Index
 Education(Online Education Revolution)
 --------------------------------------
 ####Opinions about moderm education system
-* Blog post [On Education](http://alexmaccaw.com/posts/on_education) by [Alex Maccaw](http://alexmaccaw.com)
+* (Blog Post)[On Education](http://alexmaccaw.com/posts/on_education) by [Alex Maccaw](http://alexmaccaw.com)
 
 ####Online Education (Learning Resource) - Massive Open Online Academic Education programs
 * University Courses Online
@@ -141,7 +141,7 @@ Technology(GINR)
 
 
 
-###Engineering: Mobile, Web, Software.
+###Engineering: Software running on the Server, Web, Mobile
 ####Mobile Computing/Wearable Computing (Phone, Glass, Watch, Cloth)
 * Make Your Own Mobile Apps
   * [AppInventor](http://www.appinventor.org/): Learn to build apps for Android phones and tablets within hours.
@@ -191,10 +191,10 @@ Technology(GINR)
   * Type of database: Strucutred Database, Semi-structure(NoSQL) Database, Key-Value Database, etc.
 
 
-
-
-#####Web Server
-* Linux
+#####Server Technologies
+* Software Running on Servers
+  * Operating System: Linux
+  * Large Software System
 * Master [Linus Torvalds](https://www.google.com/search?q=Linus+Torvalds)
 
 
@@ -202,20 +202,23 @@ Technology(GINR)
 
 
 ###Science - Pursuit for truth
-####Intelligence, Life, Human Brain
+####Intelligence, Life, Human Brain, Bioscience (Biology, Neurology)
 * Key words: Cognition/Perception, Neuroscience & Reverse-Engineering, Artificial Intelligence.
 * __Neurology Research__
   * [Neuron (Yale) - for empirically-based simulations of neurons and networks of neurons](http://www.neuron.yale.edu/neuron/)
 
-####Universe(Astronmy, Physic)
+#####Scientific Masters and their works
+* 1941-Present() [Richard Dawkins](https://www.google.com/search?q=Richard+Dawkins&oq=Richard+Dawkins&aqs=chrome.0.57&sourceid=chrome&client=ubuntu&channel=cs&ie=UTF-8), [on Wikipedia](https://en.wikipedia.org/wiki/Richard_Dawkins)  
+  * Growing Up in the Universe (1991)[VIDEO Lecture]: Oxford professor Richard Dawkins presents a series of five one hour lectures on life, the universe, and our place in it. [on Wikipedia](https://en.wikipedia.org/wiki/Growing_Up_in_the_Universe), [on DocuWiki.net](http://docuwiki.net/index.php?title=Growing_up_in_the_Universe) have ED2K download address.
+  * Sex, Death and the Meaning of Life (2012)[VIDEO Lecture]: is a three-part television documentary presented by Richard Dawkins which explores what reason and science might offer in major events of human lives. [on Wikipedia](https://en.wikipedia.org/wiki/Sex,_Death_and_the_Meaning_of_Life), [on DocuWiki.net](http://docuwiki.net/index.php?title=Sex_Death_and_the_Meaning_of_Life)
 
-####Scientific Masters and their works
+
+
+####Universe(Astronmy, Physic)
+#####Scientific Masters and their works
 * Physical Science
 * 1856-1943(087) [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla), from 1856.07.10 to 1943.01.07
 * 1879-1955(076) [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), from 1879.03.14 to 1955.04.18
 * 1947-Present() [Michio Kaku](https://www.google.com/search?q=Michio+Kaku), [Michio Kaku on Wikipedia](http://en.wikipedia.org/wiki/Michio_Kaku), from 1947.01.24 to Present.
 
-* Bioscience
-* 1941-Present() [Richard Dawkins](https://www.google.com/search?q=Richard+Dawkins&oq=Richard+Dawkins&aqs=chrome.0.57&sourceid=chrome&client=ubuntu&channel=cs&ie=UTF-8), [on Wikipedia](https://en.wikipedia.org/wiki/Richard_Dawkins)  
-  * Growing Up in the Universe (1991)[VIDEO Lecture]: Oxford professor Richard Dawkins presents a series of five one hour lectures on life, the universe, and our place in it. [on Wikipedia](https://en.wikipedia.org/wiki/Growing_Up_in_the_Universe), [on DocuWiki.net](http://docuwiki.net/index.php?title=Growing_up_in_the_Universe) have ED2K download address.
-  * Sex, Death and the Meaning of Life (2012)[VIDEO Lecture]: is a three-part television documentary presented by Richard Dawkins which explores what reason and science might offer in major events of human lives. [on Wikipedia](https://en.wikipedia.org/wiki/Sex,_Death_and_the_Meaning_of_Life), [on DocuWiki.net](http://docuwiki.net/index.php?title=Sex_Death_and_the_Meaning_of_Life)
+

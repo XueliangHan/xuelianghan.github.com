@@ -23,13 +23,14 @@ Art & Literature: Film, Music, Painting, Photography, Reading
 
 Language & Culture (English)
 --------------------------------
+####Masters
+* [Noam Chomsky](http://en.wikipedia.org/wiki/Noam_Chomsky)
+
 ####Ability and Skills
 * Reading.[Eye--Mind--Cognition]
 * Speaking.[Mouth--Oral--Communication]
 * Writing.[Hand--Thinking--Thoughts]
 * Translating.[LanguageA--to--MindBlackBox(Inner-transform)--to--LanguageB](Culture need)
-* Masters
-  * [Noam Chomsky](http://en.wikipedia.org/wiki/Noam_Chomsky)
 
 ####Vocabulary & Grammar [Foundation]
 * Dictionary, why it is matter?

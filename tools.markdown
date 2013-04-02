@@ -58,8 +58,10 @@ Unix/Linux Environment Development Tools Kit
 
 
 ###Editor
-####Editor matter
-* [Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube](https://www.youtube.com/watch?v=IUBw5e-zPXw)
+* Editor is matter
+  * [Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube](https://www.youtube.com/watch?v=IUBw5e-zPXw)
+* In order to get one specific thing done, the editor I use.
+  * [A very good answer on StackOverFlow about how to use Emacs and Vim to get different things done](http://stackoverflow.com/a/592265/1805394): Brian Carper use Emacs for LISP, CSS, JavaScript and such, and use Vim for Ruby, Python, Perl, PHP, BASH, Plaintext, and almost anything else.
 
 ####Vi/Vim
 * [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
