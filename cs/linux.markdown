@@ -1,15 +1,16 @@
-Linux Basic Sheel Interactive Command
+<html>
+<head><title>Linux Basic Interactive Shell Command</title></head>
+<body>
+Linux Basic Interactive Shell Command
 =====================================
 
 Index
 -----
 * awk, sed, grep
 * shell interactive command
-* cat, cp, dd, pstree, wget
+* cat, cp/scp, dd, pstree, wget
 * crontab
 
-##Big
-awk, sed, grep  
 
 ####Shell command
 * LEONID MAMCHENKOV,[Shell keyboard shortcuts](http://mamchenkov.net/wordpress/2010/08/05/shell-keyboard-shortcuts/)
@@ -17,6 +18,29 @@ awk, sed, grep
 * bg: check background task in current shell
   * %1: recovery the first task
 
+####cp/scp
+* 1.Download _file_      from remote server
+  * Command: _scp -P 2000 root@www.google.com:root/borg.tar.gz /home/borg.tar.gz_
+  * _P_: Upper case "_P_" represent port, if you are not change the default SSH port, this won't be necessary
+  * _root@www.google.com_: use root to login to server
+  * "_:_": a symbol to separate the server address and file path
+  * _root/borg.tar.gz_:  the file path and name on that server
+  * _/home/borg.tar.gz_: the file parth and name to save on your computer
+* 2.Download _directory_ from remote server
+  * Command: _scp -P 2000 -r root@www.google.com:root/borg/ /home/borg/_
+  * same as abrove
+  * _-r_: recursive copy files and directories in the folder
+* 3.Upload   _file_      to   remote server
+  * Command: _scp -P 2000 /home/omega.tar.gz root@www.google.com_
+  * you are smart, you will figure it out
+* 4.Upload   _directory_ to   remote server
+  * Command: _scp -P 2000 -r /home/omega/ root@www.google.com_
+  * you are smart, you will crack it
+* parameters
+  * _-v_: to display the progress, view the connection, configuration fault.
+  * _-C_: use compression.
+  * _-4_: force to use IPV4
+  * _-6_: force to use IPV6
 
 ####crontab
 * Function: Used to do automation work
@@ -50,6 +74,11 @@ awk, sed, grep
 
 
 
+###diff
+
+
+
+
 ####find
 * find {dir-name} -name {file-name}
 
@@ -67,3 +96,6 @@ awk, sed, grep
 
 
 ####A study of Linux File System Evolution
+
+</body>
+</html>

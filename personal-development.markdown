@@ -1,3 +1,7 @@
+<html>
+<head><title>Personal Life Development</title></head>
+<body>
+
 Personal Life Development
 =========================
 * Note: These are the people who have a great Indepedent Personal Develop POWER.
@@ -14,3 +18,6 @@ Personal Life Development
 
 * Career Guide
   * [Stanford Career Steps](http://studentaffairs.stanford.edu/cdc/career-steps)
+
+</body>
+</html>

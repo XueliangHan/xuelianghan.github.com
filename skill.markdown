@@ -1,3 +1,7 @@
+<html>
+<head><title>Skills</title></head>
+<body>
+
 Skills
 ======
 * Definition of skill - cognition to skill
@@ -34,3 +38,6 @@ Content
 ####Search, Retrivel Skills
 * Find Media(Music, Documentary, Film/Movie, etc)
   * Documentary - [DocuWiki.net](http://docuwiki.net/index.php?title=Main_Page): DocuWiki.net serves as an index of documentary films on the Edonkey Network, Wiki with introducation and download address.
+
+</body>
+</html>

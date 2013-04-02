@@ -1,3 +1,6 @@
+<html>
+<head><title>Hobby</title></head>
+<body>
 My hobbies
 ===========
 * Definition of hobby by Marriam-Webster: A pursuit outside one's regular occupation engages in especially for __relaxation__.
@@ -54,3 +57,5 @@ Travel - Different Area/Country/Nation/State with different Language/Culture
 
 ###Shang Hai
 * (Blog)[Robbin-我为何喜欢上海不喜欢北京](http://www.robbinfan.com/blog/31/why-love-shanghai)
+</body>
+</html>

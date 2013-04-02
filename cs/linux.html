@@ -1,0 +1,141 @@
+<p><html>
+<head><title>Linux Basic Interactive Shell Command</title></head>
+<body></p>
+
+<h1>Linux Basic Interactive Shell Command</h1>
+
+<h2>Index</h2>
+
+<ul>
+<li>awk, sed, grep</li>
+<li>shell interactive command</li>
+<li>cat, cp/scp, dd, pstree, wget</li>
+<li>crontab</li>
+</ul>
+
+<h4>Shell command</h4>
+
+<ul>
+<li>LEONID MAMCHENKOV,<a href="http://mamchenkov.net/wordpress/2010/08/05/shell-keyboard-shortcuts/">Shell keyboard shortcuts</a></li>
+<li>End of stdin in the bash: CTRL+D</li>
+<li>bg: check background task in current shell
+<ul>
+<li>%1: recovery the first task</li>
+</ul></li>
+</ul>
+
+<h4>cp/scp</h4>
+
+<ul>
+<li>1.Download <em>file</em>      from remote server
+<ul>
+<li>Command: <em>scp -P 2000 root@www.google.com:root/borg.tar.gz /home/borg.tar.gz</em></li>
+<li><em>P</em>: Upper case "<em>P</em>" represent port, if you are not change the default SSH port, this won't be necessary</li>
+<li><em>root@www.google.com</em>: use root to login to server</li>
+<li>"<em>:</em>": a symbol to separate the server address and file path</li>
+<li><em>root/borg.tar.gz</em>:  the file path and name on that server</li>
+<li><em>/home/borg.tar.gz</em>: the file parth and name to save on your computer</li>
+</ul></li>
+<li>2.Download <em>directory</em> from remote server
+<ul>
+<li>Command: <em>scp -P 2000 -r root@www.google.com:root/borg/ /home/borg/</em></li>
+<li>same as abrove</li>
+<li><em>-r</em>: recursive copy files and directories in the folder</li>
+</ul></li>
+<li>3.Upload   <em>file</em>      to   remote server
+<ul>
+<li>Command: <em>scp -P 2000 /home/omega.tar.gz root@www.google.com</em></li>
+<li>you are smart, you will figure it out</li>
+</ul></li>
+<li>4.Upload   <em>directory</em> to   remote server
+<ul>
+<li>Command: <em>scp -P 2000 -r /home/omega/ root@www.google.com</em></li>
+<li>you are smart, you will crack it</li>
+</ul></li>
+<li>parameters
+<ul>
+<li><em>-v</em>: to display the progress, view the connection, configuration fault.</li>
+<li><em>-C</em>: use compression.</li>
+<li><em>-4</em>: force to use IPV4</li>
+<li><em>-6</em>: force to use IPV6</li>
+</ul></li>
+</ul>
+
+<h4>crontab</h4>
+
+<ul>
+<li>Function: Used to do automation work</li>
+<li>Record format: m h dom mon dow use command</li>
+<li>Format explanation
+<ul>
+<li><em>m</em>: minute, integer from 0 to 59</li>
+<li><em>h</em>: hour, integer from 0 to 23</li>
+<li><em>dom</em>: day of month, integer from 1 to 31</li>
+<li><em>mon</em>: month, integer from 1 to 12</li>
+<li><em>dow</em>: day of week, integer from 0 to 7</li>
+<li><em>command</em>: command to excute</li>
+</ul></li>
+<li>Specific symbol you can use
+<ul>
+<li><em>-</em>: a range, example: 1-4, represent 1, 2, 3, 4</li>
+<li><em>,</em>: a list, example: 3, 4, 6, 8</li>
+<li><em>/</em>: define a frequency, if you put <em>/<integer></em> after <em>/</em>, it means it will jump integer in range. Example, 0-59/2, it will excute command every 2 minutes.</li>
+<li><em>#</em>: code comment</li>
+</ul></li>
+<li>Pay attention
+<ul>
+<li>there is no second in crontab</li>
+<li>if a task need to be excute by dispatch, you can add your <em>crontab</em> file into <em>/etc/cron.d</em> directory, all files in this dir must use same syntax as /etc/crontab did.</li>
+</ul></li>
+<li>Usage of cron
+<ul>
+<li>start cron service, use command <em>/sbin/service crond start</em>, crond mean cron daemon process.</li>
+<li>allow and deny user to use crontab in /etc/cron.allow and /etc/cron.deny</li>
+<li>crontab -e: edit   schedule use a custom editor</li>
+<li>crontab -r: delete current schedule</li>
+<li>crontab -l: list   current schedule</li>
+</ul></li>
+<li>my crontab
+<ul>
+<li>1 0-9/3 * * * (/bin/sh /home/h/publishing/xuelianghan.github.com/generate.sh)</li>
+<li>5 0-9/3 * * * (/bin/sh /home/h/publishing/xuelianghan.github.com/up.sh)</li>
+<li>1 10-23/2 * * * (/bin/sh /home/h/publishing/xuelianghan.github.com/generate.sh)</li>
+<li>5 10-23/2 * * * (/bin/sh /home/h/publishing/xuelianghan.github.com/up.sh)</li>
+</ul></li>
+</ul>
+
+<h3>diff</h3>
+
+<h4>find</h4>
+
+<ul>
+<li>find {dir-name} -name {file-name}</li>
+</ul>
+
+<h4>ls</h4>
+
+<ul>
+<li>lsusb
+<ul>
+<li>list all use devices information, I use it to check my mobile phone udev info when develop android apps.</li>
+</ul></li>
+</ul>
+
+<h3>gcc</h3>
+
+<ul>
+<li>ldd: see which dynamic library the program used.</li>
+<li>nm: see the symbol in program</li>
+<li>strip: make the program smaller.</li>
+</ul>
+
+<h4>mail</h4>
+
+<ul>
+<li>mail: main -s "Message subject" destiny@destiny.com</li>
+</ul>
+
+<h4>A study of Linux File System Evolution</h4>
+
+<p></body>
+</html></p>

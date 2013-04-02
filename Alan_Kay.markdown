@@ -1,3 +1,7 @@
+<html>
+<head><title>Alan Kay</title></head>
+<body>
+
 Alan Kay
 ========
 Rate: 4.5
@@ -29,3 +33,6 @@ Reference and Recommemded Readings
 * [Alan Kay - Wikipedia](http://en.wikipedia.org/wikipedia/Alan_kay)
 * [Alan Kay - Wikiquote](http://en.wikiquote.org/wiki/Alan_Kay)
 * [The Deep Insights of Alan Kay](http://mythz.servicestack.net/blog/2013/02/27/the-deep-insights-of-alan-kay/)
+
+</body>
+</html>

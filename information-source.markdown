@@ -1,3 +1,6 @@
+<html>
+<head><title>Information Source</title></head>
+<body>
 My General Information Source
 -------------------------------------
 ###What information means
@@ -63,3 +66,5 @@ My General Information Source
   * [resume.pdf](http://pluskid.org/data/resume.pdf)
 * (Chinese)张志强(Zhiqiang Zhang): Ph.D FRM, [Website](http://zhiqiang.org)
 
+</body>
+</html>

@@ -1,3 +1,6 @@
+<html>
+<head><title>Interest</title></head>
+<body>
 My Interests, Masters & Their works
 ===================================
 * (Definition of interest by Merriam-Webster: A feeling that accompanies or causes special attention to an object or class of objects)  
@@ -141,13 +144,15 @@ Technology(GINR)
 
 
 
-###Engineering: Software running on the Server, Web, Mobile
-####Mobile Computing/Wearable Computing (Phone, Glass, Watch, Cloth)
+###Engineering.Software - Software running on the Server, Web, Mobile
+####Mobile Development Technology
 * Make Your Own Mobile Apps
   * [AppInventor](http://www.appinventor.org/): Learn to build apps for Android phones and tablets within hours.
   * [Codea (iPad)](http://twolivesleft.com/Codea/): Create games and simulations — or just about any visual idea you have.
-* [Google Android Developer Guide](http://developer.android.com/guide/index.html)
-* [Wiki\_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
+* Android-Google
+  * [Google Android Developer Guide](http://developer.android.com/guide/index.html)
+  * [Wiki\_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
+* Mobile Computing/Wearable Computing (Phone, Glass, Watch, Cloth)
 
 
 
@@ -191,12 +196,19 @@ Technology(GINR)
   * Type of database: Strucutred Database, Semi-structure(NoSQL) Database, Key-Value Database, etc.
 
 
-#####Server Technologies
+####Server Technologies
 * Software Running on Servers
   * Operating System: Linux
   * Large Software System
 * Master [Linus Torvalds](https://www.google.com/search?q=Linus+Torvalds)
 
+
+
+####Testing Technologies
+* Regression Test
+  * What regression mean? It's definition is retrun to a worse or lessdeveloped state.
+  * In my software project, a module is working good in previous version, but got a malfunction in new version, so, this module have a regression, because it backward to a unstable state from a stable state.
+  * Regression test make sure that new code have fix the bugs, and not break the module's current function.
 
 
 
@@ -222,3 +234,5 @@ Technology(GINR)
 * 1947-Present() [Michio Kaku](https://www.google.com/search?q=Michio+Kaku), [Michio Kaku on Wikipedia](http://en.wikipedia.org/wiki/Michio_Kaku), from 1947.01.24 to Present.
 
 
+</body>
+</html>

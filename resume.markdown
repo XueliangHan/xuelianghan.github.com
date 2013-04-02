@@ -1,3 +1,7 @@
+<html>
+<head><title>Resume</title></head>
+<body>
+
 Note: Under upgrading.
 
 Xueliang Albert Han
@@ -167,3 +171,5 @@ I like social, I like to hang out with guys, talk/share with them, and learn fro
 * Learning and practicing how to make a effective communication and efficient teamwork in a group (20+ people).  
 * Training to get a project done by work collaboratively with the people from different department of the association (200 people).  
 
+</body>
+</html>

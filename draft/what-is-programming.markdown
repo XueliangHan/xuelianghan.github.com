@@ -1,3 +1,7 @@
+<html>
+<head><title>What is Programming?</title></head>
+<body>
+
 What is programming?
 ====================
 
@@ -19,3 +23,6 @@ So the progress in a computing machine is:
 
 A good data structure may solve the problem directly, take less procedures (simpler algorithms) than the old way which is bad data structure with complex algorithms, I call this __Architecture Evolution__, just same thought with Intel CPU development stragety: 18 month to modify the architecture and 18 month to improve the process.
 Data structure is the low level of limit of proformance.
+
+</body>
+</html>

@@ -1,3 +1,6 @@
+<html>
+<head><title>Project</title></head>
+<body>
 PROJECT
 ========================================================
 (Project property: Independent, Teamwork, Collaborative)
@@ -90,4 +93,5 @@ Utilities
 (Note: Small programs/scripts to finish one single purpose and one purpose only. Ordered by descend DATE)  
 
 
-
+</body>
+</html>

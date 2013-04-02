@@ -10,8 +10,11 @@ What I see from my life experience
 ####Change
 * Before you change to new one and give up the privious one which made what you are now, think about it.
 
+####Standard
+Once you set up some standards to measure a thing, people will start pursuit the standards and ignore the real things which should to pursuit.
+
 ####Tree
-_The trees are strong, my lord, their roots go deep._ --The Lord of Rings   
+> The trees are strong, my lord, their roots go deep. --The Lord of Rings   
 The trees in the city and the trees in the wild.  
 * The trees in the city have a peace environment, they have everything, they don't need to worry about sunshine, air, water, and soil.  
 * The trees in the wild have a tough environment, they are suffering, they must try hard to get sunshine, air, water, and soil, and meantime, they must go through the strom, thunder, lighting.  
