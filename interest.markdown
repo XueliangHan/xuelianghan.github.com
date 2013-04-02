@@ -127,9 +127,11 @@ Technology(GINR)
 ###Health & Mechine Technology - (Practical Study Science and Apply it to Extend Life)
 * (Website)[Ray and Terry's Longevity Products](http://www.rayandterry.com/index.php)
 * (Open Course)[Food and Nutrition at Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=en&cats=food)
-* (Project)Ray Kurzweil's Health Enhance Project
-* (Unread)(Information)[Ray Kurzweil Diet Supplements](http://best-herbs-for-health.com/ray-kurzweil-diet-supplements/)
-* (Unread)(Information)[Transcend by Ray Kurzweil and Terry Grossman](http://samsnyder.com/2011/05/17/transcend-by-ray-kurzweil-and-terry-grossman/)
+* Life Extension
+  * (Project)Ray Kurzweil's Health Enhance Project
+  * (Unread)(Information)[Ray Kurzweil Diet Supplements](http://best-herbs-for-health.com/ray-kurzweil-diet-supplements/)
+  * (Unread)(Information)[Transcend by Ray Kurzweil and Terry Grossman](http://samsnyder.com/2011/05/17/transcend-by-ray-kurzweil-and-terry-grossman/)
+  * [Life Extension Subject on Youtube](https://www.youtube.com/playlist?list=PL50512BA236987B62)
 * (Unread)(BookInfo)[27 Must-Read Fitness, Health, and Happiness Books | Greatist](http://greatist.com/happiness/must-read-books-health-fitness/)
 * Key words: Learn/Study Food, Research Diet Supplements
 * Key person: Ray Kurzweil, Terry Grossman M.D
@@ -208,9 +210,12 @@ Technology(GINR)
 ####Universe(Astronmy, Physic)
 
 ####Scientific Masters and their works
+* Physical Science
 * 1856-1943(087) [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla), from 1856.07.10 to 1943.01.07
 * 1879-1955(076) [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), from 1879.03.14 to 1955.04.18
+* 1947-Present() [Michio Kaku](https://www.google.com/search?q=Michio+Kaku), [Michio Kaku on Wikipedia](http://en.wikipedia.org/wiki/Michio_Kaku), from 1947.01.24 to Present.
 
-* 1941-Present() [Richard Dawkins](https://www.google.com.hk/search?q=Richard+Dawkins&oq=Richard+Dawkins&aqs=chrome.0.57&sourceid=chrome&client=ubuntu&channel=cs&ie=UTF-8), [on Wikipedia](https://en.wikipedia.org/wiki/Richard_Dawkins)  
+* Bioscience
+* 1941-Present() [Richard Dawkins](https://www.google.com/search?q=Richard+Dawkins&oq=Richard+Dawkins&aqs=chrome.0.57&sourceid=chrome&client=ubuntu&channel=cs&ie=UTF-8), [on Wikipedia](https://en.wikipedia.org/wiki/Richard_Dawkins)  
   * Growing Up in the Universe (1991)[VIDEO Lecture]: Oxford professor Richard Dawkins presents a series of five one hour lectures on life, the universe, and our place in it. [on Wikipedia](https://en.wikipedia.org/wiki/Growing_Up_in_the_Universe), [on DocuWiki.net](http://docuwiki.net/index.php?title=Growing_up_in_the_Universe) have ED2K download address.
   * Sex, Death and the Meaning of Life (2012)[VIDEO Lecture]: is a three-part television documentary presented by Richard Dawkins which explores what reason and science might offer in major events of human lives. [on Wikipedia](https://en.wikipedia.org/wiki/Sex,_Death_and_the_Meaning_of_Life), [on DocuWiki.net](http://docuwiki.net/index.php?title=Sex_Death_and_the_Meaning_of_Life)

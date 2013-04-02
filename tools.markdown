@@ -58,6 +58,9 @@ Unix/Linux Environment Development Tools Kit
 
 
 ###Editor
+####Editor matter
+* [Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube](https://www.youtube.com/watch?v=IUBw5e-zPXw)
+
 ####Vi/Vim
 * [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
 * Copy & Paste cross files
