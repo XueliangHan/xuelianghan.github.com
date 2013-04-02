@@ -23,7 +23,7 @@ Art & Literature: Film, Music, Painting, Photography, Reading
 
 Language & Culture (English)
 --------------------------------
-####Waiting update
+####Ability and Skills
 * Reading.[Eye--Mind--Cognition]
 * Speaking.[Mouth--Oral--Communication]
 * Writing.[Hand--Thinking--Thoughts]
@@ -32,11 +32,14 @@ Language & Culture (English)
   * [Noam Chomsky](http://en.wikipedia.org/wiki/Noam_Chomsky)
 
 ####Vocabulary & Grammar [Foundation]
-* Dictionary: Dictionary always been ignored by people, but ultimately, the people who realized their cognition to a word was wrong will figure out a fact that dictionary is the original source which gave them a bad/wrong perception. Choose a damn good dictionary from beginning, don't give even a chance to becom a tragedy.   
+* Dictionary, why it is matter?
+  * Dictionary always been ignored by people, but ultimately, the people who realized their cognition to a word was wrong will figure out a fact that dictionary is the original source which gave them a bad/wrong perception. Choose a damn good dictionary from beginning, don't give even a chance to becom a tragedy.   
   * (Chinese)[想学好英语？必先学会使用词典！](http://page.renren.com/601010496/note/899133279)
 * Dictionary: Tools, Information Media 
   * [Merriam-Webster Online Dict](http://www.merriam-webster.com/) is a descendant of Noah Webster's An American Dictionary of the English Language (1828).
   * [Google Translate](http://translate.google.com/) is also a very good tools to quickly get what you want.
+* Vocabulary
+  * [GRE核心词汇3000， 纯干货 打包下载-ShareWithU](http://www.sharewithu.com/thread-471738-1-1.html): PPT+PPT-Video
 
 ####Language Test
 * GRE/TOEFL/University

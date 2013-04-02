@@ -63,6 +63,7 @@ Unix/Linux Environment Development Tools Kit
 * Copy & Paste cross files
   * From: "\*yny
   * To: "\*p
+* See Vi/Vim master using Vi/Vim
 
 ####Emacs
 * Tutorial, Guide, How-To
@@ -71,8 +72,8 @@ Unix/Linux Environment Development Tools Kit
   * (Chinese)[一年成为Emacs高手(像神一样使用编辑器)](http://blog.csdn.net/redguardtoo/article/details/7222501)
 * Configuration file
   * Emacs master [Steve Purcell's](https://github.com/purcell/emacs.d) configuration file (highly recommended).
-* See master using Emacs
- * [Writing PPT with org-mode and beamer in Emacs (Youtube Video)](http://www.youtube.com/watch?v=Ho6nMWGtepY)
+* See Emacs master using Emacs
+ * [Writing PPT with org-mode and beamer in Emacs (Youtube Video)](http://www.youtube.com/watch?v=Ho6nMWGtepY): Still, it's good, but I like Apple Keynote.
  * [Emacs Power: Can your editor do THIS! (Youtube Video)](http://www.youtube.com/watch?v=EQAd41VAXWo)
 
 

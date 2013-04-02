@@ -8,6 +8,12 @@ Index
 * Education (Online Education Revolution)
 * Open Movement
 * Technology (Combination of Engineering and Apply Science)
+  * Field and Domain
+  * Knowledge Base
+  * News
+  * Web Front-End
+  * Web Back-End
+  * Web Server
 * Science - Masters and their works
 
 Education(Online Education Revolution)
@@ -181,6 +187,13 @@ Technology(GINR)
   * [SQL-W3School](http://www.w3schools.com/sql/index.asp)
   * [MySQL-W3School](http://dev.mysql.com/doc/index-topic.html)
   * Type of database: Strucutred Database, Semi-structure(NoSQL) Database, Key-Value Database, etc.
+
+
+
+
+#####Web Server
+* Linux
+* Master [Linus Torvalds](https://www.google.com/search?q=Linus+Torvalds)
 
 
 
