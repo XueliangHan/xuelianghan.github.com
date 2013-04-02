@@ -73,6 +73,14 @@ Technology(GINR)
 ###Domain & Field of Technology
 * AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
 
+###Technical Knowledge Base
+* IBM
+* [MSDN](http://msdn.microsoft.com/)
+* Google
+* Yahoo
+* Amazon
+* Apple
+
 ###Technology News
 * [KurzweilAI](http://www.kurzweilai.com)
 * [MIT Technology Review](http://technologyreview.com)
@@ -137,7 +145,8 @@ Technology(GINR)
 
 ####Web Development Technology
 #####Web Front-End Technologies
-* Learn to Make Webpages
+* [__Would you recommend starting from HTML5 & CSS3 for beginners? -StackOverFlow__](http://stackoverflow.com/questions/4744906/would-you-recommend-starting-from-html5-css3-for-beginners/4746056#4746056): Very high quality content, the best I've ever see, highly recommend.
+* Advices/Recommendations about how to Make Webpages
   * [Mozilla's Thimble](https://webmaker.org/en-US/tools/#thimble): Use this app to easily create and share your own web pages.
 * HTML & HTML5
   * [HTML-W3School](http://www.w3schools.com/html/index.asp)
@@ -157,9 +166,9 @@ Technology(GINR)
 * JSON
   * [JSON (JavaScript Object Notation)](http://en.wikipedia.org/wiki/JSON)—lightweight text-based open standard designed for human-readable data interchange
 * XML
-* Links
-  * [W3School Sitemap](http://www.w3schools.com/sitemap/default.asp): HTML, CSS, JS, XML Tutorials, Reference, Examples.
-  * (Chinese)Blog
+* [W3School Sitemap](http://www.w3schools.com/sitemap/default.asp): HTML, CSS, JS, XML Tutorials, Reference, Examples.
+* Personal Website/Blog about Web Front-End Technologies
+  * (Chinese)Blog[李克军](http://hikejun.com/)
 
 #####Web Back-End Technologies
 * Frameworks

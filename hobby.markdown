@@ -8,7 +8,7 @@ My hobbies
 Art & Literature: Film, Music, Painting, Photography, Reading
 ----------------------------------------------------------------
 ###Film
-* Life in A Day (2010): (Love, Fear). Extremely recommended, the best film and documentary I've ever seen in my life.
+* Life in A Day (2010): (Love, Fear). Highly recommended, the best film and documentary I've ever seen in my life.
 
 ###Photography
 * [Milky Way Scientists-Facebook](http://www.facebook.com/Milkway.Nasa.115943216485228220871)

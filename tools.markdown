@@ -56,14 +56,17 @@ Unix/Linux Environment Development Tools Kit
 * [Memory Leaks - Wikipedia](http://en.wikipedia.org/wiki/Memory_leak)
 * IBM Rational Purify, BoundsChecker, Valgrind, Insure++, Dr. Memory and memwatch
 
+
 ###Editor
 ####Vi/Vim
 * [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
 * Copy & Paste cross files
   * From: "\*yny
   * To: "\*p
-
 * Emacs
+  * Official Tutorial: Open emacs -> Press the button "ATL" and "x" same time -> type help-with-tutorial, there you go.
+  * [Tips for Learning Elisp? - StackOverFlow](http://stackoverflow.com/questions/41522/tips-for-learning-elisp)
+  * (Chinese)[一年成为Emacs高手(像神一样使用编辑器)](http://blog.csdn.net/redguardtoo/article/details/7222501)
 
 
 ###Version Control System - Git
