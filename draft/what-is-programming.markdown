@@ -5,19 +5,21 @@
 What is programming?
 ====================
 
+
 ###Quotes
-> Programming is actually teach you how to think. - Steve Jobs  
+> Programming is actually teach you how to think. -- Steve Jobs  
 
-> How to program a computer to do things for you? 
+> How to program a computer to do things for you? -- Question
 
-> Machine with intelligence could learn to see - and think - without the need to be programmed to do it.  
+> Machine with intelligence could learn to see - and think - without the need to be programmed to do it. -- Afterward by Tomaso Poggio from Book "Vision"
+
 
 ###Program a computer is to tell a computer to do things for you
-All things are processed as information form in a computer system, information need to be organized, not scattered at everywhere, and follow the procedures to transform into some other structure,
-So the progress in a computing machine is:
-* Input information (That will be the problem/question - computer acceptable form)
+All things are processed as information form in a computer system, information need to be organized/structured, not scattered at everywhere, and them are transform from one structure to another structure in a computer system, which is under the control of procedures.  
+So the progress of information processing in a computing machine is:  
+* Input information (That will be the problem/question with a computer acceptable form)
 * Store, Process information 
-* Output information (That will be the answer - computer form/human readable form)
+* Output information (That will be the answer with computer form/human readable form)
   * In CLR age
   * In GUI age, information form can be binary, text, image, audio, video, classic module is MVC. Model charge for processing information. View charge for show the result. Controler charge for control, interact with model and view, get user's action from view and tell view how to reaction/represent itself, tell model the new information(update from view/etc.) need to process, and get the result from model who have just finished process the new incoming information.
 
