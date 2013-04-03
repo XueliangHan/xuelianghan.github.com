@@ -21,6 +21,13 @@ My General Information Source
 * [MediaWiki](https://mediawiki.org/): Free software development
 * [Meta-Wiki](https://meta.wikimedia.org/): Wikimedia project coordination
 
+####Information Lib
+* [About.com](http://www.about.com/) Do more.
+* (All)[Internet Archive](http://archive.org/search)
+* (All)[Library of Congress](http://www.loc.gov/): The research library of the United States Congress, the oldest federal cultural institution in the United States.
+* (Book)[Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
+* These sites take the form of archives that quite properly preserve their information in the form of separate images or entire books accessible via search tools.
+* [The Victorian Web](http://www.victorianweb.org/index.html): An old but interesting information site, high quality.
 
 ###Business
 * [Business Insider](http://www.businessinsider.com/careers)
@@ -48,11 +55,6 @@ My General Information Source
 * (Advanced)[DARPA](http://www.darpa.mil): Defense Advanced Research Projects Agence). [RSS](http://darpa.mil/Rss.aspx?Colid=24)
 * (Ideas/Thought)[TED](http://www.ted.com)
 * (Review)[TopTenReview](http://www.toptenreview.com):We do the research, so you don't have to. {Software/Electronics/Web Services/Mobile/Appliance/Auto Tech/Science Tech/Small Business/ Careers/ENtertainment/Video.  
-* (All)[Internet Archive](http://archive.org/search)
-* (All)[Library of Congress](http://www.loc.gov/): The research library of the United States Congress, the oldest federal cultural institution in the United States.
-* (Book)[Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
-* These sites take the form of archives that quite properly preserve their information in the form of separate images or entire books accessible via search tools.
-* [The Victorian Web](http://www.victorianweb.org/index.html): An old but interesting information site, high quality.
 * (Chinese)[YeeYan译言](http://www.yeeyan.com): Mark and Translated High Quality English information source.
 * (Chinese)[萝卜网](http://luo.bo/): 前身是人人都是艺术家，分享国内外经典文字图片视频，并提供丰富的雷人恶搞视频、社会、哲理、感性、爱情、励志类文章。
 
