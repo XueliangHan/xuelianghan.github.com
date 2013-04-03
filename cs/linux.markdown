@@ -18,7 +18,8 @@ Index
 * bg: check background task in current shell
   * %1: recovery the first task
 
-####cp/scp
+####cp(copy)/scp(secure copy)
+* [SCP (Secure Copy) - Wikipedia](http://en.wikipedia.org/wiki/Secure_copy)
 * 1.Download _file_      from remote server
   * Command: _scp -P 2000 root@www.google.com:root/borg.tar.gz /home/borg.tar.gz_
   * _P_: Upper case "_P_" represent port, if you are not change the default SSH port, this won't be necessary

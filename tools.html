@@ -72,6 +72,25 @@
 <ul>
 <li><a href="http://gcc.gnu.org">GCC homepage at GNU project</a></li>
 <li><a href="en.wikipedia.org/wiki/GNU_Compiler_Collection">GCC Compiler Collection - Wikipedia</a></li>
+<li><a href="http://gcc.gnu.org/onlinedocs/">GCC online documentation</a></li>
+<li>Main parameters
+<ul>
+<li><em>-x language filename</em>: Specify explicitly the <em>language</em> for the following input files (rather than letting the compiler choose a default based on the file name suffix).</li>
+<li><em>-x none</em>: Turn off any specification of a language.</li>
+<li><em>-o</em>: "*.o",   Specify a target name, default is <em>a.out</em>.</li>
+<li><em>-c</em>: "*.o",   Only preprocessing, complication, assemble, </li>
+<li><em>-E</em>: "*.txt", Only preprocessing, you may want to use "<em>gcc -E binarySearch.c > preprocessing.txt</em>", because it will generate a 800+ lines of code even a hello-world program.</li>
+<li><em>-C</em>: "*.txt", Only preprocessing, but save the comments information.</li>
+<li><em>-S</em>: "*.s",   Stop after the stage of compilation proper, do not assemble.</li>
+<li><em>-M</em>:      Generate information related to files. </li>
+<li><em>-MM</em>:     Generate information related to files but ignore dependency caused by <em>#include<file></em></li>
+<li><em>OO</em>:      No optimization.</li>
+<li><em>-O/-O1</em>:  Optimize code.</li>
+<li><em>O2</em>:      Further optimization.</li>
+<li><em>O3</em>:      More further optimization.</li>
+<li><em>-shared</em>: Generate shared object.</li>
+<li><em>-static</em>: Forbid shared link.</li>
+</ul></li>
 </ul>
 
 <h3>Debugging</h3>
