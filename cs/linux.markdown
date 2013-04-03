@@ -8,7 +8,7 @@ Index
 -----
 * awk, sed, grep
 * shell interactive command
-* cat, cp/scp, dd, pstree, wget
+* cat, cd/pushd/popd, cp/scp, dd, pstree, wget
 * crontab
 
 
@@ -17,6 +17,11 @@ Index
 * End of stdin in the bash: CTRL+D
 * bg: check background task in current shell
   * %1: recovery the first task
+
+####cd/pushd/popd
+* pushd/popd: use to navigate during different directory
+  * _pushd /mnt_: navigate to /mnt and put current directory into stack
+  * _popd_: pop the top from stack and go to that directory
 
 ####cp(copy)/scp(secure copy)
 * [SCP (Secure Copy) - Wikipedia](http://en.wikipedia.org/wiki/Secure_copy)
