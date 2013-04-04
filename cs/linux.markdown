@@ -6,6 +6,7 @@ Linux Basic Interactive Shell Command
 
 Index
 -----
+* shell command
 * awk, sed, grep
 * shell interactive command
 * cat, cd/pushd/popd, cp/scp, dd, pstree, wget
@@ -17,6 +18,23 @@ Index
 * End of stdin in the bash: CTRL+D
 * bg: check background task in current shell
   * %1: recovery the first task
+
+####awk, sed, grep
+#####awk
+* awk is useful, but it has been in the shadow of perl from beginning, due to perl is capable to cross platform, and awk is not so compatible out of unix/linux plafform, but, awk is good at get some small things done.
+* awk function
+  * length(), index(), split(,,)
+* small practise
+> $ cat > awk.txt
+> testing the awk command
+* print length of the first line
+> (wrong) $ awk `{ 1 = length($0; print i}` awk
+> (right) $ awk '{ i = length($0); print i }' awk.txt
+> (result) 23
+* print the position of string "ing"
+> $ awk '{ i = index($0, "ing"); print i }' awk.txt
+* split the text by space and print each word
+> $ awk BEGIN {i = 1} { n = split($0,a," "); while (i < = n) {print a[i]; i++;} }' awk.txt
 
 ####cd/pushd/popd
 * pushd/popd: use to navigate during different directory

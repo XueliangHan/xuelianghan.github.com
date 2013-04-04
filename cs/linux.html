@@ -7,6 +7,7 @@
 <h2>Index</h2>
 
 <ul>
+<li>shell command</li>
 <li>awk, sed, grep</li>
 <li>shell interactive command</li>
 <li>cat, cd/pushd/popd, cp/scp, dd, pstree, wget</li>
@@ -24,7 +25,32 @@
 </ul></li>
 </ul>
 
+<h4>awk, sed, grep</h4>
+
+<h5>awk</h5>
+
+<ul>
+<li>awk is useful, but it has been in the shadow of perl from beginning, due to perl is capable to cross platform, and awk is not so compatible out of unix/linux plafform, but, awk is good at get some small things done.</li>
+<li>awk function
+<ul>
+<li>length(), index(), split(,,)</li>
+</ul></li>
+<li>small practise
+<blockquote>
+  <p>$ cat > awk.txt
+testing the awk command</li>
+<li>print length of the first line
+(wrong) $ awk <code>{ 1 = length($0; print i}</code> awk
+(right) $ awk '{ i = length($0); print i }' awk.txt
+(result) 23</li>
+<li>print the position of string "ing"
+$ awk '{ i = index($0, "ing"); print i }' awk.txt</li>
+<li>split the text by space and print each word
+$ awk BEGIN {i = 1} { n = split($0,a," "); while (i &lt; = n) {print a[i]; i++;} }' awk.txt</li>
+</ul></p>
+
 <h4>cd/pushd/popd</h4>
+</blockquote>
 
 <ul>
 <li>pushd/popd: use to navigate during different directory
