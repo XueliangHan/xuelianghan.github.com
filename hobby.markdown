@@ -66,11 +66,16 @@ Language & Culture (English)
 <hr>
 Travel - Different Area/Country/Nation/State with different Language/Culture
 -----------------------------------------------------------------------------
-* (Chinese)[你一辈子可能看不到的美景、世界上最美的地方](http://www.360doc.com/content/12/0912/17/544508_235750036.shtml)
-* (Chinese)(VIDEO)[留美三人行-优库在线]
+* (Photo)Landscape - The world most beautiful place (Chinese)[你一辈子可能看不到的美景、世界上最美的地方](http://www.360doc.com/content/12/0912/17/544508_235750036.shtml)
 
-###Shang Hai
-* (Blog)[Robbin-我为何喜欢上海不喜欢北京](http://www.robbinfan.com/blog/31/why-love-shanghai)
+* America
+  * (Documentary)(Chinese)[留美三人行-优库在线]
+  * (Documentary)Yansong's USA Trip Series.(Chinese)[岩松看美国系列]: 15 episodes.
+  * (Documentary)Virtual Trip Kustsu Los Angeles.USA.2008.BluRay.720p.AC3.x264-CHD
+
+* China, Bei Jing
+* China, Shang Hai
+  * (Blog)[Robbin-我为何喜欢上海不喜欢北京](http://www.robbinfan.com/blog/31/why-love-shanghai)
 
 </body>
 </html>
