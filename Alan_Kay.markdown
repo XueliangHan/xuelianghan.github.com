@@ -18,19 +18,18 @@ Famous Quotes from Alan Kay (The brillant deep thoughts)
 
 
 
-Waiting list
--------------
-###Alan Kay and Steve Jobs
-###Object Oriented
-* Actually I made up the term "object-oriented", and I can tell you I did not have C++ in mind.
+* Alan Kay and Steve Jobs
+* Object Oriented
+  * Actually I made up the term "object-oriented", and I can tell you I did not have C++ in mind.
+* [The Computer Revolution Hasn’t Happened Yet]
+  * [PDF Document](http://www.viewpointsresearch.org/pdf/m2007007a\_revolution.pdf)
+  * [Turing Award lecture: "The Computer Revolution Hasn't Happened Yet"](http://awards.acm.org/images/awards/140/vstream/2003/AlanKay/AK768kFull.mov)
 
-###Sofrware Engineering
-* [The Computer Revolution Hasn’t Happened Yet (pdf)](http://www.viewpointsresearch.org/pdf/m2007007a\_revolution.pdf)
 
 
 Reference and Recommemded Readings
 ----------------------------------
-* [Alan Kay - Wikipedia](http://en.wikipedia.org/wikipedia/Alan_kay)
+* [Alan Kay - Wikipedia](http://en.wikipedia.org/wiki/Alan_kay)
 * [Alan Kay - Wikiquote](http://en.wikiquote.org/wiki/Alan_Kay)
 * [The Deep Insights of Alan Kay](http://mythz.servicestack.net/blog/2013/02/27/the-deep-insights-of-alan-kay/)
 

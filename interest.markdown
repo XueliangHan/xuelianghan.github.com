@@ -205,7 +205,7 @@ TECHNOLOGY(GINR)
 
 ####Scifiction and Fantasy related to Technology
 * Film
-  * Iron Man Series(1, 2, 3)
+  * Iron Man Series(1, 2, 3), Arc Reactor, AI, Auto Engineering, and etc.
 
 
 
