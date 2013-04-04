@@ -164,10 +164,11 @@ Work Related Tools Kit
   * Linux: (Chinese)[Emacs Markdown](http://linuxtoy.org/archives/emacs-markdown-model.html), [ReText](sourceforge.net/p/retext/home/ReText/)
   * Windows: [MarkdownPad](http://markdownpad.com/)
 
-####Temporary online tools
-* Online Notepad: [notepad.cc](http://notepad.cc/)
-* Online Image Upload & Get URL: [imgur](http://imgur.com/)
-* Online Video Downloader: [KeepVID](http://keepvid.com/) (Support almost all online video website and Java is needed for faster fetching the download links)
+####Online tools (Platform independent)
+* For temporary usage.
+* Online Notepad: [notepad.cc](http://notepad.cc/): Light weight notepad.
+* Online Image Host [imgur](http://imgur.com/): Upload image and get the image URL.
+* Online Video Downloader: [KeepVID](http://keepvid.com/) Support almost all online video website and Java is needed for faster fetching the download links.
 
 
 
@@ -177,9 +178,9 @@ Work Related Tools Kit
 Reference
 ----------------------
 
-###Configuration files
-* filename: [vimrc](./files/vimrc), usage: rename vimrc to .vimrc, put it in your HOME directory.  
-* filename: [bashrc](./files/bashrc), usage: rename bashrc to .bashrc, put it in your HOME directory.  
+###My Configuration files
+* Vi/Vim configuration file -> [vimrc](./files/vimrc), usage: rename vimrc to .vimrc, put it in your HOME directory.  
+* Bash configuration file -> [bashrc](./files/bashrc), usage: rename bashrc to .bashrc, put it in your HOME directory.  
 
 ###Cofiguration text
 ####Java path in Windows

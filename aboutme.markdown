@@ -20,6 +20,7 @@ I'm interested in Biology and Astronomy, especially at human brain and universe,
 What's more, I have an incredible 3-Dimensional space imagination ability. In high school, my mathematics is just so-so, but my analytic geometry is the best, nobody better than me, I do not use calculation, I just use imagination to solve problem. I can captured a stuff, and create a virtual object in my mind, then play with it, get in/ get out/ rotate/ fold/ decompose/ reassemble/ view from any angle, in a nutshell, I can do whatever I like. (Don't give up your telent, this is a gift.)  
 
 ###LISP Hacker
+* The legacy from the master.
  
 ###Software Engineer
 This is what I love and do to make a living, this is what I'm expert at and skilled in. If you want know more, please read my resume, it's all in there.  

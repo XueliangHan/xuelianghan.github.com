@@ -7,6 +7,12 @@ My General Information Source
 * It can mean news, articles, blog posts, that's the narrow information part, it can also mean learning resource like Coursera/Udacity/Edx, that's the resource part from the board perspective, the information I use in here represent bit, following bit.   
 * Information source which exclude interest, and hobby.
 
+###Expand vision
+* (Advanced)[DARPA](http://www.darpa.mil): Defense Advanced Research Projects Agence). [RSS](http://darpa.mil/Rss.aspx?Colid=24)
+* (Ideas/Thought)[TED](http://www.ted.com)
+* (Chinese)[YeeYan译言](http://www.yeeyan.com): Mark and Translated High Quality English information source.
+* (Chinese)[萝卜网](http://luo.bo/): 前身是人人都是艺术家，分享国内外经典文字图片视频，并提供丰富的雷人恶搞视频、社会、哲理、感性、爱情、励志类文章。
+
 ####Wikipedia and it's sister projects
 * Book-[Wikibooks](https://en.wikibooks.org/): Free textbooks and manuals
 * Data-[Wikidata](https://en.wikidata.org/): Free knowledge base
@@ -52,11 +58,7 @@ My General Information Source
 
 
 ###Misc
-* (Advanced)[DARPA](http://www.darpa.mil): Defense Advanced Research Projects Agence). [RSS](http://darpa.mil/Rss.aspx?Colid=24)
-* (Ideas/Thought)[TED](http://www.ted.com)
 * (Review)[TopTenReview](http://www.toptenreview.com):We do the research, so you don't have to. {Software/Electronics/Web Services/Mobile/Appliance/Auto Tech/Science Tech/Small Business/ Careers/ENtertainment/Video.  
-* (Chinese)[YeeYan译言](http://www.yeeyan.com): Mark and Translated High Quality English information source.
-* (Chinese)[萝卜网](http://luo.bo/): 前身是人人都是艺术家，分享国内外经典文字图片视频，并提供丰富的雷人恶搞视频、社会、哲理、感性、爱情、励志类文章。
 
 
 ####Personal Weblog on IndependentHost
