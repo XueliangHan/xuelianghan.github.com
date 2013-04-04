@@ -24,15 +24,17 @@ Education & Learning (Online Education Revolution)
 --------------------------------------
 ####Opinions about moderm education system
 * (Blog Post)[On Education](http://alexmaccaw.com/posts/on_education) by [Alex Maccaw](http://alexmaccaw.com)
+* Integrate Online education and Continuous learning into daily life.
 
 ####Online Education (Learning Resource) - Massive Open Online Academic Education programs
-* University Courses Online
+* Online Education
   * [Coursera.org](https://www.coursera.org/): Take the world's best courses, Online, for Free.
   * [edX.org](https://www.edx.org/): The Future of Online Education for anyone, anywhere, anytime.  
   * [Udacity.org](https://www.udacity.org/): {Learn. Think. Do} Invent your future through free interactive college classes.
-* [MIT-OCW:OpenCourseWare](http://ocw.mit.edu/index.htm): MIT have the best classification system which will give you a clean & good cognition.
-  * [Find by topic](http://ocw.mit.edu/courses/find-by-topic/)
-* [Khan Academy](http://www.khanacademy.org/): Mission to accelerate learning for students of all ages and providing a high quality education for anyone, anywhere.
+  * [Khan Academy](http://www.khanacademy.org/): Mission to accelerate learning for students of all ages and providing a high quality education for anyone, anywhere.
+* University Courses Online
+  * [MIT-OCW:OpenCourseWare](http://ocw.mit.edu/index.htm): MIT have the best classification system, you can [Find by topic](http://ocw.mit.edu/courses/find-by-topic/)
+  * [Open Yale Course](http://oyc.yale.edu/)
 * [Education on Open Directory Project - Reference](http://www.dmoz.org/Reference/)
 
 ####Learning Resource - Specific focus on Computer Science field or related

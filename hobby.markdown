@@ -13,6 +13,12 @@ Art & Literature: Film, Music, Painting, Photography, Reading
 ###Film
 * Life in A Day (2010): (Love, Fear). Highly recommended, the best film and documentary I've ever seen in my life.
 
+###Music
+* Music: Classic Music
+* Film about amazing music
+  * August Rush (2007): [on IMDB](http://www.imdb.com/title/tt0426931/), [on Wikipedia](http://en.wikipedia.org/wiki/August_Rush), 
+  * Ma
+
 ###Photography
 * [Milky Way Scientists-Facebook](http://www.facebook.com/Milkway.Nasa.115943216485228220871)
 * TESOPhotography(Photo/Video) by Terje Sorgjerd, __Mind-blowing__, __Gorgeous__.
