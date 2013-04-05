@@ -10,6 +10,9 @@ What I see from my life experience
 ####Change
 * Before you change to new ONE and give up the privious ONE which made what you are today, think about it.
 
+####Information
+* A person only need two papers to descript himself/herself, the one is resume/cv, the other one is aboutme(auto/bio-graphy).
+
 ####Narrow
 * People toady, they are too narrow.
 
