@@ -8,7 +8,7 @@ perl md.pl project.markdown > project.html
 perl md.pl resume.markdown > resume.html
 perl md.pl jianli.markdown > jianli.html
 perl md.pl skill.markdown > skill.html
-perl md.pl tools.markdown > tools.html
+perl md.pl tool.markdown > tool.html
 perl md.pl misc.markdown > misc.html
 perl md.pl personal-development.markdown > personal-development.html
 
