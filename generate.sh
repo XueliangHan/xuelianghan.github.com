@@ -12,9 +12,10 @@ perl md.pl tools.markdown > tools.html
 perl md.pl misc.markdown > misc.html
 perl md.pl personal-development.markdown > personal-development.html
 
-perl md.pl Alan_Kay.markdown > Alan_Kay.html
 
 
 #DIR draft
 perl md.pl ./cs/linux.markdown > ./cs/linux.html
 perl md.pl ./draft/what-is-programming.markdown > ./draft/what-is-programming.html
+perl md.pl ./masters/Alan_Kay.markdown > ./masters/Alan_Kay.html
+perl md.pl ./masters/Steve_Jobs.markdown > ./masters/Steve_Jobs.html
