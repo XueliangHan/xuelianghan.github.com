@@ -66,16 +66,23 @@ Language & Culture (English)
 <hr>
 Travel - Different Area/Country/Nation/State with different Language/Culture
 -----------------------------------------------------------------------------
-* (Photo)Landscape - The world most beautiful place (Chinese)[你一辈子可能看不到的美景、世界上最美的地方](http://www.360doc.com/content/12/0912/17/544508_235750036.shtml)
+* Alex Maccaw
+  * (Text+Photo)[How to travel around the world for a year](http://alexmaccaw.com/posts/how_to_travel_around_the_world).2012-09.
+  * (Text+Photo)[Traveling, Writing and Programming](http://alwxmaccaw.co.uk/posts/traveling_writing_programming).2013-03.
+* (Chinese)(Photo)[Landscape - The world's most beautiful place that you may never have a chance to see](http://www.360doc.com/content/12/0912/17/544508_235750036.shtml)
 
+* Africa
+  * (Chinese)(Text+Photo)[The coolest things of my life - back from Tanzania](http://blog.renren.com/share/269071291/15449298105).2013-03.
 * America
-  * (Documentary)(Chinese)[留美三人行-优库在线]
-  * (Documentary)Yansong's USA Trip Series.(Chinese)[岩松看美国系列]: 15 episodes.
+  * (Chinese)(Documentary)[留美三人行-优库在线]
+  * (Chinese)(Documentary)Yansong's USA Trip Series.(Chinese)[岩松看美国系列]: 15 episodes.
   * (Documentary)Virtual Trip Kustsu Los Angeles.USA.2008.BluRay.720p.AC3.x264-CHD
 
-* China, Bei Jing
 * China, Shang Hai
-  * (Blog)[Robbin-我为何喜欢上海不喜欢北京](http://www.robbinfan.com/blog/31/why-love-shanghai)
+  * (Chinese)(Blog-post)[Robbin-Why I like ShangHai and don't like Beijing](http://www.robbinfan.com/blog/31/why-love-shanghai)
+* China, Hong Kong
+  * (Chinese)(Blog-post)[Sharing my personal experience at Hong Kong and Macao](http://blog.hetaoos.com/archives/108).2012-12.
+
 
 </body>
 </html>
