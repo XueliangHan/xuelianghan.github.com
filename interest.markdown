@@ -145,6 +145,7 @@ TECHNOLOGY(GINR)
 * Android-Google
   * [Google Android Developer Guide](http://developer.android.com/guide/index.html)
   * [Wiki\_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
+  * [CyanogenMod](http://www.cyanogenmod.org/):CyanogenMod is an aftermarket firmware for a number of cell phones based on the open-source Android operating system. It offers features not found in the official Android based firmwares of vendors of these cell phones.
 * Mobile Computing/Wearable Computing (Phone, Glass, Watch, Cloth)
 
 
