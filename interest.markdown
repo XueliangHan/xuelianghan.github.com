@@ -6,6 +6,7 @@ My Interests, Masters & Their works
 * (Definition of interest by Merriam-Webster: A feeling that accompanies or causes special attention to an object or class of objects)  
 * My interest: `Engineering`, `Open Source`, `Programming`, `Science`, `Technology`
 
+<hr>
 Index
 ------
 * Education & Learning (Online Education Revolution)
@@ -20,6 +21,7 @@ Index
 * Open Movement
 * Mathematcis (Mind)
 
+<hr>
 Education & Learning (Online Education Revolution)
 --------------------------------------
 ####Opinions about moderm education system
@@ -70,6 +72,7 @@ Education & Learning (Online Education Revolution)
 
 
 
+<hr>
 TECHNOLOGY(GINR)
 ----------------
 ###Domain & Field of Technology
@@ -210,6 +213,7 @@ TECHNOLOGY(GINR)
 
 
 
+<hr>
 ###Science - Pursuit for truth
 ####Intelligence, Life, Human Brain, Bioscience (Biology, Neurology)
 * Key words: Cognition/Perception, Neuroscience & Reverse-Engineering, Artificial Intelligence.
@@ -234,6 +238,7 @@ TECHNOLOGY(GINR)
 
 
 
+<hr>
 ##Open Movement
 [Open Movement - Wikipedia Category](https://en.wikipedia.org/wiki/Category:Open_methodologies)
 ####Open Source
