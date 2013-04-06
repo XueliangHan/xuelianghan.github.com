@@ -4,19 +4,11 @@
 My Interests, Masters & Their works
 ===================================
 * (Definition of interest by Merriam-Webster: A feeling that accompanies or causes special attention to an object or class of objects)  
-* My interest: `Engineering`, `Open Source`, `Programming`, `Science`, `Technology`
 
 <hr>
 Index
 ------
 * Education & Learning (Online Education Revolution)
-* Technology (Combination of Engineering and Apply Science)
-  * Field and Domain
-  * Knowledge Base
-  * News
-  * Web Front-End
-  * Web Back-End
-  * Web Server
 * Science - Masters and their works
 * Open Movement
 * Mathematcis (Mind)
@@ -69,147 +61,6 @@ Education & Learning (Online Education Revolution)
 * [Meta-Wiki](https://meta.wikimedia.org/): Wikimedia project coordination
 
 
-
-
-
-<hr>
-TECHNOLOGY(GINR)
-----------------
-###Domain & Field of Technology
-* AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
-
-###Technical Knowledge Base
-* IBM
-* [MSDN](http://msdn.microsoft.com/)
-* Google
-* Yahoo
-* Amazon
-* Apple
-
-###Technology News
-* [KurzweilAI](http://www.kurzweilai.com)
-* [MIT Technology Review](http://technologyreview.com)
-* [Hacker News]
-* [Slashdot](http://slashdot.com)
-
-
-* AI (Artificial Intelligence)
-  * [Noam Chomsky on Where Artificial Intelligence Went Wrong](http://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/)
-  * Tomaso Poggio - Afterward in "Vision"-2010-2ed
-  * [Pluskid-ChiyuanZhan's summarize](http://freemind.pluskid.org/machine-learning/noam-chomsky-on-where-ai-went-wrong)
-  * (Chinese&English Articles)[Psychology and Philosophy about Artificial Intelligence](http://newmind40.com/gb.html)
-
-####IT(Information Technology) (Internet/Web/Software)
-* [ACM TechNews](http://technews.acm.org): Providing timely information for IT professionals three times a week.
-* [TechCrunch](http://techcrunch.com)
-* [The Next Web](http://thenextweb.com)
-* [CNET](http://www.cnet.com)
-* KPCB Internet Trend Report (Very Valuable): 
-  * [2012](http://s3.amazonaws.com/kpcbweb/files/58/KPCB_Internet_Trends_2012_FINAL.pdf?1340750868)
-  * [2011](http://ictvglobal.com/download/Internet%20Trends%202011.pdf)
-* Chinese
-  * [弯曲评论](http://www.valleytalk.org/)：科技、人物、潮流。
-
-
-###RT (Robotic Technology): 
-* Write Code for Robots
-  * [Arduino](http://www.arduino.cc/): For anyone interested in creating interactive objects or environments.
-  * [Lego Mindstorms](http://mindstorms.lego.com/): Create small, customizable and programmable robots.
-* [TED: Vijay Kumar: Robots that fly ... and cooperate](http://www.ted.com/talks/lang/en/vijay_kumar_robots_that_fly_and_cooperate.html) by Prof. [Vijay Kumar](http://www.seas.upenn.edu/~kumar)
-
-* Technology Related:
-  * [Solve For <X>](https://www.solveforx.com/): A forum to encourage and amplify technology-based moonshot thinking and collaboration.
-
-
-
-
-###Health & Mechine Technology - (Practical Study Science and Apply it to Extend Life)
-* (Website)[Ray and Terry's Longevity Products](http://www.rayandterry.com/index.php)
-* (Open Course)[Food and Nutrition at Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=en&cats=food)
-* Life Extension
-  * (Project)Ray Kurzweil's Health Enhance Project
-  * (Unread)(Information)[Ray Kurzweil Diet Supplements](http://best-herbs-for-health.com/ray-kurzweil-diet-supplements/)
-  * (Unread)(Information)[Transcend by Ray Kurzweil and Terry Grossman](http://samsnyder.com/2011/05/17/transcend-by-ray-kurzweil-and-terry-grossman/)
-  * [Life Extension Subject on Youtube](https://www.youtube.com/playlist?list=PL50512BA236987B62)
-* (Unread)(BookInfo)[27 Must-Read Fitness, Health, and Happiness Books | Greatist](http://greatist.com/happiness/must-read-books-health-fitness/)
-* Key words: Learn/Study Food, Research Diet Supplements
-* Key person: Ray Kurzweil, Terry Grossman M.D
-  * (People)[Melissa McKnight | LinkedIn](http://www.linkedin.com/pub/melissa-mcknight/29/a67/777)
-  * (People)[Sam Snyder](http://samsnyder.com/about): Not a medical professional, improving the health of people around the world by using findings from science to create better software.
-
-
-
-
-###Software Technology - Software running on the Server, Web, Mobile
-####Mobile Development Technology
-* Make Your Own Mobile Apps
-  * [AppInventor](http://www.appinventor.org/): Learn to build apps for Android phones and tablets within hours.
-  * [Codea (iPad)](http://twolivesleft.com/Codea/): Create games and simulations — or just about any visual idea you have.
-* Android-Google
-  * [Google Android Developer Guide](http://developer.android.com/guide/index.html)
-  * [Wiki\_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
-  * [CyanogenMod](http://www.cyanogenmod.org/):CyanogenMod is an aftermarket firmware for a number of cell phones based on the open-source Android operating system. It offers features not found in the official Android based firmwares of vendors of these cell phones.
-* Mobile Computing/Wearable Computing (Phone, Glass, Watch, Cloth)
-
-
-
-####Web Development Technology
-#####Web Front-End Technologies
-* [__Would you recommend starting from HTML5 & CSS3 for beginners? -StackOverFlow__](http://stackoverflow.com/questions/4744906/would-you-recommend-starting-from-html5-css3-for-beginners/4746056#4746056): Very high quality content, the best I've ever see, highly recommend.
-* Advices/Recommendations about how to Make Webpages
-  * [Mozilla's Thimble](https://webmaker.org/en-US/tools/#thimble): Use this app to easily create and share your own web pages.
-* HTML & HTML5
-  * [HTML-W3School](http://www.w3schools.com/html/index.asp)
-  * [HTML-Tags-W3School](http://www.w3schools.com/tags/default.asp): Core of HTML.
-  * [HTML - Wikipedia](http://en.wikipedia.org/wiki/HTML)
-* JavaScript: An interpreted computer programming language.
-  * [JavaScript - Wikipedia](http://en.wikipedia.com/wiki/JavaScript)
-  * [JavaScript-W3School](http://www.w3schools.com/js/index.asp)
-  * [JQuery-W3School](http://www.w3schools.com/jquery/index.asp)
-* CSS & CSS3
-  * [CSS-W3School](http://www.w3schools.com/css/index.asp)
-  * [Cascading Style Sheets - Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-* Ajax
-  * [Ajax (programming) - Wikipedia](http://en.wikipedia.org/wiki/Ajax\_(programming))
-* DOM
-  * [DOM (Document Object Model](http://en.wikipedia.org/wiki/Document_Object_Model)
-* JSON
-  * [JSON (JavaScript Object Notation)](http://en.wikipedia.org/wiki/JSON)—lightweight text-based open standard designed for human-readable data interchange
-* XML
-* [W3School Sitemap](http://www.w3schools.com/sitemap/default.asp): HTML, CSS, JS, XML Tutorials, Reference, Examples.
-* Personal Website/Blog about Web Front-End Technologies
-  * (Chinese)Blog[李克军](http://hikejun.com/)
-
-#####Web Back-End Technologies
-* Frameworks
-  * Clue: WebObjects, advanced and powerful.
-* Perl
-  * [Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)
-* Python
-  * [Python Short Course - CalTech](http://www.wag.caltech.edu/home/rpm/python\_course)
-* Database
-  * [SQL-W3School](http://www.w3schools.com/sql/index.asp)
-  * [MySQL-W3School](http://dev.mysql.com/doc/index-topic.html)
-  * Type of database: Strucutred Database, Semi-structure(NoSQL) Database, Key-Value Database, etc.
-
-
-####Server Technologies
-* Software Running on Servers
-  * Operating System: Linux
-  * Large Software System
-* Master [Linus Torvalds](https://www.google.com/search?q=Linus+Torvalds)
-
-
-
-####Testing Technologies
-* Regression Test
-  * What regression mean? It's definition is retrun to a worse or lessdeveloped state.
-  * In my software project, a module is working good in previous version, but got a malfunction in new version, so, this module have a regression, because it backward to a unstable state from a stable state.
-  * Regression test make sure that new code have fix the bugs, and not break the module's current function.
-
-####Scifiction and Fantasy related to Technology
-* Film
-  * Iron Man Series(1, 2, 3), Arc Reactor, AI, Auto Engineering, and etc.
 
 
 
