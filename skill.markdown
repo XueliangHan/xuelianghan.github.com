@@ -24,6 +24,7 @@ Content
 ####Time Management (Also called: Time arrangement/Energy management)
 * Definition of Time Management: It is generally called time management, and it also got a lot of other representions, but, fundamentally, it's a thing about how to spend your time, how to be more effective. That's Time Management's work, no more, just it.
 * [26 Time Management Hacks I Wish I'd Known at 20](http://www.slideshare.net/egarbugli/26-time-management-hacks-i-wish-id-known-at-20) Note: No context at all, just the conclusions from their experiences, but, if you can decode the message, and use the right advice into appropriate situation, it has lots of help.
+* [Why I Go Home: A Developer Dad’s Manifesto | A Work in Progress](http://adamschepis.com/blog/2011/09/15/why-i-go-home-a-dads-manifesto/)
 
 #####By Time
 * Morning
