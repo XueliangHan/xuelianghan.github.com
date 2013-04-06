@@ -19,6 +19,9 @@ perl md.pl personal-development.markdown > personal-development.html
 
 #DIR draft
 perl md.pl ./cs/linux.markdown > ./cs/linux.html
-perl md.pl ./draft/what-is-programming.markdown > ./draft/what-is-programming.html
+perl md.pl ./cs/LISP.markdown > ./cs/LISP.html
+
 perl md.pl ./masters/Alan_Kay.markdown > ./masters/Alan_Kay.html
 perl md.pl ./masters/Steve_Jobs.markdown > ./masters/Steve_Jobs.html
+
+perl md.pl ./draft/what-is-programming.markdown > ./draft/what-is-programming.html
