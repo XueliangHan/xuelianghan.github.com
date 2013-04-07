@@ -4,7 +4,8 @@
 
 Craftsman's tools in Computer World
 ===================================
-This is a place where I learn how to use tools.  
+* This is a place where I learn how to use tools
+* The best way to master a tools is to use it in the real world to do some parctical task, and it's better have a master with you, so when things go wrong, you can fix it very quickly, this kind of learning stragety will help you mastering the tools as quick as possible.
 
 
 
@@ -12,12 +13,14 @@ This is a place where I learn how to use tools.
 
 Index
 ------
+* Editor(Vi/Vim, Emacs)
+* Version Control System(Linux, Mac OS X)
+
 ###A full development tools kit for a specific development need
 * Unix/Linux Environment Development Tools Kit:
   * * Auto(GNU Make)
   * Build System - GNU(Autoconf, Autoheader, Automake, Libtool)
   * Compiler(GCC)
-  * Editor(Vi/Vim, Emacs)
   * * Database(SQLite, MySQL)
   * * Debugger(GDB, DDD)
   * Version-control(Git)
@@ -33,18 +36,69 @@ Index
   * MSDN
   * Version-control(SVN)  
 * Mac OS X
-  * Editor(Vi/Vim, Emacs, Textmate, BBedit)
-* Cross Platform Environment:
-  * Continuous Integration Environment - Jenkins(Hudson)}
-  * IDE(Eclipse)
-  * Mind-map(FreeMind, FreePlane, Personal-brain)
-  * Text-processing & Type setting(HTML, Markdown, TeXmaker)  
+  * Editor(Vi/Vim, Emacs, Sublime, Textmate, BBedit)
 * Mobile Environment Development Tools- Android
 * Web Environment Development Tools Kit
   * [Google Web Toolkit(GWT)]
   * Chrome
 
+* Cross Platform Environment:
+  * Continuous Integration Environment - Jenkins(Hudson)}
+  * IDE(Eclipse)
+  * Mind-map(FreeMind, FreePlane, Personal-brain)
+  * Text-processing & Type setting(HTML, Markdown, TeXmaker)  
 
+
+
+###Editor
+* Editor is matter
+  * [Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube](https://www.youtube.com/watch?v=IUBw5e-zPXw)
+* In order to get one specific thing done, the editor I use.
+  * [A very good answer on StackOverFlow about how to use Emacs and Vim to get different things done](http://stackoverflow.com/a/592265/1805394): Brian Carper use Emacs for LISP, CSS, JavaScript and such, and use Vim for Ruby, Python, Perl, PHP, BASH, Plaintext, and almost anything else.
+
+####Vi/Vim
+* See Vi/Vim master using Vi/Vim
+* [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
+* Usage: Copy & Paste cross files
+  * From: "\*yny
+  * To: "\*p
+* OS - Linux
+  * Ubuntu: _sudo apt-get install vim_
+  * Vim configuration file _.vimrc_ path: _/home/"Yourname"/.vimrc_
+* OS -  Mac OS X
+  * Vim is already in the system, _usr/share/vim_
+  * Vim configuration file _vimrc_ path : _/usr/share/vim/vimrc_, there is no dot befor the filename which is different from Linux.
+
+####Emacs
+* Tutorial, Guide, How-To
+  * Official Tutorial: Open emacs -> Press the button "ATL" and "x" same time -> type help-with-tutorial, there you go.
+  * [Tips for Learning Elisp? - StackOverFlow](http://stackoverflow.com/questions/41522/tips-for-learning-elisp)
+  * (Chinese)[一年成为Emacs高手(像神一样使用编辑器)](http://blog.csdn.net/redguardtoo/article/details/7222501)
+* Configuration file
+  * Emacs master [Steve Purcell's](https://github.com/purcell/emacs.d) configuration file (highly recommended).
+* See Emacs master using Emacs
+ * [Writing PPT with org-mode and beamer in Emacs (Youtube Video)](http://www.youtube.com/watch?v=Ho6nMWGtepY): Still, it's good, but I like Apple Keynote.
+ * [Emacs Power: Can your editor do THIS! (Youtube Video)](http://www.youtube.com/watch?v=EQAd41VAXWo)
+
+
+####Others
+* Sublime
+  * [Sublime 2 Official Website](http://www.sublimetext.com/2)
+* TextMate
+  * [Text - The missing editor for Mac OS X](http://macromates.com)
+  * Key point: Beautiful user interface, powerful micro definition, download and edit bundles, improve the develop efficiency, many Rails developer use it to do ruby programming.
+
+
+
+
+###Version Control System - Git
+* [Git-SCM Official Website](http://git-scm.com): Download it from website.
+* [Git Documents](https://git-scm.com/doc): It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
+  * [Reference](https://git-scm.com/docs/)
+  * (Book)[Pro Git](https://git-scm.com/book)
+  * [Videos](https://git-scm.com/videos)
+  * [External Links](https://git-scm/doc/ext)
+* (Chinese)[Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command): Good summary.
 
 
 
@@ -84,44 +138,37 @@ Unix/Linux Environment Development Tools Kit
 * IBM Rational Purify, BoundsChecker, Valgrind, Insure++, Dr. Memory and memwatch
 
 
-###Editor
-* Editor is matter
-  * [Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube](https://www.youtube.com/watch?v=IUBw5e-zPXw)
-* In order to get one specific thing done, the editor I use.
-  * [A very good answer on StackOverFlow about how to use Emacs and Vim to get different things done](http://stackoverflow.com/a/592265/1805394): Brian Carper use Emacs for LISP, CSS, JavaScript and such, and use Vim for Ruby, Python, Perl, PHP, BASH, Plaintext, and almost anything else.
-
-####Vi/Vim
-* [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
-* Copy & Paste cross files
-  * From: "\*yny
-  * To: "\*p
-* See Vi/Vim master using Vi/Vim
-
-####Emacs
-* Tutorial, Guide, How-To
-  * Official Tutorial: Open emacs -> Press the button "ATL" and "x" same time -> type help-with-tutorial, there you go.
-  * [Tips for Learning Elisp? - StackOverFlow](http://stackoverflow.com/questions/41522/tips-for-learning-elisp)
-  * (Chinese)[一年成为Emacs高手(像神一样使用编辑器)](http://blog.csdn.net/redguardtoo/article/details/7222501)
-* Configuration file
-  * Emacs master [Steve Purcell's](https://github.com/purcell/emacs.d) configuration file (highly recommended).
-* See Emacs master using Emacs
- * [Writing PPT with org-mode and beamer in Emacs (Youtube Video)](http://www.youtube.com/watch?v=Ho6nMWGtepY): Still, it's good, but I like Apple Keynote.
- * [Emacs Power: Can your editor do THIS! (Youtube Video)](http://www.youtube.com/watch?v=EQAd41VAXWo)
 
 
-###Version Control System - Git
-* (Chinese)[Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command): Good summary.
 
 
 
 
 Mac OS X
 --------
-###Editor
-* Vi/Vim & Emacs inherited from Unix/Linux, I won't talk about it at here.
-* TextMate
-  * [Text - The missing editor for Mac OS X](http://macromates.com)
-  * Key point: Beautiful user interface, powerful micro definition, download and edit bundles, improve the develop efficiency, many Rails developer use it to do ruby programming.
+###Database
+* MySQL
+  * [MySQL-Download](http://dev.mysql.com/downloads/mysql)
+  * 3 componment: MySQL, MySQL.prefpan(install into control panle), MySQLStartupItem
+
+
+###IDE
+* Xcode
+  * Install Xcode from App Store or local file
+  * Install Xcode command line tools: Open Xcode -> Perferences -> Downloads -> Commponents -> Command Line Tools (150MB)
+
+###Programm install in command line
+* Brew
+  * [Brew on Github](http://mxcl.github.io/homebrew/)
+
+###Productivity
+* Alfred
+
+###Ruby
+* RVM(Ruby, Rails)
+  * [RVM official site](https://rvm.io)
+  * Component will automatically install: autoconf, automake, libtool, pkg-config, libyaml, readline, readline, libxml2, libxslt, libksba, openssl, sqlite
+
 
 
 

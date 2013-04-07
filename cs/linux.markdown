@@ -7,6 +7,7 @@ Linux Basic Interactive Shell Command
 Index
 -----
 * shell command
+* shell shortcut key
 * awk, sed, grep
 * shell interactive command
 * cat, cd/pushd/popd, cp/scp, dd, pstree, wget
@@ -18,6 +19,16 @@ Index
 * End of stdin in the bash: CTRL+D
 * bg: check background task in current shell
   * %1: recovery the first task
+
+####Shell shortcut
+* [Bash Shortcuts for Maximum Productivity](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity)
+* Backward for a word
+  * Mac OS X: ALT(Option) + Left(Home)
+* Beginning of the command line you currently typing on: CTRL + a
+* Eng       of the command line you currently typing on: CTRL + e
+* Move backward one word: CTRL + b
+* Move forward  one word: CTRL + f
+
 
 ####awk, sed, grep
 #####awk
