@@ -158,7 +158,7 @@ Mac OS X
   * Install Xcode command line tools: Open Xcode -> Perferences -> Downloads -> Commponents -> Command Line Tools (150MB)
 
 ###Programm install in command line
-* Brew
+* Brew: Homebrew installs _the stuff you need_ that Apple didn't
   * [Brew on Github](http://mxcl.github.io/homebrew/)
 
 ###Productivity

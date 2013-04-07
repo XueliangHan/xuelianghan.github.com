@@ -125,6 +125,7 @@ TECHNOLOGY(GINR)
 * Personal Website/Blog about Web Front-End Technologies
   * (Chinese)Blog[李克军](http://hikejun.com/)
 
+
 #####Web Back-End Technologies
 * Frameworks
   * Clue: WebObjects, advanced and powerful.
@@ -132,6 +133,8 @@ TECHNOLOGY(GINR)
   * [Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)
 * Python
   * [Python Short Course - CalTech](http://www.wag.caltech.edu/home/rpm/python\_course)
+* Ruby
+  * [Ruby - China](http://ruby-china.org)
 * Database
   * [SQL-W3School](http://www.w3schools.com/sql/index.asp)
   * [MySQL-W3School](http://dev.mysql.com/doc/index-topic.html)
