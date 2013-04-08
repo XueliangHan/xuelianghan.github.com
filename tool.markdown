@@ -93,12 +93,16 @@ Index
 
 ###Version Control System - Git
 * [Git-SCM Official Website](http://git-scm.com): Download it from website.
+  * [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
 * [Git Documents](https://git-scm.com/doc): It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
   * [Reference](https://git-scm.com/docs/)
   * (Book)[Pro Git](https://git-scm.com/book)
   * [Videos](https://git-scm.com/videos)
   * [External Links](https://git-scm/doc/ext)
 * (Chinese)[Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command): Good summary.
+* Recommended
+  * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics)
+
 
 
 

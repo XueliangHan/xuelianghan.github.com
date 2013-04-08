@@ -11,7 +11,7 @@ Index
 * awk, sed, grep
 * shell interactive command
 * cat, cd/pushd/popd, cp/scp, dd, pstree, wget
-* crontab
+* crontab, purge
 
 
 ####Shell command
@@ -106,7 +106,8 @@ Index
   * 5 0-9/3 * * * (/bin/sh /home/h/publishing/xuelianghan.github.com/up.sh)
   * 1 10-23/2 * * * (/bin/sh /home/h/publishing/xuelianghan.github.com/generate.sh)
   * 5 10-23/2 * * * (/bin/sh /home/h/publishing/xuelianghan.github.com/up.sh)
-
+####Purge
+  Mac OS X: Clean inactive memory  
 
 
 ###diff
