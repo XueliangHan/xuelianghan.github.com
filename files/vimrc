@@ -39,7 +39,7 @@ syntax on
 "写上很有用 
 
 set autoindent 
-set smartindent 
+set smartindent "automatically execute indent at the new line"
 
 "第一行设置tab键为4个空格，第二行设置当行之间交错时使用4个空格 
 set tabstop=4 
@@ -95,6 +95,9 @@ set fileformats=unix
 
 "set encoding=prc
 set encoding=utf-8
+
+"Mac OS X @ 2013-04-08: solve the problem of unable to delete 'enter symbol' by using 'backspace' or 'delete'.
+set backspace=indent,eol,start
 
 """"""""""""""""""""""""""""""
 " Tag list (ctags)
@@ -208,3 +211,4 @@ map <C-t> :call RunResultWithTest()<CR>
 let g:SuperTabRetainCompletionType=2
 "let g:SuperTabDefaultCompletionType="<C-X><C-O>""
 
+"new thought @ 2013-04-08: build section by 'OS' and ''

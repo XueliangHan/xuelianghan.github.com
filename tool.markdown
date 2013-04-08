@@ -62,12 +62,14 @@ Index
 * Usage: Copy & Paste cross files
   * From: "\*yny
   * To: "\*p
-* OS - Linux
-  * Ubuntu: _sudo apt-get install vim_
-  * Vim configuration file _.vimrc_ path: _/home/"Yourname"/.vimrc_
-* OS -  Mac OS X
-  * Vim is already in the system, _usr/share/vim_
-  * Vim configuration file _vimrc_ path : _/usr/share/vim/vimrc_, there is no dot befor the filename which is different from Linux.
+* Delete space: Delete line with spaces: `:g/^$/d`, delete spaces before the first letter of a line: `:%s/^\s*//g`, delete spaces after the last letter of a line: `:%s/\s*$//g`.
+* Installation Vim
+  * In Linux, in _Ubuntu_,excute `sudo apt-get install vim`
+  * In Mac OS X, Vim is already in the system, at `/usr/share/vim`.
+* Configuration Vim
+  * In Linux, `.vimrc` is the configuration file of Vim, store at `/home/"Yourname"/.vimrc`
+  * In Mac OS X, it's same to Linux, the general configuration file in store in `/usr/share/vim/vimrc`.
+  * A configuration in Chinese [Mac Vimrc](http://blog.sina.com.cn/s/blog_5a6efa330101cumx.html)
 
 ####Emacs
 * Tutorial, Guide, How-To
@@ -102,7 +104,18 @@ Index
 * (Chinese)[Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command): Good summary.
 * Recommended
   * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics)
+* git config
+* git init
+* git clone
 
+* git add
+* git commit
+
+* git pull
+* git push
+
+* git status
+* git log
 
 
 
@@ -215,13 +228,18 @@ Work Related Tools Kit
   * Linux: (Chinese)[Emacs Markdown](http://linuxtoy.org/archives/emacs-markdown-model.html), [ReText](sourceforge.net/p/retext/home/ReText/)
   * Windows: [MarkdownPad](http://markdownpad.com/)
 
+####Professional Tools
+* [Moqups](http://moqups.com): Moqups gives users immediate access to all the tools they need to create a functional prototype, mockup or UI concept.
+
 ####Online tools (Platform independent)
 * For temporary usage.
-* Online Notepad: [notepad.cc](http://notepad.cc/): Light weight notepad.
-* Online Image Host [imgur](http://imgur.com/): Upload image and get the image URL.
-* Online Video Downloader: [KeepVID](http://keepvid.com/) Support almost all online video website and Java is needed for faster fetching the download links.
+* Notepad Online: [Notepad.cc](http://notepad.cc/): Light weight notepad.
+* Image Online Host [Imgur](http://imgur.com/): Upload image and get the image URL.
+* Video Downloader for online video website: [KeepVID](http://keepvid.com/) Support almost all online video website and Java is needed for faster fetching the download links.
 
-
+####Online services
+* [About me](https://about.me): Make is easy for people to learn about you and find what you share.
+* [Avatar](https://en.gravatar.com/): Upload your avatar use it on many website.
 
 
 
