@@ -11,6 +11,7 @@ Personal Life Development
 
 ###Advices may make sure you continue on the right path
 * [Advice From An Old Programmer](http://hackecho.com/2011/06/advice-from-an-old-programmer/): At the end of the book "Learn Python The Hard Way, 2nd Edition"
+* 10000 hours law
 * [42 Successful People Share The Best Advice They Ever Received](http://www.businessinsider.com/linkedin-best-advice-2013-2): Wisdom generated from experience.
 
 * Autobiography - Short length

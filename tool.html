@@ -90,11 +90,6 @@
 <ul>
 <li>See Vi/Vim master using Vi/Vim</li>
 <li><a href="http://coolshell.cn/articles/5426.html">CoolShell's Vim short course</a></li>
-<li>Usage: Copy &amp; Paste cross files
-<ul>
-<li>From: "*yny</li>
-<li>To: "*p</li>
-</ul></li>
 <li>Delete space: Delete line with spaces: <code>:g/^$/d</code>, delete spaces before the first letter of a line: <code>:%s/^\s*//g</code>, delete spaces after the last letter of a line: <code>:%s/\s*$//g</code>.</li>
 <li>Installation Vim
 <ul>
@@ -106,6 +101,61 @@
 <li>In Linux, <code>.vimrc</code> is the configuration file of Vim, store at <code>/home/"Yourname"/.vimrc</code></li>
 <li>In Mac OS X, it's same to Linux, the general configuration file in store in <code>/usr/share/vim/vimrc</code>.</li>
 <li>A configuration in Chinese <a href="http://blog.sina.com.cn/s/blog_5a6efa330101cumx.html">Mac Vimrc</a></li>
+</ul></li>
+<li>Note: "something", something is what you should input.</li>
+<li>Vi/Vim Modes: Vi/Vim has three main modes - 1.Command mode (the default mode when you enter Vi/Vim), 2.Last line mode, 3.Input mode.</li>
+<li>Usage
+<ul>
+<li>Copy &amp; Paste cross files - From: "*yny, To: "*p</li>
+<li>Match (), [], {}: "%"</li>
+</ul></li>
+<li>Last line mode
+<ul>
+<li>Search - <code>/word</code>, <code>n</code> to next one.</li>
+<li>Search and Replace - <code>:%s/ori/des/g</code>.</li>
+<li>Excute external command: <code>!</code></li>
+</ul></li>
+<li>Input - Input text
+<ul>
+<li>Insert
+<blockquote>
+  <p>Letter - new letter before cursor: "i" <br />
+Letter - new letter after cursor: "a" <br />
+Line - new line behind current line: "O", Equal to "A"+"ENTER"  </li>
+</ul></li>
+<li><p>Navigation use shortcut key (Moving cursor to wherever you like)</p></p>
+</blockquote>
+
+<ul>
+<li>Letter - Move lef : "h"</li>
+<li>Lette  - Mese right: "l"</li>
+<li>Letter - Move up: "j"</li>
+<li>Letter - Move down: "k"</li>
+<li>Letter - First position of the line: "o"</li>
+<li>Letter - First Letter of the line: "^"(6)</li>
+<li>Letter - Last Letter of the line: "$"(4)</li>
+<li><p>Letter - the n'th Letter of the line: "n|"</p></li>
+<li><p>Word - Previous word  - Beginning: "b"</p></li>
+<li>Word - Previous word - Beginning (ignore punctuation): "B"</li>
+<li>Word - Next word - Beginning: "w"</li>
+<li>Word - Next word - Beginning (ignore punctuation): "W"</li>
+<li>Word - Next word - End: "e"</li>
+<li><p>Word - Next word - End (ignore punctuation): "E"</p></li>
+<li><p>Line - First line of the file: "gg" (g mean goto)</p></li>
+<li>Line - Last line of the file: "G"</li>
+<li><p>Line - n line: ":n"</p></li>
+<li><p>Sentence - Previous sentence's head: "("</p></li>
+<li><p>Sentence - Next sentence's rear: ")"</p></li>
+<li><p>Paragraph (Spilt with a blank line)</p></li>
+<li>Paragraph - Previous paragraph's head: "{"</li>
+<li><p>Paragraph - Previous paragraph's rear: "}"</p></li>
+<li><p>Page-turning - Full page forward (down): "CTRL"+"f"</p></li>
+<li>Page-turning - Full page back (up): "CTRL"+"b"</li>
+<li>Page-turning - Half page forward (down): "CTRL"+"d"</li>
+<li><p>Page-turning - Half page back (up): "CTRL"+"u"</p></li>
+<li><p>Screen - First line's first non-empty Letter: "H"</p></li>
+<li>Screen - Middle line's first non-empty Letter: "M"</li>
+<li>Screen - Last line's first non-empty Letter: "L"</li>
 </ul></li>
 </ul>
 
@@ -146,7 +196,11 @@
 <h3>Version Control System - Git</h3>
 
 <ul>
-<li>If you are the new generation (born after 1990), I think you should use Git instead of SVN, bucause it's better. (If the new generation grow up with the best tools, they will to make the best tools, so generation and generation, our world become much better.)</li>
+<li>About VCS (Version Control System)
+<ul>
+<li>If you are the new generation (born after 1990), I think you should use Git instead of SVN or Mercurial, bucause it's better. (If the new generation grow up with the best tools, they will to make the best tools, so generation and generation, our world become much better.)</li>
+<li>The whole idea behind any version control system is to store "safe" copies of a project so that you never have to worry about irreparably breaking your code base. </li>
+</ul></li>
 <li><a href="http://git-scm.com">Git-SCM Official Website</a>: Download it from website.
 <ul>
 <li><a href="https://help.github.com/articles/generating-ssh-keys">Generating SSH Keys</a></li>
@@ -163,6 +217,12 @@
 <ul>
 <li><a href="http://www.atlassian.com/git/tutorial/git-basics">Git Tutorials &amp; Training</a></li>
 </ul></li>
+</ul>
+
+<h4>Git keywords</h4>
+
+<ul>
+<li>Stage, Tracked</li>
 </ul>
 
 <h4>1.Git Basic</h4>
@@ -215,17 +275,75 @@ editor = vim  </li>
 <li><code>git add 'file'</code>: Stage all changes in 'file' for the next commit.</li>
 <li><code>git add 'directory'</code>: Stage all changes in 'directory' for the next commit.</li>
 <li><code>git add -p</code>: Begin an interactive staging session that lets you choose portions of a file to add to the next commit. This will present you with a hunk of changes and prompt you for a command. Use y to stage the hunk, n to ignore the hunk, s to split it into smaller hunks, e to manually edit the hunk, and q to exit.</li>
+<li><code>The Staging Area</code>: The staging area s one of Git's more unique features, and it can take some time to wrap your head around it if you's coming from an <code>SVN</code> (or even a <code>Mercurial</code>) background, it healps to think of it as a buffer between the working directory and the project history.</li>
 </ul></li>
-<li><strong><code>git commit</code></strong></li>
-<li><strong><code>git pull</code></strong></li>
-<li><strong><code>git push</code></strong></li>
-<li><strong><code>git status</code></strong></li>
-<li><strong><code>git log</code></strong></li>
+<li><strong><code>git commit</code></strong>
+<ul>
+<li><code>git commit</code> - Commit the staged snapshot. A text editor will be launched for you to write a commit message, entered a message -> save the file -> close the editor to create the actual commit.</li>
+<li><code>git commit -m "message"</code> - Commit the staged snapshot, use "Message" instead of launching a text editor.</li>
+<li><code>git commit -a</code> - Commit a snapshot of all changes in the working directory (Only includes modifications to tracked files which have been added with <code>git add</code> at some point in their history). </li>
+<li><code>Difference between Git and SVN</code> - Snapshots are always committed to the local repository, this is fundamentally different than SVN, wherein te working copy is committed to the central repository. In contrast, Git doesn't force you to interact with the central repository until you're ready. You can commit to local repository after a function or module is done, and push them to remote at once, this is a ballance of controling the repository size and the commit review. Just as the staging area is a buffer between the working directory and the project history, each developer's local repository is a buffer between their contributions and the central repository.</li>
+<li><code>Snapshots, Not Differences</code> - Git's snapshot model has a far-reaching impact on virtually every aspect of its version control model. SVN recodig file diffs and Git record snapshots which makes many Git operations much faster than SVN (A particular version of a file doesn't have to be "assembled" from its diffs - the complete version of each file is immediately available from Git's internal database.</li>
+</ul></li>
+<li><strong><code>git status</code></strong>
+<ul>
+<li><code>git status</code> - The <code>git status</code> command displays the state of the working directory and the staging area. It lets you see which changes have been <code>staged</code>, which haven't, and which files aren't being <code>tracked</code> by Git, and it also include relevant instructions for staging /unstaging files.</li>
+<li>Status output does not show you any information regarding the committed project history. For this, you need to use <code>git log</code>.</li>
+<li><code>Ignoring Files</code> - Untracked files typically fall into two categories: 1.They are files that have just added to the project and haven't been committed yet. 2.They're compiled binaries like <code>.pyc</code>, <code>.obj</code>, <code>.exe</code>, <code>etc.</code>, the compiled binaries will make it hard to see what's actually going on in your repository, for this reason, a special file called <code>.gitignore</code> is for you to add the files you want to ignored, and these files will not appearing in <code>git status</code>. (An example of <code>.gitignore</code> file content: <em>.</em>.swp)</li>
+</ul></li>
+<li><strong><code>git log</code></strong>
+<ul>
+<li>The <code>git log</code> command displays committed snapshots. It lets you <code>list</code> the <em>project history</em>, <code>filter</code> it, and <code>search</code> for specific changes. While <code>git status</code> lets you inspect the <em>working directory</em> and the <em>staging</em> area, <code>git log</code> only operates on the committed history.</li>
+<li><code>Identification</code> - the 40 character string is an SHA-1 checksum of cmomits contents. This serves two purposes, First, it ensures the integrity of the commit - if it was ever corrupted, the commit world generate a different checksum. Second, it serves as a unique ID for the commit. <em>The idea behind all of these identification methods is to let you perform actions based on specific commits.</em></li>
+<li><strong><code>git log</code></strong> - Display the entire commit history using the default formatting. If the output takes up more than one screen, you can use Space to scroll and q to exit.</li>
+<li><strong><code>git log -n "limit"</code></strong>  - Limit the number of commits by "limit" . For example, git log -n 3 will display only 3 commits.</li>
+<li><strong><code>git log --oneline</code></strong>  - Condense each commit to a single line. This is useful for getting a high-level overview of the project history.</li>
+<li><strong><code>git log --stat</code></strong>  - Along with the ordinary git log information, include which files were altered and the relative number of lines that were added or deleted from each     of them.   </li>
+<li><strong><code>git log -p</code></strong>  - Display the patch representing each commit. This shows the full diff of each commit, which is the most detailed view you can have of your project histo    ry.</li>
+<li><strong><code>git log --author="pattern"</code></strong>  - Search for commits by a particular author. The  argument can be a plain string or a regular expression.</li>
+<li><strong><code>git log --grep="pattern"</code></strong>  - Search for commits with a commit message that matches "pattern" , which can be a plain string or a regular expression.</li>
+<li><strong><code>git log "since".."until"</code></strong>  - Show only commits that occur between "since" and "until". Both arguments can be either a commit ID, a branch name, HEAD, or any other kin    d of revision reference.</li>
+<li><strong><code>git log "file"</code></strong>  - Only display commits that include the specified file. This is an easy way to see the history of a particular file.</li>
+<li><strong><code>git log --graph --decorate --oneline</code></strong>  - A few useful options to consider. The --graph flag that will draw a text based graph of the commits on the left hand side of     the commit messages. --decorate adds the names of branches or tags of the commits that are shown. --oneline shows the commit information on a single line making it easier to b    rowse through commits at-a-glance.</li>
+</ul></li>
+</ul>
+
+<h4>2.Undoing Changes</h4>
+
+<p></blockquote></p>
+
+<ul>
+<li><strong><code>git checkout</code></strong>
+<ul>
+<li><code>Used to do</code> -  1.checking out <em>files</em>, 2.checking out <em>commits</em>, 3.checking out <em>branches</em>.</li>
+<li><code>checking out a file</code> - Checking out a file lets you see an old version of that particular file, leaving the rest of your working directory untouched.</li>
+</ul></li>
+<li><strong><code>git revert</code></strong>
+<ul>
+<li><code>git revert "commit"</code> - Generate a new commit that undoes all of the changes introduced in commit, then apply it to the current branch.</li>
+</ul></li>
+<li><strong><code>git reset</code></strong></li>
+<li><strong><code>git clean</code></strong></li>
+</ul>
+
+<h4>3.Git Branches</h4>
+
+<ul>
+<li><strong><code>git branch</code></strong></li>
+<li><strong><code>git checkout</code></strong></li>
+<li><strong><code>git merge</code></strong></li>
+</ul>
+
+<h4>4.Rewriting Git History</h4>
+
+<ul>
+<li><strong><code>git commit --amend</code></strong></li>
+<li><strong><code>git rebase</code></strong></li>
+<li><strong><code>git rebase -i</code></strong></li>
+<li><strong><code>git reflog</code></strong></li>
 </ul>
 
 <h4>5.Remote Repositories</h4>
-
-<p></blockquote></p>
 
 <ul>
 <li><strong><code>git remote</code></strong>
