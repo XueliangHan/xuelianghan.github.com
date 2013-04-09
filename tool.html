@@ -90,7 +90,6 @@
 <ul>
 <li>See Vi/Vim master using Vi/Vim</li>
 <li><a href="http://coolshell.cn/articles/5426.html">CoolShell's Vim short course</a></li>
-<li>Delete space: Delete line with spaces: <code>:g/^$/d</code>, delete spaces before the first letter of a line: <code>:%s/^\s*//g</code>, delete spaces after the last letter of a line: <code>:%s/\s*$//g</code>.</li>
 <li>Installation Vim
 <ul>
 <li>In Linux, in <em>Ubuntu</em>,excute <code>sudo apt-get install vim</code></li>
@@ -102,60 +101,97 @@
 <li>In Mac OS X, it's same to Linux, the general configuration file in store in <code>/usr/share/vim/vimrc</code>.</li>
 <li>A configuration in Chinese <a href="http://blog.sina.com.cn/s/blog_5a6efa330101cumx.html">Mac Vimrc</a></li>
 </ul></li>
-<li>Note: "something", something is what you should input.</li>
-<li>Vi/Vim Modes: Vi/Vim has three main modes - 1.Command mode (the default mode when you enter Vi/Vim), 2.Last line mode, 3.Input mode.</li>
 <li>Usage
 <ul>
-<li>Copy &amp; Paste cross files - From: "*yny, To: "*p</li>
-<li>Match (), [], {}: "%"</li>
+<li>Note: "something", something is what you should input.</li>
 </ul></li>
-<li>Last line mode
+<li>Vi/Vim Modes - Vi/Vim has three main modes
 <ul>
+<li>Command mode (the default mode when you enter Vi/Vim).   </li>
+<li>Last line mode.  </li>
+<li>Input mode.  </li>
+</ul></li>
+<li>Last line mode - excute command
+<ul>
+<li>Copy &amp; Paste cross files - From: "*yny, To: "*p</li>
+<li>Excute external command: <code>!</code></li>
+<li>Match (), [], {}: "%"</li>
+<li>Open and Navigate into <code>n</code> line: <code>vim filename +n</code>.</li>
+<li>Open and Navigate into first word match pattern: <code>vim filename +/wordname</code></li>
 <li>Search - <code>/word</code>, <code>n</code> to next one.</li>
 <li>Search and Replace - <code>:%s/ori/des/g</code>.</li>
-<li>Excute external command: <code>!</code></li>
+<li>Delete space: Delete line with spaces: <code>:g/^$/d</code>, delete spaces before the first letter of a line: <code>:%s/^\s*//g</code>, delete spaces after the last letter of a line: <code>:%s/\s*$//g</code>.</li>
 </ul></li>
-<li>Input - Input text
+<li><p>Input mode - Input text
 <ul>
-<li>Insert
+<li>Insert</p>
+
 <blockquote>
   <p>Letter - new letter before cursor: "i" <br />
 Letter - new letter after cursor: "a" <br />
 Line - new line behind current line: "O", Equal to "A"+"ENTER"  </li>
-</ul></li>
-<li><p>Navigation use shortcut key (Moving cursor to wherever you like)</p></p>
-</blockquote>
+</ul></p>
+</blockquote></li>
+<li><p>Navigation use shortcut key (Moving cursor to wherever you like)</p>
 
 <ul>
-<li>Letter - Move lef : "h"</li>
-<li>Lette  - Mese right: "l"</li>
-<li>Letter - Move up: "j"</li>
-<li>Letter - Move down: "k"</li>
-<li>Letter - First position of the line: "o"</li>
-<li>Letter - First Letter of the line: "^"(6)</li>
-<li>Letter - Last Letter of the line: "$"(4)</li>
-<li><p>Letter - the n'th Letter of the line: "n|"</p></li>
-<li><p>Word - Previous word  - Beginning: "b"</p></li>
-<li>Word - Previous word - Beginning (ignore punctuation): "B"</li>
-<li>Word - Next word - Beginning: "w"</li>
-<li>Word - Next word - Beginning (ignore punctuation): "W"</li>
-<li>Word - Next word - End: "e"</li>
-<li><p>Word - Next word - End (ignore punctuation): "E"</p></li>
-<li><p>Line - First line of the file: "gg" (g mean goto)</p></li>
-<li>Line - Last line of the file: "G"</li>
-<li><p>Line - n line: ":n"</p></li>
-<li><p>Sentence - Previous sentence's head: "("</p></li>
-<li><p>Sentence - Next sentence's rear: ")"</p></li>
-<li><p>Paragraph (Spilt with a blank line)</p></li>
-<li>Paragraph - Previous paragraph's head: "{"</li>
-<li><p>Paragraph - Previous paragraph's rear: "}"</p></li>
-<li><p>Page-turning - Full page forward (down): "CTRL"+"f"</p></li>
-<li>Page-turning - Full page back (up): "CTRL"+"b"</li>
-<li>Page-turning - Half page forward (down): "CTRL"+"d"</li>
-<li><p>Page-turning - Half page back (up): "CTRL"+"u"</p></li>
-<li><p>Screen - First line's first non-empty Letter: "H"</p></li>
-<li>Screen - Middle line's first non-empty Letter: "M"</li>
-<li>Screen - Last line's first non-empty Letter: "L"</li>
+<li><p>Letter</p>
+
+<blockquote>
+  <p>Letter - Move lef : "h" <br />
+Letter - Mese right: "l" <br />
+Letter - Move up: "j" <br />
+Letter - Move down: "k" <br />
+Letter - First position of the line: "o" <br />
+Letter - First Letter of the line: "^"(6) <br />
+Letter - Last Letter of the line: "$"(4) <br />
+Letter - the n'th Letter of the line: "n|"  </p>
+</blockquote></li>
+<li><p>Word</p>
+
+<blockquote>
+  <p>Word - Previous word  - Beginning: "b" <br />
+Word - Previous word - Beginning (ignore punctuation): "B" <br />
+Word - Next word - Beginning: "w" <br />
+Word - Next word - Beginning (ignore punctuation): "W" <br />
+Word - Next word - End: "e" <br />
+Word - Next word - End (ignore punctuation): "E"  </p>
+</blockquote></li>
+<li><p>Line </p>
+
+<blockquote>
+  <p>Line - First line of the file: "gg" (g mean goto) <br />
+Line - Last line of the file: "G" <br />
+Line - n line: ":n"  </p>
+</blockquote></li>
+<li><p>Sentence </p>
+
+<blockquote>
+  <p>Sentence - Previous sentence's head: "(" <br />
+Sentence - Next sentence's rear: ")"  </p>
+</blockquote></li>
+<li><p>Paragraph   </p>
+
+<blockquote>
+  <p>Paragraph (Spilt with a blank line) <br />
+Paragraph - Previous paragraph's head: "{" <br />
+Paragraph - Previous paragraph's rear: "}"  </p>
+</blockquote></li>
+<li><p>Page-turning</p>
+
+<blockquote>
+  <p>Page-turning - Full page forward (down): "CTRL"+"f" <br />
+Page-turning - Full page back (up): "CTRL"+"b" 
+Page-turning - Half page forward (down): "CTRL"+"d" <br />
+Page-turning - Half page back (up): "CTRL"+"u"  </p>
+</blockquote></li>
+<li><p>Screen  </p>
+
+<blockquote>
+  <p>Screen - First line's first non-empty Letter: "H" <br />
+Screen - Middle line's first non-empty Letter: "M" <br />
+Screen - Last line's first non-empty Letter: "L"  </p>
+</blockquote></li>
 </ul></li>
 </ul>
 
@@ -201,10 +237,7 @@ Line - new line behind current line: "O", Equal to "A"+"ENTER"  </li>
 <li>If you are the new generation (born after 1990), I think you should use Git instead of SVN or Mercurial, bucause it's better. (If the new generation grow up with the best tools, they will to make the best tools, so generation and generation, our world become much better.)</li>
 <li>The whole idea behind any version control system is to store "safe" copies of a project so that you never have to worry about irreparably breaking your code base. </li>
 </ul></li>
-<li><a href="http://git-scm.com">Git-SCM Official Website</a>: Download it from website.
-<ul>
 <li><a href="https://help.github.com/articles/generating-ssh-keys">Generating SSH Keys</a></li>
-</ul></li>
 <li><a href="https://git-scm.com/doc">Git Documents</a>: It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
 <ul>
 <li><a href="https://git-scm.com/docs/">Reference</a></li>
@@ -213,9 +246,11 @@ Line - new line behind current line: "O", Equal to "A"+"ENTER"  </li>
 <li><a href="https://git-scm/doc/ext">External Links</a></li>
 </ul></li>
 <li>(Chinese)<a href="http://robbinfan.com/blog/34/git-common-command">Git常用命令备忘</a>: Good summary.</li>
-<li>Recommended
+<li>Recommended Tutorials
 <ul>
+<li><a href="http://git-scm.com">Git-SCM Official Website</a>: Download it from website.</li>
 <li><a href="http://www.atlassian.com/git/tutorial/git-basics">Git Tutorials &amp; Training</a></li>
+<li><a href="http://happycasts.net/search?q=git">Git Video Tutorials</a></li>
 </ul></li>
 </ul>
 

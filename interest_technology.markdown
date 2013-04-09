@@ -103,17 +103,20 @@ TECHNOLOGY(GINR)
 * [__Would you recommend starting from HTML5 & CSS3 for beginners? -StackOverFlow__](http://stackoverflow.com/questions/4744906/would-you-recommend-starting-from-html5-css3-for-beginners/4746056#4746056): Very high quality content, the best I've ever see, highly recommend.
 * Advices/Recommendations about how to Make Webpages
   * [Mozilla's Thimble](https://webmaker.org/en-US/tools/#thimble): Use this app to easily create and share your own web pages.
-* HTML & HTML5
-  * [HTML-W3School](http://www.w3schools.com/html/index.asp)
-  * [HTML-Tags-W3School](http://www.w3schools.com/tags/default.asp): Core of HTML.
+* HTML and HTML5
   * [HTML - Wikipedia](http://en.wikipedia.org/wiki/HTML)
+  * [HTML - Learning HTML at W3School](http://www.w3schools.com/html/default.asp)
+  * [HTML - Tags at W3School](http://www.w3schools.com/tags/default.asp): Core of HTML.
+  * [HTML5 - Wikipedia](http://en.wikipedia.org/wiki/HTML5)
+  * [HTML5 - Learning HTML at W3School](http://www.w3schools.com/html/html5_intro.asp)
+* CSS and CSS3
+  * [CSS (Cascading Style Sheets) - Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+  * [CSS - Learning CSS at W3School](http://www.w3schools.com/css/default.asp)
+  * [CSS3 - Learning CSS3 at W3School](http://www.w3schools.com/css3/default.asp)
 * JavaScript: An interpreted computer programming language.
   * [JavaScript - Wikipedia](http://en.wikipedia.com/wiki/JavaScript)
   * [JavaScript-W3School](http://www.w3schools.com/js/index.asp)
   * [JQuery-W3School](http://www.w3schools.com/jquery/index.asp)
-* CSS & CSS3
-  * [CSS-W3School](http://www.w3schools.com/css/index.asp)
-  * [Cascading Style Sheets - Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 * Ajax
   * [Ajax (programming) - Wikipedia](http://en.wikipedia.org/wiki/Ajax\_(programming))
 * DOM
@@ -134,7 +137,10 @@ TECHNOLOGY(GINR)
 * Python
   * [Python Short Course - CalTech](http://www.wag.caltech.edu/home/rpm/python\_course)
 * Ruby
+  * [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
   * [Ruby - China](http://ruby-china.org)
+* Ruby on Rails
+  * [Ruby on Rails - Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)
 * Database
   * [SQL-W3School](http://www.w3schools.com/sql/index.asp)
   * [MySQL-W3School](http://dev.mysql.com/doc/index-topic.html)

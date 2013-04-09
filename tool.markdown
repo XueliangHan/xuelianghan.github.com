@@ -59,7 +59,6 @@ Index
 ####Vi/Vim
 * See Vi/Vim master using Vi/Vim
 * [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
-* Delete space: Delete line with spaces: `:g/^$/d`, delete spaces before the first letter of a line: `:%s/^\s*//g`, delete spaces after the last letter of a line: `:%s/\s*$//g`.
 * Installation Vim
   * In Linux, in _Ubuntu_,excute `sudo apt-get install vim`
   * In Mac OS X, Vim is already in the system, at `/usr/share/vim`.
@@ -67,56 +66,70 @@ Index
   * In Linux, `.vimrc` is the configuration file of Vim, store at `/home/"Yourname"/.vimrc`
   * In Mac OS X, it's same to Linux, the general configuration file in store in `/usr/share/vim/vimrc`.
   * A configuration in Chinese [Mac Vimrc](http://blog.sina.com.cn/s/blog_5a6efa330101cumx.html)
-* Note: "something", something is what you should input.
-* Vi/Vim Modes: Vi/Vim has three main modes - 1.Command mode (the default mode when you enter Vi/Vim), 2.Last line mode, 3.Input mode.
 * Usage
+  * Note: "something", something is what you should input.
+* Vi/Vim Modes - Vi/Vim has three main modes
+  * Command mode (the default mode when you enter Vi/Vim).   
+  * Last line mode.  
+  * Input mode.  
+* Last line mode - excute command
   * Copy & Paste cross files - From: "\*yny, To: "\*p
+  * Excute external command: `!`
   * Match (), [], {}: "%"
-* Last line mode
+  * Open and Navigate into `n` line: `vim filename +n`.
+  * Open and Navigate into first word match pattern: `vim filename +/wordname`
   * Search - `/word`, `n` to next one.
   * Search and Replace - `:%s/ori/des/g`.
-  * Excute external command: `!`
-* Input - Input text
+  * Delete space: Delete line with spaces: `:g/^$/d`, delete spaces before the first letter of a line: `:%s/^\s*//g`, delete spaces after the last letter of a line: `:%s/\s*$//g`.
+* Input mode - Input text
   * Insert
     > Letter - new letter before cursor: "i"  
     > Letter - new letter after cursor: "a"  
     > Line - new line behind current line: "O", Equal to "A"+"ENTER"  
-* Navigation use shortcut key (Moving cursor to wherever you like)
-  * Letter - Move lef : "h"
-  * Lette  - Mese right: "l"
-  * Letter - Move up: "j"
-  * Letter - Move down: "k"
-  * Letter - First position of the line: "o"
-  * Letter - First Letter of the line: "^"(6)
-  * Letter - Last Letter of the line: "$"(4)
-  * Letter - the n'th Letter of the line: "n|"
 
-  * Word - Previous word  - Beginning: "b"
-  * Word - Previous word - Beginning (ignore punctuation): "B"
-  * Word - Next word - Beginning: "w"
-  * Word - Next word - Beginning (ignore punctuation): "W"
-  * Word - Next word - End: "e"
-  * Word - Next word - End (ignore punctuation): "E"
-   
-  * Line - First line of the file: "gg" (g mean goto)
-  * Line - Last line of the file: "G"
-  * Line - n line: ":n"
-   
-  * Sentence - Previous sentence's head: "("
-  * Sentence - Next sentence's rear: ")"
-   
-  * Paragraph (Spilt with a blank line)
-  * Paragraph - Previous paragraph's head: "{"
-  * Paragraph - Previous paragraph's rear: "}"
-   
-  * Page-turning - Full page forward (down): "CTRL"+"f"
-  * Page-turning - Full page back (up): "CTRL"+"b"
-  * Page-turning - Half page forward (down): "CTRL"+"d"
-  * Page-turning - Half page back (up): "CTRL"+"u"
-   
-  * Screen - First line's first non-empty Letter: "H"
-  * Screen - Middle line's first non-empty Letter: "M"
-  * Screen - Last line's first non-empty Letter: "L"
+* Navigation use shortcut key (Moving cursor to wherever you like)
+  * Letter
+    > Letter - Move lef : "h"  
+    > Letter - Mese right: "l"  
+    > Letter - Move up: "j"  
+    > Letter - Move down: "k"  
+    > Letter - First position of the line: "o"  
+    > Letter - First Letter of the line: "^"(6)  
+    > Letter - Last Letter of the line: "$"(4)  
+    > Letter - the n'th Letter of the line: "n|"  
+
+  * Word
+    > Word - Previous word  - Beginning: "b"  
+    > Word - Previous word - Beginning (ignore punctuation): "B"  
+    > Word - Next word - Beginning: "w"  
+    > Word - Next word - Beginning (ignore punctuation): "W"  
+    > Word - Next word - End: "e"  
+    > Word - Next word - End (ignore punctuation): "E"  
+
+  * Line 
+    > Line - First line of the file: "gg" (g mean goto)  
+    > Line - Last line of the file: "G"  
+    > Line - n line: ":n"  
+
+  * Sentence 
+    > Sentence - Previous sentence's head: "("  
+    > Sentence - Next sentence's rear: ")"  
+
+  * Paragraph   
+    > Paragraph (Spilt with a blank line)  
+    > Paragraph - Previous paragraph's head: "{"  
+    > Paragraph - Previous paragraph's rear: "}"  
+
+  * Page-turning
+    > Page-turning - Full page forward (down): "CTRL"+"f"  
+    > Page-turning - Full page back (up): "CTRL"+"b" 
+    > Page-turning - Half page forward (down): "CTRL"+"d"  
+    > Page-turning - Half page back (up): "CTRL"+"u"  
+
+  * Screen  
+    > Screen - First line's first non-empty Letter: "H"  
+    > Screen - Middle line's first non-empty Letter: "M"  
+    > Screen - Last line's first non-empty Letter: "L"  
 
 ####Emacs
 * Tutorial, Guide, How-To
@@ -144,16 +157,17 @@ Index
 * About VCS (Version Control System)
   * If you are the new generation (born after 1990), I think you should use Git instead of SVN or Mercurial, bucause it's better. (If the new generation grow up with the best tools, they will to make the best tools, so generation and generation, our world become much better.)
   * The whole idea behind any version control system is to store "safe" copies of a project so that you never have to worry about irreparably breaking your code base. 
-* [Git-SCM Official Website](http://git-scm.com): Download it from website.
-  * [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
+* [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
 * [Git Documents](https://git-scm.com/doc): It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
   * [Reference](https://git-scm.com/docs/)
   * (Book)[Pro Git](https://git-scm.com/book)
   * [Videos](https://git-scm.com/videos)
   * [External Links](https://git-scm/doc/ext)
 * (Chinese)[Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command): Good summary.
-* Recommended
+* Recommended Tutorials
+  * [Git-SCM Official Website](http://git-scm.com): Download it from website.
   * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics)
+  * [Git Video Tutorials](http://happycasts.net/search?q=git)
 
 ####Git keywords
 * Stage, Tracked
