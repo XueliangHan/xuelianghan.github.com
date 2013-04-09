@@ -104,19 +104,46 @@ Index
 * (Chinese)[Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command): Good summary.
 * Recommended
   * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics)
-* git config
-* git init
-* git clone
 
-* git add
-* git commit
+####1.Git Basic
+* __`git config`__
+* __`git init`__
+  * First command you'll run in a new project.
+  * `git init`: Transform the current directory into a Git repository, this operation will add a `.git` folder to the current directory. 
+  * `git init 'directory'`: Specify a directory you want to initialize into a repository, if the directory is not existed, Git will create it for you.
+  * `git init --bare 'directory'`: This the `--bare` flas is a way to make a repository as a storage facility, opposed to a development environment which will omit the working directory. Shared repositories should always be created with the `--bare` flas (ex. central repositories should always be created as bare repositories because pushing branches to a non-bare repository has the potential to overwrte changes), the central repository is bare, and developers local repositories are non-bare.
+  * Example to create a central repository: 1.`ssh @ xxx`. 2.`cd path/repo`, 3.`git init --bare my-project.git`. First, SSH to your server. Then, navigate to wherever you's like to store the project. Finally, you use the `--bare` flag to create a central storage repository. Developer would then `clone` my-project.git to create a local copy on their development machine.
+* __`git clone`__
+* __`git add`__
+* __`git commit`__
+* __`git pull`__
+* __`git push`__
+* __`git status`__
+* __`git log`__
 
-* git pull
-* git push
-
-* git status
-* git log
-
+####5.Remote Repositories
+* __`git remote`__
+  * SVN is type of central model, Git is collaboration model which give every developer their own copy of repository.
+  * `git remote`: List the remote connections you have to other repositories.
+  * `git remote -v`: Same as above command, but include the URL of each connection.
+  * `git remote add 'lname' 'url'`: Create a new connection to a remote repository. After adding a remote, you'll be able to use 'name' as a convenient shortcut for 'url' in other Git commands. Note: lname is short for link-name.
+  * `git remote rm 'name'`: Remove the connection to the remote repository called.
+  * `git remote rename 'old-name' 'new-name': Rename a remote connection from 'old-name' to 'new-name'.
+  * Git is designed to give each developer an entirely isolated development environment, this means that information is not automatically passed back and forth between reositories, developers need to manually pull upstream commits into their local repository or manually push their local commits back up to the central repository. But this way also give a developer freedom to go anywhere without worry about the network connection, bacause all data is in local and you can finish all operation in local, after you get network access, you just `push` it.
+  * The `origin` Remote: When you clone a repository with `git clone`, it automatically creates a remote connection called origin pointing back to the cloned repository, this behavior is also why most Git-based projects call their central repository origin. Note: I like `origin` this name, `origin` is also mean TRUTH.
+  * Repository `URL's`: Git supports many ways to reference a remote repository. Access a remote repo via the HTTP and the SSH protocols is two easiest ways. HTTP allow anonymous, read-only access to a repository, but you can push commits to an HTTP address. If you want to push commits, you need a valid SSH account on the host machine, about SSH key, this will help: [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys).
+* __`git fetch`__
+  *  Purpose: Fetching is what you do when you want to see what everybody has been working on, it have no affect on your local development work, it's a safe way to review commits before integrating them with your local repository, it's different from SVN which force you to merge changes into your repository.
+  * `git fetch 'remote'`: Fetch all of the branch from the repository, and download all of required commits and files from the repository.
+  * `git fetch 'remote' 'branch'`: Only fetch specified branch.
+* __`git pull`__
+  * `git pull` = `git fetch` + `git merge`.
+  * `git pull 'remote'`: `Fetch` the specified remote's copy of current branch and imediately `merge` it into the local copy. Same as the command : `git fecth 'remote'` + `git merge origin/'current-branch'`.
+  * `git pull --rebase 'remote'`: Same as the command: `git fetch 'remote'` + `git rebase 'remote'`, `--rebase` option can be used to ensure a linear history by preventing unnecessary merge commits, many developers prefer rebasing over merging, this put your changes on top of what everybody else has done, examples: `git checkout master` `git pull --rebase origin`.
+* __`git push`__
+  * `git push 'branch'`: Push the specified branch to 'remote', to prevent you from overwriting commits, Git won't let you push when it results in a non-fast-forward merge in the destination repository.
+  * `git push --force`: Same as above, but force the push even if it results in a non-fast-forward merge, do not use the `--force` flag unless you're absolutely sure you knon what you are doing.
+  * `git push --tags`: Sends all of your local tags to the remote repository which are not automatically pushed when you use `--all` option.
 
 
 
@@ -248,8 +275,8 @@ Reference
 ----------------------
 
 ###My Configuration files
-* Vi/Vim configuration file -> [vimrc](./files/vimrc), usage: rename vimrc to .vimrc, put it in your HOME directory.  
 * Bash configuration file -> [bashrc](./files/bashrc), usage: rename bashrc to .bashrc, put it in your HOME directory.  
+* Vi/Vim configuration file -> [vimrc](./files/vimrc), usage: rename vimrc to .vimrc, put it in your HOME directory.  
 
 ###Cofiguration text
 ####Java path in Windows

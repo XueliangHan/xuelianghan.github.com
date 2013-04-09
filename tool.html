@@ -162,15 +162,62 @@
 <ul>
 <li><a href="http://www.atlassian.com/git/tutorial/git-basics">Git Tutorials &amp; Training</a></li>
 </ul></li>
-<li>git config</li>
-<li>git init</li>
-<li><p>git clone</p></li>
-<li><p>git add</p></li>
-<li><p>git commit</p></li>
-<li><p>git pull</p></li>
-<li><p>git push</p></li>
-<li><p>git status</p></li>
-<li>git log</li>
+</ul>
+
+<h4>1.Git Basic</h4>
+
+<ul>
+<li><strong><code>git config</code></strong></li>
+<li><strong><code>git init</code></strong>
+<ul>
+<li>First command you'll run in a new project.</li>
+<li><code>git init</code>: Transform the current directory into a Git repository, this operation will add a <code>.git</code> folder to the current directory. </li>
+<li><code>git init 'directory'</code>: Specify a directory you want to initialize into a repository, if the directory is not existed, Git will create it for you.</li>
+<li><code>git init --bare 'directory'</code>: This the <code>--bare</code> flas is a way to make a repository as a storage facility, opposed to a development environment which will omit the working directory. Shared repositories should always be created with the <code>--bare</code> flas (ex. central repositories should always be created as bare repositories because pushing branches to a non-bare repository has the potential to overwrte changes), the central repository is bare, and developers local repositories are non-bare.</li>
+<li>Example to create a central repository: 1.<code>ssh @ xxx</code>. 2.<code>cd path/repo</code>, 3.<code>git init --bare my-project.git</code>. First, SSH to your server. Then, navigate to wherever you's like to store the project. Finally, you use the <code>--bare</code> flag to create a central storage repository. Developer would then <code>clone</code> my-project.git to create a local copy on their development machine.</li>
+</ul></li>
+<li><strong><code>git clone</code></strong></li>
+<li><strong><code>git add</code></strong></li>
+<li><strong><code>git commit</code></strong></li>
+<li><strong><code>git pull</code></strong></li>
+<li><strong><code>git push</code></strong></li>
+<li><strong><code>git status</code></strong></li>
+<li><strong><code>git log</code></strong></li>
+</ul>
+
+<h4>5.Remote Repositories</h4>
+
+<ul>
+<li><strong><code>git remote</code></strong>
+<ul>
+<li>SVN is type of central model, Git is collaboration model which give every developer their own copy of repository.</li>
+<li><code>git remote</code>: List the remote connections you have to other repositories.</li>
+<li><code>git remote -v</code>: Same as above command, but include the URL of each connection.</li>
+<li><code>git remote add 'lname' 'url'</code>: Create a new connection to a remote repository. After adding a remote, you'll be able to use 'name' as a convenient shortcut for 'url' in other Git commands. Note: lname is short for link-name.</li>
+<li><code>git remote rm 'name'</code>: Remove the connection to the remote repository called.</li>
+<li>`git remote rename 'old-name' 'new-name': Rename a remote connection from 'old-name' to 'new-name'.</li>
+<li>Git is designed to give each developer an entirely isolated development environment, this means that information is not automatically passed back and forth between reositories, developers need to manually pull upstream commits into their local repository or manually push their local commits back up to the central repository. But this way also give a developer freedom to go anywhere without worry about the network connection, bacause all data is in local and you can finish all operation in local, after you get network access, you just <code>push</code> it.</li>
+<li>The <code>origin</code> Remote: When you clone a repository with <code>git clone</code>, it automatically creates a remote connection called origin pointing back to the cloned repository, this behavior is also why most Git-based projects call their central repository origin. Note: I like <code>origin</code> this name, <code>origin</code> is also mean TRUTH.</li>
+<li>Repository <code>URL's</code>: Git supports many ways to reference a remote repository. Access a remote repo via the HTTP and the SSH protocols is two easiest ways. HTTP allow anonymous, read-only access to a repository, but you can push commits to an HTTP address. If you want to push commits, you need a valid SSH account on the host machine, about SSH key, this will help: <a href="https://help.github.com/articles/generating-ssh-keys">Generating SSH Keys</a>.</li>
+</ul></li>
+<li><strong><code>git fetch</code></strong>
+<ul>
+<li>Purpose: Fetching is what you do when you want to see what everybody has been working on, it have no affect on your local development work, it's a safe way to review commits before integrating them with your local repository, it's different from SVN which force you to merge changes into your repository.</li>
+<li><code>git fetch 'remote'</code>: Fetch all of the branch from the repository, and download all of required commits and files from the repository.</li>
+<li><code>git fetch 'remote' 'branch'</code>: Only fetch specified branch.</li>
+</ul></li>
+<li><strong><code>git pull</code></strong>
+<ul>
+<li><code>git pull</code> = <code>git fetch</code> + <code>git merge</code>.</li>
+<li><code>git pull 'remote'</code>: <code>Fetch</code> the specified remote's copy of current branch and imediately <code>merge</code> it into the local copy. Same as the command : <code>git fecth 'remote'</code> + <code>git merge origin/'current-branch'</code>.</li>
+<li><code>git pull --rebase 'remote'</code>: Same as the command: <code>git fetch 'remote'</code> + <code>git rebase 'remote'</code>, <code>--rebase</code> option can be used to ensure a linear history by preventing unnecessary merge commits, many developers prefer rebasing over merging, this put your changes on top of what everybody else has done, examples: <code>git checkout master</code> <code>git pull --rebase origin</code>.</li>
+</ul></li>
+<li><strong><code>git push</code></strong>
+<ul>
+<li><code>git push 'branch'</code>: Push the specified branch to 'remote', to prevent you from overwriting commits, Git won't let you push when it results in a non-fast-forward merge in the destination repository.</li>
+<li><code>git push --force</code>: Same as above, but force the push even if it results in a non-fast-forward merge, do not use the <code>--force</code> flag unless you're absolutely sure you knon what you are doing.</li>
+<li><code>git push --tags</code>: Sends all of your local tags to the remote repository which are not automatically pushed when you use <code>--all</code> option.</li>
+</ul></li>
 </ul>
 
 <h2>Unix/Linux Environment Development Tools Kit</h2>
@@ -349,8 +396,8 @@
 <h3>My Configuration files</h3>
 
 <ul>
-<li>Vi/Vim configuration file -> <a href="./files/vimrc">vimrc</a>, usage: rename vimrc to .vimrc, put it in your HOME directory.  </li>
 <li>Bash configuration file -> <a href="./files/bashrc">bashrc</a>, usage: rename bashrc to .bashrc, put it in your HOME directory.  </li>
+<li>Vi/Vim configuration file -> <a href="./files/vimrc">vimrc</a>, usage: rename vimrc to .vimrc, put it in your HOME directory.  </li>
 </ul>
 
 <h3>Cofiguration text</h3>
