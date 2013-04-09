@@ -56,6 +56,12 @@ TECHNOLOGY(GINR)
   * [弯曲评论](http://www.valleytalk.org/)：科技、人物、潮流。
 
 
+####Computer Science - Solid Foundation
+#####Algorithm
+#####Data Structure
+* [Binary Indexed Trees - Hawstein](http://hawstein.com/posts/binary-indexed-trees.html)
+
+
 ###RT (Robotic Technology): 
 * Write Code for Robots
   * [Arduino](http://www.arduino.cc/): For anyone interested in creating interactive objects or environments.
