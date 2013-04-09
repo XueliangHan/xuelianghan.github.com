@@ -94,6 +94,7 @@ Index
 
 
 ###Version Control System - Git
+* If you are the new generation (born after 1990), I think you should use Git instead of SVN, bucause it's better. (If the new generation grow up with the best tools, they will to make the best tools, so generation and generation, our world become much better.)
 * [Git-SCM Official Website](http://git-scm.com): Download it from website.
   * [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
 * [Git Documents](https://git-scm.com/doc): It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
@@ -106,7 +107,6 @@ Index
   * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics)
 
 ####1.Git Basic
-* __`git config`__
 * __`git init`__
   * First command you'll run in a new project.
   * `git init`: Transform the current directory into a Git repository, this operation will add a `.git` folder to the current directory. 
@@ -114,7 +114,37 @@ Index
   * `git init --bare 'directory'`: This the `--bare` flas is a way to make a repository as a storage facility, opposed to a development environment which will omit the working directory. Shared repositories should always be created with the `--bare` flas (ex. central repositories should always be created as bare repositories because pushing branches to a non-bare repository has the potential to overwrte changes), the central repository is bare, and developers local repositories are non-bare.
   * Example to create a central repository: 1.`ssh @ xxx`. 2.`cd path/repo`, 3.`git init --bare my-project.git`. First, SSH to your server. Then, navigate to wherever you's like to store the project. Finally, you use the `--bare` flag to create a central storage repository. Developer would then `clone` my-project.git to create a local copy on their development machine.
 * __`git clone`__
+  * `What is git clone?`: `git clone` is sort of like `svn checkout` which copies an existing Git repository but except the "working copy" is a full-fledged Git repository.
+  * `The different between SVN and Git`: SVN is `Central-Repo-to-Working-Copy Collaboration`, Git is Repo-to-Repo Collaboration`.
+  * `git clone 'repo'`: Clone the repository located at 'repo' onto the local machine, the original repo can be located on the local filesystem or on a remote machine accessible via HTTP or SSH.
+  * `git clone 'repo' 'directory'`: Clone the repository located at 'repo' into folder called 'directory' on the local machine.
+* __`git config`__
+  * `git config user.name 'name'`: Define the author name to be used in the current repository.
+  * `git config --global user.name 'name'`: Define the author name to be used for all commits by the current user.
+  * `git config --global user.email 'email'`: Define the author email to be used for all commit by the current user.
+  * `git config --global alias.'alias-name' 'git-command'`: Create a shortcut for a Git command.
+  * `git config --system core.editor 'editor'`: 'editor' argument should be the command that launches the desired editor (e.g, vi).
+  * `git config --global --edit`: Open the global configuration file in a text editor for manual editing.
+  * `git configuration files`: Git stores configuration options in three separate files, which lets you scope options to individual repositories, users, or the entire system, when options in these files conflict, local settings override user settings, user settings override system settings.
+    > `'repo'/.git/config` - Repository-specific settings.  
+    > `~/.gitconfig` - User-specific settings. This is where options set with the --global flag are stored.  
+    > `$(prefix)/etc/gitconfig` - System-wide settings.  
+  * `Recommendation`: I recommand you open configuration files and add below into it once and once for all.
+    > [user]   
+    > name = your-name  
+    > email = your-email  
+    > [alias]  
+    > st = status  
+    > co = checkout  
+    > br = branch  
+    > up = rebase  
+    > ci = commit  
+    > [core]  
+    > editor = vim  
 * __`git add`__
+  * `git add 'file'`: Stage all changes in 'file' for the next commit.
+  * `git add 'directory'`: Stage all changes in 'directory' for the next commit.
+  * `git add -p`: Begin an interactive staging session that lets you choose portions of a file to add to the next commit. This will present you with a hunk of changes and prompt you for a command. Use y to stage the hunk, n to ignore the hunk, s to split it into smaller hunks, e to manually edit the hunk, and q to exit.
 * __`git commit`__
 * __`git pull`__
 * __`git push`__

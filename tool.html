@@ -146,6 +146,7 @@
 <h3>Version Control System - Git</h3>
 
 <ul>
+<li>If you are the new generation (born after 1990), I think you should use Git instead of SVN, bucause it's better. (If the new generation grow up with the best tools, they will to make the best tools, so generation and generation, our world become much better.)</li>
 <li><a href="http://git-scm.com">Git-SCM Official Website</a>: Download it from website.
 <ul>
 <li><a href="https://help.github.com/articles/generating-ssh-keys">Generating SSH Keys</a></li>
@@ -167,7 +168,6 @@
 <h4>1.Git Basic</h4>
 
 <ul>
-<li><strong><code>git config</code></strong></li>
 <li><strong><code>git init</code></strong>
 <ul>
 <li>First command you'll run in a new project.</li>
@@ -176,8 +176,46 @@
 <li><code>git init --bare 'directory'</code>: This the <code>--bare</code> flas is a way to make a repository as a storage facility, opposed to a development environment which will omit the working directory. Shared repositories should always be created with the <code>--bare</code> flas (ex. central repositories should always be created as bare repositories because pushing branches to a non-bare repository has the potential to overwrte changes), the central repository is bare, and developers local repositories are non-bare.</li>
 <li>Example to create a central repository: 1.<code>ssh @ xxx</code>. 2.<code>cd path/repo</code>, 3.<code>git init --bare my-project.git</code>. First, SSH to your server. Then, navigate to wherever you's like to store the project. Finally, you use the <code>--bare</code> flag to create a central storage repository. Developer would then <code>clone</code> my-project.git to create a local copy on their development machine.</li>
 </ul></li>
-<li><strong><code>git clone</code></strong></li>
-<li><strong><code>git add</code></strong></li>
+<li><strong><code>git clone</code></strong>
+<ul>
+<li><code>What is git clone?</code>: <code>git clone</code> is sort of like <code>svn checkout</code> which copies an existing Git repository but except the "working copy" is a full-fledged Git repository.</li>
+<li><code>The different between SVN and Git</code>: SVN is <code>Central-Repo-to-Working-Copy Collaboration</code>, Git is Repo-to-Repo Collaboration`.</li>
+<li><code>git clone 'repo'</code>: Clone the repository located at 'repo' onto the local machine, the original repo can be located on the local filesystem or on a remote machine accessible via HTTP or SSH.</li>
+<li><code>git clone 'repo' 'directory'</code>: Clone the repository located at 'repo' into folder called 'directory' on the local machine.</li>
+</ul></li>
+<li><strong><code>git config</code></strong>
+<ul>
+<li><code>git config user.name 'name'</code>: Define the author name to be used in the current repository.</li>
+<li><code>git config --global user.name 'name'</code>: Define the author name to be used for all commits by the current user.</li>
+<li><code>git config --global user.email 'email'</code>: Define the author email to be used for all commit by the current user.</li>
+<li><code>git config --global alias.'alias-name' 'git-command'</code>: Create a shortcut for a Git command.</li>
+<li><code>git config --system core.editor 'editor'</code>: 'editor' argument should be the command that launches the desired editor (e.g, vi).</li>
+<li><code>git config --global --edit</code>: Open the global configuration file in a text editor for manual editing.</li>
+<li><code>git configuration files</code>: Git stores configuration options in three separate files, which lets you scope options to individual repositories, users, or the entire system, when options in these files conflict, local settings override user settings, user settings override system settings.
+<blockquote>
+  <p><code>'repo'/.git/config</code> - Repository-specific settings. <br />
+<code>~/.gitconfig</code> - User-specific settings. This is where options set with the --global flag are stored. <br />
+<code>$(prefix)/etc/gitconfig</code> - System-wide settings.  </li>
+<li><code>Recommendation</code>: I recommand you open configuration files and add below into it once and once for all.
+[user] <br />
+name = your-name <br />
+email = your-email <br />
+[alias] <br />
+st = status <br />
+co = checkout <br />
+br = branch <br />
+up = rebase <br />
+ci = commit <br />
+[core] <br />
+editor = vim  </li>
+</ul></li>
+<li><strong><code>git add</code></strong></p>
+
+<ul>
+<li><code>git add 'file'</code>: Stage all changes in 'file' for the next commit.</li>
+<li><code>git add 'directory'</code>: Stage all changes in 'directory' for the next commit.</li>
+<li><code>git add -p</code>: Begin an interactive staging session that lets you choose portions of a file to add to the next commit. This will present you with a hunk of changes and prompt you for a command. Use y to stage the hunk, n to ignore the hunk, s to split it into smaller hunks, e to manually edit the hunk, and q to exit.</li>
+</ul></li>
 <li><strong><code>git commit</code></strong></li>
 <li><strong><code>git pull</code></strong></li>
 <li><strong><code>git push</code></strong></li>
@@ -186,6 +224,8 @@
 </ul>
 
 <h4>5.Remote Repositories</h4>
+
+<p></blockquote></p>
 
 <ul>
 <li><strong><code>git remote</code></strong>
