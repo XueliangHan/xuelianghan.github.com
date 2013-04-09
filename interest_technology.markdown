@@ -113,7 +113,7 @@ TECHNOLOGY(GINR)
   * [CSS (Cascading Style Sheets) - Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
   * [CSS - Learning CSS at W3School](http://www.w3schools.com/css/default.asp)
   * [CSS3 - Learning CSS3 at W3School](http://www.w3schools.com/css3/default.asp)
-* JavaScript: An interpreted computer programming language.
+* JavaScript - An interpreted computer programming language.
   * [JavaScript - Wikipedia](http://en.wikipedia.com/wiki/JavaScript)
   * [JavaScript-W3School](http://www.w3schools.com/js/index.asp)
   * [JQuery-W3School](http://www.w3schools.com/jquery/index.asp)
@@ -122,7 +122,7 @@ TECHNOLOGY(GINR)
 * DOM
   * [DOM (Document Object Model](http://en.wikipedia.org/wiki/Document_Object_Model)
 * JSON
-  * [JSON (JavaScript Object Notation)](http://en.wikipedia.org/wiki/JSON)—lightweight text-based open standard designed for human-readable data interchange
+  * [JSON (JavaScript Object Notation)](http://en.wikipedia.org/wiki/JSON) - Lightweight text-based open standard designed for human-readable data interchange
 * XML
 * [W3School Sitemap](http://www.w3schools.com/sitemap/default.asp): HTML, CSS, JS, XML Tutorials, Reference, Examples.
 * Personal Website/Blog about Web Front-End Technologies
