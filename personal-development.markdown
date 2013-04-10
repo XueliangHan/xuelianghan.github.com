@@ -11,7 +11,8 @@ Personal Life Development
 
 ###Advices may make sure you continue on the right path
 * [Advice From An Old Programmer](http://hackecho.com/2011/06/advice-from-an-old-programmer/): At the end of the book "Learn Python The Hard Way, 2nd Edition"
-* 10000 hours law
+  * This is a very important advice, it will take me a long time to understand it, and apply it into my life.
+  * Author's point is that programming is general skills, you should have a professional domain knowledge, research field or other stuff.
 * [42 Successful People Share The Best Advice They Ever Received](http://www.businessinsider.com/linkedin-best-advice-2013-2): Wisdom generated from experience.
 
 * Autobiography - Short length
@@ -22,4 +23,3 @@ Personal Life Development
 
 </body>
 </html>
-  * Author's point is that programming is general skills, you should have a professional domain knowledge, research field or other stuff.
