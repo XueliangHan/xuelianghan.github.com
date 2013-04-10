@@ -166,19 +166,23 @@ Index
     > In Mac OS X: (tig, gitk) - tig (`brew install tig`), gitk (If you install git by using .dmg file, if will be automatically installed)
 * Github
   * [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
+* Git Video Tutorials
+  * [Learning Git Branching - Github](https://pcottle.github.io/learnGitBranching/?demo)
+  * [Git Video Tutorials](http://happycasts.net/search?q=git)
+* Git Recommended Tutorials
+  * [Git-SCM Official Website](http://git-scm.com): Download it from website.
+  * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics)
 * [Git Documents](https://git-scm.com/doc): It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
   * [Reference](https://git-scm.com/docs/)
   * (Book)[Pro Git](https://git-scm.com/book)
   * [Videos](https://git-scm.com/videos)
   * [External Links](https://git-scm/doc/ext)
-* (Chinese)[Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command): Good summary.
-* Recommended Tutorials
-  * [Git-SCM Official Website](http://git-scm.com): Download it from website.
-  * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics)
-  * [Git Video Tutorials](http://happycasts.net/search?q=git)
+* Organizations at Github
+  * [Hackers @ Berkeley](https://github.com/HackBerkeley) discoverd via [Peter Cottle](https://github.com/pcottle)
 
-####Git keywords
+####Git keywords and command
 * Stage, Tracked
+* (Chinese)[Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command): Good summary.
 
 ####1.Git Basic
 * __`git init`__

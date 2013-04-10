@@ -11,20 +11,16 @@ My hobbies
 Art & Literature: Film, Music, Painting, Photography, Reading
 ----------------------------------------------------------------
 ###READING
+* __More Reading, Less Internet Surfing.__
+  * Deep reading, Deep learning.
+  * Buy a kindle, then read at anywhere, anytime.
+  * Michael, a man in prison for 25 years without Internet, [Michael G. Santos - Wikipedia](http://en.wikipedia.org/wiki/Michael_G._Santos), [Official Website](http://michaelsantos.com)
 * Series of good translated English book (filtering function, only very good book worth translate)
   * [20世纪科普经典收藏](http://www.sciencep.com/s_congshu_more.php?type=&id=172&csid=172)
 
-###MUSIC
-* Music, spiritual energy to human.
-
-####Artist
-* Beyond
-
-####Film related to Music
-* August Rush (2007): [on IMDB](http://www.imdb.com/title/tt0426931/), [on Wikipedia](http://en.wikipedia.org/wiki/August_Rush), Note: Very beautiful, amazing, I can feel the power of music, it's like my neuro-network have been programmed by music.
-
-####Course Related to Music
-* [Listening to Music - Open Yale Course](http://oyc.yale.edu/music/musi-112) by [Prof. Craig Wright]
+###Writing
+* Blog and Bloging
+  * (Unread)[Dorie Clark](http://www.dorieclark.com/), [If You're Serious About Ideas, Get Serious About Blogging](http://blogs.hbr.org/cs/2012/12/if_youre_serious_about_ideas_g.html)
 
 ###PHOTEGRAPHY
 * [Milky Way Scientists-Facebook](http://www.facebook.com/Milkway.Nasa.115943216485228220871)
@@ -36,6 +32,15 @@ Art & Literature: Film, Music, Painting, Photography, Reading
   * [Single View](http://www.wallchan.com/images/sandbox/53850-andromeda-galaxy.jpg)
   * [Andromeda with Milky Way](http://www.nasa.gov/images/content/654242main_p1220b3k.jpg)
   * [Mac OS 10.7 Wallpaper](http://www.wallsforpc.com/wp-content/uploads/2012/10/Andromeda-Galaxy.jpg)
+
+###MUSIC
+* Cognition: Music, spiritual energy to human.
+* Artist
+  * Beyond
+* Film related to Music
+  * August Rush (2007): [on IMDB](http://www.imdb.com/title/tt0426931/), [on Wikipedia](http://en.wikipedia.org/wiki/August_Rush), Note: Very beautiful, amazing, I can feel the power of music, it's like my neuro-network have been programmed by music.
+* Course Related to Music
+  * [Listening to Music - Open Yale Course](http://oyc.yale.edu/music/musi-112) by [Prof. Craig Wright]
 
 ###FILM/MOVIE
 * Life in A Day (2010): (Love, Fear). Highly recommended, the best film and documentary I've ever seen in my life.

@@ -32,10 +32,11 @@ TECHNOLOGY(GINR)
 * Apple
 
 ###Technology News
-* [KurzweilAI](http://www.kurzweilai.com)
-* [MIT Technology Review](http://technologyreview.com)
+* [KurzweilAI](http://www.kurzweilai.com/)
+* [MIT Technology Review](http://technologyreview.com/)
+* [Masable](http://www.masable.com/)
 * [Hacker News](https://news.ycombinator.com/):
-* [Slashdot](http://slashdot.com)
+* [Slashdot](http://slashdot.com/)
 
 
 * AI (Artificial Intelligence)
