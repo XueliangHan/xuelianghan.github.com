@@ -34,7 +34,7 @@ TECHNOLOGY(GINR)
 ###Technology News
 * [KurzweilAI](http://www.kurzweilai.com)
 * [MIT Technology Review](http://technologyreview.com)
-* [Hacker News]
+* [Hacker News](https://news.ycombinator.com/):
 * [Slashdot](http://slashdot.com)
 
 
@@ -89,7 +89,7 @@ TECHNOLOGY(GINR)
 ####Mobile Development Technology
 * Make Your Own Mobile Apps
   * [AppInventor](http://www.appinventor.org/): Learn to build apps for Android phones and tablets within hours.
-  * [Codea (iPad)](http://twolivesleft.com/Codea/): Create games and simulations — or just about any visual idea you have.
+  * [Codea (iPad)](http://twolivesleft.com/Codea/): Create games and simulations - or just about any visual idea you have.
 * Android-Google
   * [Google Android Developer Guide](http://developer.android.com/guide/index.html)
   * [Wiki\_Category:Android-eLinux.org](http://www.elinux.org/Category:Android)
@@ -109,8 +109,8 @@ TECHNOLOGY(GINR)
   * [HTML - Tags at W3School](http://www.w3schools.com/tags/default.asp): Core of HTML.
   * [HTML5 - Wikipedia](http://en.wikipedia.org/wiki/HTML5)
   * [HTML5 - Learning HTML at W3School](http://www.w3schools.com/html/html5_intro.asp)
-* CSS and CSS3
-  * [CSS (Cascading Style Sheets) - Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* CSS and CSS3 (Cascading Style Sheets) 
+  * [CSS - Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
   * [CSS - Learning CSS at W3School](http://www.w3schools.com/css/default.asp)
   * [CSS3 - Learning CSS3 at W3School](http://www.w3schools.com/css3/default.asp)
 * JavaScript - An interpreted computer programming language.

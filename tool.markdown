@@ -146,6 +146,7 @@ Index
 ####Others
 * Sublime
   * [Sublime 2 Official Website](http://www.sublimetext.com/2)
+* Byword
 * TextMate
   * [Text - The missing editor for Mac OS X](http://macromates.com)
   * Key point: Beautiful user interface, powerful micro definition, download and edit bundles, improve the develop efficiency, many Rails developer use it to do ruby programming.
