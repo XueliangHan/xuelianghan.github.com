@@ -158,7 +158,14 @@ Index
 * About VCS (Version Control System)
   * If you are the new generation (born after 1990), I think you should use Git instead of SVN or Mercurial, bucause it's better. (If the new generation grow up with the best tools, they will to make the best tools, so generation and generation, our world become much better.)
   * The whole idea behind any version control system is to store "safe" copies of a project so that you never have to worry about irreparably breaking your code base. 
-* [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
+* Git
+  * Install git
+    > In Linux (Ubuntu): `sudo apt-get install git`
+    > In Mac OS X: Manually download git from website and install it.
+  * Install a history view program
+    > In Mac OS X: (tig, gitk) - tig (`brew install tig`), gitk (If you install git by using .dmg file, if will be automatically installed)
+* Github
+  * [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
 * [Git Documents](https://git-scm.com/doc): It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
   * [Reference](https://git-scm.com/docs/)
   * (Book)[Pro Git](https://git-scm.com/book)
@@ -249,6 +256,12 @@ Index
 
 ####3.Git Branches
 * __`git branch`__
+  * `git branch` - 
+  * `git branch "branch-name"` - 
+  * Marked
+  * `` - 
+  * `` - 
+  * `` - 
 * __`git checkout`__
   * `what is git checkout command` - 
   * `git checkout "new-branch"` - 
@@ -256,7 +269,7 @@ Index
   * `git checkout -b "new-branch" "existing-branch"` - 
 * __`git merge`__
   * `what is git merge` - Merging is Git's way of putting a forked history back together again.
-  * `git merge "branch"` - 
+  * `git merge "branch"` - Merge the specified branch into the current branch. Git will determine the merge algorithm automatically (discussed below).
   * `git merge --no-ff "branch"` - 
 
 ####4.Rewriting Git History
@@ -395,7 +408,8 @@ Work Related Tools Kit
 * (Chinese)[Markdown+Pandoc：轻量级科学论文写作方案](http://www.douban.com/note/245109923/)
 * Tools for Markdown
   * Online: [Dillinger](http://dillinger.io), [MaHua](http://mahua.jser.me/)
-  * Mac OS X: [Mou](http://mouapp.com/)
+  * Mac OS X: 
+    > [Mou - The missing Markdown editor for web developers](http://mouapp.com/): Launching Mou from Terminal, type `open -a Mou`. To open file, type `open example.md` or `open -a Mou example.md`.  
   * Linux: (Chinese)[Emacs Markdown](http://linuxtoy.org/archives/emacs-markdown-model.html), [ReText](sourceforge.net/p/retext/home/ReText/)
   * Windows: [MarkdownPad](http://markdownpad.com/)
 
