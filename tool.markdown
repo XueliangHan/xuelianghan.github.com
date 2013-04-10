@@ -251,6 +251,7 @@ Index
 * __`git branch`__
 * __`git checkout`__
 * __`git merge`__
+  * `what is git merge`
 
 ####4.Rewriting Git History
 * __`git commit --amend`__
