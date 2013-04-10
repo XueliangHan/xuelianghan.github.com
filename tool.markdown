@@ -250,8 +250,14 @@ Index
 ####3.Git Branches
 * __`git branch`__
 * __`git checkout`__
+  * `what is git checkout command` - 
+  * `git checkout "new-branch"` - 
+  * `git checkout -b "new-branch"` - 
+  * `git checkout -b "new-branch" "existing-branch"` - 
 * __`git merge`__
-  * `what is git merge`
+  * `what is git merge` - Merging is Git's way of putting a forked history back together again.
+  * `git merge "branch"` - 
+  * `git merge --no-ff "branch"` - 
 
 ####4.Rewriting Git History
 * __`git commit --amend`__
