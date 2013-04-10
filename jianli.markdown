@@ -21,7 +21,7 @@
 ####2.工程项目经验
 #####（独立）建立个人网站（空闲时间）
 * 正在进行 V3.0`Jekyll`并不完全匹配我的需求，正在使用`HTML`、`CSS`、`JavaScript`创建个人主页和网
-* 2013-03 V2.0-从头搭建个人发布网站，使用`Markdown`、`Jekyll`、`Git`、`Github`, `ShellScript`
+* 2013-03 V2.0-从头搭建个人发布网站，使用`Bash`、`Jekyll`、`Git`、`Github`
 * 2012-07 V1.0-从头搭建个人博客，使用`Linux`、`Apache`、`MySQL`、`WordPress`
 
 #####（独立）TCP+UDP网络通信程序 @2012-04
