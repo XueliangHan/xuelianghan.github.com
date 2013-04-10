@@ -60,8 +60,11 @@ My General Information Source
 ###Misc
 * (Review)[TopTenReview](http://www.toptenreview.com):We do the research, so you don't have to. {Software/Electronics/Web Services/Mobile/Appliance/Auto Tech/Science Tech/Small Business/ Careers/ENtertainment/Video.  
 
+####Personal Weblog+ on blog service
+* [Yin Wang's Sina Weblog](http://blog.sina.com.cn/s/articlelist_1569777711_0_1.html)
+* [Lu Wang's Renren Weblog](http://blog.renren.com/blog/44432371/)
 
-####Personal Weblog on IndependentHost
+####Personal Weblog  on IndependentHost
 * (What I observed, [Original]There have more original writing, most of them are more __open__ to talk/share, and they have more power.)
 * Chinese content
   * [Robbin的自言自语](http://www.robbinfan.com)：范凯CSDN CTO，JavaEye网站创始人，人生旅程、产品类笔记、技术文档，互联网产品设计、研发、运营、团队建设。
