@@ -20,24 +20,34 @@ Index
 <hr>
 TECHNOLOGY(GINR)
 ----------------
-###Domain & Field of Technology
-* AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
+* Domain & Field of Technology
+  * AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
+* The 10 main academic tracks include:
+  1.Future Studies & Foreasting
+  2.Networks & Computing Systems
+  3.Biotechnology & Bioinformatics
+  4.Nanotechnology
+  5.Medicine, Neuroscience & Human Enhancement
+  6.AI, Robotics, & Cognitive Computing
+  7.Energy & Ecological Systems
+  8.Space & Physical Sciences
+  9.Policy, Law & Ethics
+  10.Finance & Entrepreneurship
 
-###Technical Knowledge Base
-* IBM
-* [MSDN](http://msdn.microsoft.com/)
-* Google
-* Yahoo
-* Amazon
-* Apple
+* Technical Knowledge Base
+  * IBM
+  * [MSDN](http://msdn.microsoft.com/)
+  * Google
+  * Yahoo
+  * Amazon
+  * Apple
 
-###Technology News
-* [KurzweilAI](http://www.kurzweilai.com/)
-* [MIT Technology Review](http://technologyreview.com/)
-* [Masable](http://www.masable.com/)
-* [Hacker News](https://news.ycombinator.com/):
-* [Slashdot](http://slashdot.com/)
-
+* Technology News
+  * [KurzweilAI](http://www.kurzweilai.com/)
+  * [MIT Technology Review](http://technologyreview.com/)
+  * [Masable](http://www.masable.com/)
+  * [Hacker News](https://news.ycombinator.com/):
+  * [Slashdot](http://slashdot.com/)
 
 * AI (Artificial Intelligence)
   * [Noam Chomsky on Where Artificial Intelligence Went Wrong](http://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/)
