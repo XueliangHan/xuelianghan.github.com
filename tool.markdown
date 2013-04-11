@@ -1,9 +1,8 @@
-<html>
-<head><title>Tools</title></head>
-<body>
+<html><head><title>Tools</title></head><body>
 
 Craftsman's tools in Computer World
 ===================================
+<hr>
 * This is a place where I learn how to use tools
 * The best way to master a tools is to use it in the real world to do some parctical task, and it's better have a master with you, so when things go wrong, you can fix it very quickly, this kind of learning stragety will help you mastering the tools as quick as possible.
 
@@ -13,8 +12,11 @@ Craftsman's tools in Computer World
 
 Index
 ------
+<hr>
+* Compiler
+* Debugger and Debugging
 * Editor(Vi/Vim, Emacs)
-* Version Control System(Linux, Mac OS X)
+* Version Control System - Git (Linux, Mac OS X)
 
 ###A full development tools kit for a specific development need
 * Unix/Linux Environment Development Tools Kit:
@@ -50,7 +52,47 @@ Index
 
 
 
+###Compiler
+<hr>
+####GCC(the GNU Compiler Collection)
+* [GCC homepage at GNU project](http://gcc.gnu.org)
+* [GCC Compiler Collection - Wikipedia](en.wikipedia.org/wiki/GNU_Compiler_Collection)
+* [GCC online documentation](http://gcc.gnu.org/onlinedocs/)
+* Main parameters
+  * _-x language filename_: Specify explicitly the _language_ for the following input files (rather than letting the compiler choose a default based on the file name suffix).
+  * _-x none_: Turn off any specification of a language.
+  * _-o_: "\*.o",   Specify a target name, default is _a.out_.
+  * _-c_: "\*.o",   Only preprocessing, complication, assemble, 
+  * _-E_: "\*.txt", Only preprocessing, you may want to use "_gcc -E binarySearch.c > preprocessing.txt_", because it will generate a 800+ lines of code even a hello-world program.
+  * _-C_: "\*.txt", Only preprocessing, but save the comments information.
+  * _-S_: "\*.s",   Stop after the stage of compilation proper, do not assemble.
+  * _-M_:      Generate information related to files. 
+  * _-MM_:     Generate information related to files but ignore dependency caused by _#include<file>_
+  * _OO_:      No optimization.
+  * _-O/-O1_:  Optimize code.
+  * _O2_:      Further optimization.
+  * _O3_:      More further optimization.
+  * _-shared_: Generate shared object.
+  * _-static_: Forbid shared link.
+
+
+
+
+###Debugger and Debugging
+<hr>
+####GDB (The GNU Project Debugger)
+* [GDB - GNU Project](http://www.gnu.org/software/gdb/)
+* [GDB Tutorial](http://www.cs.cmu.edu/~gilpin/tutorial/) from CMU and maintained by [Andrew Gilpin](http://www.cs.cmu.edu/~gilpin/)
+
+####Memory Leaks Detechtion
+* [Memory Leaks - Wikipedia](http://en.wikipedia.org/wiki/Memory_leak)
+* IBM Rational Purify, BoundsChecker, Valgrind, Insure++, Dr. Memory and memwatch
+
+
+
+
 ###Editor
+<hr>
 * Editor is matter
   * [Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube](https://www.youtube.com/watch?v=IUBw5e-zPXw)
 * In order to get one specific thing done, the editor I use.
@@ -155,6 +197,7 @@ Index
 
 
 ###Version Control System - Git
+<hr>
 * About VCS (Version Control System)
   * If you are the new generation (born after 1990), I think you should use Git instead of SVN or Mercurial, bucause it's better. (If the new generation grow up with the best tools, they will to make the best tools, so generation and generation, our world become much better.)
   * The whole idea behind any version control system is to store "safe" copies of a project so that you never have to worry about irreparably breaking your code base. 
@@ -307,42 +350,12 @@ Index
   * `git push --tags`: Sends all of your local tags to the remote repository which are not automatically pushed when you use `--all` option.
 
 
-
 Unix/Linux Environment Development Tools Kit
 --------------------------------------------
-###Compiler
-####GCC(the GNU Compiler Collection)
-* [GCC homepage at GNU project](http://gcc.gnu.org)
-* [GCC Compiler Collection - Wikipedia](en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [GCC online documentation](http://gcc.gnu.org/onlinedocs/)
-* Main parameters
-  * _-x language filename_: Specify explicitly the _language_ for the following input files (rather than letting the compiler choose a default based on the file name suffix).
-  * _-x none_: Turn off any specification of a language.
-  * _-o_: "\*.o",   Specify a target name, default is _a.out_.
-  * _-c_: "\*.o",   Only preprocessing, complication, assemble, 
-  * _-E_: "\*.txt", Only preprocessing, you may want to use "_gcc -E binarySearch.c > preprocessing.txt_", because it will generate a 800+ lines of code even a hello-world program.
-  * _-C_: "\*.txt", Only preprocessing, but save the comments information.
-  * _-S_: "\*.s",   Stop after the stage of compilation proper, do not assemble.
-  * _-M_:      Generate information related to files. 
-  * _-MM_:     Generate information related to files but ignore dependency caused by _#include<file>_
-  * _OO_:      No optimization.
-  * _-O/-O1_:  Optimize code.
-  * _O2_:      Further optimization.
-  * _O3_:      More further optimization.
-  * _-shared_: Generate shared object.
-  * _-static_: Forbid shared link.
-
-
-###Debugging
-####GDB (The GNU Project Debugger)
-* [GDB - GNU Project](http://www.gnu.org/software/gdb/)
-* [GDB Tutorial](http://www.cs.cmu.edu/~gilpin/tutorial/) from CMU and maintained by [Andrew Gilpin](http://www.cs.cmu.edu/~gilpin/)
-
-####Memory Leaks Detechtion
-* [Memory Leaks - Wikipedia](http://en.wikipedia.org/wiki/Memory_leak)
-* IBM Rational Purify, BoundsChecker, Valgrind, Insure++, Dr. Memory and memwatch
-
-
+<hr>
+###Shell
+* zsh
+  * Install zsh in Mac OS X: [Setup new Mac with OSX Lion from scratch](https://gist.github.com/jpantuso/1110217)
 
 
 
@@ -351,6 +364,7 @@ Unix/Linux Environment Development Tools Kit
 
 Mac OS X
 --------
+<hr>
 ###Database
 * MySQL
   * [MySQL-Download](http://dev.mysql.com/downloads/mysql)
@@ -381,6 +395,7 @@ Mac OS X
 
 Mobile Development Tools Kit
 ----------------------------
+<hr>
 ###Android (Google)
 * Build Android Development Environment under Linux Operating System (Ubuntu)
   * Quick and easy way: Download the ADT (Android Development Tools kit) from [android.com](http://developer.android.com/sdk/index.html), extract the zip package, and you can start developing android apps now.
@@ -404,6 +419,7 @@ Mobile Development Tools Kit
 
 Work Related Tools Kit
 ----------------------
+<hr>
 ###Text Processing & Type Settting
 ####LaTeX
 ####Markdown
@@ -435,7 +451,7 @@ Work Related Tools Kit
 
 Reference
 ----------------------
-
+<hr>
 ###My Configuration files
 * Bash configuration file -> [bashrc](./files/bashrc), usage: rename bashrc to .bashrc, put it in your HOME directory.  
 * Vi/Vim configuration file -> [vimrc](./files/vimrc), usage: rename vimrc to .vimrc, put it in your HOME directory.  

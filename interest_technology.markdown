@@ -126,6 +126,7 @@ TECHNOLOGY(GINR)
   * [HTML - Tags at W3School](http://www.w3schools.com/tags/default.asp): Core of HTML.
   * [HTML5 - Wikipedia](http://en.wikipedia.org/wiki/HTML5)
   * [HTML5 - Learning HTML at W3School](http://www.w3schools.com/html/html5_intro.asp)
+  * [HAML - HTML Abstraction Markup Language](http://haml.info/) - Beautiful, DRY,well-indented, clear markup:templating haiku. Once you use it, you won't come back.
 * CSS and CSS3 (Cascading Style Sheets) 
   * [CSS - Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
   * [CSS - Learning CSS at W3School](http://www.w3schools.com/css/default.asp)
