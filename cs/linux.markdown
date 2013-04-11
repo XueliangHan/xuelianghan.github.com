@@ -20,6 +20,7 @@ Index
 * End of stdin in the bash: CTRL+D
 * bg: check background task in current shell
   * %1: recovery the first task
+  * Add ' ': Shift + Alt
 
 ####Shell shortcut
 * [Bash Shortcuts for Maximum Productivity](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity)
