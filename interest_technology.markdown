@@ -174,13 +174,14 @@ TECHNOLOGY(GINR)
 
 
 ####Testing Technologies
-* Unit Test
+* Functional Test
+* Units Test
   * As a software develop engineer, after you write a function or a module, you need to wirte a test case to test your function or module, to make sure that there are no bugs in it (caculation mistake, logical error, etc.).
   * Go language is doing a great work at Unit tests, it integrate unit test into language, when you write a function in Go language, you can also write a test function to test a function with defined input test data (both right and wrong), you specify which testing data will get wrong result, which data will get right result, and run test command, you will get result, it automatically, very convenient.
-
+* Integration Test
 * Regression Test
-  * What regression mean? It's definition is retrun to a worse or lessdeveloped state.
-  * In my software project, a module is working good in previous version, but got a malfunction in new version, so, this module have a regression, because it backward to a unstable state from a stable state.
+  * What regression mean? It's definition is retrun to a worse or less developed state.
+  * In my project, a module is working well in previous version, but had a malfunction in new version, so, this module have a regression, because it backward to a unstable state from a stable state.
   * Regression test make sure that new code have fix the bugs, and not break the module's current function.
 
 ####Scifiction and Fantasy related to Technology

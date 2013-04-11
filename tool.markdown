@@ -356,7 +356,10 @@ Unix/Linux Environment Development Tools Kit
 ###Shell
 * zsh
   * Install zsh in Mac OS X: [Setup new Mac with OSX Lion from scratch](https://gist.github.com/jpantuso/1110217)
-
+###Command Line Tools to Install Software
+* [MacPort](http://www.macports.org/)
+* [Fink](http://www.finkproject.org/)
+* [HomeBrew](http://mxcl.github.com/homebrew/)
 
 
 
@@ -435,6 +438,9 @@ Work Related Tools Kit
 
 ####Professional Tools
 * [Moqups](http://moqups.com): Moqups gives users immediate access to all the tools they need to create a functional prototype, mockup or UI concept.
+* Mindmap
+  * Simple and Clear: FreeMind(Java), FreePlane(Based on FreeMind), they are all cross platform and open source.
+  * MindJet
 
 ####Online tools (Platform independent)
 * For temporary usage.
@@ -459,7 +465,9 @@ Reference
 ###Cofiguration text
 ####Java path in Windows
 This is a very geeky Windows XP machine I encountered before. 
-* c:\oracle\product\10.1.0\Db\_1\bin;c:\oracle\product\10.1.0\Db\_1\jre\1.4.2\bin\client;c:\oracle\product\10.1.0\Db\_1\jre\1.7.0\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\MSDEV\BIN;C:\Program Files\Rational\common;c:\matlab6p1\bin\win32 
+* c:\oracle\product\10.1.0\Db\_1\bin;c:\oracle\product\10.1.0\Db\_1\jre\1.4.2\bin\client;c:\oracle\product\10.1.0\Db\_1\jre\1.7.0\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\MSDEV\BIN;C:\Program Files\Rational\common;c:\matlab6p1\bin\win32
+
+[Remap Caps Lock](http://c2.com/cgi/wiki?RemapCapsLock)
 
 </body>
 </html>
