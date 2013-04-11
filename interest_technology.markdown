@@ -20,24 +20,34 @@ Index
 <hr>
 TECHNOLOGY(GINR)
 ----------------
-###Domain & Field of Technology
-* AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
+* Domain & Field of Technology
+  * AI (Artificial Intelligence), GT (Gene-Technology), NT (Nano-Technology), RT (Robotic-Technology), IT (Information Technology)
+* The 10 main academic tracks include:
+  1.Future Studies & Foreasting
+  2.Networks & Computing Systems
+  3.Biotechnology & Bioinformatics
+  4.Nanotechnology
+  5.Medicine, Neuroscience & Human Enhancement
+  6.AI, Robotics, & Cognitive Computing
+  7.Energy & Ecological Systems
+  8.Space & Physical Sciences
+  9.Policy, Law & Ethics
+  10.Finance & Entrepreneurship
 
-###Technical Knowledge Base
-* IBM
-* [MSDN](http://msdn.microsoft.com/)
-* Google
-* Yahoo
-* Amazon
-* Apple
+* Technical Knowledge Base
+  * IBM
+  * [MSDN](http://msdn.microsoft.com/)
+  * Google
+  * Yahoo
+  * Amazon
+  * Apple
 
-###Technology News
-* [KurzweilAI](http://www.kurzweilai.com/)
-* [MIT Technology Review](http://technologyreview.com/)
-* [Masable](http://www.masable.com/)
-* [Hacker News](https://news.ycombinator.com/):
-* [Slashdot](http://slashdot.com/)
-
+* Technology News
+  * [KurzweilAI](http://www.kurzweilai.com/)
+  * [MIT Technology Review](http://technologyreview.com/)
+  * [Masable](http://www.masable.com/)
+  * [Hacker News](https://news.ycombinator.com/):
+  * [Slashdot](http://slashdot.com/)
 
 * AI (Artificial Intelligence)
   * [Noam Chomsky on Where Artificial Intelligence Went Wrong](http://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/)
@@ -116,6 +126,7 @@ TECHNOLOGY(GINR)
   * [HTML - Tags at W3School](http://www.w3schools.com/tags/default.asp): Core of HTML.
   * [HTML5 - Wikipedia](http://en.wikipedia.org/wiki/HTML5)
   * [HTML5 - Learning HTML at W3School](http://www.w3schools.com/html/html5_intro.asp)
+  * [HAML - HTML Abstraction Markup Language](http://haml.info/) - Beautiful, DRY,well-indented, clear markup:templating haiku. Once you use it, you won't come back.
 * CSS and CSS3 (Cascading Style Sheets) 
   * [CSS - Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
   * [CSS - Learning CSS at W3School](http://www.w3schools.com/css/default.asp)
@@ -163,13 +174,14 @@ TECHNOLOGY(GINR)
 
 
 ####Testing Technologies
-* Unit Test
+* Functional Test
+* Units Test
   * As a software develop engineer, after you write a function or a module, you need to wirte a test case to test your function or module, to make sure that there are no bugs in it (caculation mistake, logical error, etc.).
   * Go language is doing a great work at Unit tests, it integrate unit test into language, when you write a function in Go language, you can also write a test function to test a function with defined input test data (both right and wrong), you specify which testing data will get wrong result, which data will get right result, and run test command, you will get result, it automatically, very convenient.
-
+* Integration Test
 * Regression Test
-  * What regression mean? It's definition is retrun to a worse or lessdeveloped state.
-  * In my software project, a module is working good in previous version, but got a malfunction in new version, so, this module have a regression, because it backward to a unstable state from a stable state.
+  * What regression mean? It's definition is retrun to a worse or less developed state.
+  * In my project, a module is working well in previous version, but had a malfunction in new version, so, this module have a regression, because it backward to a unstable state from a stable state.
   * Regression test make sure that new code have fix the bugs, and not break the module's current function.
 
 ####Scifiction and Fantasy related to Technology

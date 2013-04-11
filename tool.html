@@ -1,20 +1,18 @@
-<p><html>
-<head><title>Tools</title></head>
-<body></p>
+<p><html><head><title>Tools</title></head><body></p>
 
 <h1>Craftsman's tools in Computer World</h1>
 
-<ul>
-<li>This is a place where I learn how to use tools</li>
-<li>The best way to master a tools is to use it in the real world to do some parctical task, and it's better have a master with you, so when things go wrong, you can fix it very quickly, this kind of learning stragety will help you mastering the tools as quick as possible.</li>
-</ul>
+<p><hr>
+* This is a place where I learn how to use tools
+* The best way to master a tools is to use it in the real world to do some parctical task, and it's better have a master with you, so when things go wrong, you can fix it very quickly, this kind of learning stragety will help you mastering the tools as quick as possible.</p>
 
 <h2>Index</h2>
 
-<ul>
-<li>Editor(Vi/Vim, Emacs)</li>
-<li>Version Control System(Linux, Mac OS X)</li>
-</ul>
+<p><hr>
+* Compiler
+* Debugger and Debugging
+* Editor(Vi/Vim, Emacs)
+* Version Control System - Git (Linux, Mac OS X)</p>
 
 <h3>A full development tools kit for a specific development need</h3>
 
@@ -72,18 +70,61 @@
 </ul></li>
 </ul>
 
-<h3>Editor</h3>
+<h3>Compiler</h3>
+
+<hr>
+
+<h4>GCC(the GNU Compiler Collection)</h4>
 
 <ul>
-<li>Editor is matter
+<li><a href="http://gcc.gnu.org">GCC homepage at GNU project</a></li>
+<li><a href="en.wikipedia.org/wiki/GNU_Compiler_Collection">GCC Compiler Collection - Wikipedia</a></li>
+<li><a href="http://gcc.gnu.org/onlinedocs/">GCC online documentation</a></li>
+<li>Main parameters
 <ul>
-<li><a href="https://www.youtube.com/watch?v=IUBw5e-zPXw">Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube</a></li>
-</ul></li>
-<li>In order to get one specific thing done, the editor I use.
-<ul>
-<li><a href="http://stackoverflow.com/a/592265/1805394">A very good answer on StackOverFlow about how to use Emacs and Vim to get different things done</a>: Brian Carper use Emacs for LISP, CSS, JavaScript and such, and use Vim for Ruby, Python, Perl, PHP, BASH, Plaintext, and almost anything else.</li>
+<li><em>-x language filename</em>: Specify explicitly the <em>language</em> for the following input files (rather than letting the compiler choose a default based on the file name suffix).</li>
+<li><em>-x none</em>: Turn off any specification of a language.</li>
+<li><em>-o</em>: "*.o",   Specify a target name, default is <em>a.out</em>.</li>
+<li><em>-c</em>: "*.o",   Only preprocessing, complication, assemble, </li>
+<li><em>-E</em>: "*.txt", Only preprocessing, you may want to use "<em>gcc -E binarySearch.c > preprocessing.txt</em>", because it will generate a 800+ lines of code even a hello-world program.</li>
+<li><em>-C</em>: "*.txt", Only preprocessing, but save the comments information.</li>
+<li><em>-S</em>: "*.s",   Stop after the stage of compilation proper, do not assemble.</li>
+<li><em>-M</em>:      Generate information related to files. </li>
+<li><em>-MM</em>:     Generate information related to files but ignore dependency caused by <em>#include<file></em></li>
+<li><em>OO</em>:      No optimization.</li>
+<li><em>-O/-O1</em>:  Optimize code.</li>
+<li><em>O2</em>:      Further optimization.</li>
+<li><em>O3</em>:      More further optimization.</li>
+<li><em>-shared</em>: Generate shared object.</li>
+<li><em>-static</em>: Forbid shared link.</li>
 </ul></li>
 </ul>
+
+<h3>Debugger and Debugging</h3>
+
+<hr>
+
+<h4>GDB (The GNU Project Debugger)</h4>
+
+<ul>
+<li><a href="http://www.gnu.org/software/gdb/">GDB - GNU Project</a></li>
+<li><a href="http://www.cs.cmu.edu/~gilpin/tutorial/">GDB Tutorial</a> from CMU and maintained by <a href="http://www.cs.cmu.edu/~gilpin/">Andrew Gilpin</a></li>
+</ul>
+
+<h4>Memory Leaks Detechtion</h4>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Memory_leak">Memory Leaks - Wikipedia</a></li>
+<li>IBM Rational Purify, BoundsChecker, Valgrind, Insure++, Dr. Memory and memwatch</li>
+</ul>
+
+<h3>Editor</h3>
+
+<p><hr>
+* Editor is matter
+  * <a href="https://www.youtube.com/watch?v=IUBw5e-zPXw">Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube</a>
+* In order to get one specific thing done, the editor I use.
+  * <a href="http://stackoverflow.com/a/592265/1805394">A very good answer on StackOverFlow about how to use Emacs and Vim to get different things done</a>: Brian Carper use Emacs for LISP, CSS, JavaScript and such, and use Vim for Ruby, Python, Perl, PHP, BASH, Plaintext, and almost anything else.</p>
 
 <h4>Vi/Vim</h4>
 
@@ -232,52 +273,36 @@ Screen - Last line's first non-empty Letter: "L"  </p>
 
 <h3>Version Control System - Git</h3>
 
-<ul>
-<li>About VCS (Version Control System)
-<ul>
-<li>If you are the new generation (born after 1990), I think you should use Git instead of SVN or Mercurial, bucause it's better. (If the new generation grow up with the best tools, they will to make the best tools, so generation and generation, our world become much better.)</li>
-<li>The whole idea behind any version control system is to store "safe" copies of a project so that you never have to worry about irreparably breaking your code base. </li>
-</ul></li>
-<li>Git
-<ul>
-<li>Install git
+<p><hr>
+* About VCS (Version Control System)
+  * If you are the new generation (born after 1990), I think you should use Git instead of SVN or Mercurial, bucause it's better. (If the new generation grow up with the best tools, they will to make the best tools, so generation and generation, our world become much better.)
+  * The whole idea behind any version control system is to store "safe" copies of a project so that you never have to worry about irreparably breaking your code base. 
+* Git
+  * Install git</p>
+
 <blockquote>
   <p>In Linux (Ubuntu): <code>sudo apt-get install git</code>
-In Mac OS X: Manually download git from website and install it.</li>
-<li>Install a history view program
-In Mac OS X: (tig, gitk) - tig (<code>brew install tig</code>), gitk (If you install git by using .dmg file, if will be automatically installed)</li>
-</ul></li>
-<li>Github</p>
-
-<ul>
-<li><a href="https://help.github.com/articles/generating-ssh-keys">Generating SSH Keys</a></li>
-</ul></li>
-<li>Git Video Tutorials
-<ul>
-<li><a href="https://pcottle.github.io/learnGitBranching/?demo">Learning Git Branching - Github</a></li>
-<li><a href="http://happycasts.net/search?q=git">Git Video Tutorials</a></li>
-</ul></li>
-<li>Git Recommended Tutorials
-<ul>
-<li><a href="http://git-scm.com">Git-SCM Official Website</a>: Download it from website.</li>
-<li><a href="http://www.atlassian.com/git/tutorial/git-basics">Git Tutorials &amp; Training</a></li>
-</ul></li>
-<li><a href="https://git-scm.com/doc">Git Documents</a>: It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
-<ul>
-<li><a href="https://git-scm.com/docs/">Reference</a></li>
-<li>(Book)<a href="https://git-scm.com/book">Pro Git</a></li>
-<li><a href="https://git-scm.com/videos">Videos</a></li>
-<li><a href="https://git-scm/doc/ext">External Links</a></li>
-</ul></li>
-<li>Organizations at Github
-<ul>
-<li><a href="https://github.com/HackBerkeley">Hackers @ Berkeley</a> discoverd via <a href="https://github.com/pcottle">Peter Cottle</a></li>
-</ul></li>
-</ul>
+In Mac OS X: Manually download git from website and install it.
+  * Install a history view program
+In Mac OS X: (tig, gitk) - tig (<code>brew install tig</code>), gitk (If you install git by using .dmg file, if will be automatically installed)
+* Github
+  * <a href="https://help.github.com/articles/generating-ssh-keys">Generating SSH Keys</a>
+* Git Video Tutorials
+  * <a href="https://pcottle.github.io/learnGitBranching/?demo">Learning Git Branching - Github</a>
+  * <a href="http://happycasts.net/search?q=git">Git Video Tutorials</a>
+* Git Recommended Tutorials
+  * <a href="http://git-scm.com">Git-SCM Official Website</a>: Download it from website.
+  * <a href="http://www.atlassian.com/git/tutorial/git-basics">Git Tutorials &amp; Training</a>
+* <a href="https://git-scm.com/doc">Git Documents</a>: It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
+  * <a href="https://git-scm.com/docs/">Reference</a>
+  * (Book)<a href="https://git-scm.com/book">Pro Git</a>
+  * <a href="https://git-scm.com/videos">Videos</a>
+  * <a href="https://git-scm/doc/ext">External Links</a>
+* Organizations at Github
+  * <a href="https://github.com/HackBerkeley">Hackers @ Berkeley</a> discoverd via <a href="https://github.com/pcottle">Peter Cottle</a></p>
+</blockquote>
 
 <h4>Git keywords and command</h4>
-
-<p></blockquote></p>
 
 <ul>
 <li>Stage, Tracked</li>
@@ -458,51 +483,25 @@ editor = vim  </li>
 
 <h2>Unix/Linux Environment Development Tools Kit</h2>
 
-<h3>Compiler</h3>
+<hr>
 
-<h4>GCC(the GNU Compiler Collection)</h4>
+<h3>Shell</h3>
 
 <ul>
-<li><a href="http://gcc.gnu.org">GCC homepage at GNU project</a></li>
-<li><a href="en.wikipedia.org/wiki/GNU_Compiler_Collection">GCC Compiler Collection - Wikipedia</a></li>
-<li><a href="http://gcc.gnu.org/onlinedocs/">GCC online documentation</a></li>
-<li>Main parameters
+<li><p>zsh</p>
+
 <ul>
-<li><em>-x language filename</em>: Specify explicitly the <em>language</em> for the following input files (rather than letting the compiler choose a default based on the file name suffix).</li>
-<li><em>-x none</em>: Turn off any specification of a language.</li>
-<li><em>-o</em>: "*.o",   Specify a target name, default is <em>a.out</em>.</li>
-<li><em>-c</em>: "*.o",   Only preprocessing, complication, assemble, </li>
-<li><em>-E</em>: "*.txt", Only preprocessing, you may want to use "<em>gcc -E binarySearch.c > preprocessing.txt</em>", because it will generate a 800+ lines of code even a hello-world program.</li>
-<li><em>-C</em>: "*.txt", Only preprocessing, but save the comments information.</li>
-<li><em>-S</em>: "*.s",   Stop after the stage of compilation proper, do not assemble.</li>
-<li><em>-M</em>:      Generate information related to files. </li>
-<li><em>-MM</em>:     Generate information related to files but ignore dependency caused by <em>#include<file></em></li>
-<li><em>OO</em>:      No optimization.</li>
-<li><em>-O/-O1</em>:  Optimize code.</li>
-<li><em>O2</em>:      Further optimization.</li>
-<li><em>O3</em>:      More further optimization.</li>
-<li><em>-shared</em>: Generate shared object.</li>
-<li><em>-static</em>: Forbid shared link.</li>
+<li>Install zsh in Mac OS X: <a href="https://gist.github.com/jpantuso/1110217">Setup new Mac with OSX Lion from scratch</a>
+<h3>Command Line Tools to Install Software</h3></li>
 </ul></li>
-</ul>
-
-<h3>Debugging</h3>
-
-<h4>GDB (The GNU Project Debugger)</h4>
-
-<ul>
-<li><a href="http://www.gnu.org/software/gdb/">GDB - GNU Project</a></li>
-<li><a href="http://www.cs.cmu.edu/~gilpin/tutorial/">GDB Tutorial</a> from CMU and maintained by <a href="http://www.cs.cmu.edu/~gilpin/">Andrew Gilpin</a></li>
-</ul>
-
-<h4>Memory Leaks Detechtion</h4>
-
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/Memory_leak">Memory Leaks - Wikipedia</a></li>
-<li>IBM Rational Purify, BoundsChecker, Valgrind, Insure++, Dr. Memory and memwatch</li>
+<li><p><a href="http://www.macports.org/">MacPort</a></p></li>
+<li><a href="http://www.finkproject.org/">Fink</a></li>
+<li><a href="http://mxcl.github.com/homebrew/">HomeBrew</a></li>
 </ul>
 
 <h2>Mac OS X</h2>
+
+<hr>
 
 <h3>Database</h3>
 
@@ -551,6 +550,8 @@ editor = vim  </li>
 
 <h2>Mobile Development Tools Kit</h2>
 
+<hr>
+
 <h3>Android (Google)</h3>
 
 <ul>
@@ -586,6 +587,8 @@ editor = vim  </li>
 
 <h2>Work Related Tools Kit</h2>
 
+<hr>
+
 <h3>Text Processing &amp; Type Settting</h3>
 
 <h4>LaTeX</h4>
@@ -612,6 +615,11 @@ editor = vim  </li>
 
 <ul>
 <li><a href="http://moqups.com">Moqups</a>: Moqups gives users immediate access to all the tools they need to create a functional prototype, mockup or UI concept.</li>
+<li>Mindmap
+<ul>
+<li>Simple and Clear: FreeMind(Java), FreePlane(Based on FreeMind), they are all cross platform and open source.</li>
+<li>MindJet</li>
+</ul></li>
 </ul>
 
 <h4>Online tools (Platform independent)</h4>
@@ -632,6 +640,8 @@ editor = vim  </li>
 
 <h2>Reference</h2>
 
+<hr>
+
 <h3>My Configuration files</h3>
 
 <ul>
@@ -644,7 +654,9 @@ editor = vim  </li>
 <h4>Java path in Windows</h4>
 
 <p>This is a very geeky Windows XP machine I encountered before. 
-* c:\oracle\product\10.1.0\Db_1\bin;c:\oracle\product\10.1.0\Db_1\jre\1.4.2\bin\client;c:\oracle\product\10.1.0\Db_1\jre\1.7.0\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\MSDEV\BIN;C:\Program Files\Rational\common;c:\matlab6p1\bin\win32 </p>
+* c:\oracle\product\10.1.0\Db_1\bin;c:\oracle\product\10.1.0\Db_1\jre\1.4.2\bin\client;c:\oracle\product\10.1.0\Db_1\jre\1.7.0\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\MSDEV\BIN;C:\Program Files\Rational\common;c:\matlab6p1\bin\win32</p>
+
+<p><a href="http://c2.com/cgi/wiki?RemapCapsLock">Remap Caps Lock</a></p>
 
 <p></body>
 </html></p>

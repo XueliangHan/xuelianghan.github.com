@@ -34,6 +34,7 @@ Education & Learning (Online Education Revolution)
 ####Learning Resource - Specific focus on Computer Science field or related
 * Learn how to code online
   * [Code.org](http://code.org) founded by [Hadi Partovi](http://crunchbase.com/person/hadi-partovi) and [Ali Partovi](http://crunchbase.com/person/ali-partovi)
+  * [Code Academy](http://www.codeacedemy.com/) - Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends. (Web Fundamentals, PHP, jQuery, JavaScript, Projects, Python, Ruby, API)
   * [CodeSchool](http://www.codeschool.com): HTML/CSS, JavaScript, Ruby, iOS, and Electives(R, Git, DevTools, Unix Basics)
   * [CodeDojo](http://www.codedojo.com)
   * [TeachingTree(Computer Science)](http://www.teachingtree.co/): For students to quickly access the exact clips they need in order to learn individual concepts
