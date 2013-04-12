@@ -7,6 +7,23 @@ My hobbies
 * My hobbyies: Music, Reading, Sports & Fitness, Science-fiction, Travel
 * My objects: Universe, Intelligence(Life, Brain)
 
+
+<hr>
+Index
+=====
+* Art & Literature: Film, Music, Painting, Photography, Reading
+  * Reading
+  * Writing
+  * Photography
+  * Music
+  * Film/Movie
+* Language & Culture (English)
+  * Ability and Skills
+  * Vocabulary & Grammar [Foundation]
+  * Language Test
+  * 
+* Travel - Different Area/Country/Nation/State with different Language/Culture
+
 <hr>
 Art & Literature: Film, Music, Painting, Photography, Reading
 ----------------------------------------------------------------
@@ -22,7 +39,7 @@ Art & Literature: Film, Music, Painting, Photography, Reading
 * Blog and Bloging
   * (Unread)[Dorie Clark](http://www.dorieclark.com/), [If You're Serious About Ideas, Get Serious About Blogging](http://blogs.hbr.org/cs/2012/12/if_youre_serious_about_ideas_g.html)
 
-###PHOTEGRAPHY
+###PHOTOGRAPHY
 * [Milky Way Scientists-Facebook](http://www.facebook.com/Milkway.Nasa.115943216485228220871)
 * TESOPhotography(Photo/Video) by Terje Sorgjerd, __Mind-blowing__, __Gorgeous__.
   * [TESOPhotography Official Website](http://tesophotography.com)
@@ -77,6 +94,7 @@ Language & Culture (English)
   * (Chinese)[选校万能查 查你想查的学校对应的GMAT，GRE，托福分数要求，了解学校和了解就业率](http://page.renren.com/601374366/note/899171844): 很全，真实性有待查证。
 
 
+
 <hr>
 Travel - Different Area/Country/Nation/State with different Language/Culture
 -----------------------------------------------------------------------------
@@ -85,6 +103,7 @@ Travel - Different Area/Country/Nation/State with different Language/Culture
   * (Text+Photo)[Traveling, Writing and Programming](http://alwxmaccaw.co.uk/posts/traveling_writing_programming).2013-03.
 * (Chinese)(Photo)[Landscape - The world's most beautiful place that you may never have a chance to see](http://www.360doc.com/content/12/0912/17/544508_235750036.shtml)
 
+####Haven't Been There
 * Africa
   * (Chinese)(Text+Photo)[The coolest things of my life - back from Tanzania](http://blog.renren.com/share/269071291/15449298105).2013-03.
 * America
