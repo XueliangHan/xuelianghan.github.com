@@ -6,12 +6,11 @@ Linux Basic Interactive Shell Command
 
 Index
 -----
-* shell command
-* shell shortcut key
-* awk, sed, grep
 * shell interactive command
-* cat, cd/pushd/popd, cp/scp, dd, pstree, wget
+  * cat, cd/pushd/popd, cp/scp, dd, pstree, wget
+* shell shortcut key
 * crontab, purge
+* awk, sed, grep
 
 
 ####Shell command
@@ -113,7 +112,10 @@ Index
 
 
 ###diff
-
+* [diff - Wikipedia](http://en.wikipedia.org/wiki/Diff)
+* [How to read a patch or diff](http://www.markusbe.com/2009/12/how-to-read-a-patch-or-diff-and-understand-its-structure-to-apply-it-manually/)
+* [How to work with diff representation in git](http://stackoverflow.com/questions/2529441/how-to-work-with-diff-representation-in-git)
+* (Chinese)[读懂diff](http://www.ruanyifeng.com/blog/2012/08/how_to_read_diff.html)
 
 
 
