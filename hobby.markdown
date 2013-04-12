@@ -32,6 +32,10 @@ Art & Literature: Film, Music, Painting, Photography, Reading
   * [Single View](http://www.wallchan.com/images/sandbox/53850-andromeda-galaxy.jpg)
   * [Andromeda with Milky Way](http://www.nasa.gov/images/content/654242main_p1220b3k.jpg)
   * [Mac OS 10.7 Wallpaper](http://www.wallsforpc.com/wp-content/uploads/2012/10/Andromeda-Galaxy.jpg)
+* Featured Andromeda Galaxy Photoes
+  * ![Andromeda Galaxy Clean Looking](./files/images/andromeda-clean-looking.jpg "Andromeda Galaxy Clean Looking")
+  * ![Andromeda Galaxy and Milky Way from Earth](./files/images/andromeda-galaxy-and-milky-way-from-earth.jpg "Andromeda Galaxy and Milky Way from Earth")
+
 
 ###MUSIC
 * Cognition: Music, spiritual energy to human.
