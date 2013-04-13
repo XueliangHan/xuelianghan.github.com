@@ -148,8 +148,15 @@ TECHNOLOGY(GINR)
 
 
 #####Web Back-End Technologies
+* Classified by Computer Programming Language (A easy way to classfy)
+  * Java/PHP
+  * LISP/Ruby/Python
 * Frameworks
-  * Clue: WebObjects, advanced and powerful.
+  * Apple's: WebObjects, advanced and powerful.
+  * Ruby: Ruby on Rails
+  * Python: Tornado, Gevent, Flask
+* Libraries
+* Component
 * Perl
   * [Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)
 * Python
@@ -159,16 +166,15 @@ TECHNOLOGY(GINR)
   * [Ruby - China](http://ruby-china.org)
 * Ruby on Rails
   * [Ruby on Rails - Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)
+
+
+####Server Technologies (Software Running on Servers)
+* Operating System: Linux, BSD, Unix
+* Large Storage System
 * Database
   * [SQL-W3School](http://www.w3schools.com/sql/index.asp)
   * [MySQL-W3School](http://dev.mysql.com/doc/index-topic.html)
   * Type of database: Strucutred Database, Semi-structure(NoSQL) Database, Key-Value Database, etc.
-
-
-####Server Technologies
-* Software Running on Servers
-  * Operating System: Linux
-  * Large Software System
 * Master [Linus Torvalds](https://www.google.com/search?q=Linus+Torvalds)
 
 

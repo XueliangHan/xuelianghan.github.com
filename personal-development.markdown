@@ -20,7 +20,7 @@
 * [Advice From An Old Programmer](http://hackecho.com/2011/06/advice-from-an-old-programmer/): At the end of the book "Learn Python The Hard Way, 2nd Edition"
   * This is a very important advice, it will take me a long time to understand it, and apply it into my life.
   * Author's point is that programming is general skills, you should have a professional domain knowledge, research field or other stuff.
-* The more  knowledge you acquire
+* The more `time` and `energe` you spend acquiring `pertinent` knowledge, the more `control` you have over you `life`.
 * [42 Successful People Share The Best Advice They Ever Received](http://www.businessinsider.com/linkedin-best-advice-2013-2): Wisdom generated from experience.
 
 * Autobiography - Short length
