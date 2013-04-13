@@ -219,6 +219,7 @@ Index
 
 ####Learn - How to use Git
 * Git Recommended Tutorials
+  * [Everyday GIT with 20 Command or So](https://www.kernel.org/pub/software/scm/git/docs/everyday.html)
   * [Git-SCM Official Website](http://git-scm.com): Download it from website.
   * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics)
   * [Git Video Tutorials](http://happycasts.net/search?q=git)
@@ -354,6 +355,14 @@ Index
   * `git push 'branch'`: Push the specified branch to 'remote', to prevent you from overwriting commits, Git won't let you push when it results in a non-fast-forward merge in the destination repository.
   * `git push --force`: Same as above, but force the push even if it results in a non-fast-forward merge, do not use the `--force` flag unless you're absolutely sure you knon what you are doing.
   * `git push --tags`: Sends all of your local tags to the remote repository which are not automatically pushed when you use `--all` option.
+
+####My previous notes about Git Command
+* touch README.md: README.md, description about project.
+* git init: init a local git codebase, generate a hidden .git directory(use ls-aF command to view hidden .git diectory).
+* git add README.md: add README.md into codebase.
+* git commit -m "first commit": commit description, comment is necessary, it's a good design.
+* git remote add origin https://githhub.com/your-user-name/your-project-name.git, or git@github.com:your-user-name/your-project-name.git
+* git push origin master: push local codebase into remote branch of master.
 
 
 Unix/Linux Environment Development Tools Kit
