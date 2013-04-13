@@ -26,12 +26,13 @@ Content
 * [26 Time Management Hacks I Wish I'd Known at 20](http://www.slideshare.net/egarbugli/26-time-management-hacks-i-wish-id-known-at-20) Note: No context at all, just the conclusions from their experiences, but, if you can decode the message, and use the right advice into appropriate situation, it has lots of help.
 * [Why I Go Home: A Developer Dad’s Manifesto | A Work in Progress](http://adamschepis.com/blog/2011/09/15/why-i-go-home-a-dads-manifesto/)
 
-#####By Time
+#####By Time (Time in a day and distribution of them)
 * Morning
   * Point: Morning is the best time that you can get the most tough things done which you probability won't make it after the morning period past.
   * (VIDEO-Interview)[What The Most Successful People Do In The Morning](http://www.businessinsider.com/laura-vanderkam-what-the-most-successful-people-do-before-breakfast-2012-7)
   * (TEXT-Book)[What the Most Successful People Do __Series__](http://lauravanderkam.com/books/successful-people-do/) by [career expert Laura Vanderkam](http://lauravanderkam.com/)
 * 2 hours a day - "waste" and "multiply"
+  * (Idea) Develop a `computer program/ website/ mobile app` to assist this 2 _Wonderful_ hours more __Wonderful__.
 
 
 
