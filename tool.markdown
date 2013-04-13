@@ -447,6 +447,7 @@ Work Related Tools Kit
 * Mindmap
   * Simple and Clear: FreeMind(Java), FreePlane(Based on FreeMind), they are all cross platform and open source.
   * MindJet
+  * Online: Mindomo
 
 ####Online tools (Platform independent)
 * For temporary usage.
