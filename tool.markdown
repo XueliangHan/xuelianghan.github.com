@@ -10,9 +10,9 @@ Craftsman's tools in Computer World
 
 
 
+<hr>
 Index
 ------
-<hr>
 * Compiler
 * Debugger and Debugging
 * Editor(Vi/Vim, Emacs)
@@ -198,37 +198,42 @@ Index
 
 ###Version Control System - Git
 <hr>
-* About VCS (Version Control System)
-  * If you are the new generation (born after 1990), I think you should use Git instead of SVN or Mercurial, bucause it's better. (If the new generation grow up with the best tools, they will to make the best tools, so generation and generation, our world become much better.)
-  * The whole idea behind any version control system is to store "safe" copies of a project so that you never have to worry about irreparably breaking your code base. 
-* Git
-  * Install git
-    > In Linux (Ubuntu): `sudo apt-get install git`
-    > In Mac OS X: Manually download git from website and install it.
-  * Install a history view program
-    > In Mac OS X: (tig, gitk) - tig (`brew install tig`), gitk (If you install git by using .dmg file, if will be automatically installed)
-* Github
+####Some words about VCS (Version Control System)
+* If you are the new generation (born after 1990), I think you should use Git instead of SVN or even Mercurial, bucause it's better. and if the new generation grow up with better tools, they will make better tools, so, after generation and generation, our world become much better.
+* The whole idea behind any version control system is to store "safe" copies of a project so that you never have to worry about irreparably breaking your code base.
+
+####Get the Git Program DONE
+* Install git
+  * In Linux (Ubuntu): `sudo apt-get install git`  
+  * In Mac OS X: Manually download git from website and install it.  
+* Install a graphic history view program  
+  * In Linux (Ubuntu): `sudo apt-get insatll tig`  
+  * In Mac OS X: (tig, gitk) - tig (`brew install tig`), gitk (If you install git by using .dmg file, if will be automatically installed)  
+* Configuration of Local Git and Remote Github Account
   * [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
-* Git Video Tutorials
-  * [Learning Git Branching - Github](https://pcottle.github.io/learnGitBranching/?demo)
-  * [Git Video Tutorials](http://happycasts.net/search?q=git)
+
+####Organizations at Github
+  * [Hackers @ Berkeley](https://github.com/HackBerkeley) discoverd via [Peter Cottle](https://github.com/pcottle)
+  * [Alibaba Group](https://github.com/alibaba)
+  * [Taobao, Inc.](https:/github.com/taobao)
+
+####Learn - How to use Git
 * Git Recommended Tutorials
   * [Git-SCM Official Website](http://git-scm.com): Download it from website.
   * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics)
+  * [Git Video Tutorials](http://happycasts.net/search?q=git)
+  * [Learning Git Branching - Github](https://pcottle.github.io/learnGitBranching/?demo)
 * [Git Documents](https://git-scm.com/doc): It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
   * [Reference](https://git-scm.com/docs/)
   * (Book)[Pro Git](https://git-scm.com/book)
   * [Videos](https://git-scm.com/videos)
   * [External Links](https://git-scm/doc/ext)
-* Organizations at Github
-  * [Hackers @ Berkeley](https://github.com/HackBerkeley) discoverd via [Peter Cottle](https://github.com/pcottle)
-  * [Alibaba Grou[](https://github.com/alibaba)
 
-####Git keywords and command
+#####Git keywords and command
 * Stage, Tracked
 * (Chinese)[Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command): Good summary.
 
-####1.Git Basic
+#####1.Git Basic
 * __`git init`__
   * First command you'll run in a new project.
   * `git init`: Transform the current directory into a Git repository, this operation will add a `.git` folder to the current directory. 
@@ -293,7 +298,7 @@ Index
   * __`git log --graph --decorate --oneline`__  - A few useful options to consider. The --graph flag that will draw a text based graph of the commits on the left hand side of     the commit messages. --decorate adds the names of branches or tags of the commits that are shown. --oneline shows the commit information on a single line making it easier to b    rowse through commits at-a-glance.
 
 
-####2.Undoing Changes
+#####2.Undoing Changes
 * __`git checkout`__
   * `Used to do` -  1.checking out _files_, 2.checking out _commits_, 3.checking out _branches_.
   * `checking out a file` - Checking out a file lets you see an old version of that particular file, leaving the rest of your working directory untouched.
@@ -302,7 +307,7 @@ Index
 * __`git reset`__
 * __`git clean`__
 
-####3.Git Branches
+#####3.Git Branches
 * __`git branch`__
   * `git branch` - 
   * `git branch "branch-name"` - 
@@ -320,13 +325,13 @@ Index
   * `git merge "branch"` - Merge the specified branch into the current branch. Git will determine the merge algorithm automatically (discussed below).
   * `git merge --no-ff "branch"` - 
 
-####4.Rewriting Git History
+#####4.Rewriting Git History
 * __`git commit --amend`__
 * __`git rebase`__
 * __`git rebase -i`__
 * __`git reflog`__
 
-####5.Remote Repositories
+#####5.Remote Repositories
 * __`git remote`__
   * SVN is type of central model, Git is collaboration model which give every developer their own copy of repository.
   * `git remote`: List the remote connections you have to other repositories.
