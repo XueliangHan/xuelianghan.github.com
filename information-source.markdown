@@ -52,6 +52,7 @@ My General Information Source
   * [fr - 法国中文国际广播](http://www.chinese.rfi.fr/)
   * [uk - BBC.co.uk - 英国广播公司中文台](http://www.bbc.co.uk/chinese/) - BBC中文网，主页，国际新闻，两岸三地，英国消息，分析，评论，互动，论坛，音频，视频，图辑。
   * [us - VOAChinese - 美国之音中文台](http://www.voachinese.com) - Voice of America Chinese is your source for __reliable__ and __accurate__ new about China, the United States and the World. Read the lastest news, watch VOA TV, listen to one of our radio programs or practice your English.
+  * (Chinese)作为主流媒体，最起码的一条是说话得负责任。出现假新闻是奇耻大辱。因为这个原因，如果你想看关于中国内部的政治传闻，实际上最好的消息来源不是什么港台媒体，那上面每天都有新的谣言；最好的消息来源是纽约时报。重要的消息都是纽约时报发了以后中文媒体才跟上。我发现国内真正有价值的”消息人士”，似乎 更愿意把消息透露给纽约时报而不是别的报纸，例子太敏感就不说了。——学而时嘻之，http://www.geekonomics10000.com/76
 
 
 ###Misc
