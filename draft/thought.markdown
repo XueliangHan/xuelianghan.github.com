@@ -8,7 +8,7 @@ Law - Running background of the Universe
 * ONE will attracte the OTHERS which have lots of common.
 * (Film)
 
-###The Power Limit of Language - Linguistic determinism & relativity by Sapir–Whorf hypothesis
+###7.The Power Limit of Language - Linguistic determinism & relativity by Sapir–Whorf hypothesis
 * Why China IT industry can't catch up with america, the management, the curture, but originally, it comes down to language, it all source of human mind.
 
 
@@ -20,6 +20,9 @@ What I see from my life experience
 ----------------------------------
 * Answer
   * Ultimately, the tough questions' answer are go down to some fundamental thoughts like "what I pursuit?", "what I believe?", "who I want to be?".
+
+* Apply
+  * Theory/Principle, their mission is to be applied to solve problems.
 
 * Cognition
   * If you look back to the origin, you will find that all mistakes are from the wrong cognition at beginning.  
