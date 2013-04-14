@@ -190,7 +190,7 @@ TECHNOLOGY(GINR)
   * In my project, a module is working well in previous version, but had a malfunction in new version, so, this module have a regression, because it backward to a unstable state from a stable state.
   * Regression test make sure that new code have fix the bugs, and not break the module's current function.
 * Test Driven Development
-  * Disadvantage of `Test Driven Develop`, from Yin Wang's Chinese blog post - [Test Driven Dev.](https://github.com/yinwang0/blog-cn/blob/gh-pages/_posts/2013-04-07-test-driven-dev.md), he mentioned about the disadvantage of `test driven dev` is that reduce the efficiency of the development, after a long thinking/discussing/debating, is comes back to the name, `test driven`, not `speed driven` or `performance driven`, it is designed to do the test. 
+  * Disadvantage of `Test Driven Develop`, __Creative work distorier__, from Yin Wang's Chinese blog post - [Test Driven Dev.](https://github.com/yinwang0/blog-cn/blob/gh-pages/_posts/2013-04-07-test-driven-dev.md), he mentioned about the disadvantage of `test driven dev` is that reduce the efficiency of the development, after a long thinking/discussing/debating, is comes back to the name, `test driven`, not `speed driven` or `performance driven`, it is designed to do the test. 
 
 ####Scifiction and Fantasy related to Technology
 * Film
