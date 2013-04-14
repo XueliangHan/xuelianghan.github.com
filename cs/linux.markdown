@@ -6,11 +6,12 @@ Linux Basic Interactive Shell Command
 
 Index
 -----
+* shell shortcut key
 * shell interactive command
   * cat, cd/pushd/popd, cp/scp, dd, pstree, wget
-* shell shortcut key
-* crontab, purge
 * awk, sed, grep
+* crontab, purge
+* kill
 
 
 ####Shell command
@@ -130,6 +131,12 @@ Index
 * ldd: see which dynamic library the program used.
 * nm: see the symbol in program
 * strip: make the program smaller.
+
+###kill
+* `kill -9 pid`
+  * 
+* `kill -HUP pid`
+  * tell a process reload (exit and start) graceful.
 
 ####mail
 * mail: main -s "Message subject" destiny@destiny.com

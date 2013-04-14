@@ -6,14 +6,18 @@
 * This is a place where I learn how to use tools
 * The best way to master a tools is to use it in the real world to do some parctical task, and it's better have a master with you, so when things go wrong, you can fix it very quickly, this kind of learning stragety will help you mastering the tools as quick as possible.</p>
 
+<h2>Index</h2>
+
 <hr>
 
-<h2>Index</h2>
+<h3>Generic/Cross Platform Tools</h3>
 
 <ul>
 <li>Compiler</li>
+<li>Database</li>
 <li>Debugger and Debugging</li>
 <li>Editor(Vi/Vim, Emacs)</li>
+<li>Language - Specific Computer Programming Languge Environment</li>
 <li>Version Control System - Git (Linux, Mac OS X)</li>
 </ul>
 
@@ -103,6 +107,18 @@
 </ul></li>
 </ul>
 
+<hr>
+
+<h3>Database</h3>
+
+<ul>
+<li>MySQL
+<ul>
+<li><a href="http://dev.mysql.com/downloads/mysql">MySQL-Download</a></li>
+<li>3 componment: MySQL, MySQL.prefpan(install into control panle), MySQLStartupItem</li>
+</ul></li>
+</ul>
+
 <h3>Debugger and Debugging</h3>
 
 <hr>
@@ -123,11 +139,17 @@
 
 <h3>Editor</h3>
 
-<p><hr>
-* Editor is matter
-  * <a href="https://www.youtube.com/watch?v=IUBw5e-zPXw">Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube</a>
-* In order to get one specific thing done, the editor I use.
-  * <a href="http://stackoverflow.com/a/592265/1805394">A very good answer on StackOverFlow about how to use Emacs and Vim to get different things done</a>: Brian Carper use Emacs for LISP, CSS, JavaScript and such, and use Vim for Ruby, Python, Perl, PHP, BASH, Plaintext, and almost anything else.</p>
+<hr>
+
+<h4>Editor is matter</h4>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=IUBw5e-zPXw">Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube</a></li>
+<li>In order to get one specific thing done, the editor I use.
+<ul>
+<li><a href="http://stackoverflow.com/a/592265/1805394">A very good answer on StackOverFlow about how to use Emacs and Vim to get different things done</a>: Brian Carper use Emacs for LISP, CSS, JavaScript and such, and use Vim for Ruby, Python, Perl, PHP, BASH, Plaintext, and almost anything else.</li>
+</ul></li>
+</ul>
 
 <h4>Vi/Vim</h4>
 
@@ -274,6 +296,33 @@ Screen - Last line's first non-empty Letter: "L"  </p>
 </ul></li>
 </ul>
 
+<h3>Language - Specific Computer Programming Languge Environment</h3>
+
+<hr>
+
+<h4>Ruby</h4>
+
+<ul>
+<li>RVM, Rails, Gems in Mac OS X
+<ul>
+<li><a href="https://rvm.io">RVM official site</a></li>
+<li>Component will automatically install: autoconf, automake, libtool, pkg-config, libyaml, readline, readline, libxml2, libxslt, libksba, openssl, sqlite</li>
+</ul></li>
+</ul>
+
+<h4>Scheme(LISP) Setup</h4>
+
+<ul>
+<li>Follow the procedures from Yin Wang, <a href="https://github.com/yinwang0/blog-cn/blob/gh-pages/_posts/2013-04-11-scheme-setup.md">Scheme Setup</a>
+<ul>
+<li>Install Scheme - The best implementation of scheme is <a href="www.google.com/?=chez+scheme">Chez Scheme</a>, it's commercial, but you can <a href="http://scheme.com/download">download</a> the free edition - Petite Chez Scheme, you can find linux version at the middle of the long webpage. <a href="http://racket-lang.org/">Racket</a> was recommended due to the free version of <em>Chez Scheme</em>'s simplest debugging message.(<em>Ubuntu:</em> <code>sudo apt-get install racket</code>)</li>
+<li>Setup and Usage of Emacs plugin - <code>ParEdit mode</code></li>
+<li>Set <code>scheme mode</code> </li>
+<li>Set color of bracket</li>
+</ul></li>
+<li>Note: Beyond my current capacity - 2013-04-14</li>
+</ul>
+
 <h3>Version Control System - Git</h3>
 
 <hr>
@@ -317,6 +366,7 @@ Screen - Last line's first non-empty Letter: "L"  </p>
 <ul>
 <li>Git Recommended Tutorials
 <ul>
+<li><a href="https://www.kernel.org/pub/software/scm/git/docs/everyday.html">Everyday GIT with 20 Command or So</a></li>
 <li><a href="http://git-scm.com">Git-SCM Official Website</a>: Download it from website.</li>
 <li><a href="http://www.atlassian.com/git/tutorial/git-basics">Git Tutorials &amp; Training</a></li>
 <li><a href="http://happycasts.net/search?q=git">Git Video Tutorials</a></li>
@@ -447,9 +497,6 @@ editor = vim  </li>
 <li><code>git branch</code> - </li>
 <li><code>git branch "branch-name"</code> - </li>
 <li>Marked</li>
-<li><code>- &lt;/li&gt;
-&lt;li&gt;</code> - </li>
-<li>`` - </li>
 </ul></li>
 <li><strong><code>git checkout</code></strong>
 <ul>
@@ -510,78 +557,61 @@ editor = vim  </li>
 </ul></li>
 </ul>
 
-<h2>Unix/Linux Environment Development Tools Kit</h2>
+<h4>My previous notes about Git Command</h4>
+
+<ul>
+<li>touch README.md: README.md, description about project.</li>
+<li>git init: init a local git codebase, generate a hidden .git directory(use ls-aF command to view hidden .git diectory).</li>
+<li>git add README.md: add README.md into codebase.</li>
+<li>git commit -m "first commit": commit description, comment is necessary, it's a good design.</li>
+<li>git remote add origin https://githhub.com/your-user-name/your-project-name.git, or git@github.com:your-user-name/your-project-name.git</li>
+<li>git push origin master: push local codebase into remote branch of master.`</li>
+</ul>
+
+<h2>Operating System Specified</h2>
 
 <hr>
 
-<h3>Shell</h3>
+<h3>Unix/Linux Environment Development Tools Kit</h3>
+
+<h4>Terminal/Shell</h4>
 
 <ul>
-<li><p>zsh</p>
-
+<li>zsh
 <ul>
-<li>Install zsh in Mac OS X: <a href="https://gist.github.com/jpantuso/1110217">Setup new Mac with OSX Lion from scratch</a>
-<h3>Command Line Tools to Install Software</h3></li>
-</ul></li>
-<li><p><a href="http://www.macports.org/">MacPort</a></p></li>
-<li><a href="http://www.finkproject.org/">Fink</a></li>
-<li><a href="http://mxcl.github.com/homebrew/">HomeBrew</a></li>
-</ul>
-
-<h2>Mac OS X</h2>
-
-<hr>
-
-<h3>Database</h3>
-
-<ul>
-<li>MySQL
-<ul>
-<li><a href="http://dev.mysql.com/downloads/mysql">MySQL-Download</a></li>
-<li>3 componment: MySQL, MySQL.prefpan(install into control panle), MySQLStartupItem</li>
+<li>Install zsh in Mac OS X: <a href="https://gist.github.com/jpantuso/1110217">Setup new Mac with OSX Lion from scratch</a></li>
 </ul></li>
 </ul>
 
-<h3>IDE</h3>
+<h3>Mac OS X</h3>
 
 <ul>
-<li>Xcode
+<li>IDE - Xcode
 <ul>
 <li>Install Xcode from App Store or local file</li>
 <li>Install Xcode command line tools: Open Xcode -> Perferences -> Downloads -> Commponents -> Command Line Tools (150MB)</li>
 </ul></li>
 </ul>
 
-<h3>Programm install in command line</h3>
+<h4>Command Line Tools to Install Software</h4>
 
 <ul>
-<li>Brew: Homebrew installs <em>the stuff you need</em> that Apple didn't
+<li><a href="http://www.finkproject.org/">Fink</a></li>
+<li><a href="http://mxcl.github.com/homebrew/">HomeBrew</a> - Homebrew installs <em>the stuff you need</em> that Apple didn't
 <ul>
 <li><a href="http://mxcl.github.io/homebrew/">Brew on Github</a></li>
 </ul></li>
-</ul>
-
-<h3>Productivity</h3>
+<li><p><a href="http://www.macports.org/">MacPort</a></p></li>
+<li><p>Productivity</p>
 
 <ul>
 <li>Alfred</li>
-</ul>
-
-<h3>Ruby</h3>
-
-<ul>
-<li>RVM(Ruby, Rails)
-<ul>
-<li><a href="https://rvm.io">RVM official site</a></li>
-<li>Component will automatically install: autoconf, automake, libtool, pkg-config, libyaml, readline, readline, libxml2, libxslt, libksba, openssl, sqlite</li>
 </ul></li>
 </ul>
 
-<h2>Mobile Development Tools Kit</h2>
+<h3>Mobile Development Tools Kit</h3>
 
-<hr>
-
-<h3>Android (Google)</h3>
+<h4>Android (Google)</h4>
 
 <ul>
 <li>Build Android Development Environment under Linux Operating System (Ubuntu)
@@ -603,7 +633,7 @@ editor = vim  </li>
 <li><a href="http://developer.android.com/tools/device.html">Google Tools Device</a></li>
 <li>chmod a+r 51-android.rules</li>
 </ul></li>
-<li>Device: List of devices attached - ???????? no permission, ADB or Eclipse under Ubuntu Linux don't recognize Mobile phone you pluged in.
+<li>Device Error: List of devices attached - ???????? no permission, ADB or Eclipse under Ubuntu Linux don't recognize Mobile phone you pluged in.
 <ul>
 <li>Problem: Device don't recognize solved at <a href="http://stackoverflow.com/questions/4260964/debugging-in-eclipse-with-real-android-phone-on-ubuntu-10-10">Stackoverflow - Debugging in Eclipse with real Android phone on Ubuntu 10.10</a></li>
 </ul></li>
@@ -648,6 +678,7 @@ editor = vim  </li>
 <ul>
 <li>Simple and Clear: FreeMind(Java), FreePlane(Based on FreeMind), they are all cross platform and open source.</li>
 <li>MindJet</li>
+<li>Online: Mindomo</li>
 </ul></li>
 </ul>
 

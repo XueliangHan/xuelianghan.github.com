@@ -32,6 +32,10 @@ Content
   * (VIDEO-Interview)[What The Most Successful People Do In The Morning](http://www.businessinsider.com/laura-vanderkam-what-the-most-successful-people-do-before-breakfast-2012-7)
   * (TEXT-Book)[What the Most Successful People Do __Series__](http://lauravanderkam.com/books/successful-people-do/) by [career expert Laura Vanderkam](http://lauravanderkam.com/)
 * 2 hours a day - "waste" and "multiply"
+  * The _idea_ behind this thought is to contact/connect with more things/people. The infinite possibility of the interaction between yourself and the real actual physical world, just relax and release your mind, let new `information` in, and in a state of `Chaos`, new connections will be made in you mind, and amazing things may happen.
+  * Yin Wang's Blog - [Inspiration](https://github.com/yinwang0/blog-cn/blob/gh-pages/_posts/2013-04-12-inspiration.md)
+  * _Richard Feynman_ - Always keep 12 questions in you mind, when interesting things happened, check if you can get some new thoughts about that 12 question, over time, people will call you `Genius`.
+  * _John Nash_ - Solve a very important problem after seeing a beautiful woman in a bar.
   * (Idea) Develop a `computer program/ website/ mobile app` to assist this 2 _Wonderful_ hours more __Wonderful__.
 
 

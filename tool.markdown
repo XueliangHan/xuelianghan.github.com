@@ -10,12 +10,14 @@ Craftsman's tools in Computer World
 
 
 
+##Index
 <hr>
-Index
-------
+###Generic/Cross Platform Tools
 * Compiler
+* Database
 * Debugger and Debugging
 * Editor(Vi/Vim, Emacs)
+* Language - Specific Computer Programming Languge Environment
 * Version Control System - Git (Linux, Mac OS X)
 
 ###A full development tools kit for a specific development need
@@ -77,6 +79,14 @@ Index
 
 
 
+<hr>
+###Database
+* MySQL
+  * [MySQL-Download](http://dev.mysql.com/downloads/mysql)
+  * 3 componment: MySQL, MySQL.prefpan(install into control panle), MySQLStartupItem
+
+
+
 
 ###Debugger and Debugging
 <hr>
@@ -93,8 +103,8 @@ Index
 
 ###Editor
 <hr>
-* Editor is matter
-  * [Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube](https://www.youtube.com/watch?v=IUBw5e-zPXw)
+####Editor is matter
+* [Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube](https://www.youtube.com/watch?v=IUBw5e-zPXw)
 * In order to get one specific thing done, the editor I use.
   * [A very good answer on StackOverFlow about how to use Emacs and Vim to get different things done](http://stackoverflow.com/a/592265/1805394): Brian Carper use Emacs for LISP, CSS, JavaScript and such, and use Vim for Ruby, Python, Perl, PHP, BASH, Plaintext, and almost anything else.
 
@@ -192,6 +202,26 @@ Index
 * TextMate
   * [Text - The missing editor for Mac OS X](http://macromates.com)
   * Key point: Beautiful user interface, powerful micro definition, download and edit bundles, improve the develop efficiency, many Rails developer use it to do ruby programming.
+
+
+
+
+
+###Language - Specific Computer Programming Languge Environment
+<hr>
+####Ruby
+* RVM, Rails, Gems in Mac OS X
+  * [RVM official site](https://rvm.io)
+  * Component will automatically install: autoconf, automake, libtool, pkg-config, libyaml, readline, readline, libxml2, libxslt, libksba, openssl, sqlite
+
+####Scheme(LISP) Setup
+* Follow the procedures from Yin Wang, [Scheme Setup](https://github.com/yinwang0/blog-cn/blob/gh-pages/_posts/2013-04-11-scheme-setup.md)
+  * Install Scheme - The best implementation of scheme is [Chez Scheme](www.google.com/?=chez+scheme), it's commercial, but you can [download](http://scheme.com/download) the free edition - Petite Chez Scheme, you can find linux version at the middle of the long webpage. [Racket](http://racket-lang.org/) was recommended due to the free version of _Chez Scheme_'s simplest debugging message.(_Ubuntu:_ `sudo apt-get install racket`)
+  * Setup and Usage of Emacs plugin - `ParEdit mode`
+  * Set `scheme mode` 
+  * Set color of bracket
+* Note: Beyond my current capacity - 2013-04-14
+
 
 
 
@@ -313,9 +343,6 @@ Index
   * `git branch` - 
   * `git branch "branch-name"` - 
   * Marked
-  * `` - 
-  * `` - 
-  * `` - 
 * __`git checkout`__
   * `what is git checkout command` - 
   * `git checkout "new-branch"` - 
@@ -362,59 +389,40 @@ Index
 * git add README.md: add README.md into codebase.
 * git commit -m "first commit": commit description, comment is necessary, it's a good design.
 * git remote add origin https://githhub.com/your-user-name/your-project-name.git, or git@github.com:your-user-name/your-project-name.git
-* git push origin master: push local codebase into remote branch of master.
+* git push origin master: push local codebase into remote branch of master.`
 
 
-Unix/Linux Environment Development Tools Kit
---------------------------------------------
+
+
+##Operating System Specified
 <hr>
-###Shell
+###Unix/Linux Environment Development Tools Kit
+####Terminal/Shell
 * zsh
   * Install zsh in Mac OS X: [Setup new Mac with OSX Lion from scratch](https://gist.github.com/jpantuso/1110217)
-###Command Line Tools to Install Software
-* [MacPort](http://www.macports.org/)
-* [Fink](http://www.finkproject.org/)
-* [HomeBrew](http://mxcl.github.com/homebrew/)
 
 
 
-
-
-Mac OS X
---------
-<hr>
-###Database
-* MySQL
-  * [MySQL-Download](http://dev.mysql.com/downloads/mysql)
-  * 3 componment: MySQL, MySQL.prefpan(install into control panle), MySQLStartupItem
-
-
-###IDE
-* Xcode
+###Mac OS X
+* IDE - Xcode
   * Install Xcode from App Store or local file
   * Install Xcode command line tools: Open Xcode -> Perferences -> Downloads -> Commponents -> Command Line Tools (150MB)
 
-###Programm install in command line
-* Brew: Homebrew installs _the stuff you need_ that Apple didn't
+####Command Line Tools to Install Software
+* [Fink](http://www.finkproject.org/)
+* [HomeBrew](http://mxcl.github.com/homebrew/) - Homebrew installs _the stuff you need_ that Apple didn't
   * [Brew on Github](http://mxcl.github.io/homebrew/)
+* [MacPort](http://www.macports.org/)
 
-###Productivity
-* Alfred
-
-###Ruby
-* RVM(Ruby, Rails)
-  * [RVM official site](https://rvm.io)
-  * Component will automatically install: autoconf, automake, libtool, pkg-config, libyaml, readline, readline, libxml2, libxslt, libksba, openssl, sqlite
+* Productivity
+  * Alfred
 
 
 
 
 
-
-Mobile Development Tools Kit
-----------------------------
-<hr>
-###Android (Google)
+###Mobile Development Tools Kit
+####Android (Google)
 * Build Android Development Environment under Linux Operating System (Ubuntu)
   * Quick and easy way: Download the ADT (Android Development Tools kit) from [android.com](http://developer.android.com/sdk/index.html), extract the zip package, and you can start developing android apps now.
   * (Old way)A How-To guide(Blog Post)[Android Development Environment Setup (on ubuntu lucid lynx)](http://od-eon.com/blogs/alumni/horia/android-development-environment-setup-ubuntu-lucid/)
@@ -425,7 +433,7 @@ Mobile Development Tools Kit
 * Device & USB: Add your device info into /etc/udev/rules.d/51-android.rules using root account
   * [Google Tools Device](http://developer.android.com/tools/device.html)
   * chmod a+r 51-android.rules
-* Device: List of devices attached - ???????? no permission, ADB or Eclipse under Ubuntu Linux don't recognize Mobile phone you pluged in.
+* Device Error: List of devices attached - ???????? no permission, ADB or Eclipse under Ubuntu Linux don't recognize Mobile phone you pluged in.
   * Problem: Device don't recognize solved at [Stackoverflow - Debugging in Eclipse with real Android phone on Ubuntu 10.10](http://stackoverflow.com/questions/4260964/debugging-in-eclipse-with-real-android-phone-on-ubuntu-10-10)
 * Error: Failed to install \*.apk on device \*: timeout
   * On [Stackoverflow](http://stackoverflow.com/questions/4775603/android-error-failed-to-install-apk-on-device-timeout)
