@@ -58,6 +58,8 @@ Art & Literature: Film, Music, Painting, Photography, Reading
 * Cognition: Music, spiritual energy to human.
 * Artist
   * Beyond
+* Music from Film/Movie
+  * "The Social Network", Trent Reznor and Atticus Ross, [listen it online at XiaMi (China)](http://www.xiami.com/album/406012)
 * Film related to Music
   * August Rush (2007): [on IMDB](http://www.imdb.com/title/tt0426931/), [on Wikipedia](http://en.wikipedia.org/wiki/August_Rush), Note: Very beautiful, amazing, I can feel the power of music, it's like my neuro-network have been programmed by music.
 * Course Related to Music
