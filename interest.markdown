@@ -19,6 +19,7 @@ Education & Learning (Online Education Revolution)
 ####Opinions about moderm education system
 * (Blog Post)[On Education](http://alexmaccaw.com/posts/on_education) by [Alex Maccaw](http://alexmaccaw.com)
 * Integrate Online education and Continuous learning into daily life.
+* Thinking: Purpose of Education - What is the mission and meaning of education
 
 ####Online Education (Learning Resource) - Massive Open Online Academic Education programs
 * Online Education
@@ -26,6 +27,7 @@ Education & Learning (Online Education Revolution)
   * [edX.org](https://www.edx.org/): The Future of Online Education for anyone, anywhere, anytime.  
   * [Udacity.org](https://www.udacity.org/): {Learn. Think. Do} Invent your future through free interactive college classes.
   * [Khan Academy](http://www.khanacademy.org/): Mission to accelerate learning for students of all ages and providing a high quality education for anyone, anywhere.
+  * [Ten websites that teach coding and a bunch of other things](http://pandodaily.com/2013/04/05/ten-websites-that-teach-coding-and-a-bunch-of-other-things/)
 * University Courses Online
   * [MIT-OCW:OpenCourseWare](http://ocw.mit.edu/index.htm): MIT have the best classification system, you can [Find by topic](http://ocw.mit.edu/courses/find-by-topic/)
   * [Open Yale Course](http://oyc.yale.edu/)
