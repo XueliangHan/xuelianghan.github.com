@@ -214,7 +214,8 @@ Craftsman's tools in Computer World
   * [RVM official site](https://rvm.io)
   * Component will automatically install: autoconf, automake, libtool, pkg-config, libyaml, readline, readline, libxml2, libxslt, libksba, openssl, sqlite
 
-####Scheme(LISP) Setup
+####LISP Setup
+#####Scheme
 * Follow the procedures from Yin Wang, [Scheme Setup](https://github.com/yinwang0/blog-cn/blob/gh-pages/_posts/2013-04-11-scheme-setup.md)
   * Install Scheme - The best implementation of scheme is [Chez Scheme](www.google.com/?=chez+scheme), it's commercial, but you can [download](http://scheme.com/download) the free edition - Petite Chez Scheme, you can find linux version at the middle of the long webpage. [Racket](http://racket-lang.org/) was recommended due to the free version of _Chez Scheme_'s simplest debugging message.(_Ubuntu:_ `sudo apt-get install racket`)
   * Setup and Usage of Emacs plugin - `ParEdit mode`
@@ -222,6 +223,8 @@ Craftsman's tools in Computer World
   * Set color of bracket
 * Note: Beyond my current capacity - 2013-04-14
 
+#####CLisp
+* In Linux (Ubuntu): execute this command `sudo apt-get install clisp`
 
 
 
