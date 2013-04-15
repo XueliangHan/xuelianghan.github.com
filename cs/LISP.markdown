@@ -13,11 +13,40 @@ LISP Dialect
 <hr>
 SICP-Scheme (Structure and Interpretation of Computer Pragrams)
 ---------------------------------------------------------
+###Definitions/Concepts
 * Comment in LISP starts with __;__
+
+###Feelings
+* Scheme is really a secret _weapon_ to learn/practise/train `Algorithm`, you can ignore the low level details and focus on design, implement, and modify your `Algorithm`.
+
+###letter in Scheme
+####`cond`
+* `cond` is short of condition, mean case.
+
+####Absolute Value
+* a.Function of eval absolute value in `Scheme` way 1
+  > (define (abs x)   
+  >   (cond ((< x 0) (- x))   
+  >         ((= x 0) 0)   
+  >         ((> x 0) x)))  
+* b.Function of eval absolute value in `Scheme` way 2
+  > (define (abs x)  
+  >   (if (< x 0)   
+  >       (- x)    
+  >       x))  
+* c.Function of eval absolute value in `C`
+  > if      (x <  0) x=-x;   
+  > else if (x == 0) x=0;   
+  > else if (x >  0) x=x;  
+* The result: a equal to b equal to c
+
+####Recursive evaluate square of X
+* Idea is try untile good enough
+
+
+<hr>
+----
 * [Lisp Hello World Example: How To Write and Execute Lisp Program on Linux OS](http://www.thegeekstuff.com/2009/12/lisp-hello-world-example-how-to-write-and-execute-lisp-program-on-linux-os/)
-
-
-
 
 
 <hr>
