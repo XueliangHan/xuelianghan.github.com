@@ -218,10 +218,12 @@ Craftsman's tools in Computer World
 ####LISP Setup
 #####Scheme
 * Follow the procedures from Yin Wang, [Scheme Setup](https://github.com/yinwang0/blog-cn/blob/gh-pages/_posts/2013-04-11-scheme-setup.md)
-  * Install Scheme - The best implementation of scheme is [Chez Scheme](www.google.com/?=chez+scheme), it's commercial, but you can [download](http://scheme.com/download) the free edition - Petite Chez Scheme, you can find linux version at the middle of the long webpage. [Racket](http://racket-lang.org/) was recommended due to the free version of _Chez Scheme_'s simplest debugging message.(_Ubuntu:_ `sudo apt-get install racket`)
+* Install Scheme - The best implementation of scheme is [Chez Scheme](www.google.com/?=chez+scheme), it's commercial, but you can [download](http://scheme.com/download) the free edition - Petite Chez Scheme, you can find linux version at the middle of the long webpage. [Racket](http://racket-lang.org/) was recommended due to the free version of _Chez Scheme_'s simplest debugging message.(_Ubuntu:_ `sudo apt-get install racket`)
   * Setup and Usage of Emacs plugin - `ParEdit mode`
   * Set `scheme mode` 
   * Set color of bracket
+* Install MIT-Scheme
+  * [mit scheme install in ubuntu](https://www.google.com.hk/search?q=mit+scheme+install+in+ubuntu&oq=mit+scheme+install+in+ubuntu&aqs=chrome.0.57j62l2.10589&ie=UTF-8)
 * Note: Beyond my current capacity - 2013-04-14
 
 #####CLisp
