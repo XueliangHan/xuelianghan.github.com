@@ -40,7 +40,7 @@ Craftsman's tools in Computer World
   * MSDN
   * Version-control(SVN)  
 * Mac OS X
-  * Editor(Vi/Vim, Emacs, Sublime, Textmate, BBedit)
+  * Editor(Sublime, Textmate, BBedit)
 * Mobile Environment Development Tools- Android
 * Web Environment Development Tools Kit
   * [Google Web Toolkit(GWT)]
@@ -184,6 +184,7 @@ Craftsman's tools in Computer World
     > Screen - Last line's first non-empty Letter: "L"  
 
 ####Emacs
+* Damn! `Emacs` is not a text editor, it's a __Operating System__, the __UNIX__ beat __LISP Machine__, so these guy just built a OS on Unix system, that why people are saying `Emacs` can do everything, even open a door for you. 2013-04-15.
 * Tutorial, Guide, How-To
   * Official Tutorial: Open emacs -> Press the button "ATL" and "x" same time -> type help-with-tutorial, there you go.
   * [Tips for Learning Elisp? - StackOverFlow](http://stackoverflow.com/questions/41522/tips-for-learning-elisp)
