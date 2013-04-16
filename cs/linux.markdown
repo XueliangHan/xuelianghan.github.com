@@ -12,11 +12,29 @@ Index
 * awk, sed, grep
 * crontab, purge
 * kill
-
+* File system
+  * cat cd chmod chown chgrp cksum cmp cp dd du df file fsck fuser ln ls lsattr lsof mkdir mount mv pax pwd rm rmdir size split tee touch type umask
+* Processes
+  * at bg chroot cron fg kill killall nice pgrep pidof pkill ps pstree time top
+* User environment
+  * clear env exit finger history id logname mesg passwd su sudo uptime talk tput uname w wall who whoami write
+* Text processing
+  * awk banner basename comm csplit cut dirname ed ex fmt fold head iconv join less more paste sed sort spell strings tail tr uniq vi wc xargs
+* Shell builtins
+  * alias echo expr printf sleep test true and false unset wait yes
+* Networking
+  * dig host ifconfig inetd netcat netstat nslookup ping rdate rlogin route ssh traceroute
+* Searching
+  * find grep locate whatis whereis
+* Documentation
+  * apropos help man
+* Miscellaneous
+  * bc dc cal date lp lpr
 
 ####Shell command
 * LEONID MAMCHENKOV,[Shell keyboard shortcuts](http://mamchenkov.net/wordpress/2010/08/05/shell-keyboard-shortcuts/)
 * [LInfo.org](http://www.linfo.org): The best information site about Linux I've ever seen, simple, clear, and beautiful.
+* [Unix command-line interface programs and shell builtins]
 * End of stdin in the bash: CTRL+D
 * bg: check background task in current shell
   * %1: recovery the first task

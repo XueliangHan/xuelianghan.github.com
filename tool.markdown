@@ -20,7 +20,7 @@ Craftsman's tools in Computer World
 * Language - Specific Computer Programming Languge Environment
 * Version Control System - Git (Linux, Mac OS X)
 
-###A full development tools kit for a specific development need
+###You need platform support to use these tools
 * Unix/Linux Environment Development Tools Kit:
   * * Auto(GNU Make)
   * Build System - GNU(Autoconf, Autoheader, Automake, Libtool)
