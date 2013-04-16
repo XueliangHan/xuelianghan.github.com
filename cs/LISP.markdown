@@ -15,6 +15,7 @@ SICP-Scheme (Structure and Interpretation of Computer Pragrams)
 ---------------------------------------------------------
 ###Definitions/Concepts
 * Comment in LISP starts with __;__
+* [Lisp Hello World Example: How To Write and Execute Lisp Program on Linux OS](http://www.thegeekstuff.com/2009/12/lisp-hello-world-example-how-to-write-and-execute-lisp-program-on-linux-os/)
 
 ###Feelings
 * Scheme is really a secret _weapon_ to learn/practise/train `Algorithm`, you can ignore the low level details and focus on design, implement, and modify your `Algorithm`.
@@ -45,20 +46,22 @@ SICP-Scheme (Structure and Interpretation of Computer Pragrams)
 
 
 <hr>
-----
-* [Lisp Hello World Example: How To Write and Execute Lisp Program on Linux OS](http://www.thegeekstuff.com/2009/12/lisp-hello-world-example-how-to-write-and-execute-lisp-program-on-linux-os/)
+Others people's mention
+-----------------------
+* LISP in Kurzweil's Book "How to Create A MIND - The Secret of Human Thought Revealed". Chapter 7 - The Biologically Inspired Digital Neocortex. Section 6: LISP and Cycl, 2012.
 
 
 <hr>
 Project from Interest of want to figure out how computer works
 --------------------------------------------------------------
-* LISP Interpreter
+###LISP Interpreter
   * Write a LISP interpreter using LISP.
-* LISP OS
-  * Wirte a Operating System with LISP.
 
-LISP on Web Dev.
-----------------
+###LISP OS
+  * Wirte a Operating System with LISP.
+  * Maybe what called `LISP Machine` which beated by UNIX on market.
+
+###LISP on Web Dev.
 * [LISP web development tutorial - Google Search](https://www.google.com.hk/search?q=lisp+web+development+tutorial&aq=0&oq=LISP+web+development+tu&aqs=chrome.1.57j0.6576&ie=UTF-8)
 * [LISP web development framework - Google Search](https://www.google.com.hk/search?q=lisp+web+development+framework&aq=0&oq=LISP+web+development&aqs=chrome.1.57j0l3j62l2.7459&ie=UTF-8)
 * [Racket](http://racket-lang.org) Clues
