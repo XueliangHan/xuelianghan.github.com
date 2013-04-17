@@ -121,6 +121,7 @@ Travel - Different Area/Country/Nation/State with different Language/Culture
 
 * China, Shang Hai
   * (Chinese)(Blog-post)[Robbin-Why I like ShangHai and don't like Beijing](http://www.robbinfan.com/blog/31/why-love-shanghai)
+* Shen Yang, 2013-04-17
 * China, Hong Kong
   * (Chinese)(Blog-post)[Sharing my personal experience at Hong Kong and Macao](http://blog.hetaoos.com/archives/108).2012-12.
 
