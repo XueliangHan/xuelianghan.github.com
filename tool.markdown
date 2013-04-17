@@ -382,7 +382,6 @@ Craftsman's tools in Computer World
   * `git fetch 'remote'`: Fetch all of the branch from the repository, and download all of required commits and files from the repository.
   * `git fetch 'remote' 'branch'`: Only fetch specified branch.
 * __`git pull`__
-  * `git pull` = `git fetch` + `git merge`.
   * `git pull 'remote'`: `Fetch` the specified remote's copy of current branch and imediately `merge` it into the local copy. Same as the command : `git fecth 'remote'` + `git merge origin/'current-branch'`.
   * `git pull --rebase 'remote'`: Same as the command: `git fetch 'remote'` + `git rebase 'remote'`, `--rebase` option can be used to ensure a linear history by preventing unnecessary merge commits, many developers prefer rebasing over merging, this put your changes on top of what everybody else has done, examples: `git checkout master` `git pull --rebase origin`.
 * __`git push`__
@@ -397,6 +396,10 @@ Craftsman's tools in Computer World
 * git commit -m "first commit": commit description, comment is necessary, it's a good design.
 * git remote add origin https://githhub.com/your-user-name/your-project-name.git, or git@github.com:your-user-name/your-project-name.git
 * git push origin master: push local codebase into remote branch of master.`
+
+####Troubleshooting
+* Git on Windows - Each time I want to push my file to github, it's always show me notification to enter my passphrase
+  * [How to make windows remember my passphrase key? - StackOverflow](http://stackoverflow.com/questions/8518515/how-to-make-windows-remember-my-passphrase-key)
 
 
 
