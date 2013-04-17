@@ -10,5 +10,7 @@
 
 ###Quick Sort
 * The idea behind the quick sort algorihms is that reducing the full scaning time to log(n) times by using _devide and conquer_.
+* [quick_sort.c](./quick_sort.c)
+
 
 </body></html>
