@@ -469,9 +469,9 @@ Work Related Tools Kit
 ####Professional Tools
 * [Moqups](http://moqups.com): Moqups gives users immediate access to all the tools they need to create a functional prototype, mockup or UI concept.
 * Mindmap
-  * Simple and Clear: FreeMind(Java), FreePlane(Based on FreeMind), they are all cross platform and open source.
-  * MindJet
-  * Online: Mindomo
+  * (Software) Simple and Clear: FreeMind(Java), FreePlane(Based on FreeMind), they are all cross platform and open source.
+  * (Software) MindJet: People related to business will like it, because it will thing _looks_ better from surface.
+  * (Online) [Mindomo](http://www.mindomo.com/)
 
 ####Online tools (Platform independent)
 * For temporary usage.
