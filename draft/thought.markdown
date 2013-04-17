@@ -10,6 +10,9 @@ Law - Running background of the Universe
 
 ###7.The Power Limit of Language - Linguistic determinism & relativity by Sapir–Whorf hypothesis
 * Why China IT industry can't catch up with america, the management, the curture, but originally, it comes down to language, it all source of human mind.
+* Reference:
+  * [Linguistic Determinism - Wikipedia](http://en.wikipedia.org/wiki/Linguistic_determinism)
+  * [Linguistic Relativity](http://en.wikipedia.org/wiki/Linguistic_relativity)
 
 
 
