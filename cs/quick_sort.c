@@ -48,7 +48,8 @@ void quicksort(int array[], int left, int right) /* only charge sort each side *
     if (left < right)                           /* do nothing if left > right*/
     {
         int pivot=partition(array, left, right);/* finish sort each side of p*/
-        quicksort(array, left, pivot-1);        /* recursive quicksort left */	        quicksort(array, pivot+1, right);       /* recursive quicksort right*/
+        quicksort(array, left, pivot-1);        /* recursive quicksort left */
+	quicksort(array, pivot+1, right);       /* recursive quicksort right*/
     }
 }
 
