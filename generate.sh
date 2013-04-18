@@ -3,7 +3,7 @@
 
 #Design, SRC is where I put my markdown file, DES is where I want to generate the html from markdown.
 SRC="/home/h/publishing/xuelianghan.github.com"
-DES=""
+DES="/home/h/publishing/xuelianghan.github.com"
 
 
 #Site structure
@@ -23,12 +23,17 @@ perl md.pl $SRC/misc.markdown > misc.html #
 perl md.pl $SRC/personal-development.markdown > personal-development.html
 
 
-#DIR draft
-perl md.pl $SRC/cs/linux.markdown > $SRC/cs/linux.html #
-perl md.pl $SRC/cs/LISP.markdown > $SRC/cs/LISP.html #
-perl md.pl $SRC/cs/algorithms_data-structure.markdown > $SRC/cs/algorithms_data-structure.html
+#DIR
+##CS
+perl md.pl $SRC/cs/algorithms_data-structure.markdown > $DES/cs/algorithms_data-structure.html
+perl md.pl $SRC/cs/linux.markdown > $DES/cs/linux.html #
+perl md.pl $SRC/cs/LISP.markdown > $DES/cs/LISP.html #
+perl md.pl $SRC/cs/Networking.markdown > $DES/cs/Networking.html
+perl md.pl $SRC/cs/Netowrking_Command.markdown > $DES/cs/Networking.html
 
-perl md.pl $SRC/masters/Alan_Kay.markdown > $SRC/masters/Alan_Kay.html
-perl md.pl $SRC/masters/Steve_Jobs.markdown > $SRC/masters/Steve_Jobs.html
+##master
+perl md.pl $SRC/masters/Alan_Kay.markdown > $DES/masters/Alan_Kay.html
+perl md.pl $SRC/masters/Steve_Jobs.markdown > $DES/masters/Steve_Jobs.html
 
-perl md.pl $SRC/draft/what-is-programming.markdown > $SRC/draft/what-is-programming.html
+##draft
+perl md.pl $SRC/draft/what-is-programming.markdown > $DES/draft/what-is-programming.html
