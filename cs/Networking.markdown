@@ -23,8 +23,60 @@ Interview Questions
 * Browser terminates the connection when window closed.   
 
 
-###2.
+###2.The Structure of IP/TCP/UDP head
+####IP
+0              15|16            31|
+-----------------------------------  
+|ver|HLen|8-TOS  |16 bit len(Byte)|  
+-----------------------------------  
+|16 bits flags   |3bit|13 b shift |  
+-----------------------------------  
+|8 bits TTL|8 pro|16 bits head sum|   
+-----------------------------------  
+|     32 bits SRC IP address      |  
+-----------------------------------  
+|     32 bits DES IP address      |  
+-----------------------------------  
+|     32 bits Option (If existed) |  
+-----------------------------------  
+|                                 |  
+|               Data              |  
+|                                 |  
+-----------------------------------  
+* 8 pro - 8 bits protocol
 
+####TCP
+0              15|16            31|
+-----------------------------------  
+|16 bits SRC port|16 bits DES port|  
+-----------------------------------  
+|    32 bits sequence number      |  
+-----------------------------------  
+|    32 bits acknowledge number   |  
+-----------------------------------  
+|head|keep|UAPRSP|16 bits windows |  
+-----------------------------------  
+|16 bits TCP sum |16 bits urg ptr |  
+-----------------------------------  
+|      Option (If existed)        |  
+-----------------------------------  
+|                                 |  
+|      Data (If existed)          |  
+|                                 |  
+-----------------------------------  
+
+
+####UDP
+0              15|16            31|
+-----------------------------------  
+|16 bits SRC port|16 bits DES port|  
+-----------------------------------  
+|16 bits UDP len |16 bits UDP sum |  
+-----------------------------------  
+|                                 |  
+|        Data (If existed)        |  
+|                                 |  
+-----------------------------------  
 
 
 
