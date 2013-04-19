@@ -1,123 +1,102 @@
-<p><html><head><title>Networking Command</title></head><body></p>
+<h1>Networking</h1>
 
-<h1>Networking Command - Frequently Used</h1>
+<h2>Interview Questions</h2>
+
+<h3>1.Explain what happens, step by step, after you type a RUL into a browser. Use as much tetails as possible.</h3>
+
+<h4>DNS stage</h4>
 
 <ul>
-<li>Designed to quick load from external knowledge/concept</li>
+<li>Browser retrieval the IP address of URL in local hosts file.  </li>
+<li>If browser not find IP address of URL in local hosts file, browser will contacts the remote DNS server to find the IP address of URL.</li>
+<li>DNS returns back the IP address of the site.  </li>
+<li>(Note: DNS (Domain Name Resolution), the wab and address we type are nothing but an alias to an IP address in human readable form. There is an association called ICANN (Internet Corporation for Assigned names and Numbers) charge all of the centralized registration tasks including IP address assignment, DNS domain name assignment, and protocol parameters management. DNS is a distributed but hierarchical entity, which each domain name server is divided into zones, like some server charge for .com domain, some manage .net domain, but DNS servers can work together to map all domain names to their IP addresses.)   </li>
 </ul>
 
-<hr>
-
-<h2>Index</h2>
+<h4>Fetching stage - Get all data back</h4>
 
 <ul>
-<li>ARP (Address Resolution Protocol)</li>
-<li>Ipconfig</li>
-<li>Net</li>
-<li>Ping</li>
-<li>Tracert</li>
-<li>Netstat</li>
-<li>Nslookup</li>
-<li>Route</li>
-<li>Hostname</li>
-<li>Nbtstat</li>
+<li>Browser opens TCP connection to the web server at port 80.   </li>
+<li>Browser fetches the html code of the page requested. (More details: Browser fetches all the files of the page requested, suck as: HTML code, CSS code, Javascript code, maybe these files are in different server, but the browser will need them all and will get them all.)   </li>
 </ul>
 
-<h2>Details</h2>
-
-<hr>
-
-<h3>ARP (Address Resolution Protocol)</h3>
+<h4>Processing stage</h4>
 
 <ul>
-<li><strong>Design Function</strong> - Displays and modifies the IP-to-Physical address translation tables used by address resolution protocol (ARP).</li>
-<li><strong>Usage</strong> of <em>Windows</em>
-<ul>
-<li><code>ARP -s inet_addr eth_addr [if_addr]</code></li>
-<li><code>ARP -d inet_addr [if_addr]</code></li>
-<li><code>ARP -a [inet_addr] [-N if_addr] [-v]</code></li>
-</ul></li>
-<li><strong>Parameters</strong> of <em>Windows</em> - type <code>arp /?</code></li>
-<li><strong>Example</strong>
-C:\Users\HK>arp -a 192.168.1.1
-Interface: 192.168.1.101 --- 0xd
-Internet Address      Physical Address      Type
-192.168.1.1           38-83-45-51-96-2c     dynamic</li>
+<li>Browser renders the HTML in the display window.  </li>
 </ul>
 
-<h3>Ipconfig</h3>
+<h4>Terminating stage</h4>
 
 <ul>
-<li><strong>Design Function</strong> - Windows IP Configuration</li>
+<li>Browser terminates the connection when window closed.   </li>
 </ul>
 
-<h3>Net</h3>
+<h3>2.The Structure of IP/TCP/UDP head</h3>
+
+<h4>IP</h4>
+
+<h2>0              15|16            31|</h2>
+
+<h2>|ver|HLen|8-TOS  |16 bit len(Byte)|  </h2>
+
+<h2>|16 bits flags   |3bit|13 b shift |  </h2>
+
+<h2>|8 bits TTL|8 pro|16 bits head sum|   </h2>
+
+<h2>|     32 bits SRC IP address      |  </h2>
+
+<h2>|     32 bits DES IP address      |  </h2>
+
+<h2>|     32 bits Option (If existed) |  </h2>
+
+<p>|                                 | <br />
+|               Data              |  </p>
+
+<h2>|                                 |  </h2>
 
 <ul>
-<li><strong>Design Function</strong> - Very powerful tool, you can share, create account.</li>
-<li><strong>Usage</strong> - <code>NET</code>
-<ul>
-<li><code>ACCOUNTS | COMPUTER | CONFIG | CONTINUE | FILE | GROUP | HELP |</code></li>
-<li><code>HELPMSG | LOCALGROUP | PAUSE | SESSION | SHARE | START|</code></li>
-<li><code>STATISTICS | STOP | TIME | USE | USER | VIEW ]</code></li>
-</ul></li>
-<li><strong>Example</strong>
-<ul>
-<li><code>net statistics</code>  </li>
-<li><code>net statistics server</code></li>
-</ul></li>
+<li>8 pro - 8 bits protocol</li>
 </ul>
 
-<h3>Ping</h3>
+<h4>TCP</h4>
+
+<h2>0              15|16            31|</h2>
+
+<h2>|16 bits SRC port|16 bits DES port|  </h2>
+
+<h2>|    32 bits sequence number      |  </h2>
+
+<h2>|    32 bits acknowledge number   |  </h2>
+
+<h2>|head|keep|UAPRSP|16 bits windows |  </h2>
+
+<h2>|16 bits TCP sum |16 bits urg ptr |  </h2>
+
+<h2>|      Option (If existed)        |  </h2>
+
+<p>|                                 | <br />
+|      Data (If existed)          |  </p>
+
+<h2>|                                 |  </h2>
+
+<h4>UDP</h4>
+
+<h2>0              15|16            31|</h2>
+
+<h2>|16 bits SRC port|16 bits DES port|  </h2>
+
+<h2>|16 bits UDP len |16 bits UDP sum |  </h2>
+
+<p>|                                 | <br />
+|        Data (If existed)        |  </p>
+
+<h2>|                                 |  </h2>
+
+<h2>Theory of Transmission</h2>
 
 <ul>
-<li><strong>Design Function</strong> - Checking connection between two computer by send data package.</li>
-<li><ul>
-<li>waiting...</li>
-</ul></li>
-</ul>
-
-<h3>Tracert</h3>
-
-<ul>
-<li>waiting...</li>
-</ul>
-
-<h3>Netstat</h3>
-
-<ul>
-<li><strong>Design Function</strong> - Displays protocol statistics and current TCP/IP network connections.</li>
-<li><strong>Usage</strong> - <code>NETSTAT [-a] [-b] [-e] [-f] [-n] [-o] [-p proto] [-r] [-s] [-t] [interval]</code></li>
-</ul>
-
-<h3>Nslookup</h3>
-
-<ul>
-<li><strong>Design Function</strong> - </li>
-<li><strong>Usage</strong> - </li>
-<li>waiting...</li>
-</ul>
-
-<h3>Route</h3>
-
-<ul>
-<li><strong>Design Function</strong> - Manipulates network routing tables.</li>
-<li><strong>Usage</strong> - </li>
-<li>waiting...</li>
-</ul>
-
-<h3>Hostname</h3>
-
-<ul>
-<li><strong>Design Function</strong> - Prints the name of the current host.</li>
-<li><strong>Usage</strong> - </li>
-<li>waiting...</li>
-</ul>
-
-<h3>Nbtstat</h3>
-
-<ul>
-<li><strong>Design Function</strong> - Displays protocol statistics and current TCP/IP connections using NBT (NetBIOS over TCP/IP).</li>
-<li><strong>Usage</strong> - </li>
-<li>waiting...</li>
+<li>Pmax = B * log2(1+S/N) (Note: RATEmax = Bandwith * log2(1+Signal/Noise)  </li>
+<li>Shomon, bps, db  </li>
+<li>LINKmaxC = B * Log2(1+S/N)  </li>
 </ul>
