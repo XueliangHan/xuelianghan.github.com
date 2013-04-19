@@ -22,38 +22,35 @@ int partition(int array[], int left, int right)
 {
     int pivot, i, j, temp;
 
-    /* way 1 to get pivot */
-    pivot=rand()%(right-left);
-    SWAP(array[pivot+left], array[left], temp);      /* take left each time */
+    pivot=rand()%(right-left);             /* way 1 to get pivot */
+    SWAP(array[pivot+left], array[left], temp); /* take left each time */
+    /* int p = array[left]; */             /* way 2 to get pivot */
 
-    /* way 2 to get pivot */
-    /* int p = array[left]; */
-
-    i = left;                                   /* mark left */
-    for (j=left+1; j<right; j++)                /* scan from next of left */
+    i = left;                              /* mark left */
+    for (j=left+1; j<right; j++)           /* scan from next of left */
     {
         if (array[j] < array[i])
 	    {
-	    i++;
-	    SWAP(array[j], array[i], temp);    /* find one put before bigger*/
+	        i++;
+	        SWAP(array[j], array[i], temp);/* find one put before bigger*/
         }
     }
-    SWAP(array[i], array[left], temp);         /* i at pivot now, swap back */
+    SWAP(array[i], array[left], temp);     /* i at pivot now, swap back */
     return i;
 }
 
 
-void quicksort(int array[], int left, int right) /* only charge sort each side */
-{
-    if (left < right)                           /* do nothing if left > right*/
+void quicksort(int array[], int left, int right)
+{   /* only charge sort each side */
+    if (left < right)                      /* do nothing if left > right*/
     {
         int pivot=partition(array, left, right);/* finish sort each side of p*/
-        quicksort(array, left, pivot-1);        /* recursive quicksort left */
-	quicksort(array, pivot+1, right);       /* recursive quicksort right*/
+        quicksort(array, left, pivot-1);   /* recursive quicksort left */
+        quicksort(array, pivot+1, right);  /* recursive quicksort right*/
     }
 }
 
-void quick_sort(int array[], int size)           /* wrapper */
+void quick_sort(int array[], int size)      /* wrapper */
 {
     quicksort(array, 0, size-1);
 }
