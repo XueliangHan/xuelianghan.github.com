@@ -29,7 +29,7 @@ perl md.pl $SRC/cs/algorithms_data-structure.markdown > $DES/cs/algorithms_data-
 perl md.pl $SRC/cs/linux.markdown > $DES/cs/linux.html #
 perl md.pl $SRC/cs/LISP.markdown > $DES/cs/LISP.html #
 perl md.pl $SRC/cs/Networking.markdown > $DES/cs/Networking.html
-perl md.pl $SRC/cs/Netowrking_Command.markdown > $DES/cs/Networking.html
+perl md.pl $SRC/cs/Networking_Command.markdown > $DES/cs/Networking.html
 
 ##master
 perl md.pl $SRC/masters/Alan_Kay.markdown > $DES/masters/Alan_Kay.html
