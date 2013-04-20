@@ -1,9 +1,11 @@
 #!/bin/sh
 
 
+
 #Design, SRC is where I put my markdown file, DES is where I want to generate the html from markdown.
 SRC="/home/h/publishing/xuelianghan.github.com"
 DES="/home/h/publishing/xuelianghan.github.com"
+
 
 
 #Site structure

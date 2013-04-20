@@ -135,53 +135,53 @@ Craftsman's tools in Computer World
   * Delete space: Delete line with spaces: `:g/^$/d`, delete spaces before the first letter of a line: `:%s/^\s*//g`, delete spaces after the last letter of a line: `:%s/\s*$//g`.
 * Input mode - Input text
   * Insert
-    > Letter - new letter before cursor: "i"  
-    > Letter - new letter after cursor: "a"  
-    > Line - new line behind current line: "O", Equal to "A"+"ENTER"  
+    > Letter - new letter before cursor: `i`  
+    > Letter - new letter after cursor: `a`  
+    > Line - new line behind current line: `O`, Equal to `A`+`ENTER`  
 
 * Navigation use shortcut key (Moving cursor to wherever you like)
   * Letter
-    > Letter - Move lef : "h"  
-    > Letter - Mese right: "l"  
-    > Letter - Move up: "j"  
-    > Letter - Move down: "k"  
-    > Letter - First position of the line: "o"  
-    > Letter - First Letter of the line: "^"(6)  
-    > Letter - Last Letter of the line: "$"(4)  
-    > Letter - the n'th Letter of the line: "n|"  
+    > Letter - Move lef : `h`  
+    > Letter - Mese right: `l`  
+    > Letter - Move up: `j`  
+    > Letter - Move down: `k`  
+    > Letter - First position of the line: `o`  
+    > Letter - First Letter of the line: `^`(6)  
+    > Letter - Last Letter of the line: `$`(4)  
+    > Letter - the n'th Letter of the line: `n|`  
 
   * Word
-    > Word - Previous word  - Beginning: "b"  
-    > Word - Previous word - Beginning (ignore punctuation): "B"  
-    > Word - Next word - Beginning: "w"  
-    > Word - Next word - Beginning (ignore punctuation): "W"  
-    > Word - Next word - End: "e"  
-    > Word - Next word - End (ignore punctuation): "E"  
+    > Word - Previous word  - Beginning: `b`  
+    > Word - Previous word - Beginning (ignore punctuation): `B`  
+    > Word - Next word - Beginning: `w`  
+    > Word - Next word - Beginning (ignore punctuation): `W`  
+    > Word - Next word - End: `e`  
+    > Word - Next word - End (ignore punctuation): `E`  
 
   * Line 
-    > Line - First line of the file: "gg" (g mean goto)  
-    > Line - Last line of the file: "G"  
-    > Line - n line: ":n"  
+    > Line - First line of the file: `gg` (g mean goto, press `g` twice)  
+    > Line - Last line of the file: `G` (g mean goto, press `g`+`shift`)  
+    > Line - n line: `:n` (n mean number)  
 
   * Sentence 
-    > Sentence - Previous sentence's head: "("  
-    > Sentence - Next sentence's rear: ")"  
+    > Sentence - Previous sentence's head: `(`  
+    > Sentence - Next sentence's rear: `)`  
 
   * Paragraph   
     > Paragraph (Spilt with a blank line)  
-    > Paragraph - Previous paragraph's head: "{"  
-    > Paragraph - Previous paragraph's rear: "}"  
+    > Paragraph - Previous paragraph's head: `{`  
+    > Paragraph - Previous paragraph's rear: `}`  
 
   * Page-turning
-    > Page-turning - Full page forward (down): "CTRL"+"f"  
-    > Page-turning - Full page back (up): "CTRL"+"b" 
-    > Page-turning - Half page forward (down): "CTRL"+"d"  
-    > Page-turning - Half page back (up): "CTRL"+"u"  
+    > Page-turning - Full page forward (down): `CTRL`+`f`  
+    > Page-turning - Full page back (up): `CTRL`+`b` 
+    > Page-turning - Half page forward (down): `CTRL`+`d`  
+    > Page-turning - Half page back (up): `CTRL`+`u`  
 
   * Screen  
-    > Screen - First line's first non-empty Letter: "H"  
-    > Screen - Middle line's first non-empty Letter: "M"  
-    > Screen - Last line's first non-empty Letter: "L"  
+    > Screen - First line's first non-empty Letter: `H`  
+    > Screen - Middle line's first non-empty Letter: `M`  
+    > Screen - Last line's first non-empty Letter: `L`  
 
 ####Emacs
 * Damn! `Emacs` is not a text editor, it's a __Operating System__, the __UNIX__ beat __LISP Machine__, so these guy just built a OS on Unix system, that why people are saying `Emacs` can do everything, even open a door for you. 2013-04-15.

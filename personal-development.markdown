@@ -33,7 +33,9 @@
 
 <hr>
 ###Great People
-###Master/Mentors/Tutors
+####Master/Mentors/Tutors
+* [Kaifu Lee](http://blog.sina.com.cn/kaifulee)
+
 ####Artist
 * [Pablo Picssso](https://www.google.com.hk/search?q=pablo+picasso)
   * [Pablo Picasso's Quotes - QuotesWave](http://www.quoteswave.com/authors/pablo-picasso)
