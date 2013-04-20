@@ -30,7 +30,7 @@ perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
 ##CS
 perl md.pl $SRC/cs/algorithms_data-structure.markdown > $DES/cs/algorithms_data-structure.html
 perl md.pl $SRC/cs/linux.markdown > $DES/cs/linux.html #
-perl md.pl $SRC/cs/linux_command > $DES/cs/linux_command.html
+perl md.pl $SRC/cs/linux_command.markdown > $DES/cs/linux_command.html
 perl md.pl $SRC/cs/LISP.markdown > $DES/cs/LISP.html #
 perl md.pl $SRC/cs/networking.markdown > $DES/cs/networking.html
 perl md.pl $SRC/cs/networking_command.markdown > $DES/cs/networking_command.html
