@@ -9,20 +9,21 @@ DES="/home/h/publishing/xuelianghan.github.com"
 
 
 #Site structure
-perl md.pl $SRC/hobby.markdown > hobby.html
+perl md.pl $SRC/hobby.markdown > $DES/hobby.html
 
-perl md.pl $SRC/interest.markdown > interest.html
-perl md.pl $SRC/interest_technology.markdown > interest_technology.html
+perl md.pl $SRC/interest.markdown > $DES/interest.html
+perl md.pl $SRC/interest_technology.markdown > $DES/interest_technology.html
 
-perl md.pl $SRC/information-source.markdown > information-source.html
-perl md.pl $SRC/project.markdown > project.html
-perl md.pl $SRC/resume.markdown > resume.html
-perl md.pl $SRC/jianli.markdown > jianli.html
-perl md.pl $SRC/skill.markdown > skill.html
-perl md.pl $SRC/tool.markdown > tool.html
-perl md.pl $SRC/misc.markdown > misc.html #
+perl md.pl $SRC/inspiration.markdown > $DES/inspiration.html
+perl md.pl $SRC/information-source.markdown > $DES/information-source.html
+perl md.pl $SRC/project.markdown > $DES/project.html
+perl md.pl $SRC/resume.markdown > $DES/resume.html
+perl md.pl $SRC/jianli.markdown > $DES/jianli.html
+perl md.pl $SRC/skill.markdown > $DES/skill.html
+perl md.pl $SRC/tool.markdown > $DES/tool.html
+perl md.pl $SRC/misc.markdown > $DES/misc.html
 
-perl md.pl $SRC/personal-development.markdown > personal-development.html
+perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
 
 
 #DIR

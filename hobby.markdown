@@ -14,7 +14,7 @@ Index
 * Art & Literature: Film, Music, Painting, Photography, Reading
   * Reading
   * Writing
-  * Photography
+  * Photography of (Stars/Sky/Landscape) [Inspired]
   * Music
   * Film/Movie
 * Language & Culture (English)
@@ -39,19 +39,23 @@ Art & Literature: Film, Music, Painting, Photography, Reading
 * Blog and Bloging
   * (Unread)[Dorie Clark](http://www.dorieclark.com/), [If You're Serious About Ideas, Get Serious About Blogging](http://blogs.hbr.org/cs/2012/12/if_youre_serious_about_ideas_g.html)
 
-###PHOTOGRAPHY
+###PHOTOGRAPHY of (Stars/Sky/Landscape) [Inspired]
+####Collections
 * [Milky Way Scientists-Facebook](http://www.facebook.com/Milkway.Nasa.115943216485228220871)
-* TESOPhotography(Photo/Video) by Terje Sorgjerd, __Mind-blowing__, __Gorgeous__.
-  * [TESOPhotography Official Website](http://tesophotography.com)
-  * [TSOPhotography-Facebook](http://www.facebook.com/TSOPhotography)
-* Andromeda Galaxy
-  * [Google Search](https://www.google.com/search?q=andromeda+galaxy&hl=en&newwindow=1&tbm=isch&tbo=u&source=univ&sa=X&ei=NXRiUcmEI7G5iAeigIGgCQ&sqi=2&ved=0CDsQsAQ&biw=1050&bih=566)
-  * [Single View](http://www.wallchan.com/images/sandbox/53850-andromeda-galaxy.jpg)
-  * [Andromeda with Milky Way](http://www.nasa.gov/images/content/654242main_p1220b3k.jpg)
-  * [Mac OS 10.7 Wallpaper](http://www.wallsforpc.com/wp-content/uploads/2012/10/Andromeda-Galaxy.jpg)
+* TESOPhotography(Photo/Video) by Terje Sorgjerd, __Mind-blowing__, __Gorgeous__. [TESOPhotography Official Website](http://tesophotography.com), [TSOPhotography-Facebook](http://www.facebook.com/TSOPhotography)
+
+####Star and Sky
+* (Featured) [QuiverTrees - Under the Sky and Stars (Bing)](http://s.cn.bing.net/az/hprichbg/rb/QuiverTrees_ZH-CN6369200264_1366x768.jpg)
+* (Search Engine) [Stars and Sky - Yahoo](http://images.search.yahoo.com/search/images;_ylt=A2KJkess.nFROWQAuoeJzbkF?p=stars+and+sky&fr=yfp-t-900&ei=utf-8&n=30&x=wrt&y=Search)
+
+####Andromeda Galaxy
+* [Google Search](https://www.google.com/search?q=andromeda+galaxy&hl=en&newwindow=1&tbm=isch&tbo=u&source=univ&sa=X&ei=NXRiUcmEI7G5iAeigIGgCQ&sqi=2&ved=0CDsQsAQ&biw=1050&bih=566)
+* [Single View](http://www.wallchan.com/images/sandbox/53850-andromeda-galaxy.jpg)
+* [Andromeda with Milky Way](http://www.nasa.gov/images/content/654242main_p1220b3k.jpg)
+* [Mac OS 10.7 Wallpaper](http://www.wallsforpc.com/wp-content/uploads/2012/10/Andromeda-Galaxy.jpg)
 * Featured Andromeda Galaxy Photoes
-  * ![Andromeda Galaxy Clean Looking](./files/images/andromeda-clean-looking.jpg "Andromeda Galaxy Clean Looking")
-  * ![Andromeda Galaxy and Milky Way from Earth](./files/images/andromeda-galaxy-and-milky-way-from-earth.jpg "Andromeda Galaxy and Milky Way from Earth")
+  * Andromeda Galaxy Clean Looking   ![Andromeda Galaxy Clean Looking](./files/images/andromeda-clean-looking.jpg "Andromeda Galaxy Clean Looking")
+  * Andromeda Galaxy and Milky Way from Earth   ![Andromeda Galaxy and Milky Way from Earth](./files/images/andromeda-galaxy-and-milky-way-from-earth.jpg "Andromeda Galaxy and Milky Way from Earth")
 
 
 ###MUSIC
