@@ -40,8 +40,8 @@ int partition(int array[], int left, int right)
 }
 
 
-void quicksort(int array[], int left, int right)
-{   /* only charge sort each side */
+void quicksort(int array[], int left, int right)/* only sort each side */
+{
     if (left < right)                           /* do nothing if left > right*/
     {
         int pivot=partition(array, left, right);/* finish sort each side of p*/

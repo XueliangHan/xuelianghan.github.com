@@ -7,10 +7,11 @@
 
 #Operating System
 * (Books) "Modern Operating System", A. S. Tanenbaum
-* My Non-technical related thoughts
-  * __User friendly__: For users, Operating System must be "User friendly", but there is a huge gap between _Programmer friendly_ and _user friendly_, that's what the designer/creator/builder of OS ignored or blind haven't see, and that's why people like _Macintosh_ from _Steve Jobs_ rather than (UNIX, System V, BSD, MINIX, Linux, MS-DOS, Windows-NT). Another question, what is _User friendly_, how to define __User friendly__, In my opinion, a child 6 years old can use it without _teaching_.
+* My Non-technical thoughts
+  * __User friendly__: For users, Operating System must be _User friendly_, but there is a huge gap between _Programmer friendly_ and _user friendly_, that's what the designer/creator/builder of OS ignored or blind haven't see, and that's the reason why people like _Macintosh_ rather than (UNIX, System V, BSD, MINIX, Linux, MS-DOS, Windows-NT). Another question, what is _User friendly_, how to define __User friendly__, In my opinion, a 6 years old child can use it without _teaching_.
 
 ##Introduction
+
 ###Hierarchical Level of Computer System
 * A computer system consists of hardware, system programs, and application programs.
   * __Computing module__ -> one or more processors (multi-core/multi-processors/distributed system), related to an important concept: time.
@@ -22,6 +23,7 @@
 
 
 4.__Application programs__   
+
 * Q:What is application programs?     A:Application programs like Web browser /Banking system /Airline reservation, these programs are purchased or written by the users to solve their _particular_ problems, such as word processing, spreadsheets, engineering calculations, or storing information in a database.
 
 * Q:Who can write application program? or How much training I need to make me capable to write a application program?    A:Any one who accept a little computer technology training can do it without understanding to the deep knowledge/concept of computer science. And the people who are only capable to write application program (not too big and complex) is called __software developer__.
@@ -30,6 +32,7 @@
 
 
 3.__System programs__   
+
 * Compilers /Editors /Command interpreter (Shell)
 * Operating System:
 * Programs runnig modes: kernel mode, supervisor mode, user mode.
@@ -38,26 +41,30 @@
   * Q:Why operating system existed? What is the benifit of operating system?    A: (a).Operating system make people simpler to use that brunch of computer hardwares, people who haven't have so much training, professional knowledge, deep understanding to hardware can use computer or write application by using a software layer called `operating system` instead. (b).Operating system make programmer won't need to _involved_ with detials that need write program to keep track all these components and use them correctly everytime they write a software.
 
 2.__Machine language__    
+
 * (little misunderstanding)
 * the hardware and instructions visible to an assembly language programmer form the ISA (Instruction Set Architecture) level. (instruction set, memory organization, I/O, and bus structure)
 
 1.__Micro-architecture__     
+
 * (little misunderstanding)
 
 0.__Physical devices__
+
 * The lowest level contains physical devices, consisting of integrated circuit chips, wires, power supplies, cathode ray tubes, and similar physical devices. How these are constructed and how they work are the provinces of the __electrical engineer__.
 
 
 ###History of Operating System
 * UNIX   
- -> (System V from AT&T)/(BSD from University at California at Berkeley) -> (POSIX standard from IEEE)  
- -> Minix (Small clone of UNIX) -> Linux (idea from Minix and free production)   
+  * UNIX -> System V from AT&T and BSD from University at California at Berkeley -> (POSIX standard from IEEE)  
+  * UNIX -> Minix (Small clone of UNIX) -> Linux (idea from Minix and free production)   
 Most of what will be said about UNIX in here thus applies to System V, BSD, MINIX, Linux, and other versions and clones of UNIX as well.  
 
 
 ##Book Content
-1.Introduction
-1.1.What Is An Operating System
-1.2.History of Operating System
+* 1.Introduction
+  * 1.1.What Is An Operating System
+  * 1.2.History of Operating System
+  * 1.3.The Operating System Zoo
 
 </body></html>

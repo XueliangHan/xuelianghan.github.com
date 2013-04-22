@@ -1,8 +1,8 @@
 <html><head><title>Tools</title></head><body>
 
+<hr>
 Craftsman's tools in Computer World
 ===================================
-<hr>
 * This is a place where I learn how to use tools
 * The best way to master a tools is to use it in the real world to do some parctical task, and it's better have a master walk with you, so you will know which shouldn't do or don't need to do, and when things go wrong, you can fix it very quickly with the help of master, this kind of learning stragety will help you mastering the tools as quick as possible at the beginning stage.
 * The limit which I can't beyond now - The religion war about the tools(compiler/database/editor/operating system/version control system/etc.), yes, religion in computer world, I never thought about that before, or I never thought religion will appeared in the computer world, in my work, in my professional career, unfortunately, I was affected by the environment I grow up with, I was too young to have ability to distinguish right and wrong, kind and evil, and there are no masters around me give advices, most information on the Internet are wrong and low quality, especially carried by Chinese language, and I was devoted my time and energy into that debate, a debate may won't have an end after my death, the tools are matter, what matter is what you are doing with them, just like the computer programming language - [Advice From An Old Programmer](http://hackecho.com/2011/06/advice-from-an-old-programmer/): At the end of the book "Learn Python The Hard Way, 2nd Edition".
