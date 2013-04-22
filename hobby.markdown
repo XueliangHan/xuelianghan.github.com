@@ -59,7 +59,7 @@ Art & Literature: Film, Music, Painting, Photography, Reading
 
 
 ###MUSIC
-* Cognition: Music, spiritual energy to human.
+* Cognition: Music, spiritual energy of human.
 * Artist
   * Beyond
 * Music from Film/Movie

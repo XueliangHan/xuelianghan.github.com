@@ -51,6 +51,8 @@ Self-Education (Training & Learning)
 * (Chinese)一亩三分田[论坛](http://www.1point3acres.com/bbs/)
   * (Chinese)[论坛资源超级入口](http://www.1point3acres.com/bbs/thread-138-1-1.html)
   * (Chinese)[张驰原](http://blog.pluskid.org/?page_id=82)的[旧博客](http://blog.pluskid.org/?cat=3)
+* Services
+  * [ChaseFuture](http://chasefuture.com/zh/home/)
 
 ####Wikipedia and it's sister projects
 * Book-[Wikibooks](https://en.wikibooks.org/): Free textbooks and manuals
@@ -65,6 +67,9 @@ Self-Education (Training & Learning)
 * [Commons](https://commons.wikimedia.org/): Free media repository
 * [MediaWiki](https://mediawiki.org/): Free software development
 * [Meta-Wiki](https://meta.wikimedia.org/): Wikimedia project coordination
+
+####News about Education
+* (Chinese) [Bing News - Education](http://cn.bing.com/news/search?q=&p1=%5bNewsVertical+Category%3d%22rt_Education%22%5d&FORM=NSBABR)
 
 
 

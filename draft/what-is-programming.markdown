@@ -18,13 +18,14 @@ What is programming?
 
 
 ###Program a computer is to tell a computer to do things for you
-All things are processed as information form in a computer system, information need to be organized/structured, not scattered at everywhere, and them are transform from one structure to another structure in a computer system, which is under the control of procedures. Here, we define data is binary number: 0, 1. Information can be text, image, audio, video, structured data.
-So the progress of information processing in a computing machine is:  
+
+All things are processed as information form in a computer system, information need to be organized/structured, not scattered at everywhere, and them are transform from one structure to another structure in a computer system, which is under the control of procedures. Here, we define data is binary number: 0, 1. Information can be text, image, audio, video, structured data. So the progress of information processing in a computing machine is:    
+
 * Input information (That will be the problem/question with a computer acceptable form)
 * Store, Process information 
 * Output information (That will be the answer with computer form/human readable form)
-  * In CLR age, 
-  * In GUI age,  classic module is MVC. Model charge for processing information. View charge for show the result. Controler charge for control, interact with model and view, get user's action from view and tell view how to reaction/represent itself, tell model the new information(update from view/etc.) need to process, and get the result from model who have just finished process the new incoming information.
+  * In CLR age,  you don't need to consider graphic interface, program the core model and write the logic, you are done.
+  * In GUI age,  a classic model to build a program is MVC (Model-View-Controler). Model charged for processing information. View charged for showing the result. Controler charged for controling the all part, such as: interact with model and view, get user's action from view and tell view how to reaction/represent itself, tell model the new information(updated from view/etc.) need to process, and get the result from model who have just finished process the new incoming information.
 
 ###Algorithms and Data Structure
 Problems can be solved by approrite _Algorithms_, _Data Structure_, and a good _Design_.  
