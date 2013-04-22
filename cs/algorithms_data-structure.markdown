@@ -5,17 +5,18 @@
 * Yin Wang's [Data Structure Mindmap](http://www.mindomo.com/view?m=925b590ea60143f08654b3c672c4a3e5)
 
 
-##Searching Algorithms
+##1.Searching Algorithms
 ###Binary Search
 * The idea behind the __Binary Search__ is that _recursive_ _divide_ the whole into two part each, and _conquer_ it then.
-* Pre-condition to use _binary search__ is that your sequence must be ordered.
+* Pre-condition to use __binary search__ is that your sequence must be ordered.
+* My [binarysearch](./binary_search.c.txt)
 
-##Sorting Algorithms
+##2.Sorting Algorithms
 * [Sorting Algorithms - Wikipedia](http://en.wikipedia.org/wiki/Sorting_algorithm)
 
 ###Quick Sort
 * The idea behind the __Quick Sort__ algorihms is that reducing the full scaning time to log(n) times by using _devide and conquer_.
-* My [quick_sort.c](./quick_sort.c), [quick_sort.txt](./quick_sort.txt)
+* My [quicksort](./quick_sort.c.txt)
 
 
 </body></html>

@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+int bsearch(int a[], int n, int key);
+
+int main()
+{
+    int array[]={0,1,2,3,4,5,6,7,8,9,10};
+    int pos = 0;
+    int key;
+    scanf("%d", &key);
+    pos = bsearch(array, sizeof(array)/sizeof(array[0]), key);
+    printf("Pos = %d\n", pos);
+
+    return 0;
+}
+
+int bsearch(int a[], int n, int key)
+{
+    int left, middle, right;
+    left = 0, right = n-1;
+
+    while(left <= right)
+    {
+        middle = left + ((right-left)/2);
+        if (key == a[middle])
+            return middle;
+        else if (key < a[middle])
+            right = middle - 1;
+        else
+            left = middle + 1;
+    }
+    return -1;
+}
