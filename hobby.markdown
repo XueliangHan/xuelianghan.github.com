@@ -60,16 +60,25 @@ Art & Literature: Film, Music, Painting, Photography, Reading
   * Andromeda Galaxy and Milky Way from Earth   ![Andromeda Galaxy and Milky Way from Earth](./files/images/andromeda-galaxy-and-milky-way-from-earth.jpg "Andromeda Galaxy and Milky Way from Earth")
 
 
+
 ###MUSIC
 * Cognition: Music, spiritual energy of human.
+
 * Artist
   * Beyond
-* Music from Film/Movie
-  * "The Social Network", Trent Reznor and Atticus Ross, [listen it online at XiaMi (China)](http://www.xiami.com/album/406012), [maglink](magnet:?xt=urn:btih:8f8445d0a78c9df42169b4fd1690b208ef886b40&dn=trent+reznor+and+atticus+ross+the+social+network+ost+web+2010+daa&tr=http%3A%2F%2Fexodus.1337x.org%2Fannounce)
-* Film related to Music
-  * August Rush (2007): [on IMDB](http://www.imdb.com/title/tt0426931/), [on Wikipedia](http://en.wikipedia.org/wiki/August_Rush), Note: Very beautiful, amazing, I can feel the power of music, it's like my neuro-network have been programmed by music.
+
+* Playlist
+  * Friend by Huajian Zhou, Chinese content.
+  * (Film Track) "The Social Network", Trent Reznor and Atticus Ross, [listen it online at XiaMi (China)](http://www.xiami.com/album/406012), [maglink](magnet:?xt=urn:btih:8f8445d0a78c9df42169b4fd1690b208ef886b40&dn=trent+reznor+and+atticus+ross+the+social+network+ost+web+2010+daa&tr=http%3A%2F%2Fexodus.1337x.org%2Fannounce)
+
 * Course Related to Music
   * [Listening to Music - Open Yale Course](http://oyc.yale.edu/music/musi-112) by [Prof. Craig Wright]
+
+* Film related to Music
+  * August Rush (2007): [on IMDB](http://www.imdb.com/title/tt0426931/), [on Wikipedia](http://en.wikipedia.org/wiki/August_Rush), Note: Very beautiful, amazing, I can feel the power of music, it's like my neuro-network have been programmed by music.
+
+
+
 
 ###FILM/MOVIE
 * Life in A Day (2010): (Love, Fear). Highly recommended, the best film and documentary I've ever seen in my life.
