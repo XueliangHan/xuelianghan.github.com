@@ -36,7 +36,7 @@ Index
 * [LInfo.org](http://www.linfo.org): The best information site about Linux I've ever seen, simple, clear, and beautiful.
 * [Unix command-line interface programs and shell builtins]
 * End of stdin in the bash: CTRL+D
-* bg: check background task in current shell
+* bg/fg: check background/frontground task in current shell
   * %1: recovery the first task
   * Add ' ': Shift + Alt
 
