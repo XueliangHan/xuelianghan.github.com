@@ -92,10 +92,23 @@ Most of what will be said about UNIX in here thus applies to System V, BSD, MINI
   * Restrictions: Power, Memory.
   * Some smart cards are Java oriented, which means there is a ROM on the smart card holding a interpreter for the Java Virtual Machine (JVM).
 
+###1.4.Computer Hardware Review
+* Processors, Memory, I/O Devices, Buses
+* Not interested in them now, pass.
+* Special Registers in Processors
+  * __PC__ (Program Counter): Contain the memory address of the next instruction to be fetched, after that instruction has been fetched, the program counter is updated to point to its successor.
+  * __SP__ (Stack Pointer): Point to the top of the current stack in memory.  * __PSW__ (Program Status Word): This register contains the condition code bits, which are set by comparison instructions, the CPU priority, the mode (user or kernel), and various other control bits.  User programs may normally read the entire PSW but typically may write only some of its fields. The PSW plays an important role in system calls and I/O.
+
+
+###1.5.Operating System Concepts
+* `Process` - A process is __basically__ a _program_ in _excution_.
+
 ##Book Content
 * 1.Introduction
   * 1.1.What Is An Operating System
   * 1.2.History of Operating System
   * 1.3.The Operating System Zoo
+  * 1.4.Computer Hardware Review
+  * 1.5.Operating System Concepts
 
 </body></html>

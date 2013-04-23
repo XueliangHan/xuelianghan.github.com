@@ -134,6 +134,24 @@ Most of what will be said about UNIX in here thus applies to System V, BSD, MINI
 </ul></li>
 </ul>
 
+<h3>1.4.Computer Hardware Review</h3>
+
+<ul>
+<li>Processors, Memory, I/O Devices, Buses</li>
+<li>Not interested in them now, pass.</li>
+<li>Special Registers in Processors
+<ul>
+<li><strong>PC</strong> (Program Counter): Contain the memory address of the next instruction to be fetched, after that instruction has been fetched, the program counter is updated to point to its successor.</li>
+<li><strong>SP</strong> (Stack Pointer): Point to the top of the current stack in memory.  * <strong>PSW</strong> (Program Status Word): This register contains the condition code bits, which are set by comparison instructions, the CPU priority, the mode (user or kernel), and various other control bits.  User programs may normally read the entire PSW but typically may write only some of its fields. The PSW plays an important role in system calls and I/O.</li>
+</ul></li>
+</ul>
+
+<h3>1.5.Operating System Concepts</h3>
+
+<ul>
+<li><code>Process</code> - A process is <strong>basically</strong> a <em>program</em> in <em>excution</em>.</li>
+</ul>
+
 <h2>Book Content</h2>
 
 <ul>
@@ -142,6 +160,8 @@ Most of what will be said about UNIX in here thus applies to System V, BSD, MINI
 <li>1.1.What Is An Operating System</li>
 <li>1.2.History of Operating System</li>
 <li>1.3.The Operating System Zoo</li>
+<li>1.4.Computer Hardware Review</li>
+<li>1.5.Operating System Concepts</li>
 </ul></li>
 </ul>
 
