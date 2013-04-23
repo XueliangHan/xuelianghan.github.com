@@ -7,6 +7,9 @@ My General Information Source
 * It can mean news, articles, blog posts, that's the narrow information part, it can also mean learning resource like Coursera/Udacity/Edx, that's the resource part from the board perspective, the information I use in here represent bit, following bit.   
 * Information source which exclude interest, and hobby.
 
+####Site Index
+* [Open Source Sites](http://site.huihoo.com/), Good.
+
 ####Wikipedia and it's sister projects
 * Book-[Wikibooks](https://en.wikibooks.org/): Free textbooks and manuals
 * Data-[Wikidata](https://en.wikidata.org/): Free knowledge base
@@ -65,9 +68,10 @@ My General Information Source
 
 
 ####Professional Related 
-* Yin Wang
+* Yin Wang (Shredder Yin)
   * [Website](http://www.yinwang.org)(Hosted on Github)
   * [Yin Wang's Sina Weblog](http://blog.sina.com.cn/s/articlelist_1569777711_0_1.html)
+  * [Old Website](http://docs.huihoo.com/homepage/shredderyin/), many useful stuff.
 * [Dang Xu's Independent Blog](blog.youxu.info), Software Engineer, Google China
 * (Chinese)张驰原(Chiyuan Zhan): MIT Machine Learning Ph.D Candidate, ZJU-CS
   * [New blog](http://blog.pluskid.org), [Old blog](http://lifegoo.pluskid.org), [Old domain](http://pluskid.lifegoo.com)
