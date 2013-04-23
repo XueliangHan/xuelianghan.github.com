@@ -87,5 +87,13 @@ Book
 * "Paradigms of Artifical Intelligence Programming"
 * "Cases studies in common LISP"
 
+<hr>
+Blog
+----
+* [Slava Akhmechet](http://www.defmacro.org)
+  * [Functional Programming For The Rest of Us](http://www.defmacro.org/ramblings/fp.html)
+  * [The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)
+
+
 </body>
 </html>

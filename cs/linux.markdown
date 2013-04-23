@@ -4,6 +4,8 @@
 
 ##Linux Operating System
 * [Mail list of Linux kernel developers](http://vger.kernel.org)
+* [Command-line interface - Wikipeida](http://en.wikipedia.org/wiki/Command-line_interface)
+* [Fstab - Wikipedia](http://en.wikipedia.org/wiki/Fstab)
 
 #Operating System
 * (Books) "Modern Operating System", A. S. Tanenbaum

@@ -13,9 +13,11 @@ Skills
 Index
 ------
 * Professional Skills
-* Communication
-* Teamwork
-* Time Management
+* Soft Skills
+  * Communication
+  * Teamwork
+  * Time Management
+* Effective and Efficient
 * Others
   * Searching, Retrivel Skills
 
@@ -45,7 +47,8 @@ Content
   * (Idea) Develop a `computer program/ website/ mobile app` to assist this 2 _Wonderful_ hours more __Wonderful__.
 
 
-
+###Effective and Efficient
+* [The effective engineer’s handbook by Slava Akhmechet](http://www.defmacro.org/2013/03/10/effective-handbook.html)
 
 ###Others
 ####Searching, Retrivel Skills
