@@ -64,11 +64,12 @@ Craftsman's tools in Computer World
 * [GCC Compiler Collection - Wikipedia](en.wikipedia.org/wiki/GNU_Compiler_Collection)
 * [GCC online documentation](http://gcc.gnu.org/onlinedocs/)
 * Main parameters
+  * _-g_: "\*",     Keep the debugging message in the compiled program.
+  * _-o_: "\*.o",   Specify a target name, default is _a.out_.
   * _-x language filename_: Specify explicitly the _language_ for the following input files (rather than letting the compiler choose a default based on the file name suffix).
   * _-x none_: Turn off any specification of a language.
-  * _-o_: "\*.o",   Specify a target name, default is _a.out_.
   * _-c_: "\*.o",   Only preprocessing, complication, assemble, 
-  * _-E_: "\*.txt", Only preprocessing, you may want to use "_gcc -E binarySearch.c > preprocessing.txt_", because it will generate a 800+ lines of code even a hello-world program.
+  * _-E_: "\*.txt", Only preprocessing, you may want to use `gcc -E binarySearch.c > preprocessing.txt_`, due to the fact it will generate a 800+ lines of code even a hello-world program.
   * _-C_: "\*.txt", Only preprocessing, but save the comments information.
   * _-S_: "\*.s",   Stop after the stage of compilation proper, do not assemble.
   * _-M_:      Generate information related to files. 
@@ -77,7 +78,7 @@ Craftsman's tools in Computer World
   * _-O/-O1_:  Optimize code.
   * _O2_:      Further optimization.
   * _O3_:      More further optimization.
-  * _-shared_: Generate shared object.
+  * _-shared_: Generate shared object, file suffix is `.so`.
   * _-static_: Forbid shared link.
 
 
@@ -94,8 +95,14 @@ Craftsman's tools in Computer World
 ###Debugger and Debugging
 <hr>
 ####GDB (The GNU Project Debugger)
+* [GBD - Wikipedia](http://en.wikipedia.org/wiki/GDB)
 * [GDB - GNU Project](http://www.gnu.org/software/gdb/)
 * [GDB Tutorial](http://www.cs.cmu.edu/~gilpin/tutorial/) from CMU and maintained by [Andrew Gilpin](http://www.cs.cmu.edu/~gilpin/)
+
+* (Previous concept need to know) In order to debug the program, debugging message is needed for the debugger, use `gcc -g filename` to compile the source file.
+
+####DDD (A GUI for GDB and other debuggers)
+* [ddd - Wikipedia](http://en.wikipedia.org/wiki/Data_Display_Debugger)
 
 ####Memory Leaks Detechtion
 * [Memory Leaks - Wikipedia](http://en.wikipedia.org/wiki/Memory_leak)
