@@ -1,4 +1,4 @@
-Markdown - The power of plain text(Text markup language)
+#Markdown - The power of plain text(Text markup language)
 
 #Cognition form Wikipedia
 Markdown is a lightweight markup language, originally created by John Gruber with substantial contributions from Aaron Swartz, allowing people ¡°to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)¡±.[1] The language takes many cues from existing conventions for marking up plain text in email. In other words, Markdown is a text-to-HTML conversion tool (for web writers). -- Wikipedia
@@ -12,9 +12,12 @@ Long story short, the world have two significant word processing tools: TeX and 
 
 
 #More Introduction
-Markdown is also a Perl script written by Gruber, Markdown.pl, which converts marked-up text input to valid, well-formed XHTML or HTML and replaces left-pointing angle brackets ('<') and ampersands with their corresponding character entity references. It can be used as a standalone script, as a plugin for Blosxom or Movable Type, or as a text filter for BBEdit.[1]
+Markdown is also a Perl script written by Gruber, Markdown.pl, which converts marked-up text input to valid, well-formed XHTML or HTML and replaces left-pointing angle brackets  and ampersands with their corresponding character entity references. It can be used as a standalone script, as a plugin for Blosxom or Movable Type, or as a text filter for BBEdit.[1]
 Markdown has since been re-implemented by others as a Perl module available on CPAN (Text::Markdown), and in a variety of other programming languages. It is distributed under a BSD-style license and is included with, or available as a plugin for, several content-management systems.[2][3]
 
+#Markdown Implement Version
+* Gruber's original design and implemention
+* [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown), more convenience, [Github Flavored Markdown Repo](https://github.com/mojombo/github-flavored-markdown)
 
 
 #Usage (Only introduce what I need for simplify demand):
