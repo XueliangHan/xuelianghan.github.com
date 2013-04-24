@@ -97,7 +97,10 @@ Craftsman's tools in Computer World
 ####GDB (The GNU Project Debugger)
 * [GBD - Wikipedia](http://en.wikipedia.org/wiki/GDB)
 * [GDB - GNU Project](http://www.gnu.org/software/gdb/)
-* [GDB Tutorial](http://www.cs.cmu.edu/~gilpin/tutorial/) from CMU and maintained by [Andrew Gilpin](http://www.cs.cmu.edu/~gilpin/)
+
+* GDB Tutorials
+  * [GDB Tutorial](http://www.cs.cmu.edu/~gilpin/tutorial/) from CMU and maintained by [Andrew Gilpin](http://www.cs.cmu.edu/~gilpin/)
+  * Chinese tutorial by Hao Chen, [GDB 1](http://blog.csdn.net/haoel/article/details/2879)(Read), [GDB 2](http://blog.csdn.net/haoel/article/details/2880)(Unfinished)
 
 * (Previous concept need to know) In order to debug the program, debugging message is needed for the debugger, use `gcc -g filename` to compile the source file.
 
