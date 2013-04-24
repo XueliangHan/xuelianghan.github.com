@@ -19,7 +19,7 @@ Craftsman's tools in Computer World
 * Compiler
 * Database
 * Debugger and Debugging
-* Editor(Vi/Vim, Emacs)
+* Editor (Text Editor I Used: Vi/Vim, Emacs, etc.)
 * Language - Specific Computer Programming Languge Environment
 * Version Control System - Git (Linux, Mac OS X)
 
@@ -114,39 +114,65 @@ Craftsman's tools in Computer World
 
 
 
-###Editor
+###Editor (Text Editor I Used)
 <hr>
 ####Editor is matter
 * [Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube](https://www.youtube.com/watch?v=IUBw5e-zPXw)
 * In order to get one specific thing done, the editor I use.
   * [A very good answer on StackOverFlow about how to use Emacs and Vim to get different things done](http://stackoverflow.com/a/592265/1805394): Brian Carper use Emacs for LISP, CSS, JavaScript and such, and use Vim for Ruby, Python, Perl, PHP, BASH, Plaintext, and almost anything else.
 
+
+
 ####Vi/Vim
+#####Index of Vi/Vim
 * See Vi/Vim master using Vi/Vim
-* [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
-* Installation Vim
+* Tutorials
+* Installations
+* Usage
+  * Command mode
+  * Lastline mode
+  * Input mode
+
+
+#####Content of Vi/Vim
+* See Vi/Vim master using Vi/Vim
+
+#####Tutorials
+* Chinese Tutorials
+  * [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
+  * [Advanced Vi/Vim](http://easwy.com/blog/archives/advanced-vim-skills-catalog/)
+
+#####Installation Vim
   * In Linux, in _Ubuntu_,excute `sudo apt-get install vim`
   * In Mac OS X, Vim is already in the system, at `/usr/share/vim`.
 * Configuration Vim
   * In Linux, `.vimrc` is the configuration file of Vim, store at `/home/"Yourname"/.vimrc`
   * In Mac OS X, it's same to Linux, the general configuration file in store in `/usr/share/vim/vimrc`.
   * A configuration in Chinese [Mac Vimrc](http://blog.sina.com.cn/s/blog_5a6efa330101cumx.html)
-* Usage
-  * Note: "something", something is what you should input.
+
+
+#####Usage of Vi/Vim
+* Note: "something" I write, it mean what you should input.
 * Vi/Vim Modes - Vi/Vim has three main modes
   * Command mode (the default mode when you enter Vi/Vim).   
   * Last line mode.  
   * Input mode.  
-* Last line mode - excute command
+  * Navigation use shortcut key (Moving cursor to wherever you like)
+
+* Command mode
   * Copy & Paste cross files - From: "\*yny, To: "\*p
+  * Delete
+  * Match (), [], {}: "%"
+
+* Last line mode - excute command
   * Excute external command: `!`
   * Filetype set: `:set filetype=c`
-  * Match (), [], {}: "%"
   * Open and Navigate into `n` line: `vim filename +n`.
   * Open and Navigate into first word match pattern: `vim filename +/wordname`
   * Search - `/word`, `n` to next one.
   * Search and Replace - `:%s/ori/des/g`.
   * Delete space: Delete line with spaces: `:g/^$/d`, delete spaces before the first letter of a line: `:%s/^\s*//g`, delete spaces after the last letter of a line: `:%s/\s*$//g`.
+
 * Input mode - Input text
   * Insert
     > Letter - new letter before cursor: `i`  
@@ -198,11 +224,12 @@ Craftsman's tools in Computer World
     > Screen - Last line's first non-empty Letter: `L`  
 
 ####Emacs
-* Damn! `Emacs` is not a text editor, it's a __Operating System__, the __UNIX__ beat __LISP Machine__, so these guy just built a OS on Unix system, that why people are saying `Emacs` can do everything, even open a door for you. 2013-04-15.
+* Damn it! I finally got some transcendent understanding, `Emacs` is not a text editor, yes, it's like a text editor, but it not only to be a single editor, it's actually a __Operating System__. Let's back to the time when __UNIX__ beat __LISP Machine__, these guys who made _emacs_ just built it on Unix system so them can use it, that why people are saying `Emacs` can do everything, even open a door for you, and by the way, some guys joking that what emacs really need is a _text editor_. 2013-04-15.
+
 * Tutorial, Guide, How-To
   * Official Tutorial: Open emacs -> Press the button "ATL" and "x" same time -> type help-with-tutorial, there you go.
   * [Tips for Learning Elisp? - StackOverFlow](http://stackoverflow.com/questions/41522/tips-for-learning-elisp)
-  * (Chinese)[一年成为Emacs高手(像神一样使用编辑器)](http://blog.csdn.net/redguardtoo/article/details/7222501)
+  * (Chinese)[一年成为Emacs高手(像神一样使用编辑器) Becoming Advanced Emacs User in One Year(Use it like a God)](http://blog.csdn.net/redguardtoo/article/details/7222501): High quality chinese tutorial, author use one year to finish this tutorial.
 * Configuration file
   * Emacs master [Steve Purcell's](https://github.com/purcell/emacs.d) configuration file (highly recommended).
 * See Emacs master using Emacs
@@ -210,13 +237,14 @@ Craftsman's tools in Computer World
  * [Emacs Power: Can your editor do THIS! (Youtube Video)](http://www.youtube.com/watch?v=EQAd41VAXWo)
 
 
-####Others
-* Sublime
-  * [Sublime 2 Official Website](http://www.sublimetext.com/2)
-* Byword
-* TextMate
-  * [Text - The missing editor for Mac OS X](http://macromates.com)
-  * Key point: Beautiful user interface, powerful micro definition, download and edit bundles, improve the develop efficiency, many Rails developer use it to do ruby programming.
+####Other text editor I used
+* On Mac OS X
+  * Byword: On Mac-OS-X, used for markdown writing, you need pay.
+  * [Sublime](http://www.sublimetext.com/2): On Mac-OS-X, most used for Web-Dev.
+  * [Textmate - The missing editor for Mac OS X](http://macromates.com): Beautiful user interface, powerful micro definition, download and edit bundles, improve the develop efficiency, many Rails developer use it to do ruby programming.
+
+* On Windows
+  * Notepad++: Open source, easy to use.
 
 
 
