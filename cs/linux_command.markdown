@@ -260,6 +260,10 @@ Index
 ####ls
 * lsusb
   * list all use devices information, I use it to check my mobile phone udev info when develop android apps.
+* lsof
+
+* list all filesystem UUID
+  * `sudo blkid`
 
 ####Utilities
 * wget
