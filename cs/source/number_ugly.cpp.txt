@@ -40,7 +40,7 @@ int ulgy(int n)
     int ugly[n];
     /* Varibles to record current position for 2,3,5 to multiply */
     int povit2=0, povit3=0, povit5=0;
-    /* Record total ugly number */
+    /* Count ugly number */
     int count=0;
     /* Value to store the caculated ugly number */
     int value=0;
@@ -64,7 +64,7 @@ int ulgy(int n)
         /* Finish one caculation, Store ugly unmber, count +1 to do next */
         ugly[++count] = value; /* Bug 1: Remember, count increase first */
     }
-    /* Keep the return user want */
+    /* Keep the result user want, and return */
     value = ugly[n-1];
     return value;
 }
