@@ -7,21 +7,16 @@
 <h2>Index</h2>
 
 <ul>
-<li>shell shortcut key</li>
-<li>shell interactive command
-<ul>
-<li>cat, cd/pushd/popd, cp/scp, dd, pstree, wget</li>
-</ul></li>
-<li>awk, sed, grep</li>
-<li>crontab, purge</li>
-<li>kill</li>
+<li>terminal and shell shortcut key / shell interactive command</li>
 <li>File system
 <ul>
 <li>cat cd chmod chown chgrp cksum cmp cp dd du df file fsck fuser ln ls lsattr lsof mkdir mount mv pax pwd rm rmdir size split tee touch type umask</li>
+<li>chmod chown chgrp cksum cmp dd fsck fuser ln ls lsattr lsof mv pax tee type umask</li>
 </ul></li>
 <li>Processes
 <ul>
 <li>at bg chroot cron fg kill killall nice pgrep pidof pkill ps pstree time top</li>
+<li>at chroot killall nice pgrep pidof pkill time top</li>
 </ul></li>
 <li>User environment
 <ul>
@@ -39,7 +34,7 @@
 <ul>
 <li>dig host ifconfig inetd netcat netstat nslookup ping rdate rlogin route ssh traceroute</li>
 </ul></li>
-<li>Searching
+<li>Searching (done)
 <ul>
 <li>find grep locate whatis whereis</li>
 </ul></li>
@@ -50,21 +45,24 @@
 <li>Miscellaneous
 <ul>
 <li>bc dc cal date lp lpr</li>
+<li>purge</li>
+</ul></li>
+<li>Other tools
+<ul>
+<li>mail, wget, purge</li>
 </ul></li>
 </ul>
+
+<h2>Content</h2>
+
+<h3>Shell (Bash)</h3>
 
 <h4>Shell command</h4>
 
 <ul>
-<li>LEONID MAMCHENKOV,<a href="http://mamchenkov.net/wordpress/2010/08/05/shell-keyboard-shortcuts/">Shell keyboard shortcuts</a></li>
 <li><a href="http://www.linfo.org">LInfo.org</a>: The best information site about Linux I've ever seen, simple, clear, and beautiful.</li>
+<li>LEONID MAMCHENKOV,<a href="http://mamchenkov.net/wordpress/2010/08/05/shell-keyboard-shortcuts/">Shell keyboard shortcuts</a></li>
 <li>[Unix command-line interface programs and shell builtins]</li>
-<li>End of stdin in the bash: CTRL+D</li>
-<li>bg/fg: check background/frontground task in current shell
-<ul>
-<li>%1: recovery the first task</li>
-<li>Add ' ': Shift + Alt</li>
-</ul></li>
 </ul>
 
 <h4>Shell shortcut</h4>
@@ -77,52 +75,28 @@
 </ul></li>
 <li>Beginning of the command line you currently typing on: CTRL + a</li>
 <li>Eng       of the command line you currently typing on: CTRL + e</li>
+<li>End of stdin in the bash: CTRL+D</li>
 <li>Move backward one word: CTRL + b</li>
 <li>Move forward  one word: CTRL + f</li>
 </ul>
 
-<h4>awk, sed, grep</h4>
-
-<h5>awk</h5>
+<h3>FS (File system)</h3>
 
 <ul>
-<li>awk is useful, but it has been in the shadow of perl from beginning, due to perl is capable to cross platform, and awk is not so compatible out of unix/linux plafform, but, awk is good at get some small things done.</li>
-<li>awk function
+<li>Index
 <ul>
-<li>length(), index(), split(,,)</li>
-</ul></li>
-<li>small practise
-<blockquote>
-  <p>$ cat > awk.txt
-testing the awk command</li>
-<li>print length of the first line
-(wrong) $ awk <code>{ 1 = length($0; print i}</code> awk
-(right) $ awk '{ i = length($0); print i }' awk.txt
-(result) 23</li>
-<li>print the position of string "ing"
-$ awk '{ i = index($0, "ing"); print i }' awk.txt</li>
-<li>split the text by space and print each word
-$ awk BEGIN {i = 1} { n = split($0,a," "); while (i &lt; = n) {print a[i]; i++;} }' awk.txt</li>
-</ul></p>
-
-<h4>cd/pushd/popd</h4>
-</blockquote>
-
-<ul>
-<li>pushd/popd: use to navigate during different directory
-<ul>
-<li><em>pushd /mnt</em>: navigate to /mnt and put current directory into stack</li>
-<li><em>popd</em>: pop the top from stack and go to that directory</li>
+<li>cat cd chmod chown chgrp cksum cmp cp dd du df file fsck fuser ln ls lsattr lsof mkdir mount mv pax pwd rm rmdir size split tee touch type umask</li>
+<li>chmod chown chgrp cksum cmp dd fsck fuser ln ls lsattr lsof mv pax tee type umask</li>
 </ul></li>
 </ul>
 
-<h4>cp(copy)/scp(secure copy)</h4>
+<h4>cp (copy) / scp (secure copy)</h4>
 
 <ul>
 <li><a href="http://en.wikipedia.org/wiki/Secure_copy">SCP (Secure Copy) - Wikipedia</a></li>
 <li>1.Download <em>file</em>      from remote server
 <ul>
-<li>Command: <em>scp -P 2000 root@www.google.com:root/borg.tar.gz /home/borg.tar.gz</em></li>
+<li>Command: <code>scp -P 2000 root@www.google.com:root/borg.tar.gz /home/borg.tar.gz</code></li>
 <li><em>P</em>: Upper case "<em>P</em>" represent port, if you are not change the default SSH port, this won't be necessary</li>
 <li><em>root@www.google.com</em>: use root to login to server</li>
 <li>"<em>:</em>": a symbol to separate the server address and file path</li>
@@ -131,18 +105,18 @@ $ awk BEGIN {i = 1} { n = split($0,a," "); while (i &lt; = n) {print a[i]; i++;}
 </ul></li>
 <li>2.Download <em>directory</em> from remote server
 <ul>
-<li>Command: <em>scp -P 2000 -r root@www.google.com:root/borg/ /home/borg/</em></li>
+<li>Command: <code>scp -P 2000 -r root@www.google.com:root/borg/ /home/borg/</code></li>
 <li>same as abrove</li>
 <li><em>-r</em>: recursive copy files and directories in the folder</li>
 </ul></li>
 <li>3.Upload   <em>file</em>      to   remote server
 <ul>
-<li>Command: <em>scp -P 2000 /home/omega.tar.gz root@www.google.com</em></li>
+<li>Command: <code>scp -P 2000 /home/omega.tar.gz root@www.google.com</code></li>
 <li>you are smart, you will figure it out</li>
 </ul></li>
 <li>4.Upload   <em>directory</em> to   remote server
 <ul>
-<li>Command: <em>scp -P 2000 -r /home/omega/ root@www.google.com</em></li>
+<li>Command: <code>scp -P 2000 -r /home/omega/ root@www.google.com</code></li>
 <li>you are smart, you will crack it</li>
 </ul></li>
 <li>parameters
@@ -154,7 +128,132 @@ $ awk BEGIN {i = 1} { n = split($0,a," "); while (i &lt; = n) {print a[i]; i++;}
 </ul></li>
 </ul>
 
-<h4>crontab</h4>
+<h4>FS: Directory operation (cd/pushd/popd, mkdir, rmdir)</h4>
+
+<ul>
+<li><p><code>cd</code> - change directory</p></li>
+<li><p><code>pushd</code>/<code>popd</code>: use to navigate during different directory</p>
+
+<ul>
+<li><em>pushd /mnt</em>: navigate to /mnt and put current directory into stack</li>
+<li><em>popd</em>: pop the top from stack and go to that directory</li>
+</ul></li>
+<li><p><code>mkdir</code> - make new directory</p>
+
+<ul>
+<li>Example: <code>mkdir source</code></li>
+</ul></li>
+<li><p><code>rmdir</code> - delete a <strong>Empty</strong> directory</p>
+
+<ul>
+<li>Example: <code>rmdir source</code></li>
+</ul></li>
+<li><p><code>pwd</code> - Print the name of current/working directory</p></li>
+</ul>
+
+<h4>FS: File Operation (du/ df/ file)</h4>
+
+<ul>
+<li><p><code>cat</code> - output the file data on the screen</p>
+
+<ul>
+<li>Example: <code>cat index.html</code></li>
+</ul></li>
+<li><p><code>file</code> - determine file type</p>
+
+<ul>
+<li>Usage: <code>file "filename"</code></li>
+<li>Example: <code>file index</code></li>
+<li>Result: index.html: HTML document, UTF-8 Unicode text, with very long lines</li>
+</ul></li>
+<li><p><code>size</code> - list section size and total size
+<ul>
+<li>Example: <code>size a.out</code></li>
+<li>Result:</p>
+
+<blockquote>
+  <p>text data bss dec  hex filename <br />
+1471 0504 016 1991 7c7 a.out  </li>
+</ul></p>
+</blockquote></li>
+<li><p><code>split</code> - split a file into pieces</p>
+
+<ul>
+<li><em>Note: Very useful to processing text file, more details, please excute command <code>man split</code>.</em></li>
+</ul></li>
+</ul>
+
+<h2>FS: Dir and File</h2>
+
+<ul>
+<li><p><code>rm</code> - remove file or directories</p></li>
+<li><p><code>touch</code> - change file/directory timestamps</p>
+
+<ul>
+<li>Example: <code>touch "dir name" -d "2012-04-23 19:44:46",</code>d` mean _date</li>
+</ul></li>
+</ul>
+
+<h4>FS: Filesystem operation (<code>mount</code> / <code>umount</code>)</h4>
+
+<ul>
+<li><p><code>du</code> - estimate file space usage</p>
+
+<ul>
+<li>Example: <code>du -h index</code></li>
+<li>Result: 16K index.html, <code>-h</code> - human readable format</li>
+</ul></li>
+<li><p><code>df</code> - report file system disk space usage</p>
+
+<ul>
+<li>Usage: <code>-T</code> - Print file system type</li>
+<li>Usage: <code>-h</code> - Human readable format</li>
+<li>Usage: <code>-i</code> - Display <em>inode</em> usage intead of block usage</li>
+</ul></li>
+<li><p><code>mount</code> - mount a filesystem</p>
+
+<ul>
+<li>Example: <code>mount /dev/sdb1 /mnt</code> - mount my SD-Card (on <em>dev/sdb1</em>, you can check it by command <code>sudo fdisk -l</code>)</li>
+<li><em>Ubuntu</em>: Ubuntu will automatically mount you disk into the path <code>/media/</code>, check there.</li>
+</ul></li>
+<li><p><code>umount</code> - umount a filesystem</p>
+
+<ul>
+<li>Example: <code>umount /mnt</code> - umount my SD-Card from <code>/mnt</code></li>
+</ul></li>
+</ul>
+
+<h3>Processes</h3>
+
+<ul>
+<li><p>Index</p>
+
+<ul>
+<li>at bg chroot cron fg kill killall nice pgrep pidof pkill ps pstree time top</li>
+<li>at chroot killall nice pgrep pidof pkill time top</li>
+</ul></li>
+<li><p><code>bg</code> / <code>fg</code> - <em>check background/frontground task in current shell</em></p>
+
+<ul>
+<li>%1: recovery the first task</li>
+<li>Add ' ': Shift + Alt</li>
+</ul></li>
+<li><p><code>kill -9 pid</code></p></li>
+<li><p><code>kill -HUP pid</code></p>
+
+<ul>
+<li>tell a process reload (exit and start) graceful.</li>
+</ul></li>
+<li><p><code>ps</code></p>
+
+<ul>
+<li>Parameters:</li>
+<li>Example: <code>ps aux</code></li>
+</ul></li>
+<li><p><code>pstree</code> - <em>display a tree of processes</em></p></li>
+</ul>
+
+<h4>cron</h4>
 
 <ul>
 <li>Function: Used to do automation work</li>
@@ -197,23 +296,77 @@ $ awk BEGIN {i = 1} { n = split($0,a," "); while (i &lt; = n) {print a[i]; i++;}
 </ul></li>
 </ul>
 
-<h4>Purge</h4>
+<h3>Searching</h3>
 
-<p>Mac OS X: Clean inactive memory  </p>
+<ul>
+<li><p>Index</p>
 
-<h3>diff</h3>
+<ul>
+<li>find grep locate whatis whereis</li>
+<li><em>note: need more practical practise</em></li>
+</ul></li>
+<li><p><code>find</code> - <em>search for file in a directory hierarchy</em></p>
+
+<ul>
+<li>Usage: <code>find {dir-name} -name {file-name}</code></li>
+</ul></li>
+<li><p><code>locate</code> - <em>find files by name</em></p></li>
+<li><p><code>grep</code> (<code>egrep, fgrep, rgrep</code>) - print a <strong>line_ mathcing a __pattern</strong></p></li>
+<li><p><code>whatis</code> - <em>display manual page descriptions</em></p>
+
+<ul>
+<li>Example: <code>whatis gcc</code></li>
+<li>Result: <em>gcc (1)              - GNU project C and C++ compiler</em></li>
+</ul></li>
+<li><p><code>whereis</code> - <em>locate the binary, source, manual page files for a command</em></p>
+
+<ul>
+<li>Example: <code>whereis gcc</code></li>
+<li>Result: <em>gcc: /usr/bin/gcc /usr/lib/gcc /usr/bin/X11/gcc /usr/libexec/gcc /usr/share/man/man1/gcc.1.gz</em></li>
+</ul></li>
+</ul>
+
+<h3>Text processing</h3>
+
+<ul>
+<li>Index
+<ul>
+<li>awk banner basename comm csplit cut dirname ed ex fmt fold head iconv join less more paste sed sort spell strings tail tr uniq vi wc xargs</li>
+</ul></li>
+</ul>
+
+<h4>awk</h4>
+
+<ul>
+<li>awk is useful, but it has been in the shadow of perl from beginning, due to perl is capable to cross platform, and awk is not so compatible out of unix/linux plafform, but, awk is good at get some small things done.</li>
+<li>awk function
+<ul>
+<li>length(), index(), split(,,)</li>
+</ul></li>
+<li>small practise
+<blockquote>
+  <p>$ cat > awk.txt
+testing the awk command</li>
+<li>print length of the first line
+(wrong) $ awk <code>{ 1 = length($0; print i}</code> awk
+(right) $ awk '{ i = length($0); print i }' awk.txt
+(result) 23</li>
+<li>print the position of string "ing"
+$ awk '{ i = index($0, "ing"); print i }' awk.txt</li>
+<li>split the text by space and print each word
+$ awk BEGIN {i = 1} { n = split($0,a," "); while (i &lt; = n) {print a[i]; i++;} }' awk.txt</li>
+</ul></p>
+
+<h3>Others</h3>
+</blockquote>
+
+<h4>diff</h4>
 
 <ul>
 <li><a href="http://en.wikipedia.org/wiki/Diff">diff - Wikipedia</a></li>
 <li><a href="http://www.markusbe.com/2009/12/how-to-read-a-patch-or-diff-and-understand-its-structure-to-apply-it-manually/">How to read a patch or diff</a></li>
 <li><a href="http://stackoverflow.com/questions/2529441/how-to-work-with-diff-representation-in-git">How to work with diff representation in git</a></li>
 <li>(Chinese)<a href="http://www.ruanyifeng.com/blog/2012/08/how_to_read_diff.html">读懂diff</a></li>
-</ul>
-
-<h4>find</h4>
-
-<ul>
-<li>find {dir-name} -name {file-name}</li>
 </ul>
 
 <h4>ls</h4>
@@ -225,34 +378,17 @@ $ awk BEGIN {i = 1} { n = split($0,a," "); while (i &lt; = n) {print a[i]; i++;}
 </ul></li>
 </ul>
 
-<h3>gcc</h3>
+<h4>Utilities</h4>
 
 <ul>
-<li>ldd: see which dynamic library the program used.</li>
-<li>nm: see the symbol in program</li>
-<li>strip: make the program smaller.</li>
-</ul>
-
-<h3>kill</h3>
-
-<ul>
-<li><code>kill -9 pid</code>
-<ul>
-* 
-</ul></li>
-<li><code>kill -HUP pid</code>
-<ul>
-<li>tell a process reload (exit and start) graceful.</li>
-</ul></li>
-</ul>
-
-<h4>mail</h4>
-
+<li>wget</li>
+<li>mail
 <ul>
 <li>mail: main -s "Message subject" destiny@destiny.com</li>
+</ul></li>
+<li>Purge
+Mac OS X: Clean inactive memory  </li>
 </ul>
-
-<h4>A study of Linux File System Evolution</h4>
 
 <p></body>
 </html></p>
