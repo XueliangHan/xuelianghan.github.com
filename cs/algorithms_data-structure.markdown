@@ -6,17 +6,21 @@
 
 
 ##1.Searching Algorithms
-###Binary Search
-* The idea behind the _Binary Search_ is that __recursive__ __divide__ the whole into two part each, and __conquer__ it then.
-* Pre-condition to use _binary search_ is that your sequence must be ordered.
-* My [binarysearch](./source/binary_search.c.txt): Time:O(logn)
+* Binary Search
+  * The idea behind the _Binary Search_ is that __recursive__ __divide__ the whole into two part each, and __conquer__ it then.
+  * Pre-condition to use _binary search_ is that your sequence must be ordered.
+  * [My binarysearch](./source/binary_search.c.txt): Time:O(logn)
+
+
 
 ##2.Sorting Algorithms
 * [Sorting Algorithms - Wikipedia](http://en.wikipedia.org/wiki/Sorting_algorithm)
 
-###Quick Sort
-* The idea behind the __Quick Sort__ algorihms is that reducing the full scaning time to log(n) times by using _devide and conquer_.
-* My [quicksort](./source/quick_sort.c.txt): Time:O(nlogn)
+* Quick Sort
+  * The idea behind the __Quick Sort__ algorihms is that reducing the full scaning time to log(n) times by using _devide and conquer_.
+  * [My quicksort](./source/quick_sort.c.txt): Time:O(nlogn)
+
+
 
 ##3.Number
 * Ugly Number
