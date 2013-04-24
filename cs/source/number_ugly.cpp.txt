@@ -1,0 +1,70 @@
+#include <iostream>
+using namespace std;
+/* Note: The comment is the pseudo-code */
+
+
+
+/* return minium number of 3 input */
+inline int min(int a, int b, int c);
+/* caculate ugly number, store in array, and return the nth ugly number */
+int ulgy(int n);
+
+
+
+int main(void)
+{
+    int n, result;
+    //scanf("%d",&n);
+    cin>>n;
+    result = ulgy(n);
+    //printf("The %dth ugly number is: %d\n", n, result);
+    cout<<"The "<< n <<"th ugly number is: " << result << endl;
+    return 0;
+}
+
+
+
+/* return minimum number of 3 giving input */
+inline int min(int a, int b, int c)
+{
+    int temp;
+    temp = (a < b ? a : b);
+    return (temp < c ? temp : c);
+}
+
+
+/* caculate ugly number, store in array, and return the nth ugly number */
+int ulgy(int n)
+{
+    /* Store data:ugly number */
+    int ugly[n];
+    /* Varibles to record current position for 2,3,5 to multiply */
+    int povit2=0, povit3=0, povit5=0;
+    /* Record total ugly number */
+    int count=0;
+    /* Value to store the caculated ugly number */
+    int value=0;
+    /* Default first ugly number */
+    ugly[0] = 1;
+
+    /* Iterate n time to caculate the nth ugly number */
+    while (count < n)
+    {
+        /* Do the caculation and choose the minimum number */
+        value = min(ugly[povit2]*2, ugly[povit3]*3, ugly[povit5]*5);
+
+        /* Deal with the povit, else if can't be used due to two or three minimum number may occured */
+        if (ugly[povit2]*2 == value)
+            povit2++;
+        if (ugly[povit3]*3 == value)
+            povit3++;
+        if (ugly[povit5]*5 == value)
+            povit5++;
+
+        /* Finish one caculation, Store ugly unmber, count +1 to do next */
+        ugly[++count] = value; /* Bug 1: Remember, count increase first */
+    }
+    /* Keep the return user want */
+    value = ugly[n-1];
+    return value;
+}
