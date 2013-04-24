@@ -268,7 +268,10 @@ Index
 ####Utilities
 * wget
 * mail
-  * mail: main -s "Message subject" destiny@destiny.com
+  * `mail -s "Message subject" destiny@destiny.com`
+  * `echo "mail content" | mail -s "Message subject" destiny@destiny.com`
+  * `x` - quit mail without saving
+  * `q` - quit mail and save the previous operation
 * Purge
   Mac OS X: Clean inactive memory  
 

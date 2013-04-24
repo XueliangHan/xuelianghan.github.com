@@ -390,7 +390,10 @@ $ awk BEGIN {i = 1} { n = split($0,a," "); while (i &lt; = n) {print a[i]; i++;}
 <li>wget</li>
 <li>mail
 <ul>
-<li>mail: main -s "Message subject" destiny@destiny.com</li>
+<li><code>mail -s "Message subject" destiny@destiny.com</code></li>
+<li><code>echo "mail content" | mail -s "Message subject" destiny@destiny.com</code></li>
+<li><code>x</code> - quit mail without saving</li>
+<li><code>q</code> - quit mail and save the previous operation</li>
 </ul></li>
 <li>Purge
 Mac OS X: Clean inactive memory  </li>
