@@ -7,6 +7,7 @@
 * [Command-line interface - Wikipeida](http://en.wikipedia.org/wiki/Command-line_interface)
 * [Fstab - Wikipedia](http://en.wikipedia.org/wiki/Fstab)
 * (Paper) A study of Linux File System Evolution
+* Descript the boot-up sequences of Linux operating system.
 
 #Operating System
 * (Books) "Modern Operating System", A. S. Tanenbaum
