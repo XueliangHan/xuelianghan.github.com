@@ -3,8 +3,16 @@
 
 
 #Design, SRC is where I put my markdown file, DES is where I want to generate the html from markdown.
+SRC_BASE="/home/h/publishing/xuelianghan.github.com"
+
 SRC="/home/h/publishing/xuelianghan.github.com"
 DES="/home/h/publishing/xuelianghan.github.com"
+
+SRC_CS_CORE="/home/h/publishing/xuelianghan.github.com/cs"
+DES_CS_CORE="/home/h/publishing/xuelianghan.github.com/cs"
+
+SRC_CS_DOMAIN="/home/h/publishing/xuelianghan.github.com/cs"
+DES_CS_DOMAIN="/home/h/publishing/xuelianghan.github.com/cs"
 
 
 
@@ -28,12 +36,13 @@ perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
 
 #DIR
 ##CS
-perl md.pl $SRC/cs/algorithms_data-structure.markdown > $DES/cs/algorithms_data-structure.html
-perl md.pl $SRC/cs/linux.markdown > $DES/cs/linux.html #
-perl md.pl $SRC/cs/linux_command.markdown > $DES/cs/linux_command.html
-perl md.pl $SRC/cs/LISP.markdown > $DES/cs/LISP.html #
-perl md.pl $SRC/cs/networking.markdown > $DES/cs/networking.html
-perl md.pl $SRC/cs/networking_command.markdown > $DES/cs/networking_command.html
+perl md.pl $SRC_CS_CORE/algorithms_data-structure.markdown > $DES_CS_CORE/algorithms_data-structure.html
+perl md.pl $SRC_CS_CORE/linux.markdown                     > $DES_CS_CORE/linux.html #
+perl md.pl $SRC_CS_CORE/linux_command.markdown             > $DES_CS_CORE/linux_command.html
+perl md.pl $SRC_CS_DOMAIN/LISP.markdown                    > $DES_CS_DOMAIN/LISP.html #
+perl md.pl $SRC_CS_DOMAIN/networking.markdown              > $DES_CS_DOMAIN/networking.html
+perl md.pl $SRC_CS_DOMAIN/networking_command.markdown      > $DES_CS_DOMAIN/networking_command.html
+perl md.pl $SRC_CS_DOMAIN/markdown.markdown                > $DES_CS_DOMAIN/markdown.html
 
 ##master
 perl md.pl $SRC/masters/Alan_Kay.markdown > $DES/masters/Alan_Kay.html
