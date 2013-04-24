@@ -6,16 +6,21 @@
 
 <hr>
 ##Theory and Result from Science Research
+
 ###20s Are the Most Important Decade of Adulthood
 * Meg Jay, Clinical Psychologist from University of Virginia
 * TED 2013: Why Our 20s Are the Most Important Decade of Adulthood
 
-##Advices may make sure you continue on the right path
+###Advices may make sure you continue on the right path
 * [Advice From An Old Programmer](http://hackecho.com/2011/06/advice-from-an-old-programmer/): At the end of the book "Learn Python The Hard Way, 2nd Edition"
   * This is a very important advice, it will take me a long time to understand it, and apply it into my life.
   * Author's point is that programming is general skills, you should have a professional domain knowledge, research field or other stuff.
 * The more `time` and `energe` you spend acquiring `pertinent` knowledge, the more `control` you have over you `life`.
 * [42 Successful People Share The Best Advice They Ever Received](http://www.businessinsider.com/linkedin-best-advice-2013-2): Wisdom generated from experience.
+
+###Autobiography/Biography
+* Autobiography - Short length
+  * [robbin的自白：You've got to find what you love](http://robbinfan.com/blog/20/my-life):Management, Tech, Founder of JavaEye, CTO of CSDN.
 
 ###Blog Personal Development
 * Note: These are the people who have a great Indepedent Personal Develop POWER.
@@ -25,16 +30,18 @@
 
 ###Career Guide
 * [Stanford Career Steps](http://studentaffairs.stanford.edu/cdc/career-steps)
+* [不明了自己的兴趣，未来的路该怎么走？ ](http://blog.sina.com.cn/s/blog_475b3d560100dyt6.html)
 
 
-* Autobiography - Short length
-  * [robbin的自白：You've got to find what you love](http://robbinfan.com/blog/20/my-life):Management, Tech, Founder of JavaEye, CTO of CSDN.
 
 
 <hr>
 ###Great People
 ####Master/Mentors/Tutors
-* [Kaifu Lee](http://blog.sina.com.cn/kaifulee)
+* [Kaifu Lee](http://blog.sina.com.cn/kaifulee), marked page 5
+  * [给创新工场求职者的一封信](http://blog.sina.com.cn/s/blog_475b3d560100fsft.html): 其实，我一直这样告诉青年朋友们：毕业后第一份工作最重要的是你是否能够学习到最多，而不是其他。
+  * [李开复博士在浙江大学演讲的“21世纪最需要的7种人才素质”-演示文稿下载](http://www1.dhzx.net/soft/uploadsoft/21Century%20Talent.rar)
+  * [与周围的人想法不同，觉得孤独压抑怎么办 (2009-07-30 14:00:05)](http://blog.sina.com.cn/s/blog_475b3d560100e9dl.html)
 
 ####Artist
 * [Pablo Picssso](https://www.google.com.hk/search?q=pablo+picasso)
