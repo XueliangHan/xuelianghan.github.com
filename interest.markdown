@@ -95,6 +95,7 @@ Self-Education (Training & Learning)
 * 1856-1943(087) [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla), from 1856.07.10 to 1943.01.07
 * 1879-1955(076) [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), from 1879.03.14 to 1955.04.18
 * 1947-Present() [Michio Kaku](https://www.google.com/search?q=Michio+Kaku), [Michio Kaku on Wikipedia](http://en.wikipedia.org/wiki/Michio_Kaku), from 1947.01.24 to Present.
+  * [Michio Kaku's Personal Website](http://mkaku.org/): Welcome to Explorations in Science with Dr. Michio Kaku.
 
 
 
