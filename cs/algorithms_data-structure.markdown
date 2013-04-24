@@ -4,6 +4,10 @@
 ##Other's Precious
 * Yin Wang's [Data Structure Mindmap](http://www.mindomo.com/view?m=925b590ea60143f08654b3c672c4a3e5)
 
+##Algorithms Analysis and Design
+* Dynamic Programming
+* Greedy
+* Backtrack
 
 ##1.Searching Algorithms
 * Binary Search
@@ -12,14 +16,12 @@
   * [My binarysearch](./source/binary_search.c.txt): Time:O(logn)
 
 
-
 ##2.Sorting Algorithms
 * [Sorting Algorithms - Wikipedia](http://en.wikipedia.org/wiki/Sorting_algorithm)
 
 * Quick Sort
   * The idea behind the __Quick Sort__ algorihms is that reducing the full scaning time to log(n) times by using _devide and conquer_.
   * [My quicksort](./source/quick_sort.c.txt): Time:O(nlogn)
-
 
 
 ##3.Number
