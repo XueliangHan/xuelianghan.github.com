@@ -63,7 +63,13 @@ Craftsman's tools in Computer World
 * [GCC homepage at GNU project](http://gcc.gnu.org)
 * [GCC Compiler Collection - Wikipedia](en.wikipedia.org/wiki/GNU_Compiler_Collection)
 * [GCC online documentation](http://gcc.gnu.org/onlinedocs/)
-* Main parameters
+
+* GCC related linux tools
+  * ldd: see which dynamic library the program used.
+  * nm: see the symbol in program
+  * strip: make the program smaller.
+
+* GCC Main parameters
   * _-g_: "\*",     Keep the debugging message in the compiled program.
   * _-o_: "\*.o",   Specify a target name, default is _a.out_.
   * _-x language filename_: Specify explicitly the _language_ for the following input files (rather than letting the compiler choose a default based on the file name suffix).
