@@ -140,6 +140,7 @@ Craftsman's tools in Computer World
 * Last line mode - excute command
   * Copy & Paste cross files - From: "\*yny, To: "\*p
   * Excute external command: `!`
+  * Filetype set: `:set filetype=c`
   * Match (), [], {}: "%"
   * Open and Navigate into `n` line: `vim filename +n`.
   * Open and Navigate into first word match pattern: `vim filename +/wordname`
