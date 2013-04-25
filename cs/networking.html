@@ -4,94 +4,144 @@
 
 <h3>1.Explain what happens, step by step, after you type a RUL into a browser. Use as much tetails as possible.</h3>
 
-<h4>DNS stage</h4>
-
+<ul>
+<li>DNS stage 
 <ul>
 <li>Browser retrieval the IP address of URL in local hosts file.  </li>
 <li>If browser not find IP address of URL in local hosts file, browser will contacts the remote DNS server to find the IP address of URL.</li>
 <li>DNS returns back the IP address of the site.  </li>
 <li>(Note: DNS (Domain Name Resolution), the wab and address we type are nothing but an alias to an IP address in human readable form. There is an association called ICANN (Internet Corporation for Assigned names and Numbers) charge all of the centralized registration tasks including IP address assignment, DNS domain name assignment, and protocol parameters management. DNS is a distributed but hierarchical entity, which each domain name server is divided into zones, like some server charge for .com domain, some manage .net domain, but DNS servers can work together to map all domain names to their IP addresses.)   </li>
-</ul>
-
-<h4>Fetching stage - Get all data back</h4>
-
+</ul></li>
+<li>Fetching stage - Get all data back
 <ul>
 <li>Browser opens TCP connection to the web server at port 80.   </li>
 <li>Browser fetches the html code of the page requested. (More details: Browser fetches all the files of the page requested, suck as: HTML code, CSS code, Javascript code, maybe these files are in different server, but the browser will need them all and will get them all.)   </li>
-</ul>
-
-<h4>Processing stage</h4>
-
+</ul></li>
+<li>Processing stage
 <ul>
 <li>Browser renders the HTML in the display window.  </li>
-</ul>
-
-<h4>Terminating stage</h4>
-
+</ul></li>
+<li>Terminating stage
 <ul>
 <li>Browser terminates the connection when window closed.   </li>
+</ul></li>
 </ul>
 
-<h3>2.The Structure of IP/TCP/UDP head</h3>
+<h2>Internet</h2>
+
+<h3><a href="http://en.wikipedia.org/wiki/Portal:Internet">Wikipedia Portal:Internet</a></h3>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/File:Internet_map_1024.jpg">Internet Map</a></li>
+</ul>
+
+<h4><a href="http://en.wikipedia.org/wiki/Internet_protocol_suite">Internet Protocol Suit - Wikipedia</a></h4>
+
+<ul>
+<li>Application layer
+<ul>
+<li>DHCP DHCPv6 DNS FTP HTTP IMAP IRC LDAP MGCP NNTP BGP NTP POP RPC RTP RTSP RIP SIP SMTP SNMP SOCKS SSH Telnet TLS/SSL XMPP (more)</li>
+</ul></li>
+<li>Transport layer
+<ul>
+<li>TCP UDP DCCP SCTP RSVP (more)</li>
+</ul></li>
+<li>Internet layer
+<ul>
+<li>IP IPv4 IPv6  ICMP ICMPv6 ECN IGMP IPsec (more)</li>
+</ul></li>
+<li>Link layer
+<ul>
+<li>ARP/InARP NDP OSPF Tunnels L2TP PPP Media access control Ethernet DSL ISDN FDDI  (more)</li>
+</ul></li>
+</ul>
+
+<h4>OSI</h4>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/OSI_model">Open Systems Interconnection (OSI) model</a>
+<ul>
+<li>Layer L: Layer name           : Data Unit:        :Function</li>
+<li>Layer 7: <strong>Application</strong> layer: Data              :Network process to application</li>
+<li>Layer 6: Presentation layer   : Data              :Data representation, encryption and decryption, convert machine dependent data to machine independent data</li>
+<li>Layer 5: Session layer        : Data              :Interhost communication, managing sessions between applications</li>
+<li>Layer 4: <strong>Transport</strong> layer  : Segments          :End-to-end connections, reliability and flow control</li>
+<li>Layer 3: <strong>Network</strong> layer    : Package/Datagram  :Path determination and logical addressing</li>
+<li>Layer 2: Data link layer      : Frame             :Physical addressing</li>
+<li>Layer 1: Physical layer       : Bit               :Media, signal and binary transmission</li>
+<li>more layer</li>
+<li><a href="http://en.wikipedia.org/wiki/Layer_8">Layer 8</a>: The individual person</li>
+<li>Layer 9: The organization</li>
+<li>Layer 10: Government or legal compliance</li>
+</ul></li>
+</ul>
+
+<h3>2.The Structure of IP/TCP/UDP/HTTP head</h3>
+
+<h4>HTTP</h4>
+
+<ul>
+<li>A screen shot of the terminal in Ubuntu showing a telnet session that contains a HTTP request/response made to the main page on the English Wikipedia. Part of the response has been removed. The 3 major parts of the request and response have been highlighted. (Request, Response headers, Response body).
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/File:Http_request_telnet_ubuntu.png">Picture from Wikipedia</a></li>
+</ul></li>
+<li><a href="http://www.byvoid.com/zhs/blog/http-keep-alive-header">(Chinese) HTTP Head and Keep-Alive Mode by ByVoid</a></li>
+<li>Request methods
+<ul>
+<li><code>GET</code></li>
+* 
+</ul></li>
+</ul>
 
 <h4>IP</h4>
 
-<h2>0              15|16            31|</h2>
-
-<h2>|ver|HLen|8-TOS  |16 bit len(Byte)|  </h2>
-
-<h2>|16 bits flags   |3bit|13 b shift |  </h2>
-
-<h2>|8 bits TTL|8 pro|16 bits head sum|   </h2>
-
-<h2>|     32 bits SRC IP address      |  </h2>
-
-<h2>|     32 bits DES IP address      |  </h2>
-
-<h2>|     32 bits Option (If existed) |  </h2>
-
-<p>|                                 | <br />
-|               Data              |  </p>
-
-<h2>|                                 |  </h2>
-
-<ul>
-<li>8 pro - 8 bits protocol</li>
-</ul>
+<p>0              15|16            31| <br />
+|---------------------------------| <br />
+|ver|HLen|8-TOS  |16 bit len(Byte)| <br />
+|--------------------------------- <br />
+|16 bits flags   |3bit|13 b shift | <br />
+|---------------------------------| <br />
+|8 bits TTL|8 pro|16 bits head sum| <br />
+|---------------------------------| <br />
+|     32 bits SRC IP address      | <br />
+|---------------------------------| <br />
+|     32 bits DES IP address      | <br />
+|---------------------------------| <br />
+|     32 bits Option (If existed) | <br />
+|---------------------------------| <br />
+|               Data              | <br />
+|---------------------------------| <br />
+* 8 pro - 8 bits protocol</p>
 
 <h4>TCP</h4>
 
-<h2>0              15|16            31|</h2>
-
-<h2>|16 bits SRC port|16 bits DES port|  </h2>
-
-<h2>|    32 bits sequence number      |  </h2>
-
-<h2>|    32 bits acknowledge number   |  </h2>
-
-<h2>|head|keep|UAPRSP|16 bits windows |  </h2>
-
-<h2>|16 bits TCP sum |16 bits urg ptr |  </h2>
-
-<h2>|      Option (If existed)        |  </h2>
-
-<p>|                                 | <br />
-|      Data (If existed)          |  </p>
-
-<h2>|                                 |  </h2>
+<p>0              15|16            31| <br />
+|---------------------------------| <br />
+|16 bits SRC port|16 bits DES port| <br />
+|---------------------------------| <br />
+|    32 bits sequence number      | <br />
+|---------------------------------| <br />
+|    32 bits acknowledge number   | <br />
+|---------------------------------| <br />
+|head|keep|UAPRSP|16 bits windows | <br />
+|---------------------------------| <br />
+|16 bits TCP sum |16 bits urg ptr | <br />
+|---------------------------------| <br />
+|      Option (If existed)        | <br />
+|---------------------------------| <br />
+|      Data (If existed)          | <br />
+|---------------------------------|  </p>
 
 <h4>UDP</h4>
 
-<h2>0              15|16            31|</h2>
-
-<h2>|16 bits SRC port|16 bits DES port|  </h2>
-
-<h2>|16 bits UDP len |16 bits UDP sum |  </h2>
-
-<p>|                                 | <br />
-|        Data (If existed)        |  </p>
-
-<h2>|                                 |  </h2>
+<p>0              15|16            31| <br />
+|---------------------------------| <br />
+|16 bits SRC port|16 bits DES port| <br />
+|---------------------------------| <br />
+|16 bits UDP len |16 bits UDP sum | <br />
+|---------------------------------| <br />
+|        Data (If existed)        | <br />
+|---------------------------------|  </p>
 
 <h2>Theory of Transmission</h2>
 
