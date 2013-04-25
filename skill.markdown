@@ -18,8 +18,7 @@ Index
   * Teamwork
   * Time Management
 * Effective and Efficient
-* Others
-  * Searching, Retrivel Skills
+* Searching, Retrivel Skills
 
 
 
@@ -51,10 +50,20 @@ Content
 ###Effective and Efficient
 * [The effective engineer’s handbook by Slava Akhmechet](http://www.defmacro.org/2013/03/10/effective-handbook.html)
 
-###Others
-####Searching, Retrivel Skills
-* Find Media(Music, Documentary, Film/Movie, etc)
+###Searching, Retrivel Skills
+
+####Index of Search Engine
+* Files Searching Engine I Used
+  * (English The Whole World--) BT:[kat.ph](http://kat.ph), [Backup Site - KickAssTorrents](http://kickasstorrents.com) - Apps&Games(Binary), Books(Text), Pictures&Wallpapers(Image), Music(Audio), Movies&TV(Video), Others.
+  * (Chinese In China Mainland) FTP:[iShare (Sina)](http://ishare.iask.sina.com.cn/) - (TXT/DOC/PDF/CHM/RAR/EXE/etc.), I use it to search books, docs.
+  * (Chinese In China Mainland) P2P:[VeryCD](http://www.verycd.com) - P2P sharing, all you want can be find in there.
+  * (English In Europe Area---) BT:[TorrentZ.eu](http://torrentz.eu/) - Torrents searching engine, you need no more _torrents search engine_ due to it had indexed almost all torrent website ([you can see here](http://torrentz.eu/help)). (Website Technologes: OS(FreeBSD), PL(PHP), DB(MySQL, Redis), Web-Server(Nginx), Search-Engine(Sphinx Search), Network(Vaarnish:HTTP accelerator designed for content-heavy dynamic web sites), Icon(Famfamfam))
+  * (English In Europe: Czech-) [eSoubory.cz](http://www.esoubory.cs/en) - In Czechia (Europe), music and beauty.
+
+* MultiMedia (Music, Documentary, Film/Movie, etc)
   * Documentary - [DocuWiki.net](http://docuwiki.net/index.php?title=Main_Page): DocuWiki.net serves as an index of documentary films on the Edonkey Network, Wiki with introducation and download address.
+
+###Others
 
 </body>
 </html>
