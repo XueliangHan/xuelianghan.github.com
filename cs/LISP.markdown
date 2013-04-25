@@ -54,7 +54,7 @@ SICP-Scheme (Structure and Interpretation of Computer Pragrams)
 Others people's mention
 -----------------------
 * LISP in Kurzweil's Book "How to Create A MIND - The Secret of Human Thought Revealed". Chapter 7 - The Biologically Inspired Digital Neocortex. Section 6: LISP and Cycl, 2012.
-
+* [(Chinese) Function Programming Tutorials](http://byvoid.github.com/slides/apio-fp/index.html)
 
 <hr>
 Project from Interest of want to figure out how computer works
