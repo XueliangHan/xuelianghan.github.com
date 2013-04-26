@@ -15,7 +15,7 @@ Craftsman's tools in Computer World
 * Links
   * [Download Professional Software (Computer Technology)](http://download.huihoo.com/)
 
-###Generic/Cross Platform Tools
+###Generic/Cross Platform Software Development Tools
 * Compiler
 * Database
 * Debugger and Debugging
@@ -518,7 +518,13 @@ Work Related Tools Kit
   * Linux: (Chinese)[Emacs Markdown](http://linuxtoy.org/archives/emacs-markdown-model.html), [ReText](sourceforge.net/p/retext/home/ReText/)
   * Windows: [MarkdownPad](http://markdownpad.com/)
 
-####Professional Tools
+####WPS Office
+* Ubuntu 64bit set up wps-32bits
+  * `sudo apt-get install ia32-libs`
+  * `sudo dpkg -i --force-all wps-office_8.1.0.3724~b1p2_i386.deb`
+
+
+####UI Professional Tools
 * [Moqups](http://moqups.com): Moqups gives users immediate access to all the tools they need to create a functional prototype, mockup or UI concept.
 * Mindmap
   * (Software) Simple and Clear: FreeMind(Java), FreePlane(Based on FreeMind), they are all cross platform and open source.
