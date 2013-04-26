@@ -84,17 +84,59 @@ Content
 * [The effective engineer’s handbook by Slava Akhmechet](http://www.defmacro.org/2013/03/10/effective-handbook.html)
 
 ###Searching, Retrivel Skills
-
-####Index of Search Engine
-* Files Searching Engine I Used
-  * (English The Whole World--) BT:[kat.ph](http://kat.ph), [Backup Site - KickAssTorrents](http://kickasstorrents.com) - Apps&Games(Binary), Books(Text), Pictures&Wallpapers(Image), Music(Audio), Movies&TV(Video), Others.
-  * (Chinese In China Mainland) FTP:[iShare (Sina)](http://ishare.iask.sina.com.cn/) - (TXT/DOC/PDF/CHM/RAR/EXE/etc.), I use it to search books, docs.
-  * (Chinese In China Mainland) P2P:[VeryCD](http://www.verycd.com) - P2P sharing, all you want can be find in there.
-  * (English In Europe Area---) BT:[TorrentZ.eu](http://torrentz.eu/) - Torrents searching engine, you need no more _torrents search engine_ due to it had indexed almost all torrent website ([you can see here](http://torrentz.eu/help)). (Website Technologes: OS(FreeBSD), PL(PHP), DB(MySQL, Redis), Web-Server(Nginx), Search-Engine(Sphinx Search), Network(Vaarnish:HTTP accelerator designed for content-heavy dynamic web sites), Icon(Famfamfam))
-  * (English In Europe: Czech-) [eSoubory.cz](http://www.esoubory.cs/en) - In Czechia (Europe), music and beauty.
+* Files Searching Engine (BT/P2P/FTP) I Used
+  * [kat.ph](http://kat.ph), [Backup Site - KickAssTorrents](http://kickasstorrents.com) - Apps&Games(Binary), Books(Text), Pictures&Wallpapers(Image), Music(Audio), Movies&TV(Video), Others.
+  * [TorrentZ.eu](http://torrentz.eu/) - Torrents searching engine, you need no more _torrents search engine_ due to it had indexed almost all torrent website ([you can see here](http://torrentz.eu/help)). (Website Technologes: OS(FreeBSD), PL(PHP), DB(MySQL, Redis), Web-Server(Nginx), Search-Engine(Sphinx Search), Network(Vaarnish:HTTP accelerator designed for content-heavy dynamic web sites), Icon(Famfamfam))
+  * [eSoubory.cz](http://www.esoubory.cs/en) - In Czechia (Europe), music and beauty.
+  * [iShare (Sina)](http://ishare.iask.sina.com.cn/) - (TXT/DOC/PDF/CHM/RAR/EXE/etc.), I use it to search books, docs.
+  * [VeryCD](http://www.verycd.com) - P2P sharing, all you want can be find in there.
 
 * MultiMedia (Music, Documentary, Film/Movie, etc)
   * Documentary - [DocuWiki.net](http://docuwiki.net/index.php?title=Main_Page): DocuWiki.net serves as an index of documentary films on the Edonkey Network, Wiki with introducation and download address.
+
+* General Search Enginer
+  * [Google](https://www.google.com)
+  * [Bing](http://www.bing.com)
+  * [Yahoo](http://www.yahoo.com)
+  * [Baidu](http://www.baidu.com)(Chinese)
+  * [Yandex](http://www.yandex.com)(Russia)
+* Social Network
+  * [Facebook](http://www.facebook.com)
+  * [LinkedIn](http://www.linkedin.com)
+  * [Google Plus](http://plus.google.com)
+  * [Twitter](http://twitter.com)
+  * [Tumblr](http://www.tumblr.com)
+* Reference
+  * [Wikipedia](http://www.wikipedia.com)
+  * [Dictionary](http://www.dictionary.com)
+* Documents
+  * [Slideshare](http://www.slideshare.com)
+  * [Scribd](http://www.scribd.com)
+  * [ebookee](http://www.ebookee.org)
+* Shopping
+  * [Amazon](http://www.amazon.com)
+  * [eBuy](http://www.ebuy.com)
+  * [Pricewatch](http://www.pricewatch.com)
+  * [Price graber](http://www.pricegraber.com)
+  * [Shopping](http://www.shopping.com)
+  * [Jingdong (360Buy)](http://www.jd.com)(Chinese)
+  * [Newegg](http://www.newegg.com)(Chinese)
+  * [Taobao](http://www.taobao.com)(Chinese)
+  * [eTao](http://www.etao.com)
+* Image
+  * [Flickr](http://www.flickr.com)
+  * [Pinterest](http://pinterest)
+* Video
+  * [YouTube](http://www.youtube.com)
+  * [IMDB](http://www.imdb.com)
+* Recipes
+  * [Allrecipes](http:www.allrecipes.com)
+  * [FoodNetwork](http://www.foodnetwork.com)
+* Questions & Answers
+  * [Quora](http://www.quora.com)
+  * [Stackoverflow](http://www.stackoverflow.com)
+  * [Yahoo Answer](http:answers.yahoo.com)
+
 
 ###Others
 
