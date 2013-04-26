@@ -30,6 +30,7 @@ Index
   * purge
 * Other tools
   * mail, wget, purge
+  * zenity - display GTK+ dialog
 
 
 
@@ -275,6 +276,8 @@ Index
 * Purge
   Mac OS X: Clean inactive memory  
 
+* zenity - display GTK+ dialog
+  * You can use zenity with shellscript do some light-weight GUI programming.
 
 
 </body>
