@@ -50,6 +50,9 @@
 
 ####Entrepreneur
 * [Steve Jobs](./masters/Steve_Jobs.html)
+  * The __Vision__ - He can see it, see through decades.
+  * One of the things I always found is that _you got start with the customer experience, and work backward to the technology, you can't start with the technology, and try to figure out where you gonna sale it, and I made this mistake probably more than anybody else in this room, and I got a * T-shit to prove it, and I know that is the case, and we have try to come up with a stragety and a vision for apple, it starts with what incredible benifits can we give to the customer, what can we take the costomer,not, not starting with let sit down with the engineers, and figure out that awesome technologies we have and how we gonna market that, and I think that is the right path to ... take._ -- _from Steve Jobs Insult? Response_
+
 * [Paul Graham](http://paulgraham.com)
   * The ideas behind founders who found a company is that he notice there is a problem (low efficiency), but what make them success is that they know how to improve it.
 
