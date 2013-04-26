@@ -1,5 +1,8 @@
-Python Learning & Practicing & Practicing Notes
-===============================================
+Python Index and Notes
+======================
+
+<div align=center><h2>Life Short, Use Python</h2></div>
+
 
 ##Design technology
 -------------------

@@ -304,12 +304,11 @@ Craftsman's tools in Computer World
 
 ####Learn - How to use Git
 * Git Recommended Tutorials
-  * [Everyday GIT with 20 Command or So](https://www.kernel.org/pub/software/scm/git/docs/everyday.html)
-  * [Git-SCM Official Website](http://git-scm.com): Download it from website.
-  * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics)
-  * [Git Video Tutorials](http://happycasts.net/search?q=git)
+  * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics) - Good tutorials
+  * [Git Video Tutorials](http://happycasts.net/search?q=git) - Chinese video tutoirals
   * [Learning Git Branching - Github](https://pcottle.github.io/learnGitBranching/?demo)
-* [Git Documents](https://git-scm.com/doc): It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
+* [Git-SCM Official Website](http://git-scm.com): Download it from website.
+* [Git-SCM Official Documents](https://git-scm.com/doc): It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
   * [Reference](https://git-scm.com/docs/)
   * (Book)[Pro Git](https://git-scm.com/book)
   * [Videos](https://git-scm.com/videos)
@@ -317,6 +316,7 @@ Craftsman's tools in Computer World
 
 #####Git keywords and command
 * Stage, Tracked
+* [Everyday GIT with 20 Command or So](https://www.kernel.org/pub/software/scm/git/docs/everyday.html)
 * (Chinese)[Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command): Good summary.
 
 #####1.Git Basic
