@@ -533,6 +533,7 @@ Work Related Tools Kit
 
 ####Online tools (Platform independent)
 * For temporary usage.
+* Card maker: [moo](http://www.moo.com) - make you business card online.
 * Text storage
   * [Notepad.cc](http://notepad.cc/) - Light weight online notepad, only plain-text, you can encrypt you specific URL with password.
   * [Pastebin](http://pastebin.com) - Number one paste tool since 2002, Pastebin is where you can store text online for a set period of time.
