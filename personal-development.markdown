@@ -58,6 +58,8 @@
 * [Eric Steven Raymond](http://www.catb.org/~esr)
   * [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
   * [How To Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
+* Linus Torvalds
+  * [Linus Torvalds Answers Your Questions - Slashgot](http://meta.slashdot.org/story/12/10/11/0030249/linus-torvalds-answers-your-questions)
 * [Stall Man](http://www.stallman.org)
 * [Jeffrey Dean](http://research.google.com/people/jeff)
 
