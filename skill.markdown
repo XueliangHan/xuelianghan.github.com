@@ -24,6 +24,17 @@ Index
 
 Content
 -------
+###Communication
+####A science research discovery about human communication system
+* 55% - Visual accounted for 55% of the communication system.
+  * Immediate impression - Body language (behivor manners, action, gestures, eye contact)
+
+* 38% - Voice accounted for 38% of the comunication system.
+  * Sound perception (Intonation, Speech rate, Pitch, Tone)
+
+* 7%  - Languages, indicating that eyes in the facial features in the top.
+  * 
+
 ###Time Management (Also called: Time arrangement/Energy management)
 
 ####Concepts and Definition of Time Management
