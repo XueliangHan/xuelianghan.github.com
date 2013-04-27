@@ -36,6 +36,9 @@
 ##3.Number
 * Ugly Number
   * [My ugly number source code](./source/number_ugly.cpp.txt): Time:O(n), SPace:O(n).
+* Waiting lists
+  * Prime Number
+  * Prime Number - Pairs of Prime Numbers
 
 
 </body></html>
