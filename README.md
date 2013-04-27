@@ -10,17 +10,17 @@ Use markup language (Markdown/Textile) to writing, write code and use jekyll(Rub
 
 
 ###Design - Old (Jekyll) Website Architecture
-|--config.yml  
-|--CNAME  
-|-- includes  
-|-- layouts  
-|-- posts  
-|-- static  
-|-- site  
-|--about.html  
-|--index.html  
-|--search.html  
-|--resume.html  
+> |--config.yml  
+> |--CNAME  
+> |-- includes  
+> |-- layouts  
+> |-- posts  
+> |-- static  
+> |-- site  
+> |--about.html  
+> |--index.html  
+> |--search.html  
+> |--resume.html  
 
 
 ###Data storage, Index and Sitemap
@@ -54,43 +54,53 @@ Part two - The new project to build a tools-set meet my need
 ------------------------------------------------------------
 
 ###Purpose - The way I want which noting existed can meet my need
-__Simple publishing__: With the help of Jekyll, Git, and Github, the publishing procedure is extremly simple, I just need excute one commond, the new article will be generated into HTML and upload to my remote server, then you can see it on the website.  
-__Simple architecture__: I think a personal publishing website don't need and shouldn't need involed database and PHP (Professional Hypertext Preprocessor Language), static HTML is perfect, search function can use Google, she's the best. So, my way, easy to build, easy to maintain, less CPU and storage cost, reduce lots of page transmission and load time, clear and simple.  
-__Offline editing & Auto syncing__: I can modify any article I wrote before whether there is Internet access or not, because all data is on my local computer, and after edit, all changes I had made is sync to my website on remote server. (Details: I modified many articles which data stored in files and markup by Markdown or Textile, after the command excuted, all HTML files will be regenerated, the time is very fast, then the new HTML files will be sync to remote server, so the website is the latest version.)   
-__Enjoyable writing__: With the help of Markdown and Textile, the writing/editing progress has become very enjoyable, I can fully focus on writing, if I want mark text with formatted form, I don't need to move my hand off the keyboard to find the mouse, I just mark it with text (Markdown or Textile).  
-__Data Free__: All the data and information which is produced by you is in your hand, you can do whatever you want to.  
-__Clean__: I want my article webpage have just my content, nothing more, no navigative bar, no categories, no tags, no comments, they should be in post page, they should be in Index page or Homepage, post page just content, clearn to read, concentrate to read, simple to use.  
-__Backup__: Meantime, due to the fact of data is both on local computer and remote server, and synced via git, a backup function is archived accidently, I can backup my local data info external drive, and I can  backup my remote server data into other cloud service.   
+
+* __Simple publishing__ - With the help of Jekyll, Git, and Github, the publishing procedure is extremly simple, I just need excute one commond, the new article will be generated into HTML and upload to my remote server, then you can see it on the website.  
+
+* __Simple architecture__ - I think a personal publishing website don't need and shouldn't need involed database and PHP (Professional Hypertext Preprocessor Language), static HTML is perfect, search function can use Google, she's the best. So, my way, easy to build, easy to maintain, less CPU and storage cost, reduce lots of page transmission and load time, clear and simple.  
+
+* __Offline editing & Auto syncing__ - I can modify any article I wrote before whether there is Internet access or not, because all data is on my local computer, and after edit, all changes I had made is sync to my website on remote server. (Details: I modified many articles which data stored in files and markup by Markdown or Textile, after the command excuted, all HTML files will be regenerated, the time is very fast, then the new HTML files will be sync to remote server, so the website is the latest version.)   
+
+* __Enjoyable writing__ - With the help of Markdown and Textile, the writing/editing progress has become very enjoyable, I can fully focus on writing, if I want mark text with formatted form, I don't need to move my hand off the keyboard to find the mouse, I just mark it with text (Markdown or Textile).  
+
+* __Data Free__ - All the data and information which is produced by you is in your hand, you can do whatever you want to.  
+
+* __Clean__ - I want my article webpage have just my content, nothing more, no navigative bar, no categories, no tags, no comments, they should be in post page, they should be in Index page or Homepage, post page just content, clearn to read, concentrate to read, simple to use.  
+
+* __Backup__ - Meantime, due to the fact of data is both on local computer and remote server, and synced via git, a backup function is archived accidently, I can backup my local data info external drive, and I can  backup my remote server data into other cloud service.   
 
 
 ###Design - New website architecture
-|-- .git
-|-- images
-|-- javascripts
-|-- statics
-|-- stylesheets
-|--site-file
-|---.gitignore
-|---CNAME
-|---index.html
-|--hobby.html
-|--interest.html
-|--information-source.html
-|--resume.pdf
-|---jianli.html
-|---jianli2.html
-|--project.html
-|--skills.html
-|--tools.html
-|--scripts
-|---generate.sh
-|----convert.sh
-|---up.sh
-|---sitemap.sh
-.
-.
+> |-- .git  
+> |-- images  
+> |-- javascripts  
+> |-- statics  
+> |-- stylesheets  
+> |--site-file  
+> |---.gitignore  
+> |---CNAME  
+> |---index.html  
+> |--hobby.html  
+> |--interest.html  
+> |--information-source.html  
+> |--resume.pdf  
+> |---jianli.html  
+> |---jianli2.html  
+> |--project.html  
+> |--skills.html  
+> |--tools.html  
+> |--scripts  
+> |---generate.sh  
+> |----convert.sh  
+> |---up.sh  
+> |---sitemap.sh  
+
 ###Explantion
 * index.html: Navigation page.
 * image folder: Contain the image used in this site.
 * javascripts folder: Contain the javascript used in this site.
 * statics folder: The location of all generated static html page.
+
+###Code Highlight
+* [Pygments](http://zyzhang.github.io/blog/2012/08/31/highlight-with-Jekyll-and-Pygments/)
+* [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/manual/installation.html)
