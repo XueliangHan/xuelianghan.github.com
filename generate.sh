@@ -39,11 +39,12 @@ perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
 perl md.pl $SRC_CS_CORE/algorithms_data-structure.markdown > $DES_CS_CORE/algorithms_data-structure.html
 perl md.pl $SRC_CS_CORE/linux.markdown                     > $DES_CS_CORE/linux.html #
 perl md.pl $SRC_CS_CORE/linux_command.markdown             > $DES_CS_CORE/linux_command.html
-perl md.pl $SRC_CS_DOMAIN/LISP.markdown                    > $DES_CS_DOMAIN/LISP.html #
 perl md.pl $SRC_CS_DOMAIN/networking.markdown              > $DES_CS_DOMAIN/networking.html
 perl md.pl $SRC_CS_DOMAIN/networking_command.markdown      > $DES_CS_DOMAIN/networking_command.html
-perl md.pl $SRC_CS_DOMAIN/markdown.markdown                > $DES_CS_DOMAIN/markdown.html
 perl md.pl $SRC_CS_DOMAIN/bash.markdown                    > $DES_CS_DOMAIN/bash.html
+perl md.pl $SRC_CS_DOMAIN/LISP.markdown                    > $DES_CS_DOMAIN/LISP.html #
+perl md.pl $SRC_CS_DOMAIN/markdown.markdown                > $DES_CS_DOMAIN/markdown.html
+perl md.pl $SRC_CS_DOMAIN/python.markdown                    > $DES_CS_DOMAIN/python.html
 
 ##master
 perl md.pl $SRC/masters/Alan_Kay.markdown > $DES/masters/Alan_Kay.html
