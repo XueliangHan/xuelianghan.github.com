@@ -23,6 +23,7 @@ Index
   * dig host ifconfig inetd netcat netstat nslookup ping rdate rlogin route ssh traceroute
 * Searching (done)
   * find grep locate whatis whereis
+  * who
 * Documentation
   * apropos help man
 * Miscellaneous
@@ -208,6 +209,7 @@ Index
 ###Searching
 * Index
   * find grep locate whatis whereis
+  * who
   * _note: need more practical practise_
 
 * `find` - _search for file in a directory hierarchy_
@@ -223,8 +225,9 @@ Index
 
 * `whereis` - _locate the binary, source, manual page files for a command_
   * Example: `whereis gcc`
-  * Result: _gcc: /usr/bin/gcc /usr/lib/gcc /usr/bin/X11/gcc /usr/libexec/gcc /usr/share/man/man1/gcc.1.gz_
+  * Result: gcc: /usr/bin/gcc /usr/lib/gcc /usr/bin/X11/gcc /usr/libexec/gcc /usr/share/man/man1/gcc.1.gz
 
+* `who` - _list users currently logged in_
 
 
 
