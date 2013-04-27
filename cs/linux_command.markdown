@@ -39,14 +39,14 @@ Index
 
 ##Content
 
-###Shell (Bash)
-####Shell command
+####Linux Terminal - Shell Command
 * [LInfo.org](http://www.linfo.org): The best information site about Linux I've ever seen, simple, clear, and beautiful.
-* LEONID MAMCHENKOV,[Shell keyboard shortcuts](http://mamchenkov.net/wordpress/2010/08/05/shell-keyboard-shortcuts/)
+* [Bash Shortcuts for Maximum Productivity](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity)
+* (Chinese) [应该知道的Linux技巧 - 酷壳 – CoolShell.cn](http://coolshell.cn/articles/8883.html)
 * [Unix command-line interface programs and shell builtins]
 
-####Shell shortcut
-* [Bash Shortcuts for Maximum Productivity](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity)
+####Shell shortcut in Engineering
+* LEONID MAMCHENKOV,[Shell keyboard shortcuts](http://mamchenkov.net/wordpress/2010/08/05/shell-keyboard-shortcuts/)
 * Backward for a word
   * Mac OS X: ALT(Option) + Left(Home)
 * Beginning of the command line you currently typing on: CTRL + a
