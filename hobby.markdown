@@ -59,7 +59,7 @@ Art & Literature: Film, Music, Painting, Photography, Reading
   * Andromeda Galaxy Clean Looking   ![Andromeda Galaxy Clean Looking](./files/images/andromeda-clean-looking.jpg "Andromeda Galaxy Clean Looking")
   * Andromeda Galaxy and Milky Way from Earth   ![Andromeda Galaxy and Milky Way from Earth](./files/images/andromeda-galaxy-and-milky-way-from-earth.jpg "Andromeda Galaxy and Milky Way from Earth")
 
-* [What is the most amazing photo you have ever taken - Quora](http://www.quora.com/Photography/What-is-the-most-amazing-photo-you-have-ever-taken), 2013-04-27
+* [What is the most amazing photo you have ever taken - Quora](http://www.quora.com/Photography/What-is-the-most-amazing-photo-you-have-ever-taken), 2013-04-27: This question have 629 answers, each answer have a gorgeous picture, everybody give his/her best shoot, it is the best collection I have ever seen in my life, this series completely blow my mind, it shows you how wonderful and amazing our world is.
 
 
 ###MUSIC
