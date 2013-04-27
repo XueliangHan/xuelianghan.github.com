@@ -59,6 +59,7 @@ Art & Literature: Film, Music, Painting, Photography, Reading
   * Andromeda Galaxy Clean Looking   ![Andromeda Galaxy Clean Looking](./files/images/andromeda-clean-looking.jpg "Andromeda Galaxy Clean Looking")
   * Andromeda Galaxy and Milky Way from Earth   ![Andromeda Galaxy and Milky Way from Earth](./files/images/andromeda-galaxy-and-milky-way-from-earth.jpg "Andromeda Galaxy and Milky Way from Earth")
 
+* [What is the most amazing photo you have ever taken - Quora](http://www.quora.com/Photography/What-is-the-most-amazing-photo-you-have-ever-taken), 2013-04-27
 
 
 ###MUSIC
