@@ -10,7 +10,7 @@ Index
 * File system
   * cat cd chmod chown chgrp cksum cmp cp dd du df file fsck fuser ln ls lsattr lsof mkdir mount mv pax pwd rm rmdir size split tee touch type umask
   * chmod chown chgrp cksum cmp dd fsck fuser ln ls lsattr lsof mv pax tee type umask
-* Processes
+* Processes (All, used in Academia, and Engineering)
   * at bg chroot cron fg kill killall nice pgrep pidof pkill ps pstree time top
   * at chroot killall nice pgrep pidof pkill time top
 * User environment
@@ -41,12 +41,13 @@ Index
 
 ####Linux Terminal - Shell Command
 * [LInfo.org](http://www.linfo.org): The best information site about Linux I've ever seen, simple, clear, and beautiful.
-* [Bash Shortcuts for Maximum Productivity](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity)
-* (Chinese) [应该知道的Linux技巧 - 酷壳 – CoolShell.cn](http://coolshell.cn/articles/8883.html)
 * [Unix command-line interface programs and shell builtins]
+* (Unread) (Chinese) [应该知道的Linux技巧 - 酷壳 – CoolShell.cn](http://coolshell.cn/articles/8883.html)
+* (Unread) Patkos Csaba, [The Command Line is Your Best Friend](http://net.tutsplus.com/tutorials/tools-and-tips/the-command-line-is-your-best-friend/): Very long articles, may take 30 minutes to read it.
 
 ####Shell shortcut in Engineering
 * LEONID MAMCHENKOV,[Shell keyboard shortcuts](http://mamchenkov.net/wordpress/2010/08/05/shell-keyboard-shortcuts/)
+* [Bash Shortcuts for Maximum Productivity](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity)
 * Backward for a word
   * Mac OS X: ALT(Option) + Left(Home)
 * Beginning of the command line you currently typing on: CTRL + a
