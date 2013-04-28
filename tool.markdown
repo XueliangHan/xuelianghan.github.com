@@ -1,17 +1,18 @@
 <html><head><title>Tools</title></head><body>
 
 <hr>
-Craftsman's tools in Computer World
+Artisan's tools in Computer World
 ===================================
 * This is a place where I learn how to use tools
 * The best way to master a tools is to use it in the real world to do some parctical task, and it's better have a master walk with you, so you will know which shouldn't do or don't need to do, and when things go wrong, you can fix it very quickly with the help of master, this kind of learning stragety will help you mastering the tools as quick as possible at the beginning stage.
 * (I write here as a mark) The limit which I can't beyond now - The religion war about the tools(compiler/database/editor/operating system/version control system/etc.), yes, religion in computer world, I never thought about that before, or I never thought religion will appeared in the computer world, in my work, in my professional career, unfortunately, I was affected by the environment I grow up with, I was too young to have ability to distinguish right and wrong, kind and evil, and there are no masters around me give advices, most information on the Internet are wrong and low quality, especially carried by Chinese language, and I was devoted my time and energy into that debate, a debate may won't have an end after my death, the tools are matter, what matter is what you are doing with them, just like the computer programming language - [Advice From An Old Programmer](http://hackecho.com/2011/06/advice-from-an-old-programmer/): At the end of the book "Learn Python The Hard Way, 2nd Edition".
 
 
+* (Reminder - Things need to do) Data transfer from word document into here.
 
 
-##Index
 <hr>
+##Index
 * Links
   * [Download Professional Software (Computer Technology)](http://download.huihoo.com/)
 
@@ -93,7 +94,10 @@ Craftsman's tools in Computer World
 ###Database
 * MySQL
   * [MySQL-Download](http://dev.mysql.com/downloads/mysql)
-  * 3 componment: MySQL, MySQL.prefpan(install into control panle), MySQLStartupItem
+
+* Install MySQL in Mac OS X
+  * Install via command line is not recommanded due to some unpredicatable reason, use GUI to intall it.
+  * There are 3 componments need to install: MySQL, MySQL.prefpan(add into control panle), MySQLStartupItem.
 
 
 
@@ -220,8 +224,8 @@ Craftsman's tools in Computer World
 
   * Page-turning
     > Page-turning - Full page forward (down): `CTRL`+`f`  
-    > Page-turning - Full page back (up): `CTRL`+`b` 
-    > Page-turning - Half page forward (down): `CTRL`+`d`  
+    > Page-turning - Full page back (up): `CTRL`+`b`  
+    > Page-turning - Half page forward (down): `CTRL`+`d`   
     > Page-turning - Half page back (up): `CTRL`+`u`  
 
   * Screen  
@@ -541,8 +545,8 @@ Work Related Tools Kit
 * Video Downloader for online video website: [KeepVID](http://keepvid.com/) Support almost all online video website and Java is needed for faster fetching the download links.
 
 ####Online services
-* [About me](https://about.me): Make is easy for people to learn about you and find what you share.
-* [Avatar](https://en.gravatar.com/): Upload your avatar use it on many website.
+* [About me](https://about.me): Beautiful way to make a bio for people to know you and find what you share.
+* [Avatar](https://en.gravatar.com/): Upload your avatar once and use it on many website.
 
 
 
@@ -550,16 +554,14 @@ Work Related Tools Kit
 Reference
 ----------------------
 <hr>
-###My Configuration files
-* Bash configuration file -> [bashrc](./files/bashrc), usage: rename bashrc to .bashrc, put it in your HOME directory.  
-* Vi/Vim configuration file -> [vimrc](./files/vimrc), usage: rename vimrc to .vimrc, put it in your HOME directory.  
+###My Configuration
+* (File) Bash configuration file -> [bashrc](./files/bashrc), usage: rename bashrc to .bashrc, put it in your HOME directory.  
+* (File) Vi/Vim configuration file -> [vimrc](./files/vimrc), usage: rename vimrc to .vimrc, put it in your HOME directory.  
+* (Text) Java path in Windows
+  * This is a very geeky Windows XP machine I encountered before, So I record it in here.
+  * `c:\oracle\product\10.1.0\Db_1\bin;c:\oracle\product\10.1.0\Db\_1\jre\1.4.2\bin\client;c:\oracle\product\10.1.0\Db_1\jre\1.7.0\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\MSDEV\BIN;C:\Program Files\Rational\common;c:\matlab6p1\bin\win32`
 
-###Cofiguration text
-####Java path in Windows
-This is a very geeky Windows XP machine I encountered before. 
-* c:\oracle\product\10.1.0\Db\_1\bin;c:\oracle\product\10.1.0\Db\_1\jre\1.4.2\bin\client;c:\oracle\product\10.1.0\Db\_1\jre\1.7.0\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\MSDEV\BIN;C:\Program Files\Rational\common;c:\matlab6p1\bin\win32
-
-[Remap Caps Lock](http://c2.com/cgi/wiki?RemapCapsLock)
+* [Remap Keyboard - Exchange Caps-Lock and Left Ctrl](http://c2.com/cgi/wiki?RemapCapsLock)
 
 </body>
 </html>

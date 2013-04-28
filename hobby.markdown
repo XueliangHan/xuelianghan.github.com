@@ -12,20 +12,20 @@ My hobbies
 Index
 =====
 * Art & Literature: Film, Music, Painting, Photography, Reading
-  * Reading
-  * Writing
-  * Photography of (Stars/Sky/Landscape) [Inspired]
+  * PHOTOGRAPHY of (Universe/Stars/Sky/Landscape) [Inspired]
   * Music
   * Film/Movie
 * Language & Culture (English)
   * Ability and Skills
   * Vocabulary & Grammar [Foundation]
   * Language Test
+* Reading
 * Sports & Fitness
 * Travel - Different Area/Country/Nation/State with different Language/Culture
+* Writing
 
 <hr>
-Art & Literature: Film, Music, Painting, Photography, Reading
+Art & : Film, Music, Painting, Photography, Reading
 ----------------------------------------------------------------
 ###READING
 * __More Reading, Less Internet Surfing.__
@@ -41,8 +41,9 @@ Art & Literature: Film, Music, Painting, Photography, Reading
 * Blog and Bloging
   * (Unread)[Dorie Clark](http://www.dorieclark.com/), [If You're Serious About Ideas, Get Serious About Blogging](http://blogs.hbr.org/cs/2012/12/if_youre_serious_about_ideas_g.html)
 
-###PHOTOGRAPHY of (Stars/Sky/Landscape) [Inspired]
+###PHOTOGRAPHY of (Universe/Stars/Sky/Landscape) [Inspired]
 ####Collections
+* (High Quality) [Astronomy Picture of the Day Archive](http://apod.nasa.gov/apod/archivepix.html)
 * [Milky Way Scientists-Facebook](http://www.facebook.com/Milkway.Nasa.115943216485228220871)
 * TESOPhotography(Photo/Video) by Terje Sorgjerd, __Mind-blowing__, __Gorgeous__. [TESOPhotography Official Website](http://tesophotography.com), [TSOPhotography-Facebook](http://www.facebook.com/TSOPhotography)
 
@@ -86,6 +87,7 @@ Art & Literature: Film, Music, Painting, Photography, Reading
 
 
 <hr>
+<!-- Language's property is media, and the native people won't put it in hobby, it should be put into root directory, with knowledge, skills. --!>
 Language & Culture (English)
 --------------------------------
 ####Masters
