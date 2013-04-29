@@ -84,6 +84,8 @@ Content
 * [The effective engineer’s handbook by Slava Akhmechet](http://www.defmacro.org/2013/03/10/effective-handbook.html)
 
 ###Searching, Retrivel Skills
+* [How to Google it](http://www.shahz.net/blog/google.html) or [Just view the image](http://www.shahz.net/wp-content/uploads/2013/01/57e3847edab3fae27d1fe04e77fe2aed.jpg)
+
 * Files Searching Engine (BT/P2P/FTP) I Used
   * [kat.ph](http://kat.ph), [Backup Site - KickAssTorrents](http://kickasstorrents.com) - Apps&Games(Binary), Books(Text), Pictures&Wallpapers(Image), Music(Audio), Movies&TV(Video), Others.
   * [TorrentZ.eu](http://torrentz.eu/) - Torrents searching engine, you need no more _torrents search engine_ due to it had indexed almost all torrent website ([you can see here](http://torrentz.eu/help)). (Website Technologes: OS(FreeBSD), PL(PHP), DB(MySQL, Redis), Web-Server(Nginx), Search-Engine(Sphinx Search), Network(Vaarnish:HTTP accelerator designed for content-heavy dynamic web sites), Icon(Famfamfam))
@@ -134,6 +136,7 @@ Content
   * [FoodNetwork](http://www.foodnetwork.com)
 * Questions & Answers
   * [Quora](http://www.quora.com)
+  * [Reddit](http://www.reddit.com)
   * [Stackoverflow](http://www.stackoverflow.com)
   * [Yahoo Answer](http:answers.yahoo.com)
 
