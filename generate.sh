@@ -21,6 +21,7 @@ perl md.pl $SRC/hobby.markdown > $DES/hobby.html
 
 perl md.pl $SRC/interest.markdown > $DES/interest.html
 perl md.pl $SRC/interest_technology.markdown > $DES/interest_technology.html
+#perl md.pl $SRC/language.markdown > $DES/language.html
 
 perl md.pl $SRC/inspiration.markdown > $DES/inspiration.html
 perl md.pl $SRC/information-source.markdown > $DES/information-source.html

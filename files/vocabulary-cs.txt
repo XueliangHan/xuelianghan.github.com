@@ -1,0 +1,790 @@
+Vocabulary
+
+--------------------------------------------------------------------------------
+? 1992 Academic Press Inc.; ? 2006 Gordon S. Novak Jr. 
+--------------------------------------------------------------------------------
+
+absolute address: the numeric address of a location in memory. cf. relative address. 
+
+absolute code: computer program code that is executable without further processing: all addresses in the code are absolute. cf. relocatable code. 
+
+abstract syntax tree (AST): a tree representation of a program that is abstracted from the details of a particular programming language and its surface syntax. 
+
+accepting state: a state of a finite automaton in which the input string is accepted as being a member of the language recognized by the automaton. 
+
+activation record: stack frame. 
+
+actual parameter: a parameter used in a call to a subprogram. cf. formal parameter. 
+
+address alignment: see storage alignment. 
+
+address space: 1. the set of memory addresses that a program may reference. 2. the amount of memory allocated to a program or user. 3. the amount of memory addressable by the address size of a machine instruction. 
+
+adjacency matrix: a method of representing a graph by a Boolean matrix M , where Mij = 1 iff there is an arc from node i to node j in the graph. 
+
+alias: an alternate name for a memory location. Whenever a given memory location is denoted by more than one name, any of the names can be considered to be an alias. 
+
+aliasing: the creation of an alternate name for data, either in the definition of a program or during its operation. 
+
+alphabet: a set of symbols used in the definition of a language. 
+
+ambiguity: a case where more than one interpretation is possible. 
+
+ambiguous grammar: a grammar that allows some sentence or string to be generated or parsed in more than one way ( i.e., with distinct parse trees). 
+
+ambiguous value: a value with more than one name. 
+
+ancestor: a node in a tree that lies on a path between the given node and the root; a parent of a node or an ancestor of its parent. 
+
+antisymmetric: a relation is antisymmetric iff &forall a, b a b &and b a &rarr a = b . Example: . 
+
+arity: the number of arguments of a function. 
+
+assembly language: a language for writing computer programs, in which one assembly language instruction usually corresponds to one machine instruction. 
+
+associativity: a specification of the order in which operations should be performed when two operators of the same precedence are adjacent. Most operators are left-associative, e.g. the expression A - B - C should be interpreted as ((A - B) - C). 
+
+AST: abstract syntax tree. 
+
+augmented transition network (ATN): a formalism for describing parsers, especially for natural language. Similar to a finite automaton, but augmented in that arbitrary tests may be attached to transition arcs, subgrammars may be called recursively, and structure-building actions may be executed as an arc is traversed. 
+
+automatic programming: synthesis of a program that satisfies a specification, where the specification is higher-level than ordinary programming languages. 
+
+automaton: an abstract, mathematically defined computer. Plural is automata. 
+
+available: an expression is available if it has been computed previously in the computation path preceding the current location and has not been killed. 
+
+backpatching: filling in the address of a label, which has just become defined, in preceding parts of the program that made forward references to it. 
+
+bag: a collection of items, analogous to a set, but allowing multiple occurrences of an item. Also, multiset. 
+
+base address: the address of the beginning of a data area. This address is added to a relative address or offset to compute an absolute address. 
+
+basic block: a sequence of program statements such that if any of them is executed, all of them are; a sequence of statements that has a label (if any) only at the beginning and a branch (if any) only at the end. 
+
+basic type: a data type that is implemented in computer hardware instructions, such as integer or real. 
+
+bignum: a result of arbitrary precision integer arithmetic. (an abbreviation of BIG NUMber.) 
+
+binding: the association of a name with a variable or value. 
+
+bison: a Free Software Foundation program similar to yacc. 
+
+bit vector: a sequence of Boolean values ( 0 or 1) represented as the bits of one or more computer words. It is an efficient representation for sets that are subsets of a fairly small finite set of possible elements. 
+
+block: short for basic block. 
+
+BNF: Backus-Naur Form, a syntax for writing context-free grammars that describe computer languages. 
+
+Boolean matrix: a matrix whose elements are Boolean values, 0 or 1. 
+
+bottom-up parsing: a parsing method in which input words are matched against the right-hand sides of grammar productions in an attempt to build a parse tree from the bottom towards the top. 
+
+BSS: a pseudo-operation for some assemblers, used to specify the reservation of a block of storage, perhaps initialized to some constant value. (an abbreviation of Block Starting with Symbol.) 
+
+busy: describes a variable whose value will be needed later during program execution. Also, live. 
+
+cache: a fast memory, smaller than the total main memory, used by the CPU for faster access to data. 
+
+cache miss: a reference to a memory location that is not in the cache, causing processing to be delayed until the operand can be fetched from main memory. 
+
+cache prefetch: an instruction that causes the contents of a specified memory address to be fetched from main memory into the cache memory so that it will be available for fast access when needed. 
+
+call by name: a form of parameter transmission in which the effect of a textual substitution of the actual parameter for the formal parameter is achieved. 
+
+call by reference: a form of parameter transmission in which the address of the actual parameter is transmitted to the subprogram. Any changes to the parameter made by the subprogram will change the argument as seen by the calling program. 
+
+call by value: a form of parameter transmission in which the value of the actual parameter is transmitted to the subprogram. Changes to the parameter made by the subprogram will not be seen by the calling program. 
+
+canonical derivation: rightmost derivation. 
+
+canonical form: a standardized form of expressions or data. If all programs put their expressions into a canonical form, the number of cases that will have to be considered by other programs is reduced. 
+
+Cartesian product: if A and B are sets, the Cartesian product A X B is the set of ordered pairs (a, b) where a &isin A and b &isin B . 
+
+cascading errors: a situation, e.g. in compiling a program, where one error causes many reported errors. For example, failure to declare a variable may cause an error every time that variable is referenced. 
+
+cast: to coerce a given value to be of a specified type. 
+
+Chomsky hierarchy: the hierarchy of formal language types: regular, context free, context sensitive, and recursively enumerable languages, each of which is a proper subset of the following class. 
+
+CISC: complex instruction set computer. 
+
+class: in object-oriented programming, a description of a set of similar objects. For example, Fido, an object or instance, might be a member of the class Dogs. 
+
+class variable: in an object-oriented language, a variable associated with a class of objects, e.g. the number of members of the class. 
+
+closed procecdure: a procedure whose code is separate from that of calling programs; the procedure is entered by a subroutine call, and it returns to the calling program when it is finished. 
+
+closely coupled: describes a parallel computer architecture consisting of multiple CPU's that are tightly connected, e.g. by sharing the same memory. cf. loosely coupled. 
+
+code generation: the phase of a compiler in which executable output code is generated from intermediate code. 
+
+code motion: the movement of code by a compiler to a place other than where it appears in the source program. For example, an expensive but unchanging computation might be moved outside a loop. 
+
+coerce: see type coercion. 
+
+collision: in a hash table, a case in which a symbol has the same hash function value as another symbol. 
+
+column-major order: a method of storing arrays in which values in a column of the array are in adjacent memory locations. cf. row-major order. 
+
+COMMON: a statement in Fortran that describes a data area that is named and whose variables can be referenced by any procedure that includes the COMMON statement. 
+
+common subexpression: an expression that appears more than once in a program. 
+
+compiler: a program that translates a source language into an object language that is executable on a computer. 
+
+compiler-compiler: a program that produces a compiler for a language from a specification of the syntax and semantics of the language, e.g. yacc. 
+
+compile-time: describes a task that is or can be done by the compiler, without running the program. cf. static. 
+
+complex instruction set computer: a CPU design featuring a large number of relatively complex instructions. Abbreviated CISC. cf. RISC. 
+
+computed: of a subexpression, having its value computed within a given block of code. 
+
+concatenation: making a sequence that consists of the elements of a first sequence followed by those of a second sequence. 
+
+concatenation of languages: a language consisting of the set of sentences formed by concatenating a sentence from the first language and a sentence from the second language. 
+
+condition code register: A CPU register that describes the result of the last arithmetic operation or comparison. It typically contains bits for < 0, =0, > 0, carry, and overflow. 
+
+constant folding: performing at compile time an operation whose operands are constant, giving a new constant result. 
+
+context-free grammar: a grammar in which the left-hand side of each production consists of a single nonterminal symbol. 
+
+control flow analysis: analysis of the possible paths that control flow may take in a program during execution. 
+
+current status variable: in a hand-written parser, a variable that denotes the construct last seen, e.g., start of expression, operator, or operand. 
+
+curry: or currying: to replace a function of multiple arguments by a function of one argument that returns as its value a function that can be applied to the remaining arguments. For example, (+ 1 x), the addition of 1 to x, can be replaced by (1+ x) where 1+ is a function that adds 1 to a number. 
+
+DAG: directed acyclic graph, a graph consisting of a set of nodes and directed arcs (arrows) between nodes, such that no circular paths (cycles) exist. 
+
+dangling reference: in execution of a program, a reference, usually by means of a pointer, to storage that has been deallocated. For example, in a recursive language, a pointer to storage that is allocated on the execution stack could be retained after the routine associated with that stack frame has exited, resulting in errors. 
+
+data area: a contiguous area of memory, specified by its base address and size. Data within the area are referenced by the base address of the area and the offset, or relative address, of the data within the area. 
+
+data flow analysis: analysis of places in the programs where data receive values and the places where those data values can subsequently be used. 
+
+dead code: parts of a program that cannot be reached during execution and therefore can never be executed. 
+
+declaration: a statement in a programming language that provides information to the compiler, such as the structure of a data record, but does not specify executable code. 
+
+defined: of a variable, having received a value prior to a given point in a program. 
+
+definition-use chain: the portion of a program flow graph across which a variable is both defined and live (busy), beginning at the point where the variable receives a value and ending at the last place that value is used. Also, du-chain. 
+
+dereference: to convert from a pointer (address) to the data that is pointed to. 
+
+derivation: a list of steps that shows how a sentence in a language is derived from a grammar by application of grammar rules. 
+
+descendant: a node in a tree that is a child of another node or a descendant of one of its children. 
+
+deterministic finite automaton: a finite automaton that has at most one transition from a state for each input symbol and no empty transitions. Abbreviated DFA. 
+
+DFA: deterministic finite automaton. 
+
+dhrystone: a set of benchmark programs; a unit for comparing relative processor performance. cf. whetstone. 
+
+disambiguating rules: rules that allow an ambiguous situation to be resolved to a single outcome, e.g. rules of operator precedence. 
+
+discipline: a policy used in determining the order of actions, such as the order of filling requests for service. 
+
+display: in an activation record, an array of pointers to the activation records of surrounding blocks, used to access variables defined in those blocks. 
+
+dominator: a basic block of a program is a dominator of a second block if every path from the entry of the program to the second block passes through it. 
+
+dynamic: refers to things that happen or can only be determined during actual execution of a program. cf. static. 
+
+dynamic memory: memory that is assigned during execution of a program, especially heap memory. 
+
+dynamic scoping: a convention in a language, such as Lisp, that a variable can be referenced by any procedure that is executed after it has become bound and before it becomes unbound; thus, the scope of the variable can depend on the execution sequence. 
+
+dynamic type checking: testing of the types of the values of variables at runtime, as is done in Lisp and object-oriented languages. cf. static type checking. 
+
+effective address: the address of a data element, taking into account offsets due to array indexing and record accesses. 
+
+embedded language: a language that is built on another language implementation, by interpretation or translation into the other language; e.g., an expert system language embedded in Lisp. 
+
+encapsulation: a method of making a software system modular by creating well-defined interface routines that deal with a particular kind of data and allowing other programs to access the data only through those routines; the interface routines encapsulate the data. cf. information hiding. 
+
+enumerate: to generate all of the members of a set. 
+
+enumerated type: a scalar type consisting of a finite set of enumerated values, e.g. type boolean = (false, true);. 
+
+epilogue: a section of code that is executed just before leaving a subprogram to restore register values, transfer the result of the subprogram to the calling program, and branch to the return address. 
+
+EQUIVALENCE: a statement in Fortran that specifies that two variables occupy the same or overlapping storage; it is possible that the variables have different types. 
+
+equivalence relation: a relation that is reflexive, symmetric, and transitive. 
+
+equivalent grammars: grammars that denote the same language. 
+
+error production: a grammar production, as in a Yacc grammar, that is executed if no other production matches the input. 
+
+execution stack: a stack of activation records or stack frames that is maintained during execution of programs in a block-structured or recursive language. 
+
+external fragmentation: storage fragments consisting of unused memory between blocks that are in use. 
+
+FA: finite automaton. 
+
+FAR: finite automaton recognizable. 
+
+field: a component part of a data record. 
+
+finite automaton: an abstract computer consisting of an alphabet of symbols, a finite set of states, a starting state, a subset of accepting states, and transition rules that specify transitions from one state to another depending on the input symbol. The machine begins in the starting state; for each input symbol, it makes a transition as specifies by the transition rules. If the automaton is in an accepting state at the end of the input, the input is recognized. Also, finite state machine. Abbreviated FA. 
+
+finite automaton recognizable: a language that is regular. Abbreviated FAR. 
+
+finite state machine: see finite automaton. 
+
+flex: a Free Software Foundation program similar to lex. 
+
+flush: 1. to clear a buffer by writing out or transmitting its contents. 2. to discard remaining data in a buffer. 
+
+formal grammar: see grammar. 
+
+formal parameter: a parameter specified in the argument list of a procedure definition. cf. actual parameter. 
+
+forward reference: reference to a label in a program that has not yet appeared in the program text. 
+
+fragmentation: the breaking up of memory into blocks that are too small to be of use. cf. internal fragmentation, external fragmentation. 
+
+fringe: the set of leaf nodes of a tree. 
+
+garbage: storage that can no longer be accessed because no pointer to it exists. 
+
+garbage collection: the identification of unused storage and collection of it so that it can be placed back on the heap for reuse. 
+
+GC: 1. garbage collection. 2. the occurrence of a garbage collection during execution. 3. to perform garbage collection. 
+
+generator: a procedure that produces the elements of a sequence, returning the next element each time it is called; e.g., a pseudo-random number generator. 
+
+global analysis: analysis of the properties of an entire program or procedure. 
+
+global optimization: optimization based on analysis of the entire program or procedure. 
+
+grammar: a formal specification of a language, consisting of a set of nonterminal symbols, a set of terminal symbols or words, and production rules that specify transformations of strings containing nonterminals into other strings. 
+
+granularity: refers to the size of problem or data that is handled. 
+
+graph: a (directed) graph is a pair ( S, &Gamma ) where S is a set of nodes and &Gamma &sube S X S is a set of transitions between nodes. 
+
+graph coloring: an algorithm for assigning a minimal number of ``colors'' to nodes of a graph such that no two nodes that are connected have the same color. Used in compilers as a method of register assignment: colors correspond to registers, nodes to variables or def-use chains, and connections to variables that are simultaneously live. 
+
+groupware: software that facilitates the cooperative work of a group of people on a single problem concurrently; members of the group may be at different locations and communicate via networks. 
+
+handle: in bottom-up parsing, the substring that should next be reduced as a phrase. 
+
+handle pruning: in bottom-up parsing, the process of removing the handle from the parsing stack and replacing it by a nonterminal symbol or data structure representing the phrase. 
+
+hash function: a deterministic function that converts converts a symbol or other input to a ``randomized'' integer value. 
+
+hash table: a table that associates key values with data by use of a hash function. 
+
+heap: an area of contiguous memory and/or a set of unused storage records that can be allocated to the running program as dynamic memory upon request; the address of the record is returned and assigned to a pointer variable. new in Pascal, malloc in C, and cons in Lisp allocate heap memory. 
+
+higher-order logic: a logic that is more powerful than first-order predicate calculus, e.g., one that allows quantification over predicate symbols. 
+
+hypercube: a parallel computer architecture in which many CPU's (the number of which is a power of 2 , say 2n ) are logically connected as an n-dimensional hypercube, where each processor is at a corner of the cube and is directly connected to the processors at neighboring corners. A message can be transferred from any processor to any other in a number of steps proportional to the logarithm of the number of processors. 
+
+identifier: a symbol that is used as the name of a variable, type, constant, procedure, etc. 
+
+infix: an expression written with an operator between its operand, e.g. a + b . cf. prefix, postfix. 
+
+implicit parameter: a parameter that is passed to a subprogram without being specified directly by the programmer, e.g., the return address. 
+
+induction variable: a variable that is incremented during a loop and used to perform a similar action on multiple data; also, loop index. 
+
+information hiding: a method of making programs modular by allowing programs to see only a set of well-defined interfaces to a data type, but not the internal implementation of the data. cf. encapsulation. 
+
+inherit: to use a method defined in a superclass. 
+
+inheritance: the availability of procedures or data by virtue of membership in a class, as in an object-oriented system. 
+
+inherited attribute: an attribute of a node in a parse tree that is derived from the context in which the node appears. cf. synthesized attribute. 
+
+inlining: inserting code of a subprogram directly into the code compiled for the calling program, rather than compiling a subroutine call to an external procedure. 
+
+inorder: an order of visiting binary trees, in which the left subtree of a node is examined, followed by the node itself, followed by the right subtree. 
+
+insertion: placement of a new data item in its proper position in an ordered sequence, such as a list, array, or symbol table. 
+
+insertion sort: a method of sorting in which records are successively considered from left to right; each record is inserted into the sorted (left) portion of the file in proper order so that the left portion remains sorted. It is a good method for almost-sorted files. 
+
+instance: in object-oriented programming, an individual data object that is an instance of a class of similar objects. Also, object. 
+
+instance variable: a data field in an instance. 
+
+intermediate code: see intermediate language. 
+
+intermediate language: an internal language used as the representation of a program during compilation, such as trees or quadruples. The source language is translated to intermediate language, then to the object language. 
+
+internal fragmentation: wasted storage within a block, either because the block is of fixed size and is not all used, or because of padding. 
+
+interpreted code: a form of program that is read and executed by an interpreter program. The interpreter reads an instruction, determines its meaning, and executes it. 
+
+interval: a set of basic blocks of a program that comprise a sequence of statements or simple loop. 
+
+intrinsic function: a simple function, such as absolute value, that is compiled as in-line code rather than as a subroutine call. 
+
+invariant code: code whose value does not change during a certain period of program execution. 
+
+keyword: a special word that is used to indicate the structure of a language, such as the reserved words of computer languages. 
+
+killed: of a subexpression, having any previously computed value invalidated by redefinition of a component of the subexpression. Note that the term ``killed'' cannot properly be applied to a program variable. 
+
+Kleene closure: zero or more occurrences of a grammar item; indicated by a superscript *. 
+
+lambda calculus: a mathematical formalism for the specification of recursive functions; the basis of the Lisp programming language. 
+
+language denoted by a grammar: L(G), the set of strings that can be derived from a grammar, beginning with the start symbol. 
+
+last-in, first-out: the discipline used in maintaining a pushdown stack of items, in which the last item inserted is the one that will be removed next. Abbreviated LIFO. 
+
+left-associative operator: an operator in an arithmetic expression such that if there are two adjacent occurrences of the operator, the left one should be done first. 
+
+left factoring: a method of modifying a grammar to eliminate left recursion. 
+
+left recursion: in top-down parsing, a grammar rule whose right-hand side begins with the nonterminal symbol on the left-hand side will cause an infinite recursion, called left recursion. Also, describes such a production. 
+
+left-sentential form: a sentential form produced in a leftmost derivation. 
+
+leftmost derivation: a derivation in which the leftmost nonterminal of the string is replaced at each step. 
+
+lex: a popular software tool for constructing a lexical analyzer from a regular grammar and actions associated with the grammar productions. 
+
+lexeme: a basic symbol in a language; e.g., a variable name would be a lexeme for a grammar of a programming language. 
+
+lexical: 1. refers to information associated with words or symbols in a dictionary or symbol table. 2. refers to information that can be determined by static examination of a program, i.e., at compile time, without running the program. 
+
+lexical analysis: parsing and conversion to internal form of the simplest elements of a language, usually specified by a regular grammar, such as variable names, numbers, etc. 
+
+lexical analyzer: a program that performs lexical analysis and outputs the internal form of lexemes. 
+
+lexical scoping: a convention in a block-structured programming language that a variable can only be referenced within the block in which it is defined and blocks contained within that block; thus, the scope of a variable is completely determined at compile time. cf. dynamic scoping. 
+
+link editor: a program that combines relocatable code modules to form an executable absolute code file. The link editor assigns memory locations for each relocatable module, relocates relative addresses to form absolute addresses, finds library modules whose names are referenced as external symbols and includes those modules in the loading process, and fills in absolute addresses for external references between modules. 
+
+live variable: a variable whose value will be used at a later point during execution. 
+
+load time: 1. refers to something that happens during link editing or loading of a program into memory for execution, e.g., a load-time error. cf. compile-time, run-time. 2. the amount of time required to link-edit and/or load a program. 
+
+loader: a program in the operating system that executes an absolute program by allocating storage for it in main memory, reading the program into memory, and jumping to its entry point. Sometimes link-editing is performed prior to loading. 
+
+local ambiguity: a case in which a language construct might be parsed in more than one way; the correct parsing is determined by examining the wider context of the construct. Example: 3.14 vs. 3..14 
+
+local optimization: optimization that can be done correctly taking into account only a small part of the program. 
+
+location counter: 1. a counter that denotes the next location in memory for code or data during assembly or compilation of a program. 2. a numeric value that denotes the location of the beginning of a data area, which is added to addresses during relocation. 
+
+logic: 1. mathematical logic, i.e., propositional or predicate calculus. 2. the algorithm or decision procedures used by a program. 
+
+loop index: a variable that is incremented during a loop and used to perform a similar action on successive data; also, loop variable, induction variable. 
+
+machine language: the language executed by computer hardware. 
+
+macro: a statement in a programming language that is expanded into one or more statements in the same language, by substitution of arguments into a language pattern or by construction of the statements by a program. 
+
+mark-and-sweep: a method of garbage collection in which all storage that is in use is marked, then all storage that is not marked is swept up for reuse. 
+
+mask out: 1. to remove unwanted data by performing an AND operation with a mask. 2. to turn off an interrupt by clearing its corresponding bit in the interrupt mask register. 
+
+materialize: to store in memory as a discrete data value; to make a copy in memory of otherwise transient data, such as a value in a register. 
+
+memoization: remembering the result of a function for given argument value(s); if the function is called again with the same arguments, the result can be returned from memory. Also, memorization. 
+
+memory hierarchy: a hierarchy of different kinds of computer memory, in which there is a small amount of costly fast memory (such as registers or cache) and increasing amounts of slower kinds of memory. 
+
+memory leak: failure to return dynamic memory that is no longer in use; eventually causes the program to run out of memory. 
+
+message: in object-oriented programming, an indirect function call. A message is sent to an object; the selector of the message (an abstract procedure name) is looked up in the class to which the object belongs to determine the method that is the actual function that is called. 
+
+metaclass: in an object-oriented system, a class that describes the structure of classes. 
+
+method: in an object-oriented system, a procedure associated with a class that performs the action associated with a message. 
+
+MIMD: (pronounced ``mim-dee'') abbreviation of Multiple Instruction, Multiple Data. A kind of parallel computer architecture, such as one involving multiple loosely coupled CPU's, in which different instructions are executed on different data simultaneously. cf. SIMD. 
+
+multiple inheritance: in an object-oriented system, the ability of a class to have multiple superclasses and to inherit methods from all of them. 
+
+multiset: a set in which an element can occur multiple times. Also, bag. 
+
+name equivalence: type equivalence testing in which two types are considered equal only if they have the same name. cf. structural equivalence. 
+
+negative zero: in a one's-complement number representation, a representation of the number zero by all one-bits. 
+
+nondeterministic: describes a process that can do one of multiple things; which one it will do is not predetermined. 
+
+nondeterministic finite automaton: a finite automaton that has multiple state transitions from a single state for a given input symbol, or that has a null transition, not requiring an input symbol. Abbreviated NFA. 
+
+nonterminal symbol: a symbol that names a phrase in a grammar. 
+
+nonvolatile register: a register whose value must be preserved across a procedure call. 
+
+object: in an object-oriented programming system, a data structure containing instance variables and a pointer to the class to which the object belongs. 
+
+object language: the output language of a compiler. 
+
+object-oriented programming: a style of programming based on the use of objects and messages, as opposed to data structures and procedure calls. 
+
+object server: a server that maintains a database of objects that can be accessed by one or more users over a network. 
+
+offset: the location of data relative to the start of a data area. 
+
+open coding: see inlining. 
+
+open procedure: a procedure that is inserted directly into the body of the calling program. cf. closed procedure. 
+
+operand: a data value upon which an operation is performed. 
+
+operator: a symbol that denotes an operation to be performed on data in an expression. 
+
+optimization: transformation of a program to produce a program whose input-output behavior is equivalent to that of the original program, but that has lower cost, e.g. faster execution time. 
+
+oracle: a (usually imaginary) procedure that can give a correct answer to a certain kind of question. 
+
+out-of-order execution: the ability of some CPU's to execute instructions in an order different from that specified in the program, allowing idle CPU functional units to be used and improving performance. 
+
+overloading: the assignment of multiple meanings to an operator, depending on the type of data to which it is applied; e.g., the symbol + could represent integer addition, floating-point addition, or matrix addition. 
+
+padding: insertion of an area of unused storage in order to achieve storage alignment. 
+
+parallel processor: 1. see parallel computer. 2. an architecture in which multiple CPU's are connected, e.g. by shared memory or a communication mechanism. 
+
+parametric polymorphism: polymorphism in which type expressions are parameterized, e.g. list of T where T is a type parameter. 
+
+parser: a program that determines how a given statement in a language could be derived from the grammar of the language, producing a parse tree or other information about the statement as output. 
+
+parser generator: a program that constructs a parser from a specification of the grammar of a language and actions that are to be taken when phrases of the language are recognized. 
+
+parse tree: a data structure that shows how a statement in a language is derived from the context-free grammar of the language; it may be annotated with additional information, e.g. for compilation purposes. 
+
+parsing: the process of reading a source language, determining its structure, and producing intermediate code for it. 
+
+partial correctness: of a program, guaranteed to produce the correct result if it terminates. cf. total correctness. 
+
+partial evaluation: optimization of a program by evaluating parts of the program that are constant at compile time. This may include unrolling loops and algebraic optimization of operations involving constant data; the resulting program may be larger, but faster and more suitable for parallel execution. 
+
+partial order: a relation that is reflexive, antisymmetric, and transitive. Example: . 
+
+partition: a division of a set into disjoint subsets whose union is the set. A partition corresponds to an equivalence relation. 
+
+pass: a phase of a compiler or assembler in which the entire source program (in its original form or some later representation) is processed. 
+
+PC: 1. program counter. 2. personal computer. 
+
+peephole optimization: a kind of optimization, performed on generated code by a compiler, in which a linear pass is made over the code examining a small region of code to see if it can be improved; e.g., a jump instruction to the next sequential location can be eliminated. 
+
+phase of compiler: a major section of the compilation process, generally involving examination of the entire program, e.g., syntax analysis, optimization, or code generation. 
+
+phrase structure grammar: see grammar. 
+
+pointer: a variable that denotes another variable. A pointer typically is implemented as an integer variable containing the memory address of the other variable. 
+
+polymorphic function: a function that can operate on data of more than one type. 
+
+polymorphic type: an abstract data type, such as linked list, that could be implemented in different ways or could take multiple forms, such as a linked list of integers or a linked list of reals using a similar record format. 
+
+postamble: see epilogue. 
+
+postcondition: a set of facts that will be true after a rule, operator, or set of code has been executed. 
+
+postfix: a way of writing expressions in which an operator appears after its operands: ab+. 
+
+postincrement: a CPU feature in which the value of an index register is automatically incremented by a fixed amount after its use, thus pointing to the next data in an array. 
+
+postorder: an order of visiting trees, in which the children of a node are examined first, in left-to-right order, followed by examination of the node itself. 
+
+preamble: see prologue. 
+
+precedence: an ordering of operators that specifies that certain operators should be performed before others when no ordering is otherwise specified. 
+
+precedence relations: a specification of the relative precedence of a set of operators, i.e., that one operator is less, equal, or greater in precedence than another. 
+
+precondition: 1. a set of conditions, often expressed as a predicate calculus formula, that must be satisfied before a rule or set of code can be executed. 2. the left-hand side of an if-then rule. 
+
+predecrement: a CPU feature in which the value of an index register is automatically decremented by a fixed amount before its use, thus pointing to the next data to be processed. 
+
+predictive parsing: a form of parsing in which the grammar rule to be used for later input is predicted, e.g., on the basis of a keyword that begins a statement. 
+
+prefix: 1. a contiguous set of symbols at the beginning of a string. 2. a way of writing expressions in which an operator appears before its operands: +ab. 
+
+preorder: an order of visiting trees, in which a node is examined first, followed by recursive examination of its children, in left-to-right order, in the same fashion. 
+
+processor stall: a situation in which the CPU must temporarily suspend execution until some event occurs, e.g. delivery of requested memory or availability of an operand. 
+
+production: a rule of a context-free grammar, specifying that a nonterminal symbol can be replaced by another string of symbols. 
+
+program mode: a mode of CPU operation in which user programs are run; certain operations, such as I/O, that are reserved for the operating system are prohibited. cf. system mode. 
+
+programming environment: an integrated set of interactive tools to aid the programming process, including program editors, compilers, debugging aids, etc. 
+
+prologue: a section of code that is executed immediately upon entry to a subprogram to save register values, save the return address, and transfer parameters to the subprogram. 
+
+proper prefix: a string that is a prefix of another string, nonempty, and shorter than the other string. 
+
+proper suffix: a string that is a suffix of another string, nonempty, and shorter than the other string. 
+
+protocol: 3. in an object-oriented system, the interface to a class, i.e., the set of messages understood by members of the class. 
+
+quadruple: a form of intermediate program code used in compilers, equivalent to a small ``assignment statement'' of the form ``R = X op Y'' where R is the result, X and Y are operands, and op is the operation. 
+
+RE: recursively enumerable. 
+
+recognizer: a program or abstract device that can read a string of symbols and decide whether the string is a member of a particular language. 
+
+record: a data area consisting of contiguous component fields, which may be of different types. 
+
+recursive descent: a method of writing a parser in which a grammar rule is written as a procedure that recognizes that phrase, calling subroutines as needed for sub-phrases and producing a parse tree or other data structure as output. 
+
+recursively enumerable language: a language whose sentences can be enumerated by a recursive program, i.e., any language described by a formal grammar. Abbreviated RE. 
+
+reduce-reduce conflict: in a grammar for a shift-reduce parser, a case in which an input might be reduced by more than one production. 
+
+reduction in strength: an optimization in which an operator is changed to a less-expensive operator; e.g., x * 2 becomes x + x . 
+
+reduction step: in shift-reduce parsing, the reduction of items at the top of the stack to a phrase that encompasses those items. 
+
+reentrant code: a subprogram that can be re-entered by a different calling program before the previous call has exited. 
+
+reference: to read the value of a variable. 
+
+referenced: of a variable, having its value read within a sequence of code. 
+
+reflexive transitive closure: in a graph, the mapping from each node to the set of nodes that can be reached from it in 0 or more steps. 
+
+register assignment: the assignment of registers to hold intermediate results during parts of the computation, and in some cases to hold the values of variables. 
+
+regular expression: an algebraic expression that denotes a regular language. 
+
+regular grammar: a grammar that denotes a regular language; its productions can only have on the right-hand side either a terminal string or a terminal string followed by a single nonterminal. 
+
+regular language: a language described by a regular grammar, or recognizable by a finite automaton, e.g. a simple item such as a variable name or a number in a programming language. 
+
+rehash: 1. in a hash table storage scheme, to calculate a new hash value for an item when the previous hash value caused a collision with an existing item. 2. the algorithm used to calculate the new hash value. 
+
+relation: a subset of the Cartesian product of two sets. 
+
+relative address: an address specified by an offset relative to some other address. 
+
+relocatable code: program code that can be relocated to run in different locations in computer memory. Addresses within the program are specified relative to location counters; external addresses are specified by symbolic names. 
+
+relocation: the process performed by a link editor to convert relocatable code into absolute code that can be executed, by adding the absolute starting address of a data area to relative addresses of data within that data area. 
+
+remote procedure call: a call to a procedure that is implemented on another computer or server to which the computer of the calling program is connected via a network. Abbreviated RPC. 
+
+reserved word: a word in a programming language that is reserved for use as part of the language and may not be used as an identifier. 
+
+resolve ambiguity: see disambiguate. 
+
+restore registers: to load nonvolatile registers with the saved values that the registers had upon entry to a subprogram. 
+
+return address: the address immediately following a call to a subprogram; the subprogram returns when finished by branching to this address. 
+
+return statement: a statement in a high-level language to cause execution of a subprogram to terminate and to return a value to the calling program. A return statement is implemented by loading the returned value into a register and branching to the epilogue of the subprogram. 
+
+reuse: see software reuse. 
+
+reverse Polish: an unambiguous, parenthesis-free notation for expressing an arithmetic expression. Operators appear after their operands. 
+
+right-associative operator: an operator in an arithmetic expression such that if there are two adjacent occurrences of the operator, the right one should be done first. 
+
+rightmost derivation: a derivation in which the rightmost nonterminal in the string is replaced at each step. Also, canonical derivation. 
+
+RISC: reduced instruction set computer. A CPU in which only a basic set of instructions is provided and in which extra responsibilities may be placed upon the compiler, e.g. not using the result of an instruction until after a certain amount of time has passed. 
+
+row-major order: a method of storing a multi-dimensional array, such that elements of a row of the array are adjacent in memory. cf. column-major order. 
+
+RPC: remote procedure call. 
+
+run-time: of or referring to something that happens during execution of a program. Also, runtime. cf. compile-time, load-time. 
+
+save registers: to save the values of nonvolatile registers upon entry to a subprogram so that the values can be restored before the subprogram exits. 
+
+scalability: the ability of a technique or algorithm to work when applied to larger problems or data sets. 
+
+scalar processor: a CPU in which only a single operation on data is executed at a time. 
+
+scalar type: a data type that occupies a fixed amount of storage. 
+
+scanner: lexical analyzer. 
+
+seamless: not requiring any special action by a user or program in order to cross boundaries; e.g., a seamless file system would allow files on a local disk and a network file server to be accessed in the same way. 
+
+search: to look up a symbol in a symbol table. 
+
+selector: in object-oriented programming, an abstract procedure name or name of a message action. The class describes the association between the selector and the corresponding method that performs that action for objects in the class. 
+
+semantics: the meaning of a statement in a language. cf. syntax. 
+
+send: 1. a statement in an object-oriented language that specifies the sending of a message. 2. the action of sending a message to an object. 
+
+sentence symbol: a distinguished nonterminal symbol in a formal grammar that represents a complete statement (sentence) in the language. 
+
+sentential form: a string of terminal and/or nonterminal symbols that is produced during the derivation of a sentence according to a grammar. 
+
+sequence: an ordered collection of elements. 
+
+server: a device or computer that is connected to a network and provides a service, such as printing or file storage and retrieval, in response to requests from computers connected to the network. 
+
+shared variable: a variable or region of storage that can be accessed by more than one process, or by one or more processes and the operating system. 
+
+shift-reduce conflict: in a grammar for a shift-reduce parser, a case in which an input might either be shifted onto the stack or reduced. 
+
+shift-reduce parser: a parser that operates by alternately shifting input elements onto the top of a stack or reducing a group of elements from the top of the stack to a larger element representing a phrase. 
+
+sibling: in a tree, a node having the same parent as a given node. 
+
+side-effect: any effect of an operation or function call other than returning a value, e.g. changing a value in memory, I/O. 
+
+SIMD: (pronounced ``sim-dee'') abbreviation of Single Instruction, Multiple Data. A kind of parallel computer architecture in which the same instruction is simultaneously executed on multiple data. cf. MIMD. 
+
+SIMULA: a programming language for specifying discrete-event simulation models; originated object-oriented programming. 
+
+software reuse: use of a program or abstract algorithm for an application different from the one for which it was originally written. 
+
+software reusability: 1. suitability of a software package for reuse. 2. study of software reuse and features of software and compiler technology that foster reuse. 
+
+son: see child. 
+
+sort: a particular class of abstract objects. 
+
+sound: describes a theorem-proving technique or method of reasoning that is guaranteed to derive only valid conclusions. 
+
+sound type system: a type system of a programming language in which it is guaranteed that the value of a variable at runtime can only be of the type that was determined for that variable at compile time; i.e., there can be no runtime type errors. 
+
+source language: the original language in which a program is written, such as a high-level programming language. 
+
+speculative execution: the ability of some CPU's to execute instructions ahead of the current location and beyond a conditional branch. The results of these instructions will be usable only if the CPU guessed the branch direction correctly. 
+
+spill code: code to store the values of some registers into main memory so that the registers can be used for other purposes. 
+
+stack frame: a collection of the local variables of a procedure, as well as return address, saved register values, etc. that are put on the execution stack for each invocation of a procedure. Also, activation record. 
+
+stack pointer: a CPU register that points to the start of the current stack frame and is used as an index register to access data within the stack frame. 
+
+stall: processor stall. 
+
+start symbol: the initial, or ``sentence'' nonterminal symbol S of a grammar. 
+
+static: refers to things that can be determined or performed prior to execution of a program, e.g., at compile time. cf. dynamic. 
+
+static analysis: analysis of a program by examining it, but without running it. 
+
+static data: data whose address in memory is constant during execution of a program 
+
+static type checking: checking or determination of the types of variables in a language at compile time. This eliminates the need for dynamic type checking, but requires that a variable have only a single type. 
+
+storage alignment: 1. the requirement of some CPU's that certain data have addresses that fall at even memory word boundaries, so that the data will be contained in whole memory words. 2. in a compiler or assembler, the adjustment of memory addresses so that data will be properly aligned. 
+
+storage allocation: the assignment of memory locations to data and program code. 
+
+storage management: the maintenance of runtime storage, i.e., maintaining an inventory of unused storage, satisfying requests for storage, and recycling unused storage. 
+
+string: a sequence of symbols or characters. 
+
+strip mining: A compiler technique of decomposing loops over matrices into ``strips'' whose processing and memory are assigned to different processors in a multi-processor machine. 
+
+strong typing: a system of static type checking in which the types of all variables must be declared and correct use of types is enforced by the compiler. 
+
+straight-line code: a sequence of computer instructions that does not contain any branches and is executed in sequence. 
+
+structural equivalence: a form of type checking in which two types are considered to be equivalent if they have the same basic data type, or if they have the same kind of structure whose components are structurally equivalent. cf. name equivalence. 
+
+subrange: a contiguous subsequence of a sequence, e.g. 1..10 is a subrange of integer. 
+
+substring: a sequence of symbols that matches a contiguous subsequence of another string. 
+
+suffix: a sequence of symbols at the end of a string. 
+
+subclass: in object-oriented programming, a class that is a subset of another class and can inherit messages from it. Dog might be a subclass of Mammal. 
+
+superclass: in object-oriented programming, a superset of other classes. A superclass can provide methods that are inherited by its subclasses. Mammal might be a superclass of Dog. 
+
+superscalar: a type of CPU design in which, although there is only a single instruction stream, certain operations that are nearby in that stream can be executed concurrently using independent functional units in the CPU. 
+
+swap space: an area of secondary memory, such as disk, that is reserved for swapping memory pages with main memory in a virtual memory system. 
+
+symbol table: a data structure that associates a name (symbol) with information about the named object. 
+
+syntax: the rules by which legitimate statements can be constructed. cf. semantics. 
+
+syntax analysis: 1.the analysis of the form of a statement, such as a programming language statement or command, to determine its component parts; parsing. 2. the syntax analysis phase of a compiler. 
+
+syntax directed translation: in parsing a programming language, building the translation of a statement or construct in a mechanical way from the translations of its syntactic components. 
+
+syntax directed translator: a program, such as a compiler, that performs translation from a language into another form in a syntax-directed manner. 
+
+synthesized attribute: an attribute of a structure, e.g. a phrase in a programming language statement, that is derived from the attributes of its components. For example, the sum of two floating-point quantities will also be floating-point. 
+
+synthesized translation: a method of translating statements, e.g. in a programming language, such that the translation of a phrase is built up from the translations of its components. 
+
+systems programmer: a programmer who writes or maintains systems software, such as compilers or operating systems. 
+
+tag: a small-integer field that is attached to other data to describe its type. 
+
+tagged architecture: a kind of computer architecture in which data types are specified by tag fields associated with the data and in which the processing of data by the CPU is partly determined by these tags. 
+
+temporal logic: a kind of mathematical logic that allows quantification over time and allows temporal reasoning, e.g., one event must follow another, or a certain event will eventually occur. 
+
+terminal symbol: a symbol in a phrase structure grammar that is a part of the language described by the grammar, such as a word or character of the language. cf. nonterminal symbol. 
+
+termination: 1. the end of the execution of a program, as indicated by a halt instruction or returning of control to the operating system. 2. a property of a program: that it will eventually terminate. 
+
+three-address code: see quadruple. 
+
+three-address machine: a CPU in which an instruction specifies two source addresses and one destination address for the result. 
+
+token: a word, name, or sequence of characters having a meaning as a unit in a language. 
+
+top-down parsing: a predictive form of parsing, such as recursive descent, in which the parse tree of a statement is constructed starting at the root (sentence symbol). 
+
+total correctness: a property of a program: guaranteed to terminate and to produce the correct result. cf. partial correctness. 
+
+transitive closure: a relation formed from another relation by making it transitive. Beginning with the original relation, if a b and b c , then a c is added. In a graph, the mapping from each node to the set of nodes that can be reached from it in one or more steps. 
+
+tree: a form of intermediate code in which leaf nodes correspond to variables or constants and internal nodes correspond to operations. 
+
+triad: a form of intermediate code used in a compiler, consisting of an operator and two operands. Also called two-address code. 
+
+triple: see triad. 
+
+two-address code: see triad. 
+
+two-address machine: a CPU in which an instruction specifies two source addresses and the result of the operation replaces the contents of one source. 
+
+type: a description of a kind of variables, including a set of possible values and a set of operations. 
+
+type coercion: the automatic conversion of data from its existing type into the type required for an operation. 
+
+type constructor: an operator that makes a type from other types, e.g. array or record. 
+
+type hierarchy: 1. in an object-oriented system, the hierarchy of data types formed by the class-superclass relationships. 2. in general, a lattice of data types formed by containment by higher types, e.g., integers are a subset of reals, which are a subset of complex numbers. 
+
+type signature: a specification of the argument types and result type of a function or procedure, e.g. push: item X stack &rarr stack 
+
+unary operator: an operator that takes only a single argument, such as NOT or MINUS. 
+
+union of languages: a language whose sentences are members of any of its component languages. 
+
+union type: a type formed by the union of other types, i.e. a member of the union type can have the type of any one of its component types. 
+
+unreachable code: program code that cannot be executed because it is impossible to get to it. 
+
+unrolling: a method of program optimization in which a loop is expanded at compile time by duplicating the contents of the loop for each value taken by the loop index and compiling the result as straight-line code. The result may take more memory but run faster. Also, unscrolling. 
+
+value: a possible state of data. 
+
+variable: an element of computer memory that can hold a value. 
+
+variable name: a symbol that denotes a variable. 
+
+variant record: a record whose component parts can vary, perhaps depending on the value of a tag. 
+
+vocabulary: the union of the terminal and nonterminal symbols of a grammar. 
+
+volatile register: a register whose value may be destroyed during a subroutine call. 
+
+yacc: (pronounced ``yack'') a widely used context-free parser generator program for producing syntax-directed translators such as compilers. (an abbreviation for Yet Another Compiler-Compiler.) 
+

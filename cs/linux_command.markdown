@@ -254,6 +254,12 @@ Index
 > $ awk BEGIN {i = 1} { n = split($0,a," "); while (i < = n) {print a[i]; i++;} }' awk.txt
 
 
+###Shell builtins
+* alias echo expr printf sleep test true and false unset wait yes
+
+* `alias` - _give another name to something_
+* `expr` - _evalute expressions_
+  * Usage: `man expr`
 
 ###Others
 ####diff

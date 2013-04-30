@@ -361,8 +361,19 @@ $ awk '{ i = index($0, "ing"); print i }' awk.txt</li>
 $ awk BEGIN {i = 1} { n = split($0,a," "); while (i &lt; = n) {print a[i]; i++;} }' awk.txt</li>
 </ul></p>
 
-<h3>Others</h3>
+<h3>Shell builtins</h3>
 </blockquote>
+
+<ul>
+<li><p>alias echo expr printf sleep test true and false unset wait yes</p></li>
+<li><p><code>alias</code> - <em>give another name to something</em></p></li>
+<li><code>expr</code> - <em>evalute expressions</em>
+<ul>
+<li>Usage: <code>man expr</code></li>
+</ul></li>
+</ul>
+
+<h3>Others</h3>
 
 <h4>diff</h4>
 
