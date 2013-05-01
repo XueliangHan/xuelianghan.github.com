@@ -69,9 +69,10 @@ My General Information Source
 
 ####Professional Related 
 * Yin Wang (Shredder Yin)
-  * [Website](http://www.yinwang.org)(Hosted on Github)
-  * [Yin Wang's Sina Weblog](http://blog.sina.com.cn/s/articlelist_1569777711_0_1.html)
-  * [Old Website](http://docs.huihoo.com/homepage/shredderyin/), many useful stuff.
+  * [New Website 2013 (Hosted on Github)](http://www.yinwang.org)
+  * [Old Website 2006](http://docs.huihoo.com/homepage/shredderyin/), many useful stuff.
+  * [Yin's Mid-Term Memory (Mindmap-mindomo)](http://www.mindomo.com/view?m=8cc4f95228f942f8886106d876d1b041)
+  * [Yin Wang's Sina Weblog (Stop update at April 2013](http://blog.sina.com.cn/s/articlelist_1569777711_0_1.html)
 * [Dang Xu's Independent Blog](blog.youxu.info), Software Engineer, Google China
 * (Chinese)张驰原(Chiyuan Zhan): MIT Machine Learning Ph.D Candidate, ZJU-CS
   * [New blog](http://blog.pluskid.org), [Old blog](http://lifegoo.pluskid.org), [Old domain](http://pluskid.lifegoo.com)
