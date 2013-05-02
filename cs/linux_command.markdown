@@ -29,9 +29,16 @@ Index
 * Miscellaneous
   * bc dc cal date lp lpr
   * purge
-* Other tools
+* Other tools and
   * mail, wget, purge
   * zenity - display GTK+ dialog
+
+##Unknown category
+* xclip - command line interface to X selections (clipboard)
+* `hdparm` - _get/set SATA/IDE device parameters_
+  * Usage: SYNOPSIS `hdparm [options] [device ...]`
+  * Description: hdparm provides a command line interface to various kernel interfaces supported by the Linux SATA/PATA/SAS "libata" subsystem and  the  older IDE driver subsystem.  Many newer (2008 and later) USB drive enclosures now also support "SAT" (SCSI-ATA Command Translation) and therefore may also  work  with hdparm.   E.g. recent WD "Passport" models and recent NexStar-3 enclosures.  Some options may work correctly  only  with  the latest kernels.
+
 
 
 
