@@ -547,6 +547,7 @@ Work Related Tools Kit
 ####Online services
 * [About me](https://about.me): Beautiful way to make a bio for people to know you and find what you share.
 * [Avatar](https://en.gravatar.com/): Upload your avatar once and use it on many website.
+  * [A & Milky Way Thumbnail URL](http://www.gravatar.com/avatar/809acac2422892b33d66dbf79088b174.png)
 
 
 
