@@ -6,6 +6,8 @@ Linux Basic Interactive Shell Command
 
 Index
 -----
+###80%
+###20%
 * terminal and shell shortcut key / shell interactive command
 * File system
   * cat cd chmod chown chgrp cksum cmp cp dd du df file fsck fuser ln ls lsattr lsof mkdir mount mv pax pwd rm rmdir size split tee touch type umask

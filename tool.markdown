@@ -248,13 +248,12 @@ Artisan's tools in Computer World
 
 
 ####Other text editor I used
-* On Mac OS X
-  * Byword: On Mac-OS-X, used for markdown writing, you need pay.
-  * [Sublime](http://www.sublimetext.com/2): On Mac-OS-X, most used for Web-Dev.
-  * [Textmate - The missing editor for Mac OS X](http://macromates.com): Beautiful user interface, powerful micro definition, download and edit bundles, improve the develop efficiency, many Rails developer use it to do ruby programming.
+* (Web Dev.) [Sublime](http://www.sublimetext.com/2): Designed for Web Development, support Mac OS X, and Windows as far as I know.
 
-* On Windows
-  * Notepad++: Open source, easy to use.
+* (Mac OS X) Byword: On Mac-OS-X, used for markdown writing, you need pay.
+* (Mac OS X) [Textmate - The missing editor for Mac OS X](http://macromates.com): Beautiful user interface, powerful micro definition, download and edit bundles, improve the develop efficiency, many Rails developer use it to do ruby programming.
+* (Windows) Notepad++: Open source, easy to use.
+  * I use it to view/review source code, process plain-text.
 
 
 
