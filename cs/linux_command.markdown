@@ -32,8 +32,10 @@ Index
   * bc dc cal date lp lpr
   * purge
 * Other tools and
-  * mail, wget, purge
-  * zenity - display GTK+ dialog
+  * `mail`, `wget`, `purge`
+  * `zenity` - display GTK+ dialog
+  * `man ascii` -  ASCII character set encoded in octal, decimal, and hexadecimal - Linux Programmer's Manual
+
 
 ##Unknown category
 * xclip - command line interface to X selections (clipboard)
