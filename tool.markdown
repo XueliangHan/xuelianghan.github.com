@@ -180,7 +180,7 @@ Artisan's tools in Computer World
   * Open and Navigate into `n` line: `vim filename +n`.
   * Open and Navigate into first word match pattern: `vim filename +/wordname`
   * Search - `/word`, `n` to next one.
-  * Search and Replace - `:%s/ori/des/g`.
+  * Search and Replace - `:%s/ori/des/g`, example delete "^M" at the end of each line, `:%s/$//g`, input "^" you need type `Ctrl` + `"v", input "M" you need type `Ctrl` + "m".
   * Delete space: Delete line with spaces: `:g/^$/d`, delete spaces before the first letter of a line: `:%s/^\s*//g`, delete spaces after the last letter of a line: `:%s/\s*$//g`.
 
 * Input mode - Input text

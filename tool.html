@@ -263,7 +263,8 @@
 <li>Open and Navigate into <code>n</code> line: <code>vim filename +n</code>.</li>
 <li>Open and Navigate into first word match pattern: <code>vim filename +/wordname</code></li>
 <li>Search - <code>/word</code>, <code>n</code> to next one.</li>
-<li>Search and Replace - <code>:%s/ori/des/g</code>.</li>
+<li>Search and Replace - <code>:%s/ori/des/g</code>, example delete "^M" at the end of each line, <code>:%s/
+$//g</code>, input "^" you need type <code>Ctrl</code> + <code>"v", input "M" you need type</code>Ctrl` + "m".</li>
 <li>Delete space: Delete line with spaces: <code>:g/^$/d</code>, delete spaces before the first letter of a line: <code>:%s/^\s*//g</code>, delete spaces after the last letter of a line: <code>:%s/\s*$//g</code>.</li>
 </ul></li>
 <li><p>Input mode - Input text
