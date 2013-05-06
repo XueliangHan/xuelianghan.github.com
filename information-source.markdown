@@ -35,6 +35,7 @@ My General Information Source
 * Business
   * [Business Insider](http://www.businessinsider.com/careers)
 * Economics
+  * [The Economist](http://www.economist.com/) - _World News, Politics, Economics, Business & Finance._
   * (Chinese)郎咸平的[新浪博客](http://blog.sina.com.cn/jsmedia)
   * (Chinese)谢国忠(Andy Xie)的[搜狐博客](http://xieguozhong.blog.sohu.com/)：只说出心中真相，阮一峰推荐的一个经济学领域的
 * Expand vision
@@ -49,7 +50,8 @@ My General Information Source
   * [WSJ](http://www.wsj.com)
   * [NPR]
   * [USA Today]
-  * [Wikipedia Today's Front-page]
+  * [Wikipedia Today's Front-page (en)](http://en.wikipedia.org/wiki/Main_Page)
+  * [Google News](https://news.google.com/)
 * Media about China (Chinese Content)
   * [de - 德国之声](http://www.dw.de/在线报道/s-9058), send an empty email to `dw-w@psiphon3.com` to get the software running on windows and android, if there is a problem, send email to `service@dw.de`.
   * [fr - 法国中文国际广播](http://www.chinese.rfi.fr/)
