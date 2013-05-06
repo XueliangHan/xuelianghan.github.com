@@ -45,7 +45,8 @@ perl md.pl $SRC_CS_DOMAIN/networking_command.markdown      > $DES_CS_DOMAIN/netw
 perl md.pl $SRC_CS_DOMAIN/bash.markdown                    > $DES_CS_DOMAIN/bash.html
 perl md.pl $SRC_CS_DOMAIN/LISP.markdown                    > $DES_CS_DOMAIN/LISP.html #
 perl md.pl $SRC_CS_DOMAIN/markdown.markdown                > $DES_CS_DOMAIN/markdown.html
-perl md.pl $SRC_CS_DOMAIN/python.markdown                    > $DES_CS_DOMAIN/python.html
+perl md.pl $SRC_CS_DOMAIN/python.markdown                  > $DES_CS_DOMAIN/python.html
+perl md.pl $SRC_CS_DOMAIN/c.markdown                       > $DES_CS_DOMAIN/c.html
 
 ##master
 perl md.pl $SRC/masters/Alan_Kay.markdown > $DES/masters/Alan_Kay.html
