@@ -17,6 +17,7 @@
 
 ##Other's Precious
 * Yin Wang's [Data Structure Mindmap](http://www.mindomo.com/view?m=925b590ea60143f08654b3c672c4a3e5)
+* [Binary Indexed Trees - Hawstein](http://hawstein.com/posts/binary-indexed-trees.html)
 
 ##1.Searching Algorithms
 * Binary Search

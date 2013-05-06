@@ -44,13 +44,6 @@ TECHNOLOGY(GINR)
 * Technical API Reference
   * [OverAPI](http://overapi.com): A website indexed all API from almost all languages and many techniques.
 
-* Technology News
-  * [Hacker News](https://news.ycombinator.com/):
-  * [Kurzweil Accelerating Intelligence](http://www.kurzweilai.com/)
-  * [MIT Technology Review](http://technologyreview.com/)
-  * [Masable](http://www.masable.com/)
-  * [Slashdot](http://slashdot.com/)
-
 * AI (Artificial Intelligence)
   * [Noam Chomsky on Where Artificial Intelligence Went Wrong](http://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/)
   * Tomaso Poggio - Afterward in "Vision"-2010-2ed
@@ -58,10 +51,7 @@ TECHNOLOGY(GINR)
   * (Chinese&English Articles)[Psychology and Philosophy about Artificial Intelligence](http://newmind40.com/gb.html)
 
 ####IT(Information Technology) (Internet/Web/Software)
-* [ACM TechNews](http://technews.acm.org): Providing timely information for IT professionals three times a week.
-* [TechCrunch](http://techcrunch.com)
-* [The Next Web](http://thenextweb.com)
-* [CNET](http://www.cnet.com)
+
 * KPCB Internet Trend Report (Very Valuable): 
   * [2012](http://s3.amazonaws.com/kpcbweb/files/58/KPCB_Internet_Trends_2012_FINAL.pdf?1340750868)
   * [2011](http://ictvglobal.com/download/Internet%20Trends%202011.pdf)
@@ -69,10 +59,7 @@ TECHNOLOGY(GINR)
   * [弯曲评论](http://www.valleytalk.org/)：科技、人物、潮流。
 
 
-####Computer Science - Solid Foundation
-#####Algorithm
-#####Data Structure
-* [Binary Indexed Trees - Hawstein](http://hawstein.com/posts/binary-indexed-trees.html)
+
 
 
 ###RT (Robotic Technology): 
