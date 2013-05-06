@@ -49,6 +49,7 @@ perl md.pl $SRC_CS_DOMAIN/python.markdown                  > $DES_CS_DOMAIN/pyth
 perl md.pl $SRC_CS_DOMAIN/c.markdown                       > $DES_CS_DOMAIN/c.html
 
 ##master
+perl md.pl $SRC/people-n-master.markdown > $DES/people-n-master.html
 perl md.pl $SRC/masters/Alan_Kay.markdown > $DES/masters/Alan_Kay.html
 perl md.pl $SRC/masters/Steve_Jobs.markdown > $DES/masters/Steve_Jobs.html
 
