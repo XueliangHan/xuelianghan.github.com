@@ -13,6 +13,30 @@ SICP-Scheme (Structure and Interpretation of Computer Pragrams)
 ---------------------------------------------------------
 ###Feelings
 * Scheme is really a secret _weapon_ to learn/practise/train `Algorithm`, you can ignore the low level details and focus on design, implement, and modify your `Algorithm`.
+* LISP (S expression) is really a comfortable and natural way to transform the ideas into program, then the ideas from mind will be excuted in computer. 2013-05-06
+
+###The Mit-Scheme Program Help Information by `Ctrl` + `c`
+* The quit character is `^C` (control-C). When typed, various interrupt options are offered. Type `^C` followed by `?` for a list of options.
+
+* The interrupt character is `^G` (control-G). When typed, scheme will get the ^G character interrupt. The default action is to abort the running program, and to resume the top level read-eval-print loop.
+
+* The terminal stop character is `^Z` (control-Z). When typed, scheme will suspend execution.
+
+* Interrupt option (? for help): 
+  * `^B`: Enter a breakpoint loop.
+  * `^C`: Goto to top level read-eval-print (REP) loop.
+  * `^L`: Clear the screen.
+  * `^U`: Up to previous (lower numbered) REP loop.
+  * `^X`: Abort to current REP loop.
+  * `D`: Debugging: change interpreter flags.
+  * `E`: Examine memory location.
+  * `H`: Print simple information on interrupts.
+  * `I`: Ignore interrupt request.
+  * `Q`: Quit instantly, killing Scheme.
+  * `R`: Hard reset, possibly killing Scheme in the process.
+  * `T`: Stack trace.
+  * `Z`: Quit instantly, suspending Scheme.
+
 
 ###Definitions/Concepts
 * Comment in LISP starts with __;__
@@ -46,6 +70,22 @@ SICP-Scheme (Structure and Interpretation of Computer Pragrams)
 
 ####Recursive evaluate square of X
 * Idea is try untile good enough
+
+###The Elements of Programming
+* __Expression__ - Smallest _unit_ of _combination_ of characters, executed/evaluated by x
+
+* __Primitive expressions__, which represent the simplest entities of the language is concerned with
+  * Numbers and arithmetic operations are primitive data and procedures
+
+* __Means of combination__, by which compound elements are built from simpler ones, and
+  * Nesting of combinations provides a means of combining operations
+
+* __Means of abstraction__, by which compound elements can be named and manipulated as units
+  * Definitions that associate names with values provide a limited means of abstraction
+
+
+* _Procedure definition_, a much more powerful abstraction technique by which a compound operation can be given a name and then referred to as a unit.
+
 
 
 <hr>
