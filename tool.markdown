@@ -20,18 +20,17 @@ Artisan's tools in Computer World
 * Compiler
 * Database
 * Debugger and Debugging
-* Editor (Text Editor I Used: Vi/Vim, Emacs, etc.)
+* Editor (Text Editor I Used: Vi/Vim, Emacs, Sublime, etc.)
 * Language - Specific Computer Programming Languge Environment
 * Version Control System - Git (Linux, Mac OS X)
 
 ###You need platform support to use these tools
 * Unix/Linux Environment Development Tools Kit:
   * * Auto(GNU Make)
-  * Build System - GNU(Autoconf, Autoheader, Automake, Libtool)
+  * * Build System - GNU(Autoconf, Autoheader, Automake, Libtool)
   * Compiler(GCC)
   * * Database(SQLite, MySQL)
   * * Debugger(GDB, DDD)
-  * Version-control(Git)
   * Linux-distro (Arch, Fedora, Ubuntu)
   * * GNU Tool Chain
   * Server(Apache)

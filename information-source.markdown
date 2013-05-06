@@ -10,6 +10,8 @@ Preface
 * Philosophy
   * Instead of using Chrome bookmark, I use this due to more simple and more flexablility.
   * NOT INVOLVED WITH SPECIFIC PERSON, JUST INFORMATION
+* Warning
+  * You set in front of computer and click link blow one after another for no specific purpose, definitely "Information Overloaded" and damage brain, that's not the right way to use this page.
   
 Index
 -------
