@@ -17,20 +17,20 @@ DES_CS_DOMAIN="/home/h/publishing/xuelianghan.github.com/cs"
 
 
 #Site structure
-perl md.pl $SRC/hobby.markdown > $DES/hobby.html
+perl md.pl $SRC/hobby.markdown               > $DES/hobby.html
 
-perl md.pl $SRC/interest.markdown > $DES/interest.html
+perl md.pl $SRC/interest.markdown            > $DES/interest.html
 perl md.pl $SRC/interest_technology.markdown > $DES/interest_technology.html
 #perl md.pl $SRC/language.markdown > $DES/language.html
 
-perl md.pl $SRC/inspiration.markdown > $DES/inspiration.html
-perl md.pl $SRC/information-source.markdown > $DES/information-source.html
+perl md.pl $SRC/inspiration.markdown         > $DES/inspiration.html
+perl md.pl $SRC/information-source.markdown  > $DES/information-source.html
 perl md.pl $SRC/project.markdown > $DES/project.html
-perl md.pl $SRC/resume.markdown > $DES/resume.html
-perl md.pl $SRC/jianli.markdown > $DES/jianli.html
-perl md.pl $SRC/skill.markdown > $DES/skill.html
-perl md.pl $SRC/tool.markdown > $DES/tool.html
-perl md.pl $SRC/misc.markdown > $DES/misc.html
+perl md.pl $SRC/resume.markdown  > $DES/resume.html
+perl md.pl $SRC/jianli.markdown  > $DES/jianli.html
+perl md.pl $SRC/skill.markdown   > $DES/skill.html
+perl md.pl $SRC/tool.markdown    > $DES/tool.html
+perl md.pl $SRC/misc.markdown    > $DES/misc.html
 
 perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
 
@@ -49,9 +49,9 @@ perl md.pl $SRC_CS_DOMAIN/python.markdown                  > $DES_CS_DOMAIN/pyth
 perl md.pl $SRC_CS_DOMAIN/c.markdown                       > $DES_CS_DOMAIN/c.html
 
 ##master
-perl md.pl $SRC/people-n-master.markdown > $DES/people-n-master.html
-perl md.pl $SRC/masters/Alan_Kay.markdown > $DES/masters/Alan_Kay.html
-perl md.pl $SRC/masters/Steve_Jobs.markdown > $DES/masters/Steve_Jobs.html
+perl md.pl $SRC/master-n-people.markdown                   > $DES/master-n-people.html
+perl md.pl $SRC/masters/Alan_Kay.markdown                  > $DES/masters/Alan_Kay.html
+perl md.pl $SRC/masters/Steve_Jobs.markdown                > $DES/masters/Steve_Jobs.html
 
 ##draft
-perl md.pl $SRC/draft/what-is-programming.markdown > $DES/draft/what-is-programming.html
+perl md.pl $SRC/draft/what-is-programming.markdown         > $DES/draft/what-is-programming.html
