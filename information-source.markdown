@@ -107,35 +107,6 @@ Specific Information Source
   * [The Next Web](http://thenextweb.com)
   * [CNET](http://www.cnet.com)
 
-  
-Person's Information Source
----------------------
-###Friends/Fellow/Co-workers
-* [王斌 (Bin Wang)](http://www.crazyhotice.com): Blog on Github, good.
-* [邹宇 (Yu Zou)](http://www.0x90b9.com)
-* [贺宇 (Yu He)](http://www.heyucs.com), [贺宇@tumblr](http://xinyu1607.tumblr.com/)
-
-####Computer Domain 
-* Yin Wang (Shredder Yin)
-  * [New Website 2013 (Hosted on Github)](http://www.yinwang.org)
-  * [Old Website 2006](http://docs.huihoo.com/homepage/shredderyin/), many useful stuff.
-  * [Yin's Mid-Term Memory (Mindmap-mindomo)](http://www.mindomo.com/view?m=8cc4f95228f942f8886106d876d1b041)
-  * [Yin Wang's Sina Weblog (Stop update at April 2013](http://blog.sina.com.cn/s/articlelist_1569777711_0_1.html)
-* [Dang Xu's Independent Blog](blog.youxu.info), Software Engineer, Google China
-* (Chinese)张驰原(Chiyuan Zhan): MIT Machine Learning Ph.D Candidate, ZJU-CS
-  * [New blog](http://blog.pluskid.org), [Old blog](http://lifegoo.pluskid.org), [Old domain](http://pluskid.lifegoo.com)
-  * [resume.pdf](http://pluskid.org/data/resume.pdf)
-* [Robbin的自言自语](http://www.robbinfan.com)：范凯CSDN CTO，JavaEye网站创始人，人生旅程、产品类笔记、技术文档，互联网产品设计、研发、运营、团队建设。
-
-####Other Domain/Field
-* [Lu Wang's Renren Weblog](http://blog.renren.com/blog/44432371/)
-* (Chinese)土木坛子: Ph.D Civil Engineering - Cement field (Construction, Building), [blog](https://tumutanzi.com/)
-* (Chinese)张志强(Zhiqiang Zhang): Ph.D FRM, [Website](http://zhiqiang.org)
-
-####About Blog
-* Personal Weblog+ on blog service
-* Personal Weblog  on IndependentHost
-  * (What I observed, [Original]There have more original writing, most of them are more __open__ to talk/share, and they have more power.)
 
 </body>
 </html>
