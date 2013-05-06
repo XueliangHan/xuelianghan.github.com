@@ -1,6 +1,6 @@
 
 
-<div align=center><h1>Masters and People</h2></div>
+<div align=center><h1>Masters and People</h1></div>
 
 Index
 ------
@@ -72,7 +72,7 @@ Index
 
 
 
-<div align=center><h1>Inspirations from Auto/Bio-Graphy of Master/Tutor/Mentor</h2></div>
+<div align=center><h1>Inspirations from Auto/Bio-Graphy of Master/Tutor/Mentor</h1></div>
 ==========================================================
 ##ABG_Computer-Science gt 4
 * Alan Kay 艾伦-凯 4.5X
@@ -112,7 +112,7 @@ Index
 
 * Bill Joey 4.5X
   * Sun Founder
-  * (Networking) Wrote first TCP/IP protocol stack on BSD in two weeks, and said it was not big deal, "You read the protocol, write the code".
+  * (Networking) Wrote first TCP/IP protocol stack on BSD in two weeks, and said it was not big deal, "You read the protocol, you write the code".
   * Wrote vi.
 
 * [Eric Steven Raymond](http://www.catb.org/~esr)
@@ -255,7 +255,7 @@ Index
   * [我始终不信努力奋斗的意义](http://blog.renren.com/blog/44432371/811862152)
 
 
-<div align=center><h1>People</h2></div>
+<div align=center><h1>People</h1></div>
 
   
 ###Friends/Fellow/Co-workers
