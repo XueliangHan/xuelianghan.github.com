@@ -35,6 +35,7 @@ Index
   * `mail`, `wget`, `purge`
   * `zenity` - display GTK+ dialog
   * `man ascii` -  ASCII character set encoded in octal, decimal, and hexadecimal - Linux Programmer's Manual
+  * `screen` waiting 2013-05-06
 
 
 ##Unknown category
