@@ -202,9 +202,10 @@
 <li>Installations</li>
 <li>Usage
 <ul>
-<li>Command mode</li>
+<li>Command mode (the default mode when you enter Vi/Vim).   </li>
 <li>Lastline mode</li>
 <li>Input mode</li>
+<li>Navigation use shortcut key (Moving cursor to wherever you like)</li>
 </ul></li>
 </ul>
 
@@ -247,26 +248,27 @@
 <li>Command mode (the default mode when you enter Vi/Vim).   </li>
 <li>Last line mode.  </li>
 <li>Input mode.  </li>
-<li>Navigation use shortcut key (Moving cursor to wherever you like)</li>
 </ul></li>
 <li><p>Command mode</p>
 
 <ul>
-<li>Copy &amp; Paste cross files - From: "*yny, To: "*p</li>
+<li>Copy &amp; Paste cross files - copy from by typing <code>"*yny</code> (<code>n</code> - how many lines you want to copy), paste into another file by typing <code>"*p</code>, and you can check the data currently in register by typing command (press <code>ESC first)</code>:register`.</li>
 <li>Delete</li>
 <li>Match (), [], {}: "%"</li>
 </ul></li>
 <li><p>Last line mode - excute command</p>
 
 <ul>
+<li>Delete space: Delete line with spaces: <code>:g/^$/d</code>, delete spaces before the first letter of a line: <code>:%s/^\s*//g</code>, delete spaces after the last letter of a line: <code>:%s/\s*$//g</code>.</li>
 <li>Excute external command: <code>!</code></li>
 <li>Filetype set: <code>:set filetype=c</code></li>
 <li>Open and Navigate into <code>n</code> line: <code>vim filename +n</code>.</li>
 <li>Open and Navigate into first word match pattern: <code>vim filename +/wordname</code></li>
 <li>Search - <code>/word</code>, <code>n</code> to next one.</li>
 <li>Search and Replace - <code>:%s/ori/des/g</code>, example delete "^M" at the end of each line, <code>:%s/
-$//g</code>, input "^" you need type <code>Ctrl</code> + <code>"v", input "M" you need type</code>Ctrl` + "m".</li>
-<li>Delete space: Delete line with spaces: <code>:g/^$/d</code>, delete spaces before the first letter of a line: <code>:%s/^\s*//g</code>, delete spaces after the last letter of a line: <code>:%s/\s*$//g</code>.</li>
+$//g</code>, in order to input <code>^</code> you need type <code>Ctrl</code> + <code>v</code>, input <code>M</code> you need type <code>Ctrl</code> + <code>m</code>.</li>
+<li>Split screen/window by command <code>:split</code> then typing <code>:open 'filename'</code> to edit.</li>
+<li>Split screen/window vertically by command <code>:split</code> then typing <code>:open 'filename'</code> to edit.</li>
 </ul></li>
 <li><p>Input mode - Input text
 <ul>

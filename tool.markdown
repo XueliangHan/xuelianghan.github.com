@@ -138,9 +138,10 @@ Artisan's tools in Computer World
 * Tutorials
 * Installations
 * Usage
-  * Command mode
+  * Command mode (the default mode when you enter Vi/Vim).   
   * Lastline mode
   * Input mode
+  * Navigation use shortcut key (Moving cursor to wherever you like)
 
 
 #####Content of Vi/Vim
@@ -166,21 +167,22 @@ Artisan's tools in Computer World
   * Command mode (the default mode when you enter Vi/Vim).   
   * Last line mode.  
   * Input mode.  
-  * Navigation use shortcut key (Moving cursor to wherever you like)
 
 * Command mode
-  * Copy & Paste cross files - From: "\*yny, To: "\*p
+  * Copy & Paste cross files - copy from by typing `"*yny` (`n` - how many lines you want to copy), paste into another file by typing `"*p`, and you can check the data currently in register by typing command (press `ESC first) `:register`.
   * Delete
   * Match (), [], {}: "%"
 
 * Last line mode - excute command
+  * Delete space: Delete line with spaces: `:g/^$/d`, delete spaces before the first letter of a line: `:%s/^\s*//g`, delete spaces after the last letter of a line: `:%s/\s*$//g`.
   * Excute external command: `!`
   * Filetype set: `:set filetype=c`
   * Open and Navigate into `n` line: `vim filename +n`.
   * Open and Navigate into first word match pattern: `vim filename +/wordname`
   * Search - `/word`, `n` to next one.
-  * Search and Replace - `:%s/ori/des/g`, example delete "^M" at the end of each line, `:%s/$//g`, input "^" you need type `Ctrl` + `"v", input "M" you need type `Ctrl` + "m".
-  * Delete space: Delete line with spaces: `:g/^$/d`, delete spaces before the first letter of a line: `:%s/^\s*//g`, delete spaces after the last letter of a line: `:%s/\s*$//g`.
+  * Search and Replace - `:%s/ori/des/g`, example delete "^M" at the end of each line, `:%s/$//g`, in order to input `^` you need type `Ctrl` + `v`, input `M` you need type `Ctrl` + `m`.
+  * Split screen/window by command `:split` then typing `:open 'filename'` to edit.
+  * Split screen/window vertically by command `:split` then typing `:open 'filename'` to edit.
 
 * Input mode - Input text
   * Insert
