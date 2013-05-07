@@ -15,13 +15,13 @@ Index
   * PHOTOGRAPHY of (Universe/Stars/Sky/Landscape) [Inspired]
   * Music
   * Film/Movie
-* Reading
+  * Reading
+  * Writing
 * Sports & Fitness
 * Travel - Different Area/Country/Nation/State with different Language/Culture
-* Writing
 
 <hr>
-Art & : Film, Music, Painting, Photography, Reading
+Art & Literature: Film, Music, Painting, Photography, Reading
 ----------------------------------------------------------------
 ###READING
 * __More Reading, Less Internet Surfing.__
@@ -60,20 +60,18 @@ Art & : Film, Music, Painting, Photography, Reading
 
 
 ###MUSIC
-* Cognition: Music, spiritual energy of human.
+* Cognition of Music - It is a spiritual energy source for human kind.
+* A film about how amazing the music is - August Rush (2007): [on IMDB](http://www.imdb.com/title/tt0426931/), [on Wikipedia](http://en.wikipedia.org/wiki/August_Rush), Note: Very beautiful, amazing, I can feel the power of music, it's like my neuro-network have been programmed by music.
+* A course about listening to music from Yale university (Open Yale), [Listening to Music - Open Yale Course](http://oyc.yale.edu/music/musi-112) by [Prof. Craig Wright]
 
-* Artist
-  * Beyond
+####My playlist
+* Programming - When I do hacking/programming, I like the tracks from the film `The Social Network` by Trent Reznor and Atticus Ross, [listen it online at XiaMi (China)](http://www.xiami.com/album/406012), [maglink](magnet:?xt=urn:btih:8f8445d0a78c9df42169b4fd1690b208ef886b40&dn=trent+reznor+and+atticus+ross+the+social+network+ost+web+2010+daa&tr=http%3A%2F%2Fexodus.1337x.org%2Fannounce)
 
-* Playlist
+* Friends - 
   * Friend by Huajian Zhou, Chinese content.
-  * (Film Track) "The Social Network", Trent Reznor and Atticus Ross, [listen it online at XiaMi (China)](http://www.xiami.com/album/406012), [maglink](magnet:?xt=urn:btih:8f8445d0a78c9df42169b4fd1690b208ef886b40&dn=trent+reznor+and+atticus+ross+the+social+network+ost+web+2010+daa&tr=http%3A%2F%2Fexodus.1337x.org%2Fannounce)
 
-* Course Related to Music
-  * [Listening to Music - Open Yale Course](http://oyc.yale.edu/music/musi-112) by [Prof. Craig Wright]
+* Beyond - About beyond the limit, the music from `Beyond`.
 
-* Film related to Music
-  * August Rush (2007): [on IMDB](http://www.imdb.com/title/tt0426931/), [on Wikipedia](http://en.wikipedia.org/wiki/August_Rush), Note: Very beautiful, amazing, I can feel the power of music, it's like my neuro-network have been programmed by music.
 
 
 
