@@ -148,6 +148,8 @@ Artisan's tools in Computer World
 * See Vi/Vim master using Vi/Vim
 
 #####Tutorials
+* [Vi](http://www.worldtimzone.com/res/vi.html) - write with markdown.
+* Daniel Gryniewicz / dang@fprintf.net, [Vim Commands Cheat Sheet](http://www.fprintf.net/vimCheatSheet.html) - this guy had a _Hacker Icon_ at bottom of the webpage too.
 * Chinese Tutorials
   * [CoolShell's Vim short course](http://coolshell.cn/articles/5426.html)
   * [Advanced Vi/Vim](http://easwy.com/blog/archives/advanced-vim-skills-catalog/)
