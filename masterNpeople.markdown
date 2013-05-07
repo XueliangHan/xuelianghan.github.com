@@ -1,6 +1,8 @@
 
 
-<div align=center><h1>Masters and People</h1></div>
+<?xml version="1.0" encoding="utf-8"?>
+<meta charset="utf-8">
+<div align="center"><h1>Masters and People</h1></div>
 
 Index
 ------
