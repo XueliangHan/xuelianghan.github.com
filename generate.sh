@@ -17,6 +17,7 @@ DES_CS_DOMAIN="/home/h/publishing/xuelianghan.github.com/cs"
 
 
 #Site structure
+perl md.pl $SRC/quote.markdown               > $DES/quote.html
 perl md.pl $SRC/hobby.markdown               > $DES/hobby.html
 
 perl md.pl $SRC/interest.markdown            > $DES/interest.html
