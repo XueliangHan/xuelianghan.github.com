@@ -67,6 +67,7 @@ TECHNOLOGY(GINR)
   * [Arduino](http://www.arduino.cc/): For anyone interested in creating interactive objects or environments.
   * [Lego Mindstorms](http://mindstorms.lego.com/): Create small, customizable and programmable robots.
 * [TED: Vijay Kumar: Robots that fly ... and cooperate](http://www.ted.com/talks/lang/en/vijay_kumar_robots_that_fly_and_cooperate.html) by Prof. [Vijay Kumar](http://www.seas.upenn.edu/~kumar)
+* Google's self driving car gathers 750 MB(megabytes) data per second, it is capturing every single thing that it sees moving - cars, trucks, birds, rooling balls, dropped cigarette butts, and fusing all that together to make its decision while driving. I'm curiosity about the operating system it used (real time system?), the storage system it used, the data network it used.
 
 * Technology Related:
   * [Solve For <X>](https://www.solveforx.com/): A forum to encourage and amplify technology-based moonshot thinking and collaboration.
