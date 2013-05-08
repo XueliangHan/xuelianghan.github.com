@@ -1,22 +1,27 @@
 <html><head><title>Tools</title></head><body>
 
-<hr>
+
 Artisan's tools in Computer World
 ===================================
+
+<hr>
 * This is a place where I learn how to use tools
 * The best way to master a tools is to use it in the real world to do some parctical task, and it's better have a master walk with you, so you will know which shouldn't do or don't need to do, and when things go wrong, you can fix it very quickly with the help of master, this kind of learning stragety will help you mastering the tools as quick as possible at the beginning stage.
 * (I write here as a mark) The limit which I can't beyond now - The religion war about the tools(compiler/database/editor/operating system/version control system/etc.), yes, religion in computer world, I never thought about that before, or I never thought religion will appeared in the computer world, in my work, in my professional career, unfortunately, I was affected by the environment I grow up with, I was too young to have ability to distinguish right and wrong, kind and evil, and there are no masters around me give advices, most information on the Internet are wrong and low quality, especially carried by Chinese language, and I was devoted my time and energy into that debate, a debate may won't have an end after my death, the tools are matter, what matter is what you are doing with them, just like the computer programming language - [Advice From An Old Programmer](http://hackecho.com/2011/06/advice-from-an-old-programmer/): At the end of the book "Learn Python The Hard Way, 2nd Edition".
 
-
 * (Reminder - Things need to do) Data transfer from word document into here.
 
 
-<hr>
+
+
 ##Index
+
+<hr>
 * Links
   * [Download Professional Software (Computer Technology)](http://download.huihoo.com/)
 
 ###Generic/Cross Platform Software Development Tools
+
 * Compiler
 * Database
 * Debugger and Debugging
@@ -24,7 +29,9 @@ Artisan's tools in Computer World
 * Language - Specific Computer Programming Languge Environment
 * Version Control System - Git (Linux, Mac OS X)
 
+
 ###You need platform support to use these tools
+
 * Unix/Linux Environment Development Tools Kit:
   * * Auto(GNU Make)
   * * Build System - GNU(Autoconf, Autoheader, Automake, Libtool)
@@ -59,7 +66,9 @@ Artisan's tools in Computer World
 
 ###Compiler
 <hr>
+
 ####GCC(the GNU Compiler Collection)
+
 * [GCC homepage at GNU project](http://gcc.gnu.org)
 * [GCC Compiler Collection - Wikipedia](en.wikipedia.org/wiki/GNU_Compiler_Collection)
 * [GCC online documentation](http://gcc.gnu.org/onlinedocs/)
@@ -91,6 +100,7 @@ Artisan's tools in Computer World
 
 <hr>
 ###Database
+
 * MySQL
   * [MySQL-Download](http://dev.mysql.com/downloads/mysql)
 
@@ -102,8 +112,11 @@ Artisan's tools in Computer World
 
 
 ###Debugger and Debugging
+
 <hr>
+
 ####GDB (The GNU Project Debugger)
+
 * [GBD - Wikipedia](http://en.wikipedia.org/wiki/GDB)
 * [GDB - GNU Project](http://www.gnu.org/software/gdb/)
 
@@ -125,7 +138,9 @@ Artisan's tools in Computer World
 
 ###Editor (Text Editor I Used)
 <hr>
+
 ####Editor is matter
+
 * [Life's Too Short - Write Fast Code (part2), Steve Souders, March 5, 2009, Google Tech Talk on Youtube](https://www.youtube.com/watch?v=IUBw5e-zPXw)
 * In order to get one specific thing done, the editor I use.
   * [A very good answer on StackOverFlow about how to use Emacs and Vim to get different things done](http://stackoverflow.com/a/592265/1805394): Brian Carper use Emacs for LISP, CSS, JavaScript and such, and use Vim for Ruby, Python, Perl, PHP, BASH, Plaintext, and almost anything else.
@@ -182,7 +197,8 @@ Artisan's tools in Computer World
   * Open and Navigate into `n` line: `vim filename +n`.
   * Open and Navigate into first word match pattern: `vim filename +/wordname`
   * Search - `/word`, `n` to next one.
-  * Search and Replace - `:%s/ori/des/g`, example delete "^M" at the end of each line, `:%s/$//g`, in order to input `^` you need type `Ctrl` + `v`, input `M` you need type `Ctrl` + `m`.
+  * Search and Replace - `:%s/ori/des/g`, example delete "^M" at the end of each line, `:%s/
+$//g`, in order to input `^` you need type `Ctrl` + `v`, input `M` you need type `Ctrl` + `m`.
   * Split screen/window by command `:split` then typing `:open 'filename'` to edit.
   * Split screen/window vertically by command `:split` then typing `:open 'filename'` to edit.
 
@@ -251,7 +267,13 @@ Artisan's tools in Computer World
 
 
 ####Other text editor I used
+
 * (Web Dev.) [Sublime](http://www.sublimetext.com/2): Designed for Web Development, support Mac OS X, and Windows as far as I know.
+  * 1.Install sublime
+  * 2.Install Package Control: (1) press `Ctrl` + `~`, (2) copy code `import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())` into the command line, hit `Enter` key, (3) restart sublime.
+  * 3.Install Markdown Preview: (1) press `Ctrl` + `Shift` + `p`, (2) type `pci` (stands for Package Control: Install Package), (3) input `Markdown Preview`
+  * 4.Edit file and preview markdown document: (1)`Ctrl` + `n` to create a new file, (2)type `Ctrl` + `Shift` + `p` then type `ssmm` (stands for Set Syntax: Markdown), (3) type `Ctrl` + `Shift` + `p` then type `mppb` (stands for Markdown Preview: current file in broswer).
+  * 5.Tunnig: (1) Key bindings, in `Preferences -> Key Bindings User` copy code `[{ "keys": ["ctrl+alt+p"], "command": "markdown_preview", "args": { "target": "browser"} }]` and paste into it. (2) unsatisfied with the default CSS, modify `Sublime Text 2/Packages/Markdown Preview/markdown.css`.
 
 * (Mac OS X) Byword: On Mac-OS-X, used for markdown writing, you need pay.
 * (Mac OS X) [Textmate - The missing editor for Mac OS X](http://macromates.com): Beautiful user interface, powerful micro definition, download and edit bundles, improve the develop efficiency, many Rails developer use it to do ruby programming.
