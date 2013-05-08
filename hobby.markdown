@@ -12,11 +12,12 @@ My hobbies
 Index
 =====
 * Art & Literature: Film, Music, Painting, Photography, Reading
+  * Reading
+  * Writing
+  * Time-Lapse
   * PHOTOGRAPHY of (Universe/Stars/Sky/Landscape) [Inspired]
   * Music
   * Film/Movie
-  * Reading
-  * Writing
 * Sports & Fitness
 * Travel - Different Area/Country/Nation/State with different Language/Culture
 
@@ -36,6 +37,11 @@ Art & Literature: Film, Music, Painting, Photography, Reading
 ###Writing
 * Blog and Bloging
   * (Unread)[Dorie Clark](http://www.dorieclark.com/), [If You're Serious About Ideas, Get Serious About Blogging](http://blogs.hbr.org/cs/2012/12/if_youre_serious_about_ideas_g.html)
+
+###Time-Lapse
+* [Dustin Farrell on Twitter](twitter.com/dustion_farrell), [Crewwesting](http://www.crewwesting.com)
+* [Dustin Farrell Time-Lapse Video of Arizona and Utah Skies Video](http://www.youtube.com/watch?v=Lks1XuFC4x0), you can [download it to your computer by using KeepVid](http://keepvid.com/?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLks1XuFC4x0)
+Verything even death is losing it's power in front of the _Nature_ and _Universe_, the music is fantastic
 
 ###PHOTOGRAPHY of (Universe/Stars/Sky/Landscape) [Inspired]
 ####Collections
