@@ -1,9 +1,8 @@
 
 
 <?xml version="1.0" encoding="utf-8"?>
-<html lang="zh-CN">
 <head>
-    <meta charset="utf-8">
+    <meta charset="GBK">
     <title>Masters and People</title>
 </head>
 <body>
@@ -12,6 +11,7 @@
 Index
 ------
 ###Latest
+* Sebastian Thrun (Passion, and a gentle disrespect for rules)
 
 ###Masters
 * Computer Science
