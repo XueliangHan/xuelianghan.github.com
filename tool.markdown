@@ -273,12 +273,12 @@ $//g`, in order to input `^` you need type `Ctrl` + `v`, input `M` you need type
   * 2.Install Package Control: (1) press `Ctrl` + `~`, (2) copy code `import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())` into the command line, hit `Enter` key, (3) restart sublime.
   * 3.Install Markdown Preview: (1) press `Ctrl` + `Shift` + `p`, (2) type `pci` (stands for Package Control: Install Package), (3) input `Markdown Preview`
   * 4.Edit file and preview markdown document: (1)`Ctrl` + `n` to create a new file, (2)type `Ctrl` + `Shift` + `p` then type `ssmm` (stands for Set Syntax: Markdown), (3) type `Ctrl` + `Shift` + `p` then type `mppb` (stands for Markdown Preview: current file in broswer).
-  * 5.Tunnig: (1) Key bindings, in `Preferences -> Key Bindings User` copy code `[{ "keys": ["ctrl+alt+p"], "command": "markdown_preview", "args": { "target": "browser"} }]` and paste into it. (2) unsatisfied with the default CSS, modify `Sublime Text 2/Packages/Markdown Preview/markdown.css`.
+  * 5.Tunnig: (1) Key bindings, in `Preferences -> Key Bindings User` copy code `[{ "keys": ["ctrl+alt+p"], "command": "markdown\_preview", "args": { "target": "browser"} }]` and paste into it. (2) unsatisfied with the default CSS, modify `Sublime Text 2/Packages/Markdown Preview/markdown.css`.
 
 * (Mac OS X) Byword: On Mac-OS-X, used for markdown writing, you need pay.
 * (Mac OS X) [Textmate - The missing editor for Mac OS X](http://macromates.com): Beautiful user interface, powerful micro definition, download and edit bundles, improve the develop efficiency, many Rails developer use it to do ruby programming.
 * (Windows) Notepad++: Open source, easy to use.
-  * I use it to view/review source code, process plain-text.
+  * I use it to view/review source code, process plain-text, but as the development of `Sublime`, the `Notepad++` is losing it's user and becoming a text processing tools.
 
 
 

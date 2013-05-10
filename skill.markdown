@@ -17,6 +17,7 @@ Index
   * Communication
   * Teamwork
   * Time Management
+  * Writing
 * Effective and Efficient
 * Searching, Retrivel Skills
 
