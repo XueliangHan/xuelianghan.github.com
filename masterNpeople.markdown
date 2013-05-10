@@ -1,11 +1,18 @@
 
 
 <?xml version="1.0" encoding="utf-8"?>
-<meta charset="utf-8">
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <title>Masters and People</title>
+</head>
+<body>
 <div align="center"><h1>Masters and People</h1></div>
 
 Index
 ------
+###Latest
+
 ###Masters
 * Computer Science
   * Alan Kay
@@ -24,6 +31,9 @@ Index
   * Richard Stallman
   * Eric Zhivalyuk
 
+* Technology
+  * Ray Kurzweil
+
 * Science 
   * Albert Einstein
   * John Von Neumann
@@ -32,15 +42,12 @@ Index
   * Michio Kaku
   * Andy Yao
 
-* Technology
-  * Ray Kurzweil
-
 * Artist
   * Pablo Picssso
 
 * Entrepreneur, Enterprise, and Company-Leader
   * Steve Jobs
-  * Mark Zuckburger
+  * Mark Zuckerberg
   * Eric Schmidt
   * Paul Graham
   * Kaifu Lee
@@ -195,7 +202,12 @@ Index
 * 阮一峰，[乔布斯的告别](http://www.ruanyifeng.com/blog/2011/10/steve_jobs_farewell.html)，2013-03-25
 
 
-###Mark Zuckburger
+###Mark Zuckerberg
+* The Facebook Slogan
+  * Code wins argument
+  * Move fast and break things
+  * Done is better than perfect
+  * Stay focus and keep shipping
 * 知乎阅读|电影《社交网络》给你最深的感受是什么？执行力！
 也许听起来有点残酷，但在互联网世界，创意（ideas）是不值钱的。注意一下影片中这些有意为之的情景：
 当扎克伯格被女友抛下后（虽然是虚构的），他当晚就立即做出了一个大头照对比评分的应用 FaceMash。
@@ -213,6 +225,15 @@ Index
 其中 20 个人，得到了少量用户。
 其中 10 个人，开始展露头角。
 最后只有几个人，抢到了这个时间窗口，快速抓住历史机遇，跑到了其他人前面。 
+
+###Sebastian Thrun (Passion, and a gentle disrespect for rules)
+* Short bio: [Sebastian Thrun (Homepage)](http://robots.stanford.edu), a Standford Professor, Google X founder (Self-driving cars, Google Glass, etc), and CEO of Udacity.
+* More real data about him by himself: He did a [AMA on Reddit](http://www.reddit.com/r/IAmA/comments/v59z3/iam_sebastian_thrun_stanford_professor_google_x/)
+  * I was just the opposite. I didn't think I had a talent. I honestly didn't care much about school, and it took me until college to realize I am actually good in math.
+  * Two things I always had were: passion, and a gentle disrespect for rules. If people say it can't be done, then likely those people are wrong. But instead of arguing things, I really tried to do things, and to keep my mind open for learning new things.
+  * So be passionate, try things, and when you get stuck don't give up. See it as an opportunity to learn something new. Every wall can be climbed, any ocean can be crossed.
+* [Alex MacCaw, What would you do if you know that you wouldn't fail?](http://blog.alexmaccaw.com/what-would-you-do-if-you-knew-that-you-wouldnt-fail) - Giving a new thought about confidence, and release the presure on concerning the failure.
+
 
 
 ###Eric Schmidt 4X
@@ -303,4 +324,5 @@ Index
 * Personal Weblog  on IndependentHost
   * (What I observed, [Original]There have more original writing, most of them are more __open__ to talk/share, and they have more power.)
 
-
+</body>
+</html>
