@@ -23,7 +23,7 @@
 * Binary Search
   * The idea behind the _Binary Search_ is that __recursive__ __divide__ the whole into two part each, and __conquer__ it then.
   * Pre-condition to use _binary search_ is that your sequence must be ordered.
-  * [My binarysearch](./source/binary_search.c.txt): Time:O(logn)
+  * [My binarysearch](./code/algorithm/binary_search.c.txt): Time:O(logn)
 
 
 ##2.Sorting Algorithms
@@ -31,12 +31,12 @@
 
 * Quick Sort
   * The idea behind the __Quick Sort__ algorihms is that reducing the full scaning time to log(n) times by using _devide and conquer_.
-  * [My quicksort](./source/quick_sort.c.txt): Time:O(nlogn)
+  * [My quicksort](./code/algorithm/quick_sort.c.txt): Time:O(nlogn)
 
 
 ##3.Number
 * Ugly Number
-  * [My ugly number source code](./source/number_ugly.cpp.txt): Time:O(n), SPace:O(n).
+  * [My ugly number source code](./code/algorithm/number_ugly.cpp.txt): Time:O(n), SPace:O(n).
 * Waiting lists
   * Prime Number
   * Prime Number - Pairs of Prime Numbers
