@@ -11,13 +11,82 @@
 
 <hr>
 
+<h2>Book</h2>
+
+<ul>
+<li>"Practice Common LISP"</li>
+<li>"Paradigms of Artifical Intelligence Programming"</li>
+<li>"Cases studies in common LISP"</li>
+</ul>
+
+<hr>
+
+<h2>Blog</h2>
+
+<ul>
+<li><a href="http://www.defmacro.org">Slava Akhmechet</a>
+<ul>
+<li><a href="http://www.defmacro.org/ramblings/fp.html">Functional Programming For The Rest of Us</a></li>
+<li><a href="http://www.defmacro.org/ramblings/lisp.html">The Nature of Lisp</a></li>
+</ul></li>
+</ul>
+
+<hr>
+
+<h2>Others people's mention</h2>
+
+<ul>
+<li>LISP in Kurzweil's Book "How to Create A MIND - The Secret of Human Thought Revealed". Chapter 7 - The Biologically Inspired Digital Neocortex. Section 6: LISP and Cycl, 2012.</li>
+<li>LISP codes from masters
+<ul>
+<li><a href="./code/lisp/acl2.lisp">acl2 (ANSI Common Lisp Code).lisp</a>, <a href="">backup address</a></li>
+<li><a href="./code/lisp/cint.lisp">cint (Steele's Call or cc Eval).lisp</a>, <a href="">backup address</a></li>
+<li><a href="./code/lisp/glsbq.lisp">glsbq (Steele's Backquote).lisp</a>, <a href="">backup address</a></li>
+<li><a href="./code/lisp/jmc.lisp">jmc (McCarthy's Original Lisp).lisp</a>, <a href="">backup address</a></li>
+<li><a href="./code/lisp/onlisp.lisp">onlisp.lisp</a>, <a href="">backup address</a></li>
+<li><a href="./code/lisp/utx.lisp">utx (More Lisp Utilities).lisp</a>, <a href="">backup address</a></li>
+</ul></li>
+<li><a href="http://byvoid.github.com/slides/apio-fp/index.html">(Chinese) Function Programming Tutorials</a></li>
+</ul>
+
+<hr>
+
+<h2>Project from Interest of want to figure out how computer works</h2>
+
+<h3>LISP Interpreter</h3>
+
+<ul>
+<li>Write a LISP interpreter using LISP.</li>
+</ul>
+
+<h3>LISP OS</h3>
+
+<ul>
+<li>Wirte a Operating System with LISP.</li>
+<li>Maybe what called <code>LISP Machine</code> which beated by UNIX on market.</li>
+</ul>
+
+<h3>LISP on Web Dev.</h3>
+
+<ul>
+<li><a href="https://www.google.com.hk/search?q=lisp+web+development+tutorial&amp;aq=0&amp;oq=LISP+web+development+tu&amp;aqs=chrome.1.57j0.6576&amp;ie=UTF-8">LISP web development tutorial - Google Search</a></li>
+<li><a href="https://www.google.com.hk/search?q=lisp+web+development+framework&amp;aq=0&amp;oq=LISP+web+development&amp;aqs=chrome.1.57j0l3j62l2.7459&amp;ie=UTF-8">LISP web development framework - Google Search</a></li>
+<li><a href="http://racket-lang.org">Racket</a> Clues
+<ul>
+<li>Used by <a href="https://github.com/yinwang0">Yin Wang</a> in his project - <a href="https://github.com/yinwang0/ydiff">ydiff</a></li>
+<li>Mentioned by Question of StackOverflow - <a href="http://stackoverflow.com/questions/1275547/how-i-can-do-web-programming-with-lisp-or-scheme">How I Can do web programming with Lisp or Scheme?</a>.</li>
+</ul></li>
+</ul>
+
+<hr>
+
 <h2>SICP-Scheme (Structure and Interpretation of Computer Pragrams)</h2>
 
 <h3>Feelings</h3>
 
 <ul>
 <li>Scheme is really a secret <em>weapon</em> to learn/practise/train <code>Algorithm</code>, you can ignore the low level details and focus on design, implement, and modify your <code>Algorithm</code>.</li>
-<li>LISP (S expression) is really a comfortable and natural way to transform the ideas into program, then the ideas from mind will be excuted in computer. 2013-05-06</li>
+<li>LISP (S expression) is really a comfortable and natural way to transform the ideas to program, which means the ideas from mind will be excuted in computer. 2013-05-06</li>
 </ul>
 
 <h3>The Mit-Scheme Program Help Information by <code>Ctrl</code> + <code>c</code></h3>
@@ -45,7 +114,7 @@
 </ul></li>
 </ul>
 
-<h3>Definitions/Concepts</h3>
+<h3>LISP Definitions/Concepts</h3>
 
 <ul>
 <li>Comment in LISP starts with <strong>;</strong></li>
@@ -55,6 +124,10 @@
 <li><code>cond</code> is short of condition, mean case.</li>
 </ul></li>
 <li><code>s-expression</code></li>
+<li><strong>if</strong> <code>(if &lt;predicate&gt; &lt;consequent&gt; &lt;alternative&gt;)</code></li>
+<li><strong>and</strong> <code>(and &lt;e1&gt; ... &lt;en&gt;)</code></li>
+<li><strong>or</strong> <code>(or &lt;e1&gt; ... &lt;en&gt;)</code></li>
+<li><strong>not</strong> <code>(not &lt;e&gt;)</code></li>
 </ul>
 
 <h3>Techniques to control complexity</h3>
@@ -115,63 +188,18 @@ else if (x >  0) x=x;  </li>
 <li><p><em>Procedure definition</em>, a much more powerful abstraction technique by which a compound operation can be given a name and then referred to as a unit.</p></li>
 </ul>
 
-<hr>
-
-<h2>Others people's mention</h2>
+<h2>Exercise</h2>
 
 <ul>
-<li>LISP in Kurzweil's Book "How to Create A MIND - The Secret of Human Thought Revealed". Chapter 7 - The Biologically Inspired Digital Neocortex. Section 6: LISP and Cycl, 2012.</li>
-<li><a href="http://byvoid.github.com/slides/apio-fp/index.html">(Chinese) Function Programming Tutorials</a></li>
-</ul>
-
-<hr>
-
-<h2>Project from Interest of want to figure out how computer works</h2>
-
-<h3>LISP Interpreter</h3>
-
+<li><strong>Passed</strong>: 1.1, 1.2, 1.4</li>
+<li>2.Need a clear mind: 1.2</li>
+<li>3.Need more knowledge: 1.5</li>
+<li>1.2 Translate the following expression into prefix form <em>"(5+4+(2-(3-(6+4/3))))/(3*(6-2)*(2-7))"</em>, 
 <ul>
-<li>Write a LISP interpreter using LISP.</li>
-</ul>
-
-<h3>LISP OS</h3>
-
-<ul>
-<li>Wirte a Operating System with LISP.</li>
-<li>Maybe what called <code>LISP Machine</code> which beated by UNIX on market.</li>
-</ul>
-
-<h3>LISP on Web Dev.</h3>
-
-<ul>
-<li><a href="https://www.google.com.hk/search?q=lisp+web+development+tutorial&amp;aq=0&amp;oq=LISP+web+development+tu&amp;aqs=chrome.1.57j0.6576&amp;ie=UTF-8">LISP web development tutorial - Google Search</a></li>
-<li><a href="https://www.google.com.hk/search?q=lisp+web+development+framework&amp;aq=0&amp;oq=LISP+web+development&amp;aqs=chrome.1.57j0l3j62l2.7459&amp;ie=UTF-8">LISP web development framework - Google Search</a></li>
-<li><a href="http://racket-lang.org">Racket</a> Clues
-<ul>
-<li>Used by <a href="https://github.com/yinwang0">Yin Wang</a> in his project - <a href="https://github.com/yinwang0/ydiff">ydiff</a></li>
-<li>Mentioned by Question of StackOverflow - <a href="http://stackoverflow.com/questions/1275547/how-i-can-do-web-programming-with-lisp-or-scheme">How I Can do web programming with Lisp or Scheme?</a>.</li>
-</ul></li>
-</ul>
-
-<hr>
-
-<h2>Book</h2>
-
-<ul>
-<li>"Practice Common LISP"</li>
-<li>"Paradigms of Artifical Intelligence Programming"</li>
-<li>"Cases studies in common LISP"</li>
-</ul>
-
-<hr>
-
-<h2>Blog</h2>
-
-<ul>
-<li><a href="http://www.defmacro.org">Slava Akhmechet</a>
-<ul>
-<li><a href="http://www.defmacro.org/ramblings/fp.html">Functional Programming For The Rest of Us</a></li>
-<li><a href="http://www.defmacro.org/ramblings/lisp.html">The Nature of Lisp</a></li>
+<li>(/</li>
+<li>(+ 5 4 (- 2 3 (+ 6 (/ 4 3))))</li>
+<li>(* 3 (- 6 2) (- 2 7))</li>
+<li>)</li>
 </ul></li>
 </ul>
 

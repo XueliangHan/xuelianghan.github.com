@@ -9,11 +9,58 @@ LISP: Lisp Processing Language
 
 
 <hr>
+Book
+----
+* "Practice Common LISP"
+* "Paradigms of Artifical Intelligence Programming"
+* "Cases studies in common LISP"
+
+<hr>
+Blog
+----
+* [Slava Akhmechet](http://www.defmacro.org)
+  * [Functional Programming For The Rest of Us](http://www.defmacro.org/ramblings/fp.html)
+  * [The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)
+
+<hr>
+Others people's mention
+-----------------------
+* LISP in Kurzweil's Book "How to Create A MIND - The Secret of Human Thought Revealed". Chapter 7 - The Biologically Inspired Digital Neocortex. Section 6: LISP and Cycl, 2012.
+* LISP codes from masters
+  * [acl2 (ANSI Common Lisp Code).lisp](./code/lisp/acl2.lisp), [backup address]()
+  * [cint (Steele's Call or cc Eval).lisp](./code/lisp/cint.lisp), [backup address]()
+  * [glsbq (Steele's Backquote).lisp](./code/lisp/glsbq.lisp), [backup address]()
+  * [jmc (McCarthy's Original Lisp).lisp](./code/lisp/jmc.lisp), [backup address]()
+  * [onlisp.lisp](./code/lisp/onlisp.lisp), [backup address]()
+  * [utx (More Lisp Utilities).lisp](./code/lisp/utx.lisp), [backup address]()
+* [(Chinese) Function Programming Tutorials](http://byvoid.github.com/slides/apio-fp/index.html)
+
+
+<hr>
+Project from Interest of want to figure out how computer works
+--------------------------------------------------------------
+###LISP Interpreter
+  * Write a LISP interpreter using LISP.
+
+###LISP OS
+  * Wirte a Operating System with LISP.
+  * Maybe what called `LISP Machine` which beated by UNIX on market.
+
+###LISP on Web Dev.
+* [LISP web development tutorial - Google Search](https://www.google.com.hk/search?q=lisp+web+development+tutorial&aq=0&oq=LISP+web+development+tu&aqs=chrome.1.57j0.6576&ie=UTF-8)
+* [LISP web development framework - Google Search](https://www.google.com.hk/search?q=lisp+web+development+framework&aq=0&oq=LISP+web+development&aqs=chrome.1.57j0l3j62l2.7459&ie=UTF-8)
+* [Racket](http://racket-lang.org) Clues
+  * Used by [Yin Wang](https://github.com/yinwang0) in his project - [ydiff](https://github.com/yinwang0/ydiff)
+  * Mentioned by Question of StackOverflow - [How I Can do web programming with Lisp or Scheme?](http://stackoverflow.com/questions/1275547/how-i-can-do-web-programming-with-lisp-or-scheme).
+
+
+
+<hr>
 SICP-Scheme (Structure and Interpretation of Computer Pragrams)
 ---------------------------------------------------------
 ###Feelings
 * Scheme is really a secret _weapon_ to learn/practise/train `Algorithm`, you can ignore the low level details and focus on design, implement, and modify your `Algorithm`.
-* LISP (S expression) is really a comfortable and natural way to transform the ideas into program, then the ideas from mind will be excuted in computer. 2013-05-06
+* LISP (S expression) is really a comfortable and natural way to transform the ideas to program, which means the ideas from mind will be excuted in computer. 2013-05-06
 
 ###The Mit-Scheme Program Help Information by `Ctrl` + `c`
 * The quit character is `^C` (control-C). When typed, various interrupt options are offered. Type `^C` followed by `?` for a list of options.
@@ -38,12 +85,17 @@ SICP-Scheme (Structure and Interpretation of Computer Pragrams)
   * `Z`: Quit instantly, suspending Scheme.
 
 
-###Definitions/Concepts
+###LISP Definitions/Concepts
 * Comment in LISP starts with __;__
 * [Lisp Hello World Example: How To Write and Execute Lisp Program on Linux OS](http://www.thegeekstuff.com/2009/12/lisp-hello-world-example-how-to-write-and-execute-lisp-program-on-linux-os/)
 * `cond`
   * `cond` is short of condition, mean case.
 * `s-expression`
+* __if__ `(if <predicate> <consequent> <alternative>)`
+* __and__ `(and <e1> ... <en>)`
+* __or__ `(or <e1> ... <en>)`
+* __not__ `(not <e>)`
+
 
 ###Techniques to control complexity
 * Black-box Abstraction
@@ -87,29 +139,15 @@ SICP-Scheme (Structure and Interpretation of Computer Pragrams)
 * _Procedure definition_, a much more powerful abstraction technique by which a compound operation can be given a name and then referred to as a unit.
 
 
-
-<hr>
-Others people's mention
------------------------
-* LISP in Kurzweil's Book "How to Create A MIND - The Secret of Human Thought Revealed". Chapter 7 - The Biologically Inspired Digital Neocortex. Section 6: LISP and Cycl, 2012.
-* [(Chinese) Function Programming Tutorials](http://byvoid.github.com/slides/apio-fp/index.html)
-
-<hr>
-Project from Interest of want to figure out how computer works
---------------------------------------------------------------
-###LISP Interpreter
-  * Write a LISP interpreter using LISP.
-
-###LISP OS
-  * Wirte a Operating System with LISP.
-  * Maybe what called `LISP Machine` which beated by UNIX on market.
-
-###LISP on Web Dev.
-* [LISP web development tutorial - Google Search](https://www.google.com.hk/search?q=lisp+web+development+tutorial&aq=0&oq=LISP+web+development+tu&aqs=chrome.1.57j0.6576&ie=UTF-8)
-* [LISP web development framework - Google Search](https://www.google.com.hk/search?q=lisp+web+development+framework&aq=0&oq=LISP+web+development&aqs=chrome.1.57j0l3j62l2.7459&ie=UTF-8)
-* [Racket](http://racket-lang.org) Clues
-  * Used by [Yin Wang](https://github.com/yinwang0) in his project - [ydiff](https://github.com/yinwang0/ydiff)
-  * Mentioned by Question of StackOverflow - [How I Can do web programming with Lisp or Scheme?](http://stackoverflow.com/questions/1275547/how-i-can-do-web-programming-with-lisp-or-scheme).
+##Exercise
+* __Passed__: 1.1, 1.2, 1.4
+* 2.Need a clear mind: 1.2
+* 3.Need more knowledge: 1.5
+* 1.2 Translate the following expression into prefix form _"(5+4+(2-(3-(6+4/3))))/(3*(6-2)*(2-7))"_, 
+  * (/
+  * (+ 5 4 (- 2 3 (+ 6 (/ 4 3))))
+  * (\* 3 (- 6 2) (- 2 7))
+  * )
 
 
 
@@ -117,20 +155,6 @@ Project from Interest of want to figure out how computer works
 
 
 
-
-<hr>
-Book
-----
-* "Practice Common LISP"
-* "Paradigms of Artifical Intelligence Programming"
-* "Cases studies in common LISP"
-
-<hr>
-Blog
-----
-* [Slava Akhmechet](http://www.defmacro.org)
-  * [Functional Programming For The Rest of Us](http://www.defmacro.org/ramblings/fp.html)
-  * [The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)
 
 
 </body>
