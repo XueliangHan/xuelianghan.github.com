@@ -18,7 +18,6 @@ Index
   * PHOTOGRAPHY of (Universe/Stars/Sky/Landscape) [Inspired]
   * Music
   * Film/Movie
-* Sports & Fitness
 * Travel - Different Area/Country/Nation/State with different Language/Culture
 
 <hr>
@@ -85,11 +84,6 @@ Verything even death is losing it's power in front of the _Nature_ and _Universe
 
 ###FILM/MOVIE
 * Life in A Day (2010): (Love, Fear). Highly recommended, the best film and documentary I've ever seen in my life.
-
-
-<hr>
-Sports & Fitness
-----------------
 
 
 

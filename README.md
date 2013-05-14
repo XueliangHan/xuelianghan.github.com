@@ -71,29 +71,31 @@ Part two - The new project to build a tools-set meet my need
 
 
 ###Design - New website architecture
-> |-- .git  
-> |-- images  
-> |-- javascripts  
-> |-- statics  
-> |-- stylesheets  
-> |--site-file  
-> |---.gitignore  
-> |---CNAME  
-> |---index.html  
-> |--hobby.html  
-> |--interest.html  
-> |--information-source.html  
-> |--resume.pdf  
-> |---jianli.html  
-> |---jianli2.html  
-> |--project.html  
-> |--skills.html  
-> |--tools.html  
-> |--scripts  
-> |---generate.sh  
-> |----convert.sh  
-> |---up.sh  
-> |---sitemap.sh  
+* |-- .git  
+* |-- stylesheets (css for this site)  
+  * main.css (css for the primary and secondary html pages)
+* |--
+* |-- images  
+* |-- javascripts  
+* |-- statics  
+* |--site-file  
+* |---.gitignore  
+* |---CNAME  
+* |---index.html  
+* |--hobby.html  
+* |--interest.html  
+* |--information-source.html  
+* |--resume.pdf  
+* |---jianli.html  
+* |---jianli2.html  
+* |--project.html  
+* |--skills.html  
+* |--tools.html  
+* |--scripts  
+* |---generate.sh  
+* |----convert.sh  
+* |---up.sh  
+* |---sitemap.sh  
 
 ###Explantion
 * index.html: Navigation page.
