@@ -124,36 +124,34 @@ Index
   * (Networking) Wrote first TCP/IP protocol stack on BSD in two weeks, and said it was not big deal, "You read the protocol, you write the code".
   * Wrote vi.
 
-* [Eric Steven Raymond](http://www.catb.org/~esr)
+* Eric Steven Raymond, [Eric Steven Raymond's Website](http://www.catb.org/~esr), here are some article I thought was very good!
   * [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
   * [How To Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
-* Jeffrey Dean 3.5X
+* Evan Martin [Googler], [Evan Martin's Site](http://neugierig.org/), here are some article I thought was very insight:
+  <li><a href="http://neugierig.org/software/blog/2011/09/platform-of-the-future.html">Platform of the Future - Evan Martin (Google)</a></li>
+  * [Complexity is the enemy](http://neugierig.org/software/blog/2011/04/complexity.html), "_Write Python code like it was C._"
+
+* Jeffrey Dean 3.5X [Computer Architecture]
   * [Google Research Scientists and Engineers: Jeffrey Dean](http://research.google.com/people/jeff/)
   * [Jeff Dean的Stanford演讲](http://stanford-online.stanford.edu/courses/ee380/101110-ee380-300.asx)
   * Unknown, maybe Architecture
 
-* John Carmack 约翰-卡马克 4.5X
-  * Computer Graphic Programming Master
-  * Note_《DOOM启世录》卡马克.计算机图形学-游戏编程.unx
+* John Carmack 约翰-卡马克 4.5X [Computer Graphic Programming Master, then Research rocket]
+  * Note《DOOM启世录》卡马克.计算机图形学-游戏编程.unx
   * Concentrate and Focus on Now - What he is currently doing. (Transcended understand and 做到 )
   * Only keep what he need now, nothing else. (30%，过去的羁绊，你应当深有体会才对，一旦开始处理历史信息，速度就慢了10倍。）
 
-* Linus Torvalds 4.5X
-  * "Just for fun" reading notes
-  * OS Master
+* Linus Torvalds 4.5X, [OS Master]
+  * "Just for fun" reading note
   * [Linus Torvalds Answers Your Questions - Slashgot](http://meta.slashdot.org/story/12/10/11/0030249/linus-torvalds-answers-your-questions)
-
 
 * [Richard Stallman](http://www.stallman.org)
 
-* Eric Zhivalyuk (ewoah) - A Professional Web Developer, Web Designer, and IT consultant. I also have vast experience in Online Marketing, Tech Investment, Design / Branding, Programming, Networking / Server Infrastructure, Software and Hardware.
-  * [Website](http://ewoah.com/)
-  * [Resume (experience)](http://ewoah.com/experience/) - A lot
-  * [Projects](http://ewoah.com/projects/) - A lot companies and clients
+* Eric Zhivalyuk (ewoah) - A Professional `Web Developer`, `Web Designer`, and `IT consultant`. Also have vast experience in `Online Marketing`, `Tech Investment`, `Design / Branding`, `Programming`, `Networking / Server Infrastructure`, `Software and Hardware`. [His Website](http://ewoah.com/), [His Experience (Resume)](http://ewoah.com/experience/) - A lot, [His Projects](http://ewoah.com/projects/) - A lot companies and clients.
 
 
-##ABG_Science-Model gt4
+##ABG Science-Model gt4
 * Albert Einstein - Keep Self-Educating 5X
   * Einstein - Keep self-learning(educating himself after graduation)
   * Focus, Continuous is the whole condition of Einstein's excellent work.
