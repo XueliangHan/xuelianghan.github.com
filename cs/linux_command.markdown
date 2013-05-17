@@ -304,3 +304,4 @@ Index
 
 </body>
 </html>
+cat /proc/self/maps, objdump -h /bin/cat
