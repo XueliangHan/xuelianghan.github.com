@@ -6,6 +6,23 @@
 * Greedy
 * Backtrack
 
+
+
+##Data Structure
+### Structured
+* Retional Database (`Scheme`): PostgreSQL, MySQL, Orical, DB2, SQL-Server, SQLite.
+* Program (`Code`)
+  * C - `struct`
+  * C++ - `Class`
+
+### Semi-Structured
+* NoSQL Database (`Scheme`): Key-Value DB (Redis), Memery-Cache (), Document DB (MogoDB, CaceDB)
+* Web Information (`Tag`): XML(Atom, RSS), JSON, Protocal Buffer (Google)
+
+### Non-Strucutred - Files
+* Binary, Text
+
+
 ##Contest/Competiton
 ###[TopCoder](http://www.topcoder.com)
 * Setting up _TopCoder Arena_ 
