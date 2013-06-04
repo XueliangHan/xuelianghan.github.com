@@ -84,28 +84,28 @@ Index
 <div align=center><h1>Inspirations from Auto/Bio-Graphy of Master/Tutor/Mentor</h1></div>
 ==========================================================
 ##ABG_Computer-Science gt 4
-* Alan Kay °¬Â×-¿­ 4.5X
+* Alan Kay è‰¾ä¼¦-å‡¯ 4.5X
   * [Alan Kay](./masters/Alan_Kay.html): Turing Award (2003), created Object Oriented Technology, Smalltalk.</li><br>
   * [The Deep Insights of Alan Kay - mythz blog](http://mythz.servicestack.net/blog/2013/02/27/the-deep-insights-of-alan-kay/)
-  * [°¬Â×¡¤¿­ÓëSmalltalkÓïÑÔ - liangoµÄ¸öÈË¿Õ¼ä - ¿ªÔ´ÖĞ¹úÉçÇø](http://my.oschina.net/liango/blog/79982)
+  * [è‰¾ä¼¦Â·å‡¯ä¸Smalltalkè¯­è¨€ - liangoçš„ä¸ªäººç©ºé—´ - å¼€æºä¸­å›½ç¤¾åŒº](http://my.oschina.net/liango/blog/79982)
 
-* John McCarthyÂó¿¨Îı LISP 4.5X
+* John McCarthyéº¦å¡é”¡ LISP 4.5X
 
-* G D. Kunth¸ßµÂÄÉ¿ËÅ¬Í¼ 4.5X (TAOCP&TeX )
+* G D. Kunthé«˜å¾·çº³å…‹åŠªå›¾ 4.5X (TAOCP&TeX )
 
-* Dennis Ritchie £¨µ¤ÄáË¹£©4.5X
-  * [C, the Enduring Legacy of Dennis Ritchie](http://rrurl.cn/3lQJ72), [CÓïÑÔ£ºµ¤ÄáË¹¡¤ÀïÆæµÄ²»ĞàÒÅ²ú-ÈËÈËÌ½Ë÷explore¡ªÈËÈËÍø](http://explore.renren.com/item/50754c22c8f2bda80db8ad62)£º 
-°¬¶û¸¥À×µÂ¡¤°¢»ô£¬¸çÂ×±ÈÑÇ´óÑ§ ¼ÆËã»ú¿ÆÑ§Ïµ ÀÍÂ×Ë¹¡¤¹ÅË¹Âü½²Ï¯½ÌÊÚ£¬¡¶±àÒëÔ­Àí¡·ÁúÊéµÚÒ»×÷Õß
+* Dennis Ritchie ï¼ˆä¸¹å°¼æ–¯ï¼‰4.5X
+  * [C, the Enduring Legacy of Dennis Ritchie](http://rrurl.cn/3lQJ72), [Cè¯­è¨€ï¼šä¸¹å°¼æ–¯Â·é‡Œå¥‡çš„ä¸æœ½é—äº§-äººäººæ¢ç´¢exploreâ€”äººäººç½‘](http://explore.renren.com/item/50754c22c8f2bda80db8ad62)ï¼š 
+è‰¾å°”å¼—é›·å¾·Â·é˜¿éœï¼Œå“¥ä¼¦æ¯”äºšå¤§å­¦ è®¡ç®—æœºç§‘å­¦ç³» åŠ³ä¼¦æ–¯Â·å¤æ–¯æ›¼è®²å¸­æ•™æˆï¼Œã€Šç¼–è¯‘åŸç†ã€‹é¾™ä¹¦ç¬¬ä¸€ä½œè€…
 
 ###Dan Friedman (Compiler & Computer Programming Language)
-* [GTF: Great Teacher Friedman_ÍõÛó_ĞÂÀË²©¿Í](http://blog.sina.com.cn/s/blog_5d90e82f010177qx.html)
+* [GTF: Great Teacher Friedman_ç‹å _æ–°æµªåšå®¢](http://blog.sina.com.cn/s/blog_5d90e82f010177qx.html)
 * __"The Little Schemer"/"The Little Lisper"__
-  * ËûÖ÷ÒªµÄÖø×÷¡¶The Little Schemer¡·£¨Ç°Éí½Ğ¡¶The Little Lisper¡·) ÊÇ³ÌĞòÓïÑÔ½ç×î¾ßÓ°ÏìÁ¦µÄÊé¼®Ö®Ò»¡£ÏÖÔÚºÜ¶à³ÌĞòÓïÑÔ½çµÄÔªÀÏ¼¶ÈËÎï£¬µ±Äê¶¼ÊÇ¿´Õâ±¾¡°Ğ¡ÈËÊé¡±Ñ§»áÁË Lisp/Scheme£¬²Å¾öĞÄ½øÈëÕâÒ»ÁìÓò¡£
+  * ä»–ä¸»è¦çš„è‘—ä½œã€ŠThe Little Schemerã€‹ï¼ˆå‰èº«å«ã€ŠThe Little Lisperã€‹) æ˜¯ç¨‹åºè¯­è¨€ç•Œæœ€å…·å½±å“åŠ›çš„ä¹¦ç±ä¹‹ä¸€ã€‚ç°åœ¨å¾ˆå¤šç¨‹åºè¯­è¨€ç•Œçš„å…ƒè€çº§äººç‰©ï¼Œå½“å¹´éƒ½æ˜¯çœ‹è¿™æœ¬â€œå°äººä¹¦â€å­¦ä¼šäº† Lisp/Schemeï¼Œæ‰å†³å¿ƒè¿›å…¥è¿™ä¸€é¢†åŸŸã€‚
 * __"The Little MLer"__
-  * ¾õµÃ ML ±È Scheme ÏÈ½øºÜ¶àµÄÈËÃÇÓ¦¸Ã¿´¿´ Friedman Õâ±¾Êé£ºThe Little MLer
+  * è§‰å¾— ML æ¯” Scheme å…ˆè¿›å¾ˆå¤šçš„äººä»¬åº”è¯¥çœ‹çœ‹ Friedman è¿™æœ¬ä¹¦ï¼šThe Little MLer
 * __"A Little Java, A Few Patterns"__
-  * ÏëÒªÕæÕıÀí½â Java Éè¼ÆÄ£Ê½µÄÈË£¬¿ÉÒÔ¿´¿´Õâ±¾£ºA Little Java, A Few Patterns
-* 1. ÄãÖªµÀĞ©Ê²Ã´£¿ 2. ·´ÏòÔËĞĞ 3. miniCoq 4. C311 5. ¶ÀÁ¢Ë¼Î¬
+  * æƒ³è¦çœŸæ­£ç†è§£ Java è®¾è®¡æ¨¡å¼çš„äººï¼Œå¯ä»¥çœ‹çœ‹è¿™æœ¬ï¼šA Little Java, A Few Patterns
+* 1. ä½ çŸ¥é“äº›ä»€ä¹ˆï¼Ÿ 2. åå‘è¿è¡Œ 3. miniCoq 4. C311 5. ç‹¬ç«‹æ€ç»´
 
 
 
@@ -116,7 +116,7 @@ Index
 * Aaron Swartz 3.5X
   * [Aaron Swartz](http://www.aaronsw.com)
   * [HOWTO: Be more productive (Aaron Swartz's Raw Thought)](http://www.aaronsw.com/weblog/productivity)
-  * [ÉÙÄêĞÄÆø £­ °¬Â×¡¤Ë¹ÎÖ×È(Aaron Swartz) µÄ´«Ææ | Ğ¡µÀÏûÏ¢](http://hutu.me/215)
+  * [å°‘å¹´å¿ƒæ°” ï¼ è‰¾ä¼¦Â·æ–¯æ²ƒå…¹(Aaron Swartz) çš„ä¼ å¥‡ | å°é“æ¶ˆæ¯](http://hutu.me/215)
   * Web programming and hacker
 
 * Bill Joey 4.5X
@@ -134,13 +134,13 @@ Index
 
 * Jeffrey Dean 3.5X [Computer Architecture]
   * [Google Research Scientists and Engineers: Jeffrey Dean](http://research.google.com/people/jeff/)
-  * [Jeff DeanµÄStanfordÑİ½²](http://stanford-online.stanford.edu/courses/ee380/101110-ee380-300.asx)
+  * [Jeff Deançš„Stanfordæ¼”è®²](http://stanford-online.stanford.edu/courses/ee380/101110-ee380-300.asx)
   * Unknown, maybe Architecture
 
-* John Carmack Ô¼º²-¿¨Âí¿Ë 4.5X [Computer Graphic Programming Master, then Research rocket]
-  * Note¡¶DOOMÆôÊÀÂ¼¡·¿¨Âí¿Ë.¼ÆËã»úÍ¼ĞÎÑ§-ÓÎÏ·±à³Ì.unx
-  * Concentrate and Focus on Now - What he is currently doing. (Transcended understand and ×öµ½ )
-  * Only keep what he need now, nothing else. (30%£¬¹ıÈ¥µÄî¿°í£¬ÄãÓ¦µ±ÉîÓĞÌå»á²Å¶Ô£¬Ò»µ©¿ªÊ¼´¦ÀíÀúÊ·ĞÅÏ¢£¬ËÙ¶È¾ÍÂıÁË10±¶¡££©
+* John Carmack çº¦ç¿°-å¡é©¬å…‹ 4.5X [Computer Graphic Programming Master, then Research rocket]
+  * Noteã€ŠDOOMå¯ä¸–å½•ã€‹å¡é©¬å…‹.è®¡ç®—æœºå›¾å½¢å­¦-æ¸¸æˆç¼–ç¨‹.unx
+  * Concentrate and Focus on Now - What he is currently doing. (Transcended understand and åšåˆ° )
+  * Only keep what he need now, nothing else. (30%ï¼Œè¿‡å»çš„ç¾ç»Šï¼Œä½ åº”å½“æ·±æœ‰ä½“ä¼šæ‰å¯¹ï¼Œä¸€æ—¦å¼€å§‹å¤„ç†å†å²ä¿¡æ¯ï¼Œé€Ÿåº¦å°±æ…¢äº†10å€ã€‚ï¼‰
 
 * Linus Torvalds 4.5X, [OS Master]
   * "Just for fun" reading note
@@ -156,17 +156,17 @@ Index
   * Einstein - Keep self-learning(educating himself after graduation)
   * Focus, Continuous is the whole condition of Einstein's excellent work.
 
-* John von Neumann£¨·ëÅµÒÀÂü£© 5X
+* John von Neumannï¼ˆå†¯è¯ºä¾æ›¼ï¼‰ 5X
 
 * Richard Feynman
   * [The Feynman File - His daughter's archive offers a wormhole into the secret life of a charismatic physicist DISCOVER](), I was deep inspired.
 
 * Nikola Tesla 5X
 
-* Michio Kaku£¨¼ÓÀ³µÀĞÛ£© - [×îºó£¬ÎÒÒıÓÃÁË¼ÓÀ´µÀĞÛ¡¶³¬Ô½Ê±¿Õ¡·ÖĞµÄ»°×÷Îª½áÊø£º¡°ÓĞĞ©ÈËÍ¨¹ı¸öÈËËùµÃ¡¢¸öÈË¹ØÏµ»òÕß¸öÈË¾­ÀúÑ°ÇóÉúÃüµÄÒâÒå¡£È»¶ø£¬ÔÚÎÒ¿´À´£¬ÓĞĞÒµÃµ½ÄÜÁìÎò×ÔÈ»Ö®×îÖÕ°ÂÃØµÄÖÇ»Û£¬²Å¸³ÓèÉúÃü³ä·ÖµÄÒâÒå¡£¡± ](http://www.newxue.com/gyfd/125539100112980.html)
+* Michio Kakuï¼ˆåŠ è±é“é›„ï¼‰ - [æœ€åï¼Œæˆ‘å¼•ç”¨äº†åŠ æ¥é“é›„ã€Šè¶…è¶Šæ—¶ç©ºã€‹ä¸­çš„è¯ä½œä¸ºç»“æŸï¼šâ€œæœ‰äº›äººé€šè¿‡ä¸ªäººæ‰€å¾—ã€ä¸ªäººå…³ç³»æˆ–è€…ä¸ªäººç»å†å¯»æ±‚ç”Ÿå‘½çš„æ„ä¹‰ã€‚ç„¶è€Œï¼Œåœ¨æˆ‘çœ‹æ¥ï¼Œæœ‰å¹¸å¾—åˆ°èƒ½é¢†æ‚Ÿè‡ªç„¶ä¹‹æœ€ç»ˆå¥¥ç§˜çš„æ™ºæ…§ï¼Œæ‰èµ‹äºˆç”Ÿå‘½å……åˆ†çš„æ„ä¹‰ã€‚â€ ](http://www.newxue.com/gyfd/125539100112980.html)
 
-* Ò¦ÆÚÖÇ
-  * [¿ÆÑ§Íø¡ªÖĞ¿ÆÔºÍâ¼®ÔºÊ¿Ò¦ÆÚÖÇ£º¿ÆÑ§¼ÒÓë¿ÆÑ§Ö®Â·](http://news.sciencenet.cn/htmlnews/2012/4/263418.shtm)
+* å§šæœŸæ™º
+  * [ç§‘å­¦ç½‘â€”ä¸­ç§‘é™¢å¤–ç±é™¢å£«å§šæœŸæ™ºï¼šç§‘å­¦å®¶ä¸ç§‘å­¦ä¹‹è·¯](http://news.sciencenet.cn/htmlnews/2012/4/263418.shtm)
 
 
   
@@ -197,7 +197,7 @@ Index
   * 3.They know the Inunderstandable decision in present is the right in future, they have corage or brave enough whatever you call it to take the riask, to venture, Their inturtion make them believe it is the right things to do.
   * 4.But you, you have gain that kind of level power to make/handler this kind of decision at that age(19), not enough power to figure out the answer among all kinds of clutlers (culture, value, tradition, mystery, self doubt, distraction, can see through, lack of understanding, prejudice, not  thinking, compromised, weak body and mind, not enough (pricise) information, narrow social cycle.
   * See the law of ancients, happen again, again, again.
-* ÈîÒ»·å£¬[ÇÇ²¼Ë¹µÄ¸æ±ğ](http://www.ruanyifeng.com/blog/2011/10/steve_jobs_farewell.html)£¬2013-03-25
+* é˜®ä¸€å³°ï¼Œ[ä¹”å¸ƒæ–¯çš„å‘Šåˆ«](http://www.ruanyifeng.com/blog/2011/10/steve_jobs_farewell.html)ï¼Œ2013-03-25
 
 
 ###Mark Zuckerberg
@@ -206,23 +206,23 @@ Index
   * Move fast and break things
   * Done is better than perfect
   * Stay focus and keep shipping
-* ÖªºõÔÄ¶Á|µçÓ°¡¶Éç½»ÍøÂç¡·¸øÄã×îÉîµÄ¸ĞÊÜÊÇÊ²Ã´£¿Ö´ĞĞÁ¦£¡
-Ò²ĞíÌıÆğÀ´ÓĞµã²Ğ¿á£¬µ«ÔÚ»¥ÁªÍøÊÀ½ç£¬´´Òâ£¨ideas£©ÊÇ²»ÖµÇ®µÄ¡£×¢ÒâÒ»ÏÂÓ°Æ¬ÖĞÕâĞ©ÓĞÒâÎªÖ®µÄÇé¾°£º
-µ±Ôú¿Ë²®¸ñ±»Å®ÓÑÅ×ÏÂºó£¨ËäÈ»ÊÇĞé¹¹µÄ£©£¬Ëûµ±Íí¾ÍÁ¢¼´×ö³öÁËÒ»¸ö´óÍ·ÕÕ¶Ô±ÈÆÀ·ÖµÄÓ¦ÓÃ FaceMash¡£
-µ± Winklevoss ĞÖµÜ»¹ÔÚÑµÁ·Ê±£¬Ôú¿Ë²®¸ñµÄ Facebook ÒÑ¾­ÉÏÏßÁË¡£
-µ± Winklevoss ĞÖµÜ»¹ÔÚÓ¢¹ú±ÈÈüÊ±£¬Ôú¿Ë²®¸ñµÄ Facebook ÒÑ¾­³ÉÎªÅ£½ò×î¿á»°ÌâÁË¡£
-µ± Winklevoss ĞÖµÜÈ¥ÕÒ¹ş·ğ´óÑ§Ğ£³¤ÈøÄ¬Ë¹¸æ×´Ê±£¬Ôú¿Ë²®¸ñµÄ Facebook ÒÑ¾­¸²¸Ç 50 ËùÑ§Ğ£ÁË¡£
-µ± Eduardo »¹ÔÚÅ¦Ô¼ÒÔÎª¿ÉÒÔ¸ø×Ô¼º¶ÆÉÏÍ¶ĞĞÊµÏ°ÉúµÄ¹âÃ¢Ê±£¬Ôú¿Ë²®¸ñµÄ Facebook ÒÑ¾­°áµ½¹è¹ÈÈ¥ÁË¡£
-µ± Eduardo »¹ÔÚÏë×Å´óËÄ±ÏÒµÁËÔõÃ´»ì½ø»ª¶û½ÖÊ±£¬Ôú¿Ë²®¸ñÒÑ¾­¾ö¶¨ê¡Ñ§£¬²»»Ø¹ş·ğ£¬¼ÌĞøÔÚ¹è¹È´´°ì Facebook ÁË¡£
-¡­¡­
-µ±ÄãÒÔÎª×Ô¼ºÓĞÒ»¸öÅ£±ÇÉÁÉÁ¡¢¹âÃ¢¸Ç¹ıÈ«ÊÀ½çµÄ idea Ê±£¬ÇëÒ»¶¨ÏàĞÅ£¬Õâ¸öÊÀ½çÉÏ×îÉÙ×îÉÙ»¹ÓĞ 1000 ¸öÈËÍ¬Ê±Ïëµ½ÁËÕâ¸ö idea£¬±Ë´ËÆ½ĞĞ£¬ºÁÎŞ½»¼¯£¬Ã»ÓĞË­³­Ë­¡£
-µ«Õâ 1000 ¸öÈËÖĞ£¬500 ¸öÈË¾õµÃÓĞÊ±¼äÔÙËµ£¬»òÕßÏÓÂé·³£¬»òÕß¾õµÃ»¹Ã»ÓĞÏëºÃ¡£Ö»Ê£ÏÂ 500 ÈË¾ö¶¨Á¢¼´¶¯ÊÖÊÔÒ»ÏÂ¡£
-ÆäÖĞ 300 ¸öÈËÊÔÒ»ÏÂÖ®ºó£¬¾õµÃÌ«ÄÑ¡¢·ÅÆúÁË£»»òÕßÊÔÒ»ÏÂÖ®ºó£¬Ğ¡Ğ¡µØµÃÒâÁËÒ»ÏÂ£¬¸éÖÃÁË¡£Ö»Ê£ÏÂ 200 ÈË¾ö¶¨ĞŞ¸ÄÒ»ÏÂ¡¢ÔÙÊÔÒ»´Î£»»òÕßĞ¡ÓĞ³É¹¦£¬¾ö¶¨¼ÌĞøÍÆ½ø¡£
-ÆäÖĞ 120 ¸öÈËÓÖÊÔÁËÒ»´Î£¬Ê§°ÜÁË£¬¾ö¶¨·ÅÆú£»»òÕß¼ÌĞøÍÆ½øÊ±£¬Óöµ½ÁË½Ï´óµÄ´ìÕÛ£¬»òÕßÓöµ½ÁËÖØ´óµÄ¾ñÔñÄÑÒÔ×ö³ö£¬¾ö¶¨ÏÈÔİÍ£¡£Ö»Ê£ÏÂ 80 ¸öÈË¾ö¶¨Ò§ÑÀ¼ÌĞø¡£
-ÆäÖĞ 30 ¸öÈË£¬×ö³öÁË²úÆ·Ô­ĞÍ¡£
-ÆäÖĞ 20 ¸öÈË£¬µÃµ½ÁËÉÙÁ¿ÓÃ»§¡£
-ÆäÖĞ 10 ¸öÈË£¬¿ªÊ¼Õ¹Â¶Í·½Ç¡£
-×îºóÖ»ÓĞ¼¸¸öÈË£¬ÇÀµ½ÁËÕâ¸öÊ±¼ä´°¿Ú£¬¿ìËÙ×¥×¡ÀúÊ·»úÓö£¬ÅÜµ½ÁËÆäËûÈËÇ°Ãæ¡£ 
+* çŸ¥ä¹é˜…è¯»|ç”µå½±ã€Šç¤¾äº¤ç½‘ç»œã€‹ç»™ä½ æœ€æ·±çš„æ„Ÿå—æ˜¯ä»€ä¹ˆï¼Ÿæ‰§è¡ŒåŠ›ï¼
+ä¹Ÿè®¸å¬èµ·æ¥æœ‰ç‚¹æ®‹é…·ï¼Œä½†åœ¨äº’è”ç½‘ä¸–ç•Œï¼Œåˆ›æ„ï¼ˆideasï¼‰æ˜¯ä¸å€¼é’±çš„ã€‚æ³¨æ„ä¸€ä¸‹å½±ç‰‡ä¸­è¿™äº›æœ‰æ„ä¸ºä¹‹çš„æƒ…æ™¯ï¼š
+å½“æ‰å…‹ä¼¯æ ¼è¢«å¥³å‹æŠ›ä¸‹åï¼ˆè™½ç„¶æ˜¯è™šæ„çš„ï¼‰ï¼Œä»–å½“æ™šå°±ç«‹å³åšå‡ºäº†ä¸€ä¸ªå¤§å¤´ç…§å¯¹æ¯”è¯„åˆ†çš„åº”ç”¨ FaceMashã€‚
+å½“ Winklevoss å…„å¼Ÿè¿˜åœ¨è®­ç»ƒæ—¶ï¼Œæ‰å…‹ä¼¯æ ¼çš„ Facebook å·²ç»ä¸Šçº¿äº†ã€‚
+å½“ Winklevoss å…„å¼Ÿè¿˜åœ¨è‹±å›½æ¯”èµ›æ—¶ï¼Œæ‰å…‹ä¼¯æ ¼çš„ Facebook å·²ç»æˆä¸ºç‰›æ´¥æœ€é…·è¯é¢˜äº†ã€‚
+å½“ Winklevoss å…„å¼Ÿå»æ‰¾å“ˆä½›å¤§å­¦æ ¡é•¿è¨é»˜æ–¯å‘ŠçŠ¶æ—¶ï¼Œæ‰å…‹ä¼¯æ ¼çš„ Facebook å·²ç»è¦†ç›– 50 æ‰€å­¦æ ¡äº†ã€‚
+å½“ Eduardo è¿˜åœ¨çº½çº¦ä»¥ä¸ºå¯ä»¥ç»™è‡ªå·±é•€ä¸ŠæŠ•è¡Œå®ä¹ ç”Ÿçš„å…‰èŠ’æ—¶ï¼Œæ‰å…‹ä¼¯æ ¼çš„ Facebook å·²ç»æ¬åˆ°ç¡…è°·å»äº†ã€‚
+å½“ Eduardo è¿˜åœ¨æƒ³ç€å¤§å››æ¯•ä¸šäº†æ€ä¹ˆæ··è¿›åå°”è¡—æ—¶ï¼Œæ‰å…‹ä¼¯æ ¼å·²ç»å†³å®šè¾å­¦ï¼Œä¸å›å“ˆä½›ï¼Œç»§ç»­åœ¨ç¡…è°·åˆ›åŠ Facebook äº†ã€‚
+â€¦â€¦
+å½“ä½ ä»¥ä¸ºè‡ªå·±æœ‰ä¸€ä¸ªç‰›é¼»é—ªé—ªã€å…‰èŠ’ç›–è¿‡å…¨ä¸–ç•Œçš„ idea æ—¶ï¼Œè¯·ä¸€å®šç›¸ä¿¡ï¼Œè¿™ä¸ªä¸–ç•Œä¸Šæœ€å°‘æœ€å°‘è¿˜æœ‰ 1000 ä¸ªäººåŒæ—¶æƒ³åˆ°äº†è¿™ä¸ª ideaï¼Œå½¼æ­¤å¹³è¡Œï¼Œæ¯«æ— äº¤é›†ï¼Œæ²¡æœ‰è°æŠ„è°ã€‚
+ä½†è¿™ 1000 ä¸ªäººä¸­ï¼Œ500 ä¸ªäººè§‰å¾—æœ‰æ—¶é—´å†è¯´ï¼Œæˆ–è€…å«Œéº»çƒ¦ï¼Œæˆ–è€…è§‰å¾—è¿˜æ²¡æœ‰æƒ³å¥½ã€‚åªå‰©ä¸‹ 500 äººå†³å®šç«‹å³åŠ¨æ‰‹è¯•ä¸€ä¸‹ã€‚
+å…¶ä¸­ 300 ä¸ªäººè¯•ä¸€ä¸‹ä¹‹åï¼Œè§‰å¾—å¤ªéš¾ã€æ”¾å¼ƒäº†ï¼›æˆ–è€…è¯•ä¸€ä¸‹ä¹‹åï¼Œå°å°åœ°å¾—æ„äº†ä¸€ä¸‹ï¼Œæç½®äº†ã€‚åªå‰©ä¸‹ 200 äººå†³å®šä¿®æ”¹ä¸€ä¸‹ã€å†è¯•ä¸€æ¬¡ï¼›æˆ–è€…å°æœ‰æˆåŠŸï¼Œå†³å®šç»§ç»­æ¨è¿›ã€‚
+å…¶ä¸­ 120 ä¸ªäººåˆè¯•äº†ä¸€æ¬¡ï¼Œå¤±è´¥äº†ï¼Œå†³å®šæ”¾å¼ƒï¼›æˆ–è€…ç»§ç»­æ¨è¿›æ—¶ï¼Œé‡åˆ°äº†è¾ƒå¤§çš„æŒ«æŠ˜ï¼Œæˆ–è€…é‡åˆ°äº†é‡å¤§çš„æŠ‰æ‹©éš¾ä»¥åšå‡ºï¼Œå†³å®šå…ˆæš‚åœã€‚åªå‰©ä¸‹ 80 ä¸ªäººå†³å®šå’¬ç‰™ç»§ç»­ã€‚
+å…¶ä¸­ 30 ä¸ªäººï¼Œåšå‡ºäº†äº§å“åŸå‹ã€‚
+å…¶ä¸­ 20 ä¸ªäººï¼Œå¾—åˆ°äº†å°‘é‡ç”¨æˆ·ã€‚
+å…¶ä¸­ 10 ä¸ªäººï¼Œå¼€å§‹å±•éœ²å¤´è§’ã€‚
+æœ€ååªæœ‰å‡ ä¸ªäººï¼ŒæŠ¢åˆ°äº†è¿™ä¸ªæ—¶é—´çª—å£ï¼Œå¿«é€ŸæŠ“ä½å†å²æœºé‡ï¼Œè·‘åˆ°äº†å…¶ä»–äººå‰é¢ã€‚ 
 
 ###Sebastian Thrun (Passion, and a gentle disrespect for rules)
 * Short bio: [Sebastian Thrun (Homepage)](http://robots.stanford.edu), a Standford Professor, Google X founder (Self-driving cars, Google Glass, etc), and CEO of Udacity.
@@ -235,54 +235,54 @@ Index
 
 
 ###Eric Schmidt 4X
-* [Ê©ÃÜÌØ£ººó»Ú´íÊ§SNSÏÈ»ú ÒÆ¶¯ÁìÓòÊÇ¶ÌÆÚÖØµã_¿Æ¼¼_ÌÚÑ¶Íø](http://tech.qq.com/a/20130321/000093.htm)
+* [æ–½å¯†ç‰¹ï¼šåæ‚”é”™å¤±SNSå…ˆæœº ç§»åŠ¨é¢†åŸŸæ˜¯çŸ­æœŸé‡ç‚¹_ç§‘æŠ€_è…¾è®¯ç½‘](http://tech.qq.com/a/20130321/000093.htm)
 * [Is Eric Schmidt right? Will app developers prefer Android over iOS in 6 months? - The Next Web](http://thenextweb.com/google/2011/12/08/is-eric-schmidt-right-will-app-developers-prefer-android-over-ios-in-6-months/)
 * [Schmidt Discusses Google's Competitors and More](http://thenextweb.com/google/2011/12/27/eric-schmidt-discusses-googles-competitors-china-acquisitions-and-more/)
-  * (Mobile) As a former programmer, Schmidt spoke passionately about the potential of mobile. Though he didn¡¯t mention his prediction that Android would overtake iOS as the operating system of choice for developers on this occasion, he stress the importance of mobile for developers today, saying: _If you¡¯re a young programmer today, you¡¯re building for the mobile phone, that¡¯s where the action is._
+  * (Mobile) As a former programmer, Schmidt spoke passionately about the potential of mobile. Though he didnâ€™t mention his prediction that Android would overtake iOS as the operating system of choice for developers on this occasion, he stress the importance of mobile for developers today, saying: _If youâ€™re a young programmer today, youâ€™re building for the mobile phone, thatâ€™s where the action is._
 
 ###[Paul Graham](http://paulgraham.com)
 * The ideas behind founders who found a company is that he notice there is a problem (low efficiency), but what make them success is that they know how to improve it.
   
 ###[Kaifu Lee](http://blog.sina.com.cn/kaifulee), marked page 5
-* [¸ø´´ĞÂ¹¤³¡ÇóÖ°ÕßµÄÒ»·âĞÅ](http://blog.sina.com.cn/s/blog_475b3d560100fsft.html): ÆäÊµ£¬ÎÒÒ»Ö±ÕâÑù¸æËßÇàÄêÅóÓÑÃÇ£º±ÏÒµºóµÚÒ»·İ¹¤×÷×îÖØÒªµÄÊÇÄãÊÇ·ñÄÜ¹»Ñ§Ï°µ½×î¶à£¬¶ø²»ÊÇÆäËû¡£
-* [Àî¿ª¸´²©Ê¿ÔÚÕã½­´óÑ§Ñİ½²µÄ¡°21ÊÀ¼Í×îĞèÒªµÄ7ÖÖÈË²ÅËØÖÊ¡±-ÑİÊ¾ÎÄ¸åÏÂÔØ](http://www1.dhzx.net/soft/uploadsoft/21Century%20Talent.rar)
-* [ÓëÖÜÎ§µÄÈËÏë·¨²»Í¬£¬¾õµÃ¹Â¶ÀÑ¹ÒÖÔõÃ´°ì (2009-07-30 14:00:05)](http://blog.sina.com.cn/s/blog_475b3d560100e9dl.html)
+* [ç»™åˆ›æ–°å·¥åœºæ±‚èŒè€…çš„ä¸€å°ä¿¡](http://blog.sina.com.cn/s/blog_475b3d560100fsft.html): å…¶å®ï¼Œæˆ‘ä¸€ç›´è¿™æ ·å‘Šè¯‰é’å¹´æœ‹å‹ä»¬ï¼šæ¯•ä¸šåç¬¬ä¸€ä»½å·¥ä½œæœ€é‡è¦çš„æ˜¯ä½ æ˜¯å¦èƒ½å¤Ÿå­¦ä¹ åˆ°æœ€å¤šï¼Œè€Œä¸æ˜¯å…¶ä»–ã€‚
+* [æå¼€å¤åšå£«åœ¨æµ™æ±Ÿå¤§å­¦æ¼”è®²çš„â€œ21ä¸–çºªæœ€éœ€è¦çš„7ç§äººæ‰ç´ è´¨â€-æ¼”ç¤ºæ–‡ç¨¿ä¸‹è½½](http://www1.dhzx.net/soft/uploadsoft/21Century%20Talent.rar)
+* [ä¸å‘¨å›´çš„äººæƒ³æ³•ä¸åŒï¼Œè§‰å¾—å­¤ç‹¬å‹æŠ‘æ€ä¹ˆåŠ (2009-07-30 14:00:05)](http://blog.sina.com.cn/s/blog_475b3d560100e9dl.html)
   
 ###Founder of Startup
-* [Ö²Îï´óÕ½½©Ê¬¿ª·¢¹«Ë¾´´Ê¼ÈË×ÔÊö£º´Ó0µ½1ÒÚ](http://tech.qq.com/a/20101026/000193.htm)
-* [Instagram´´Ê¼ÈË¿¿×ÔÑ§Ñ§»á±à³Ì]
-  * [Ô´ÎÄµµ](http://developers.solidot.org/article.pl?sid=12/04/10/0949258&amp;from=rss)
-  * [Ô´ÎÄµµ](http://thenextweb.com/2012/04/10/instagrams-ceo-had-no-formal-programming-training-hes-a-marketer-who-learned-to-code-by-night/)
+* [æ¤ç‰©å¤§æˆ˜åƒµå°¸å¼€å‘å…¬å¸åˆ›å§‹äººè‡ªè¿°ï¼šä»0åˆ°1äº¿](http://tech.qq.com/a/20101026/000193.htm)
+* [Instagramåˆ›å§‹äººé è‡ªå­¦å­¦ä¼šç¼–ç¨‹]
+  * [æºæ–‡æ¡£](http://developers.solidot.org/article.pl?sid=12/04/10/0949258&amp;from=rss)
+  * [æºæ–‡æ¡£](http://thenextweb.com/2012/04/10/instagrams-ceo-had-no-formal-programming-training-hes-a-marketer-who-learned-to-code-by-night/)
 
 ###China Mainland
-* ÁõÓÂÃ÷ÔÚĞÂÀËÎ¢²©¾ÍÍÅ¶Ó·¢±íÁËÒ»ÏµÁĞµÄÑÔÂÛ
-* ÂŞÓÀºÆ
-  * ÓĞÈËÎÊÎÒÊÇÈçºÎ³¤ÆÚÕâÃ´¼á³ÖÆ´Ãü¹¤×÷µÄ£¬ÆäÊµºÜ¼òµ¥£º¹¤×÷ÀÛÁË£¬ÕÒ¸ö±¿µ°µÄÁôÑÔ£¬±ÈÈçÕâÖÖ£¬¡°ÄãÔÙÕâÑùÕûÌì´òÊÖ»ú¹ã¸æÎÒ¾ÍÈ¡Ïû¹Ø×¢ÄãÁË£¡¡± ÓÚÊÇËæÊÖ°ÑËûÀ­ºÚ......»º½âÍêÁË£¬¾ÍÓÖ¿ÉÒÔ¹¤×÷¼¸¸öĞ¡Ê±ÁË¡£
+* åˆ˜å‹‡æ˜åœ¨æ–°æµªå¾®åšå°±å›¢é˜Ÿå‘è¡¨äº†ä¸€ç³»åˆ—çš„è¨€è®º
+* ç½—æ°¸æµ©
+  * æœ‰äººé—®æˆ‘æ˜¯å¦‚ä½•é•¿æœŸè¿™ä¹ˆåšæŒæ‹¼å‘½å·¥ä½œçš„ï¼Œå…¶å®å¾ˆç®€å•ï¼šå·¥ä½œç´¯äº†ï¼Œæ‰¾ä¸ªç¬¨è›‹çš„ç•™è¨€ï¼Œæ¯”å¦‚è¿™ç§ï¼Œâ€œä½ å†è¿™æ ·æ•´å¤©æ‰“æ‰‹æœºå¹¿å‘Šæˆ‘å°±å–æ¶ˆå…³æ³¨ä½ äº†ï¼â€ äºæ˜¯éšæ‰‹æŠŠä»–æ‹‰é»‘......ç¼“è§£å®Œäº†ï¼Œå°±åˆå¯ä»¥å·¥ä½œå‡ ä¸ªå°æ—¶äº†ã€‚
 
 
 ##Society & People
-* ¶Á´óÊ¦£ºÂ³Ñ¸
+* è¯»å¤§å¸ˆï¼šé²è¿…
 * (Wisdom - Can see through) [Lu Wang's Renren](http://blog.renren.com/blog/44432371/)
-  * [²»ÊÇÃ¿¸öÈË¶¼ÏñÄãÄÇÃ´ÓĞÎÄ»¯£¨ÎÄ/ÍõÂ·£©](http://www.douban.com/note/270781106/)
-  * [Ò»ÇĞ¶¼ÔÚºÁÎŞÕ÷Õ×µØ×ßÏòÊ§¿Ø£¨ÎÄ/ÍõÂ·£©](http://www.douban.com/note/266466463/)
-  * [ÎÒÕâĞ©ÄêµÄ±ä»¯£¬¾ÍÊÇĞĞÀîÔ½À´Ô½ÉÙ£¨ÎÄ/ÍõÂ·£©](http://www.douban.com/note/265081418/)
-  * [ÄÚ¹¦¹ÌÈ»ÖØÒª£¬µ«³öÀ´»ì·¹»¹µÃ¿¿ÕĞÊı£¨ÎÄ/ÍõÂ·£©](http://www.douban.com/note/262800674/)
-  * [¿××ÓµÄÄÚ¹¦ÓĞ¶àÉî£¿£¨ÎÄ/ÍõÂ·£©](http://www.douban.com/note/262292107/)
-  * [Äã¿´µ½µÄ¶¼ÊÇÕĞÊı£¬²»ÊÇÄÚ¹¦£¨ÎÄ/ÍõÂ·£©](http://www.douban.com/note/260671415/)
-  * [²»Òª±»ÄãµÄÌì¸³¼İÔ¦£¨ÎÄ/ÍõÂ·£©](http://www.douban.com/note/259865563/)£º¼ÙÈçÁõÏèÔÚ2004ÄêÖ®ºó¾ÍÍËÒÛ£¬ËûµÄ´«Ææ¹ÊÊÂ¾Í»á¶¨¸ñÔÚÄÇÒ»¿Ì£¬²»»áÎŞ¶ËÒıÀ´8ÄêºóµÄÎó½âÓë³°·í¡£Èç¹ûÎº¶«°ÑËû10Äê×öÍêµÄÊÂÇé£¬À­³¤µ½50ÄêÀ´×ö£¬¹ÊÊÂ¾Í»áÍêÈ«»»³ÉÁíÒ»¸ö°æ±¾¡£Ä²ÆäÖĞ¡¢ñÒÊ±½¡ËûÃÇ¶¼ÊÇÌ«¿ìÁË¡£Ëïºê±ó¡¢Ê·ÓñÖù³öÁËÎÊÌâ»¹ÄÜÊÕ×¡½Å£¬ÌÆÍòĞÂ¡¢Îº¶«¾ÍÊÕ²»×¡ÁË¡£¡°³É×¡»µ¿Õ¡±ÊÇÕâÊÀÉÏÓÀ²»¸ÄÒ×µÄ·¨Ôò£¬áÛ·åÖ®ºóµÄ¸²ÍöÔÚËùÄÑÃâ¡£ÄÇĞ©ÊÕ²»×¡½ÅµÄÈË£¬²¢²»ÊÇ²»¶®µÃÕâ¸öµÀÀí£¬Ö»ÊÇÒ»ĞÄÏë°Ñ×Ô¼ºµÄÌì¸³·¢»Óµ½¼«ÖÂ¡£Ê·ÊéÉÏ¶¼ÓĞÏÈÀıµÄ¡£ÔÀ·ÉÎªÊ²Ã´¹ÒÄÇÃ´Ôç£¿´òÕÌ´òµÃÌ«ÃÍÁË¡£
-  * [Ã¿ÌìÄÃ³öÀ´2Ğ¡Ê±ÀË·Ñ£¨ÎÄ/ÍõÂ·£©](http://www.douban.com/note/261142136/)
-  * [¾ø½»Òª³ÃÔç£¨ÎÄ/ÍõÂ·£©](http://www.douban.com/note/257248611/) ([½â¹Í | 36ë´](http://www.36kr.com/p/120219.html))
-  * [ÍËËõ¾ÍÊÇ¶éÂä£¬Âú×ã¾ÍÊÇÇÓÅ³£¨ÎÄ/ÍõÂ·£©](http://www.douban.com/note/261015218/)
-  * [ÎÒÊ¼ÖÕ²»ĞÅÅ¬Á¦·Ü¶·µÄÒâÒå](http://blog.renren.com/blog/44432371/811862152)
+  * [ä¸æ˜¯æ¯ä¸ªäººéƒ½åƒä½ é‚£ä¹ˆæœ‰æ–‡åŒ–ï¼ˆæ–‡/ç‹è·¯ï¼‰](http://www.douban.com/note/270781106/)
+  * [ä¸€åˆ‡éƒ½åœ¨æ¯«æ— å¾å…†åœ°èµ°å‘å¤±æ§ï¼ˆæ–‡/ç‹è·¯ï¼‰](http://www.douban.com/note/266466463/)
+  * [æˆ‘è¿™äº›å¹´çš„å˜åŒ–ï¼Œå°±æ˜¯è¡Œæè¶Šæ¥è¶Šå°‘ï¼ˆæ–‡/ç‹è·¯ï¼‰](http://www.douban.com/note/265081418/)
+  * [å†…åŠŸå›ºç„¶é‡è¦ï¼Œä½†å‡ºæ¥æ··é¥­è¿˜å¾—é æ‹›æ•°ï¼ˆæ–‡/ç‹è·¯ï¼‰](http://www.douban.com/note/262800674/)
+  * [å­”å­çš„å†…åŠŸæœ‰å¤šæ·±ï¼Ÿï¼ˆæ–‡/ç‹è·¯ï¼‰](http://www.douban.com/note/262292107/)
+  * [ä½ çœ‹åˆ°çš„éƒ½æ˜¯æ‹›æ•°ï¼Œä¸æ˜¯å†…åŠŸï¼ˆæ–‡/ç‹è·¯ï¼‰](http://www.douban.com/note/260671415/)
+  * [ä¸è¦è¢«ä½ çš„å¤©èµ‹é©¾é©­ï¼ˆæ–‡/ç‹è·¯ï¼‰](http://www.douban.com/note/259865563/)ï¼šå‡å¦‚åˆ˜ç¿”åœ¨2004å¹´ä¹‹åå°±é€€å½¹ï¼Œä»–çš„ä¼ å¥‡æ•…äº‹å°±ä¼šå®šæ ¼åœ¨é‚£ä¸€åˆ»ï¼Œä¸ä¼šæ— ç«¯å¼•æ¥8å¹´åçš„è¯¯è§£ä¸å˜²è®½ã€‚å¦‚æœé­ä¸œæŠŠä»–10å¹´åšå®Œçš„äº‹æƒ…ï¼Œæ‹‰é•¿åˆ°50å¹´æ¥åšï¼Œæ•…äº‹å°±ä¼šå®Œå…¨æ¢æˆå¦ä¸€ä¸ªç‰ˆæœ¬ã€‚ç‰Ÿå…¶ä¸­ã€è¤šæ—¶å¥ä»–ä»¬éƒ½æ˜¯å¤ªå¿«äº†ã€‚å­™å®æ–Œã€å²ç‰æŸ±å‡ºäº†é—®é¢˜è¿˜èƒ½æ”¶ä½è„šï¼Œå”ä¸‡æ–°ã€é­ä¸œå°±æ”¶ä¸ä½äº†ã€‚â€œæˆä½åç©ºâ€æ˜¯è¿™ä¸–ä¸Šæ°¸ä¸æ”¹æ˜“çš„æ³•åˆ™ï¼Œå·…å³°ä¹‹åçš„è¦†äº¡åœ¨æ‰€éš¾å…ã€‚é‚£äº›æ”¶ä¸ä½è„šçš„äººï¼Œå¹¶ä¸æ˜¯ä¸æ‡‚å¾—è¿™ä¸ªé“ç†ï¼Œåªæ˜¯ä¸€å¿ƒæƒ³æŠŠè‡ªå·±çš„å¤©èµ‹å‘æŒ¥åˆ°æè‡´ã€‚å²ä¹¦ä¸Šéƒ½æœ‰å…ˆä¾‹çš„ã€‚å²³é£ä¸ºä»€ä¹ˆæŒ‚é‚£ä¹ˆæ—©ï¼Ÿæ‰“ä»—æ‰“å¾—å¤ªçŒ›äº†ã€‚
+  * [æ¯å¤©æ‹¿å‡ºæ¥2å°æ—¶æµªè´¹ï¼ˆæ–‡/ç‹è·¯ï¼‰](http://www.douban.com/note/261142136/)
+  * [ç»äº¤è¦è¶æ—©ï¼ˆæ–‡/ç‹è·¯ï¼‰](http://www.douban.com/note/257248611/) ([è§£é›‡ | 36æ°ª](http://www.36kr.com/p/120219.html))
+  * [é€€ç¼©å°±æ˜¯å •è½ï¼Œæ»¡è¶³å°±æ˜¯æ€¯æ‡¦ï¼ˆæ–‡/ç‹è·¯ï¼‰](http://www.douban.com/note/261015218/)
+  * [æˆ‘å§‹ç»ˆä¸ä¿¡åŠªåŠ›å¥‹æ–—çš„æ„ä¹‰](http://blog.renren.com/blog/44432371/811862152)
 
 
 <div align=center><h1>People</h1></div>
 
   
 ###Friends/Fellow/Co-workers
-* [Íõ±ó (Bin Wang)](http://www.crazyhotice.com): Blog on Github, good.
-* [×ŞÓî (Yu Zou)](http://www.0x90b9.com)
-* [ºØÓî (Yu He)](http://www.heyucs.com), [ºØÓî@tumblr](http://xinyu1607.tumblr.com/)
+* [ç‹æ–Œ (Bin Wang)](http://www.crazyhotice.com): Blog on Github, good.
+* [é‚¹å®‡ (Yu Zou)](http://www.0x90b9.com)
+* [è´ºå®‡ (Yu He)](http://www.heyucs.com), [è´ºå®‡@tumblr](http://xinyu1607.tumblr.com/)
 
 ####Computer Domain 
 * Yin Wang (Shredder Yin)
@@ -291,31 +291,31 @@ Index
   * [Yin's Mid-Term Memory (Mindmap-mindomo)](http://www.mindomo.com/view?m=8cc4f95228f942f8886106d876d1b041)
   * [Yin Wang's Sina Weblog (Stop update at April 2013](http://blog.sina.com.cn/s/articlelist_1569777711_0_1.html)
 * [Dang Xu's Independent Blog](blog.youxu.info), Software Engineer, Google China
-* (Chinese)ÕÅ³ÛÔ­(Chiyuan Zhan): MIT Machine Learning Ph.D Candidate, ZJU-CS
+* (Chinese)å¼ é©°åŸ(Chiyuan Zhan): MIT Machine Learning Ph.D Candidate, ZJU-CS
   * [New blog](http://blog.pluskid.org), [Old blog](http://lifegoo.pluskid.org), [Old domain](http://pluskid.lifegoo.com)
   * [resume.pdf](http://pluskid.org/data/resume.pdf)
 * (Blow my horizon) [ByVoid ](http://www.byvoid.com) - A guy from Tsinghua, I think he is even beyond Yin Wang, Intern at Google, Hulu, MSRA, done a lot of project, 2013-04-25, His [resume](http://www.byvoid.com/en/about/resume), His [LinkedIn Profile](http://www.linkedin.com/profile/view?id=147283367)
-  * His experience: His [USA journey series (4)](http://www.byvoid.com/zhs/blog/usa-tour-bay-area) open and resume my mind and horizon, wake up my deep inspiration, [ÕâÒ»ÄêÀ´](http://www.byvoid.com/zhs/blog/recent-one-year)£¬¹ù¼Ò±¦£º¸ü¶àµÄÊÇÎÒ¸ĞÊÜµ½ÁËÊ²Ã´½ĞÃÀ¹úÃÎ£¬Ê²Ã´½ĞÖ»ÒªÅ¬Á¦¾ÍÄÜÊµÏÖÄãµÄÃÎÏë¡£
-  * His project [»ùÓÚÍ³¼ÆÓïÑÔÄ£ĞÍµÄÆ´ÒôÊäÈë·¨](http://www.byvoid.com/zhs/blog/slm_based_pinyin_ime) ([Slide](http://byvoid.github.io/slides/slmpime/index.html))£¬ÀëÉ¢ÊıÑ§µÄ×÷Òµ¾¹È»ÊÇºÍÎÒµÄÑ§³¤µÄ±ÏÒµÂÛÎÄÒ»ÑùµÄ¡£
-* LunaÄÇGoogleÃÀ¹úOfferµÄ¶ş±¾Ó¦½ìÑĞ¾¿Éú£¬[9¸öoffer£¬12¼Ò¹«Ë¾£¬35³¡ÃæÊÔ£¬´ÓÎ¢Èíµ½¹È¸è£¬Ó¦½ì¼ÆËã»ú±ÏÒµÉúµÄ2012ÇóÖ°Ö®Â· - _Luc_ - ²©¿ÍÔ°](http://www.cnblogs.com/figure9/archive/2013/01/09/2853649.html)£¬[LunaµÄ´óÑ§¶ÁÊéÊ·(1,Intro) - _Luc_ - ²©¿ÍÔ°](http://www.cnblogs.com/figure9/archive/2008/12/21/1359473.html)
-* [Johnson @ CNDN - Ëã·¨ÓëÊı¾İ½á¹¹Ö®µÀ]()
+  * His experience: His [USA journey series (4)](http://www.byvoid.com/zhs/blog/usa-tour-bay-area) open and resume my mind and horizon, wake up my deep inspiration, [è¿™ä¸€å¹´æ¥](http://www.byvoid.com/zhs/blog/recent-one-year)ï¼Œéƒ­å®¶å®ï¼šæ›´å¤šçš„æ˜¯æˆ‘æ„Ÿå—åˆ°äº†ä»€ä¹ˆå«ç¾å›½æ¢¦ï¼Œä»€ä¹ˆå«åªè¦åŠªåŠ›å°±èƒ½å®ç°ä½ çš„æ¢¦æƒ³ã€‚
+  * His project [åŸºäºç»Ÿè®¡è¯­è¨€æ¨¡å‹çš„æ‹¼éŸ³è¾“å…¥æ³•](http://www.byvoid.com/zhs/blog/slm_based_pinyin_ime) ([Slide](http://byvoid.github.io/slides/slmpime/index.html))ï¼Œç¦»æ•£æ•°å­¦çš„ä½œä¸šç«Ÿç„¶æ˜¯å’Œæˆ‘çš„å­¦é•¿çš„æ¯•ä¸šè®ºæ–‡ä¸€æ ·çš„ã€‚
+* Lunaé‚£Googleç¾å›½Offerçš„äºŒæœ¬åº”å±Šç ”ç©¶ç”Ÿï¼Œ[9ä¸ªofferï¼Œ12å®¶å…¬å¸ï¼Œ35åœºé¢è¯•ï¼Œä»å¾®è½¯åˆ°è°·æ­Œï¼Œåº”å±Šè®¡ç®—æœºæ¯•ä¸šç”Ÿçš„2012æ±‚èŒä¹‹è·¯ - _Luc_ - åšå®¢å›­](http://www.cnblogs.com/figure9/archive/2013/01/09/2853649.html)ï¼Œ[Lunaçš„å¤§å­¦è¯»ä¹¦å²(1,Intro) - _Luc_ - åšå®¢å›­](http://www.cnblogs.com/figure9/archive/2008/12/21/1359473.html)
+* [Johnson @ CNDN - ç®—æ³•ä¸æ•°æ®ç»“æ„ä¹‹é“]()
 * [Tom Hawstein ( 'Hawking'[:3] + 'Einstein'[3:] )](http://hawstein.com/) - Post about _Cracking the Coding Interview_
-* [Hackecho](http://hackecho.com/2011/04/0423-reading-notes/)£¬ÓĞ¼¸ÆªÎÄÕÂ·Ç³£ºÃ¡£
-* [Ò»¸öµÍÑ§ÀúÕßµÄĞÁËá³ÌĞòÂ·(¹óÔÚ¼á³Ö)](http://www.jb51.net/article/18139.htm)  
+* [Hackecho](http://hackecho.com/2011/04/0423-reading-notes/)ï¼Œæœ‰å‡ ç¯‡æ–‡ç« éå¸¸å¥½ã€‚
+* [ä¸€ä¸ªä½å­¦å†è€…çš„è¾›é…¸ç¨‹åºè·¯(è´µåœ¨åšæŒ)](http://www.jb51.net/article/18139.htm)  
 
 
 
 ###Engineer in China Mainland
-* ÕÔ³¬-ÌÔ±¦-Java
-  * [Engineer.CN].ÕÔ³¬--´ÓP1µ½P7¡ª¡ªÎÒÔÚÌÔ±¦Õâ7Äê(1)](http://blog.sina.com.cn/s/blog_633219970100vz44.html), [another](http://blog.sina.com.cn/s/blog_633219970100lpev.html)
-  * ×öÕâÊÂ×î¶àµÄ¾İËµÊÇÈı·á£¬ËûÏÖÔÚÊÇÌÔ±¦ÍøµÄ×Ü²Ã¡£ÏÖÔÚÎÒÃÇÖªµÀ£¬ÈÎºÎÅ£BµÄÈËÎï£¬¶¼ÓĞÒ»¶Î¿àBµÄ¾­Àú¡£
-  * ¶àÂ¡£¬ÏÖÔÚÎÒÃÇÔÙÒ»´ÎÖªµÀ£¬ÈÎºÎÅ£BµÄÈËÎï£¬¶¼±ØĞëÓĞÒ»¶Î¿àBµÄ¾­Àú¡£
-* [°¢Àï°Í°ÍÀëÖ°DBAÔÚ35Ëê×Ü½áµÄÖ°ÒµÉúÑÄ - ²©¿Í - ²®ÀÖÔÚÏß](http://blog.jobbole.com/17776/)£ºÖ°×¨±ÏÒµ£¬·Ç»ù´¡¼¼Êõ¿ª·¢£¬¿ªÊ¼¿´²»ÆğSA¡¢DBA£¬ºóÑá¾ë¿ª·¢Îª±ğÈË¸ÄĞèÇó×ª×öDBA£¬ÔÚÌÔ±¦Óöµ½×îºÃµÄDBA¡£
-* (Blog) [robbinµÄ×Ô°×£ºYou've got to find what you love](http://robbinfan.com/blog/20/my-life):Management, Tech, Founder of JavaEye, CTO of CSDN.
+* èµµè¶…-æ·˜å®-Java
+  * [Engineer.CN].èµµè¶…--ä»P1åˆ°P7â€”â€”æˆ‘åœ¨æ·˜å®è¿™7å¹´(1)](http://blog.sina.com.cn/s/blog_633219970100vz44.html), [another](http://blog.sina.com.cn/s/blog_633219970100lpev.html)
+  * åšè¿™äº‹æœ€å¤šçš„æ®è¯´æ˜¯ä¸‰ä¸°ï¼Œä»–ç°åœ¨æ˜¯æ·˜å®ç½‘çš„æ€»è£ã€‚ç°åœ¨æˆ‘ä»¬çŸ¥é“ï¼Œä»»ä½•ç‰›Bçš„äººç‰©ï¼Œéƒ½æœ‰ä¸€æ®µè‹¦Bçš„ç»å†ã€‚
+  * å¤šéš†ï¼Œç°åœ¨æˆ‘ä»¬å†ä¸€æ¬¡çŸ¥é“ï¼Œä»»ä½•ç‰›Bçš„äººç‰©ï¼Œéƒ½å¿…é¡»æœ‰ä¸€æ®µè‹¦Bçš„ç»å†ã€‚
+* [é˜¿é‡Œå·´å·´ç¦»èŒDBAåœ¨35å²æ€»ç»“çš„èŒä¸šç”Ÿæ¶¯ - åšå®¢ - ä¼¯ä¹åœ¨çº¿](http://blog.jobbole.com/17776/)ï¼šèŒä¸“æ¯•ä¸šï¼ŒéåŸºç¡€æŠ€æœ¯å¼€å‘ï¼Œå¼€å§‹çœ‹ä¸èµ·SAã€DBAï¼ŒååŒå€¦å¼€å‘ä¸ºåˆ«äººæ”¹éœ€æ±‚è½¬åšDBAï¼Œåœ¨æ·˜å®é‡åˆ°æœ€å¥½çš„DBAã€‚
+* (Blog) [robbinçš„è‡ªç™½ï¼šYou've got to find what you love](http://robbinfan.com/blog/20/my-life):Management, Tech, Founder of JavaEye, CTO of CSDN.
 
 ####Other Domain/Field
-* (Chinese)ÍÁÄ¾Ì³×Ó: Ph.D Civil Engineering - Cement field (Construction, Building), [blog](https://tumutanzi.com/)
-* (Chinese)ÕÅÖ¾Ç¿(Zhiqiang Zhang): Ph.D FRM, [Website](http://zhiqiang.org)
+* (Chinese)åœŸæœ¨å›å­: Ph.D Civil Engineering - Cement field (Construction, Building), [blog](https://tumutanzi.com/)
+* (Chinese)å¼ å¿—å¼º(Zhiqiang Zhang): Ph.D FRM, [Website](http://zhiqiang.org)
 
 ####About Blog
 * Personal Weblog+ on blog service
