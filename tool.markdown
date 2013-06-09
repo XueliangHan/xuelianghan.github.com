@@ -586,7 +586,7 @@ Reference
   * This is a very geeky Windows XP machine I encountered before, So I record it in here.
   * `c:\oracle\product\10.1.0\Db_1\bin;c:\oracle\product\10.1.0\Db\_1\jre\1.4.2\bin\client;c:\oracle\product\10.1.0\Db_1\jre\1.7.0\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\MSDEV\BIN;C:\Program Files\Rational\common;c:\matlab6p1\bin\win32`
 
-* [Remap Keyboard - Exchange Caps-Lock and Left Ctrl](http://c2.com/cgi/wiki?RemapCapsLock)
+* Keyboard reconfiguring: You can find the way to remap the Caps-Lock and Left Ctrl for all platform at here -> [Remap Keyboard - Exchange Caps-Lock and Left Ctrl](http://c2.com/cgi/wiki?RemapCapsLock). If you are using a Mac with a PC keyboard (for example: Hackintosh), this article - [Use a PC keyboard with your Hackintosh!](http://www.osxlatitude.com/use-a-pc-keyboard-with-your-hackintosh/) will help.
 
 </body>
 </html>
