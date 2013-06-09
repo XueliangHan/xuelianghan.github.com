@@ -10,9 +10,9 @@
 
 
 ##Index
-1.Convert ePub book to HTML
-2.Convert HTML to Doc
-3.Convert Doc/DOT/Pages file to PDF
+1. Convert ePub book to HTML
+2. Convert HTML to Doc
+3. Convert Doc/DOT/Pages file to PDF
 
 
 
