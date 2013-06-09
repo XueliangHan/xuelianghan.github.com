@@ -1,4 +1,4 @@
-#Use GoAgent & GAE to get a Free & Open Internet
+#Use GoAgent and GAE to get a Free & Open Internet
 
 ##Introduction
 * Internet should be and will be a __Free__, __Open__,  and __Equality__ space.
