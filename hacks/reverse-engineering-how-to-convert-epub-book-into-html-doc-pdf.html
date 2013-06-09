@@ -1,0 +1,78 @@
+<h1>Reverse Engineering: How to Convert ePub Book into HTML/Doc/PDF.</h1>
+
+<h2>Notes:</h2>
+
+<ol>
+<li>The Best Way To <strong>Support</strong> Your Favorite Authors is Buy Their Books</li>
+<li>If you really can't afford it, don't do this frequently, and before you excited finish you hacking and boldly share it on the Internet, double think about it, what if your books been shared on the Internet?</li>
+<li>Use it to <strong>Benefit</strong> Yourself! <strong>Do not</strong> use it for Evil!</li>
+</ol>
+
+<h2>Index</h2>
+
+<p>1.Convert ePub book to HTML
+2.Convert HTML to Doc
+3.Convert Doc/DOT/Pages file to PDF</p>
+
+<h2>1.Convert ePub book into HTML</h2>
+
+<ol>
+<li>Decompress: epub actually is a zip file, decompress it, you get all files,</li>
+<li>Move non-html files, keep it, you will need it.</li>
+<li>Extract each file's content which is between the label <head> and </body></li>
+<li>Rename the file extension name to .txt, because the program can only handle .txt, that's OK, it's txt after all</li>
+<li>Merge all split files into one .txt file, named merged.txt</li>
+<li>HTML Structure Integrity: Finish the HTML markup
+<ul>
+<li>Add these into head of merged.txt
+<blockquote>
+  <p><?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml"></li>
+<li>Add this into end of merged.txt
+</html>
+It will be fine if you don't do this and open it in Chrome, but I prefer DONE.</li>
+</ul></li>
+<li>Rename marged.txt to merged.html, and move other files back, reverse what you do in step 2
+Note: Finis the task with tools, you search software (TextForever.exe on windows) or write a program (script on Linux).</li>
+</ol></p>
+
+<h2>I'm curious which programming language are you going to pick?</h2>
+</blockquote>
+
+<ul>
+<li>C, C++: Oh, come on, buddy, are you really going to do this?</li>
+<li>Bash: You are an administrator.</li>
+<li>Java: Yeah, good one, java.utilities.reg is nice, but don't you think Eclipse is a little big and heavy? Or you are gonna do this in CLR? That's fine.</li>
+<li>Perl, Python, Ruby: Yeah, that's all good choices.</li>
+<li>PHP, JavaScript: Its fine too I think.</li>
+<li>LISP: I don't think you need continue reading this instruction, you will figure it out on your own.</li>
+<li>Assemble Language: That's finny, good joke.</li>
+<li>I think there is no fixed choice, pick the one which takes your less time to finish it.</li>
+<li>To me Fast &amp; Quick is primary; Clean it secondary; Reusability is third.)</li>
+</ul>
+<h2>2.Convert HTML into Doc/DOT/Pages file</h2>
+
+<ol>
+<li>Copy -> Paste</li>
+<li>Modify the title in navigation side</li>
+<li>Adjust the indentation of citation, reference: HTML version</li>
+<li>Start from new page: Preface, Chapters, Citations, Index, etc.</li>
+<li>Make a better content: Simple and Detail version</li>
+<li>Find Cover pictures, spilt and combine version</li>
+<li>Make black and white version cover, method, write the text on cover, pure text typesetting work, then go rich text work, then try to simulate a graphic with symbols.</li>
+<li>Add header (Page number, and text)
+<ul>
+<li>Printing double page version</li>
+<li>E-book single page version</li>
+</ul></li>
+<li>Word file total editing time: 3:15:00</li>
+</ol>
+
+<h2>3.Convert Doc/DOT/Pages file into PDF</h2>
+
+<ol>
+<li>Doc/Docs is MS-Word format, Dot is LibreOffice/OpenOffice format, Pages is Apple-iWord format, they are all powerful <em>Virtual Text Editor</em>, all of them have the function to export pdf file, you just need to find it.</li>
+<li>Don't forget export with <code>Contain Bookmark</code> options, it very useful.</li>
+</ol>
+
+<h2>DONE!</h2>
