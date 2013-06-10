@@ -1,0 +1,45 @@
+<h1>Use GoAgent and GAE to get a Free &amp; Open Internet</h1>
+
+<h2>Introduction</h2>
+
+<ul>
+<li>Internet should be and will be a <strong>Free</strong>, <strong>Open</strong>,  and <strong>Equality</strong> space.</li>
+<li>This is a personal record and note about how to use GoaGent. It also to be a manual which including <em>instructions</em> and <em>troubleshootings</em> to get a free and open internet access, during the procedures, if you get any like this <code>This webpage is not available</code>, find another way out and don’t be <strong>narcissism</strong>, the problem isn't on your side, either on the service providers' side, there are something between you and the service providers, Let’s call it “The Wall”, If you want to see the <strong>Truth</strong>, to see a <strong>Broader</strong> world, try best to cross it. or you can please yourself.</li>
+</ul>
+
+<h2>Instructions</h2>
+
+<ol>
+<li><p>Do you have a Google account, no? Go and register one.</p></li>
+<li><p>Create a application on Google App Engine, open <a href="http://appengine.google.com">Google App Engine</a>, create a new application, remember the AppID(Application Identifier).</p></li>
+<li><p>Get GoAgent, SwitchyOptions.bak, and GoogleAppEngine, Open <a href="http://code.google.com/p/goagent/downloads/list">GoAgent</a>, and <a href="https://goagent.googlecode.com/files/SwitchyOptions.bak">SwitchOptions.bak</a>, download it, If something goes wrong, you can use this address(if it still working after a long time):” <a href="http://pan.baidu.com/share/link?shareid=107390&amp;uk=1980879100”">backup address</a>, download it, if not, it’s on you own, try (Google Bing, Yahoo GoAgent).</p></li>
+<li><p>Get <a href="https://developers.google.com/appengine/downloads">Google App Engine</a>, Google App Engine SDK for Python</p>
+
+<ul>
+<li>Linux/Other Platforms:google<em>appengine</em>1.7.3.zip</li>
+<li>Windows:GoogleAppEngine-1.7.3.msi</li>
+<li>Mac OS X: GoogleAppEngineLauncher-1.7.3.dmg</li>
+</ul></li>
+<li><p>Windows process GoAgent and Google App Engine</p>
+
+<ul>
+<li>Decompress two files</li>
+<li>Enter local folder, edit proxy.ini, change the AppID to your AppID</li>
+<li>Double click upload.bat, it will require your AppID, Gmail account and password, waiting, then open http://yourAppID.appspot.com/fetch.py, if it working, Done!</li>
+</ul></li>
+<li><p>Linux (under command line) process GoAgent and Google App Engine</p>
+
+<ul>
+<li>Decompress two files</li>
+<li>Edit <code>goagent/server/python/app.yaml</code>, change application.appid into your AppID</li>
+<li>Input command: appcfg.py’s patch update fetch.py’s path, example: <code>python ~/bin/goagent-2.1.5/server/appcfg.py update ~/bin/goagent-2.1.5/server/python</code>. It will quire your AppID, Gmail account, and password, waiting, then open http://yourAppID.appspot.com/fetch.py, if it working, Done!</li>
+</ul></li>
+<li><p>It almost done, when you want use it, run goagent/local/goagent.exe (windows) or python proxy.py (Linux), and change your local proxy  IP into 127.0.0.1, port: 8087 manually. We want it automatically, so if you are using Chrome, you are lucky.</p>
+
+<ul>
+<li>Download <a href="https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm">Proxy SwitchySharp extension</a>.</li>
+<li>Configuration, hit import/export interface, click restore, import SwitchyOptions.bak, save.</li>
+<li>When you want Google, youtube, facebook, twitter, click SwitchySharp, select “GoAgent”, when you finish, don’t forget click it again and select “Direct Connection”.</li>
+</ul></li>
+<li><p>Every Google account can create 10 Google applications, and each application have 1GB data bandwidth, it's enough to daily use.</p></li>
+</ol>

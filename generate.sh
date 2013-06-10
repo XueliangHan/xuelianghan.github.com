@@ -3,16 +3,16 @@
 #html manually wrote: index.html, programming language
 
 #Design need to know, SRC is where I put my markdown file, DES is where I want to generate the html from markdown.
-SRC_BASE="/home/h/publishing/xuelianghan.github.com"
+SRC_BASE="/Users/h/xuelianghan.github.com"
 
-SRC="/home/h/publishing/xuelianghan.github.com"
-DES="/home/h/publishing/xuelianghan.github.com"
+SRC="/Users/h/xuelianghan.github.com"
+DES="/Users/h/xuelianghan.github.com"
 
-SRC_CS_CORE="/home/h/publishing/xuelianghan.github.com/cs"
-DES_CS_CORE="/home/h/publishing/xuelianghan.github.com/cs"
+SRC_CS_CORE="/Users/h/xuelianghan.github.com/cs"
+DES_CS_CORE="/Users/h/xuelianghan.github.com/cs"
 
-SRC_CS_DOMAIN="/home/h/publishing/xuelianghan.github.com/cs"
-DES_CS_DOMAIN="/home/h/publishing/xuelianghan.github.com/cs"
+SRC_CS_DOMAIN="/Users/h/xuelianghan.github.com/cs"
+DES_CS_DOMAIN="/Users/h/xuelianghan.github.com/cs"
 
 
 
@@ -42,6 +42,7 @@ perl md.pl $SRC/misc.markdown    > $DES/misc.html
 perl md.pl $SRC_CS_CORE/algorithms_data-structure.markdown > $DES_CS_CORE/algorithms_data-structure.html
 perl md.pl $SRC_CS_CORE/linux.markdown                     > $DES_CS_CORE/linux.html #
 perl md.pl $SRC_CS_CORE/linux_command.markdown             > $DES_CS_CORE/linux_command.html
+perl md.pl $SRC_CS_CORE/linux-distro-arch-linux.markdown   > $DES_CS_CORE/linux-distro-arch-linux.html
 perl md.pl $SRC_CS_DOMAIN/networking.markdown              > $DES_CS_DOMAIN/networking.html
 perl md.pl $SRC_CS_DOMAIN/networking_command.markdown      > $DES_CS_DOMAIN/networking_command.html
 
@@ -51,6 +52,10 @@ perl md.pl $SRC_CS_DOMAIN/LISP.markdown                    > $DES_CS_DOMAIN/LISP
 perl md.pl $SRC_CS_DOMAIN/markdown.markdown                > $DES_CS_DOMAIN/markdown.html
 perl md.pl $SRC_CS_DOMAIN/python.markdown                  > $DES_CS_DOMAIN/python.html
 perl md.pl $SRC_CS_DOMAIN/c.markdown                       > $DES_CS_DOMAIN/c.html
+
+##Level 2, hacks
+perl md.pl $SRC/hacks/reverse-engineering-how-to-convert-epub-book-into-html-doc-pdf.markdown > $DES/hacks/reverse-engineering-how-to-convert-epub-book-into-html-doc-pdf.html
+perl md.pl $SRC/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-access.markdown   > $DES/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-access.html
 
 ##Level 2, Part master
 perl md.pl $SRC/masterNpeople.markdown                     > $DES/masterNpeople.html
