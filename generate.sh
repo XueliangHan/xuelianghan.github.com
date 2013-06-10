@@ -42,6 +42,7 @@ perl md.pl $SRC/misc.markdown    > $DES/misc.html
 perl md.pl $SRC_CS_CORE/algorithms_data-structure.markdown > $DES_CS_CORE/algorithms_data-structure.html
 perl md.pl $SRC_CS_CORE/linux.markdown                     > $DES_CS_CORE/linux.html #
 perl md.pl $SRC_CS_CORE/linux_command.markdown             > $DES_CS_CORE/linux_command.html
+perl md.pl $SRC_CS_CORE/linux-distro-arch-linux.markdown   > $DES_CS_CORE/linux-distro-arch-linux.html
 perl md.pl $SRC_CS_DOMAIN/networking.markdown              > $DES_CS_DOMAIN/networking.html
 perl md.pl $SRC_CS_DOMAIN/networking_command.markdown      > $DES_CS_DOMAIN/networking_command.html
 
