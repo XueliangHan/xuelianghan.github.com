@@ -1,4 +1,6 @@
 #!/bin/sh
+#generate program for Mac OS X
+
 
 #html manually wrote: index.html, programming language
 
@@ -54,6 +56,7 @@ perl md.pl $SRC_CS_DOMAIN/python.markdown                  > $DES_CS_DOMAIN/pyth
 perl md.pl $SRC_CS_DOMAIN/c.markdown                       > $DES_CS_DOMAIN/c.html
 
 ##Level 2, hacks
+perl md.pl $SRC/hacks.markdown                                                                > $DES/hacks.html
 perl md.pl $SRC/hacks/reverse-engineering-how-to-convert-epub-book-into-html-doc-pdf.markdown > $DES/hacks/reverse-engineering-how-to-convert-epub-book-into-html-doc-pdf.html
 perl md.pl $SRC/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-access.markdown   > $DES/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-access.html
 
