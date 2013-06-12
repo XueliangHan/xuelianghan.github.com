@@ -65,6 +65,7 @@ perl md.pl $SRC/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-acce
 
 #Level 2, tools
 perl md.pl $SRC/tools.markdown             > $DES/tools.html
+perl md.pl $SRC/tools/gcc.markdown         > $DES/tools/gcc.html
 perl md.pl $SRC/tools/git.markdown         > $DES/tools/git.html
 perl md.pl $SRC/tools/text-editor.markdown > $DES/tools/text-editor.html
 perl md.pl $SRC/tools/vi-vim.markdown      > $DES/tools/vi-vim.html
