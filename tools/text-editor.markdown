@@ -8,9 +8,6 @@
   * [A very good answer on StackOverFlow about how to use Emacs and Vim to get different things done](http://stackoverflow.com/a/592265/1805394): Brian Carper use Emacs for LISP, CSS, JavaScript and such, and use Vim for Ruby, Python, Perl, PHP, BASH, Plaintext, and almost anything else.
 
 
-
-
-
 ####Emacs
 * Damn it! I finally got some transcendent understanding, `Emacs` is not a text editor, yes, it's like a text editor, but it not only to be a single editor, it's actually a __Operating System__. Let's back to the time when __UNIX__ beat __LISP Machine__, these guys who made _emacs_ just built it on Unix system so them can use it, that why people are saying `Emacs` can do everything, even open a door for you, and by the way, some guys joking that what emacs really need is a _text editor_. 2013-04-15.
 

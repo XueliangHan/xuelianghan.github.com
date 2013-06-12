@@ -1,0 +1,152 @@
+<h4>Vi/Vim</h4>
+
+<h5>Index of Vi/Vim</h5>
+
+<ul>
+<li>See Vi/Vim master using Vi/Vim</li>
+<li>Tutorials</li>
+<li>Installations</li>
+<li>Usage
+<ul>
+<li>Command mode (the default mode when you enter Vi/Vim).   </li>
+<li>Lastline mode</li>
+<li>Input mode</li>
+<li>Navigation use shortcut key (Moving cursor to wherever you like)</li>
+</ul></li>
+</ul>
+
+<h5>Content of Vi/Vim</h5>
+
+<ul>
+<li>See Vi/Vim master using Vi/Vim</li>
+</ul>
+
+<h5>Tutorials</h5>
+
+<ul>
+<li><a href="http://www.worldtimzone.com/res/vi.html">Vi</a> - write with markdown.</li>
+<li>Daniel Gryniewicz / dang@fprintf.net, <a href="http://www.fprintf.net/vimCheatSheet.html">Vim Commands Cheat Sheet</a> - this guy had a <em>Hacker Icon</em> at bottom of the webpage too.</li>
+<li>Chinese Tutorials
+<ul>
+<li><a href="http://coolshell.cn/articles/5426.html">CoolShell's Vim short course</a></li>
+<li><a href="http://easwy.com/blog/archives/advanced-vim-skills-catalog/">Advanced Vi/Vim</a></li>
+</ul></li>
+</ul>
+
+<h5>Installation Vim</h5>
+
+<ul>
+<li>In Linux, in <em>Ubuntu</em>,excute <code>sudo apt-get install vim</code></li>
+<li>In Mac OS X, Vim is already in the system, at <code>/usr/share/vim</code>.
+<ul>
+<li>Configuration Vim</li>
+</ul></li>
+<li>In Linux, <code>.vimrc</code> is the configuration file of Vim, store at <code>/home/"Yourname"/.vimrc</code></li>
+<li>In Mac OS X, it's same to Linux, the general configuration file in store in <code>/usr/share/vim/vimrc</code>.</li>
+<li>A configuration in Chinese <a href="http://blog.sina.com.cn/s/blog_5a6efa330101cumx.html">Mac Vimrc</a></li>
+</ul>
+
+<h5>Usage of Vi/Vim</h5>
+
+<ul>
+<li>Note: "something" I write, it mean what you should input.</li>
+<li><p>Vi/Vim Modes - Vi/Vim has three main modes</p>
+
+<ul>
+<li>Command mode (the default mode when you enter Vi/Vim).   </li>
+<li>Last line mode.  </li>
+<li>Input mode.  </li>
+</ul></li>
+<li><p>Command mode</p>
+
+<ul>
+<li>Copy &amp; Paste cross files - copy from by typing <code>"*yny</code> (<code>n</code> - how many lines you want to copy), paste into another file by typing <code>"*p</code>, and you can check the data currently in register by typing command (press <code>ESC first)</code>:register`.</li>
+<li>Delete</li>
+<li>Match (), [], {}: "%"</li>
+</ul></li>
+<li><p>Last line mode - excute command</p>
+
+<ul>
+<li>Delete space: Delete line with spaces: <code>:g/^$/d</code>, delete spaces before the first letter of a line: <code>:%s/^\s*//g</code>, delete spaces after the last letter of a line: <code>:%s/\s*$//g</code>.</li>
+<li>Excute external command: <code>!</code></li>
+<li>Filetype set: <code>:set filetype=c</code></li>
+<li>Open and Navigate into <code>n</code> line: <code>vim filename +n</code>.</li>
+<li>Open and Navigate into first word match pattern: <code>vim filename +/wordname</code></li>
+<li>Search - <code>/word</code>, <code>n</code> to next one.</li>
+<li>Search and Replace - <code>:%s/ori/des/g</code>, example delete "^M" at the end of each line, <code>:%s/
+$//g</code>, in order to input <code>^</code> you need type <code>Ctrl</code> + <code>v</code>, input <code>M</code> you need type <code>Ctrl</code> + <code>m</code>.</li>
+<li>Split screen/window by command <code>:split</code> then typing <code>:open 'filename'</code> to edit.</li>
+<li>Split screen/window vertically by command <code>:split</code> then typing <code>:open 'filename'</code> to edit.</li>
+</ul></li>
+<li><p>Input mode - Input text
+<ul>
+<li>Insert</p>
+
+<blockquote>
+  <p>Letter - new letter before cursor: <code>i</code> <br />
+  Letter - new letter after cursor: <code>a</code> <br />
+  Line - new line behind current line: <code>O</code>, Equal to <code>A</code>+<code>ENTER</code>  </li>
+  </ul></p>
+</blockquote></li>
+<li><p>Navigation use shortcut key (Moving cursor to wherever you like)</p>
+
+<ul>
+<li><p>Letter</p>
+
+<blockquote>
+  <p>Letter - Move lef : <code>h</code> <br />
+  Letter - Mese right: <code>l</code> <br />
+  Letter - Move up: <code>j</code> <br />
+  Letter - Move down: <code>k</code> <br />
+  Letter - First position of the line: <code>o</code> <br />
+  Letter - First Letter of the line: <code>^</code>(6) <br />
+  Letter - Last Letter of the line: <code>$</code>(4) <br />
+  Letter - the n'th Letter of the line: <code>n|</code>  </p>
+</blockquote></li>
+<li><p>Word</p>
+
+<blockquote>
+  <p>Word - Previous word  - Beginning: <code>b</code> <br />
+  Word - Previous word - Beginning (ignore punctuation): <code>B</code> <br />
+  Word - Next word - Beginning: <code>w</code> <br />
+  Word - Next word - Beginning (ignore punctuation): <code>W</code> <br />
+  Word - Next word - End: <code>e</code> <br />
+  Word - Next word - End (ignore punctuation): <code>E</code>  </p>
+</blockquote></li>
+<li><p>Line </p>
+
+<blockquote>
+  <p>Line - First line of the file: <code>gg</code> (g mean goto, press <code>g</code> twice) <br />
+  Line - Last line of the file: <code>G</code> (g mean goto, press <code>g</code>+<code>shift</code>) <br />
+  Line - n line: <code>:n</code> (n mean number)  </p>
+</blockquote></li>
+<li><p>Sentence </p>
+
+<blockquote>
+  <p>Sentence - Previous sentence's head: <code>(</code> <br />
+  Sentence - Next sentence's rear: <code>)</code>  </p>
+</blockquote></li>
+<li><p>Paragraph   </p>
+
+<blockquote>
+  <p>Paragraph (Spilt with a blank line) <br />
+  Paragraph - Previous paragraph's head: <code>{</code> <br />
+  Paragraph - Previous paragraph's rear: <code>}</code>  </p>
+</blockquote></li>
+<li><p>Page-turning</p>
+
+<blockquote>
+  <p>Page-turning - Full page forward (down): <code>CTRL</code>+<code>f</code> <br />
+  Page-turning - Full page back (up): <code>CTRL</code>+<code>b</code> <br />
+  Page-turning - Half page forward (down): <code>CTRL</code>+<code>d</code> <br />
+  Page-turning - Half page back (up): <code>CTRL</code>+<code>u</code>  </p>
+</blockquote></li>
+<li><p>Screen  </p>
+
+<blockquote>
+  <p>Screen - First line's first non-empty Letter: <code>H</code> <br />
+  Screen - Middle line's first non-empty Letter: <code>M</code> <br />
+  Screen - Last line's first non-empty Letter: <code>L</code>  </p>
+</blockquote></li>
+</ul></li>
+</ul>
