@@ -29,12 +29,11 @@ perl md.pl $SRC/information-source.markdown  > $DES/information-source.html
 perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
 
 #Level 1, Part professional
-perl md.pl $SRC/project.markdown > $DES/project.html
-perl md.pl $SRC/resume.markdown  > $DES/resume.html
-perl md.pl $SRC/jianli.markdown  > $DES/jianli.html
-perl md.pl $SRC/skill.markdown   > $DES/skill.html
-perl md.pl $SRC/tool.markdown    > $DES/tool.html
-perl md.pl $SRC/misc.markdown    > $DES/misc.html
+perl md.pl $SRC/projects.markdown > $DES/projects.html
+perl md.pl $SRC/resume.markdown   > $DES/resume.html
+perl md.pl $SRC/jianli.markdown   > $DES/jianli.html
+perl md.pl $SRC/skills.markdown   > $DES/skills.html
+perl md.pl $SRC/misc.markdown     > $DES/misc.html
 
 
 
@@ -58,6 +57,16 @@ perl md.pl $SRC_CS_DOMAIN/c.markdown                       > $DES_CS_DOMAIN/c.ht
 perl md.pl $SRC/hacks.markdown                                                                > $DES/hacks.html
 perl md.pl $SRC/hacks/reverse-engineering-how-to-convert-epub-book-into-html-doc-pdf.markdown > $DES/hacks/reverse-engineering-how-to-convert-epub-book-into-html-doc-pdf.html
 perl md.pl $SRC/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-access.markdown   > $DES/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-access.html
+
+#Level 2, tools
+perl md.pl $SRC/tools.markdown   > $DES/tools.html
+perl md.pl $SRC/tools/git.markdown > $DES/tools/git.html
+perl md.pl $SRC/tools/.markdown > $DES/tools/.html
+perl md.pl $SRC/tools/.markdown > $DES/tools/.html
+perl md.pl $SRC/tools/.markdown > $DES/tools/.html
+perl md.pl $SRC/tools/.markdown > $DES/tools/.html
+perl md.pl $SRC/tools/.markdown > $DES/tools/.html
+
 
 ##Level 2, Part master
 perl md.pl $SRC/masterNpeople.markdown                     > $DES/masterNpeople.html
