@@ -287,6 +287,7 @@ Index
 
 * list all filesystem UUID
   * `sudo blkid`
+* list directory tree - `ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/  /' -e 's/-/|/'` (it works)
 
 ####Utilities
 * wget
