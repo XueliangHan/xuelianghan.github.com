@@ -16,7 +16,6 @@ Index
   * Writing
   * Time-Lapse
   * PHOTOGRAPHY of (Universe/Stars/Sky/Landscape) [Inspired]
-  * Music
   * Film/Movie
 * Travel - Different Area/Country/Nation/State with different Language/Culture
 
@@ -63,21 +62,6 @@ Verything even death is losing it's power in front of the _Nature_ and _Universe
   * Andromeda Galaxy and Milky Way from Earth   ![Synthesized Andromeda Galaxy and Milky Way from Earth](./files/images/andromeda-galaxy-and-milky-way-from-earth.jpg "Andromeda Galaxy and Milky Way from Earth")
 
 * [What is the most amazing photo you have ever taken - Quora](http://www.quora.com/Photography/What-is-the-most-amazing-photo-you-have-ever-taken), 2013-04-27: This question have 629 answers, each answer have a gorgeous picture, everybody give his/her best shoot, it is the best collection I have ever seen in my life, this series completely blow my mind, it shows you how wonderful and amazing our world is.
-
-
-###MUSIC
-* Cognition of Music - It is a spiritual energy source for human kind.
-* A film about how amazing the music is - August Rush (2007): [on IMDB](http://www.imdb.com/title/tt0426931/), [on Wikipedia](http://en.wikipedia.org/wiki/August_Rush), Note: Very beautiful, amazing, I can feel the power of music, it's like my neuro-network have been programmed by music.
-* A course about listening to music from Yale university (Open Yale), [Listening to Music - Open Yale Course](http://oyc.yale.edu/music/musi-112) by [Prof. Craig Wright]
-
-####My playlist
-* Programming - When I do hacking/programming, I like the tracks from the film `The Social Network` by Trent Reznor and Atticus Ross, [listen it online at XiaMi (China)](http://www.xiami.com/album/406012), [maglink](magnet:?xt=urn:btih:8f8445d0a78c9df42169b4fd1690b208ef886b40&dn=trent+reznor+and+atticus+ross+the+social+network+ost+web+2010+daa&tr=http%3A%2F%2Fexodus.1337x.org%2Fannounce)
-
-* Friends - 
-  * Friend by Huajian Zhou, Chinese content.
-
-* Beyond - About beyond the limit, the music from `Beyond`.
-
 
 
 

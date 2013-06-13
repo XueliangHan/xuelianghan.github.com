@@ -38,8 +38,15 @@ fi
 #perl md.pl $SRC/language.markdown            > $DES/language.html
 
 #Level 1, Part index
-perl md.pl $SRC/hobbies.markdown              > $DES/hobbies.html
-perl md.pl $SRC/hobbies/music.markdown        > $DES/hobbies/music.html
+perl md.pl $SRC/hobbies.markdown                    > $DES/hobbies.html
+#perl md.pl $SRC/hobbies/film-and-movie.markdown     > $DES/hobbies/film-and-movie.html
+#perl md.pl $SRC/hobbies/meditation.markdown         > $DES/hobbies/meditation.html
+perl md.pl $SRC/hobbies/music.markdown              > $DES/hobbies/music.html
+#perl md.pl $SRC/hobbies/reading.markdown            > $DES/hobbies/reading.html
+#perl md.pl $SRC/hobbies/sports-and-fitness.markdown > $DES/hobbies/sports-and-fitness.html
+#perl md.pl $SRC/hobbies/travel.markdown             > $DES/hobbies/travel.html
+#perl md.pl $SRC/hobbies/.markdown   > $DES/hobbies/.html
+
 perl md.pl $SRC/interest.markdown             > $DES/interest.html
 perl md.pl $SRC/interest_technology.markdown  > $DES/interest_technology.html
 perl md.pl $SRC/inspiration.markdown          > $DES/inspiration.html
