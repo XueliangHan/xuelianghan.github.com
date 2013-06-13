@@ -5,3 +5,21 @@
 <ul>
 <li>(Chinese) <a href="http://www.baidu-ops.com/2012/08/25/shell-tricks/">bash的常用功能和技巧 - 百度运维</a></li>
 </ul>
+
+<h2>Problems</h2>
+
+<p><ul>
+<li>unexpected operator - <code>./test.sh: 4: [: Linux: unexpected operator</code>
+<ul>
+<li>File Content:</p>
+
+<blockquote>
+  <h1>!/bin/sh</h1>
+
+<p>if [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
+    echo "Script running under GNU/Linux"</li>
+<li>System: GNU/Linux (Ubuntu 12.04)</li>
+<li>Solution: Ubuntu replace <code>bash</code> with <code>dash</code> since Ubuntu 6, you can see with <code>ls -l /bin</code> you will see <code>sh -&gt; dash</code>. Use <code>#!/bin/bash</code> instead of <code>#!/bin/sh</code>, or use <code>=</code> instead of <code>==</code> when comparing two strings.</li>
+</ul></li>
+</ul></p>
+</blockquote>
