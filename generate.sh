@@ -6,18 +6,29 @@
 #Design need to know, SRC is where I put my markdown file, DES is where I want to generate the html from markdown.
 #detecting system type
 if [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
+    echo "Script running under GNU/Linux"
     SRC="~/publishing/xuelianghan.github.com"
     DES="~/publishing/xuelianghan.github.com"
+    echo "Target Source=$SRC"
+    echo "Target Desiny=$DES"
+    echo "Generating pages..."
 elif [ "$(expr substr $(uname -s) 1 6)" == "Darwin" ]; then
+    echo "Script running under Mac OS X (Darwin)"
     SRC="~/xuelianghan.github.com"
     DES="~/xuelianghan.github.com"
+    echo "Target Source=$SRC"
+    echo "Target Desiny=$DES"
+    echo "Generating pages..."
 #elif [ "$(expr substr $(uname -s) 1 14)" == "MINGW_NT-6.1" ]; then
 elif [ "$(expr substr $(uname -s) 1 14)" == "MINGW32_NT-6.1" ]; then
+    echo "Script running under Windows (NT)"
     SRC="/c/Users/H/xuelianghan.github.com"
     DES="/c/Users/H/xuelianghan.github.com"
+    echo "Target Source=$SRC"
+    echo "Target Desiny=$DES"
+    echo "Generating pages..."
 fi
 
-echo "SRC=$SRC, DES=$DES"
 
 
 #Site structure
@@ -27,7 +38,8 @@ echo "SRC=$SRC, DES=$DES"
 #perl md.pl $SRC/language.markdown            > $DES/language.html
 
 #Level 1, Part index
-perl md.pl $SRC/hobby.markdown                > $DES/hobby.html
+perl md.pl $SRC/hobbies.markdown              > $DES/hobbies.html
+perl md.pl $SRC/hobbies/music.markdown        > $DES/hobbies/music.html
 perl md.pl $SRC/interest.markdown             > $DES/interest.html
 perl md.pl $SRC/interest_technology.markdown  > $DES/interest_technology.html
 perl md.pl $SRC/inspiration.markdown          > $DES/inspiration.html
@@ -39,7 +51,6 @@ perl md.pl $SRC/projects.markdown > $DES/projects.html
 perl md.pl $SRC/resume.markdown   > $DES/resume.html
 perl md.pl $SRC/jianli.markdown   > $DES/jianli.html
 perl md.pl $SRC/skills.markdown   > $DES/skills.html
-perl md.pl $SRC/misc.markdown     > $DES/misc.html
 
 
 
