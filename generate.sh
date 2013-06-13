@@ -1,20 +1,20 @@
-#!/bin/sh
-#generate program for Linux OS
+#!/bin/bash
+#generate program for Linux/Mac OS X/Windows
 
 
 #Design need to know, SRC is where I put my markdown file, DES is where I want to generate the html from markdown.
 #detecting system type
 if [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
     echo "Script running under GNU/Linux"
-    SRC="~/publishing/xuelianghan.github.com"
-    DES="~/publishing/xuelianghan.github.com"
+    SRC="/home/h/publishing/xuelianghan.github.com"
+    DES="/home/h/publishing/xuelianghan.github.com"
     echo "Target Source=$SRC"
     echo "Target Desiny=$DES"
     echo "Generating pages..."
 elif [ "$(expr substr $(uname -s) 1 6)" == "Darwin" ]; then
     echo "Script running under Mac OS X (Darwin)"
-    SRC="~/xuelianghan.github.com"
-    DES="~/xuelianghan.github.com"
+    SRC="/Uses/h/xuelianghan.github.com"
+    DES="/Uses/h/xuelianghan.github.com"
     echo "Target Source=$SRC"
     echo "Target Desiny=$DES"
     echo "Generating pages..."
