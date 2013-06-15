@@ -1,20 +1,20 @@
-#!/bin/bash
-#generate program for Linux/Mac OS X/Windows
+#!/bin/sh
+#generate program for Linux OS
 
 
 #Design need to know, SRC is where I put my markdown file, DES is where I want to generate the html from markdown.
 #detecting system type
 if [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
     echo "Script running under GNU/Linux"
-    SRC="/home/h/publishing/xuelianghan.github.com"
-    DES="/home/h/publishing/xuelianghan.github.com"
+    SRC="~/publishing/xuelianghan.github.com"
+    DES="~/publishing/xuelianghan.github.com"
     echo "Target Source=$SRC"
     echo "Target Desiny=$DES"
     echo "Generating pages..."
 elif [ "$(expr substr $(uname -s) 1 6)" == "Darwin" ]; then
     echo "Script running under Mac OS X (Darwin)"
-    SRC="/Uses/h/xuelianghan.github.com"
-    DES="/Uses/h/xuelianghan.github.com"
+    SRC="~/xuelianghan.github.com"
+    DES="~/xuelianghan.github.com"
     echo "Target Source=$SRC"
     echo "Target Desiny=$DES"
     echo "Generating pages..."
@@ -51,6 +51,7 @@ perl md.pl $SRC/cs/algorithms_data-structure.markdown > $DES/cs/algorithms_data-
 perl md.pl $SRC/cs/linux.markdown                     > $DES/cs/linux.html
 perl md.pl $SRC/cs/linux_command.markdown             > $DES/cs/linux_command.html
 perl md.pl $SRC/cs/linux-distro-arch-linux.markdown   > $DES/cs/linux-distro-arch-linux.html
+perl md.pl $SRC/cs/linux-distro-goobuntu.markdown     > $DES/cs/linux-distro-goobuntu.html
 perl md.pl $SRC/cs/networking.markdown                > $DES/cs/networking.html
 perl md.pl $SRC/cs/networking_command.markdown        > $DES/cs/networking_command.html
 #perl md.pl $SRC/cs/programming-language.markdown > $DES/cs/programming-language.html
@@ -78,10 +79,12 @@ perl md.pl $SRC/hobbies/music.markdown              > $DES/hobbies/music.html
 #perl md.pl $SRC/hobbies/travel.markdown             > $DES/hobbies/travel.html
 #perl md.pl $SRC/hobbies/.markdown   > $DES/hobbies/.html
 
-##Level 2, master
-perl md.pl $SRC/masterNpeople.markdown      > $DES/masterNpeople.html
-perl md.pl $SRC/masters/Alan_Kay.markdown   > $DES/masters/Alan_Kay.html
-perl md.pl $SRC/masters/Steve_Jobs.markdown > $DES/masters/Steve_Jobs.html
+##Level 2, people and masters
+perl md.pl $SRC/people/links.markdown      > $DES/people/links.html
+perl md.pl $SRC/people/masters.markdown    > $DES/people/masters.html
+perl md.pl $SRC/people/people.markdown     > $DES/people/people.html
+perl md.pl $SRC/people/Alan_Kay.markdown   > $DES/people/Alan_Kay.html
+perl md.pl $SRC/people/Steve_Jobs.markdown > $DES/people/Steve_Jobs.html
 
 ##Level 2, tools
 perl md.pl $SRC/tools/tools.markdown       > $DES/tools/tools.html
