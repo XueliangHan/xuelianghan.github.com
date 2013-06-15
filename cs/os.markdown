@@ -13,8 +13,8 @@
 
 #Operating System
 * (Books) "Modern Operating System", A. S. Tanenbaum
-* My Non-technical thoughts
-  * __User friendly__: For users, Operating System must be _User friendly_, but there is a huge gap between _Programmer friendly_ and _user friendly_, that's what the designer/creator/builder of OS ignored or blind haven't see, and that's the reason why people like _Macintosh_ rather than (UNIX, System V, BSD, MINIX, Linux, MS-DOS, Windows-NT). Another question, what is _User friendly_, how to define __User friendly__, In my opinion, a 6 years old child can use it without _teaching_.
+* My Non-technical thoughts about Computer Operating System
+  * __User friendly__: For users, Operating System must be _User friendly_, but there is a huge gap between _Programmer friendly_ and _user friendly_, that's what the designer/creator/builder of OS ignored or blind to see, and that's the reason why people like _Macintosh_ rather than (UNIX, System V, BSD, MINIX, Linux, MS-DOS, Windows-NT). Another question, what is _User friendly_, how to define __User friendly__, In my opinion, a 6 years old child can use it without _teaching_.
 
 ##1.Introduction
 

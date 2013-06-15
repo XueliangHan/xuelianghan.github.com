@@ -38,7 +38,7 @@
   > The more **time** and **energy** you spend acquriing **pertinent knowledge**, the more control you have over your life.
 
 * `Life`
-  > I am a true adorer of life, and if I can't reach as high as the face of it. I plant my kiss somewhere lower down. Those who understand will require no further explanation. - Saul Bellow, Professor at Boston University
+  > I am a true adorer of life, and if I can't reach as high as the face of it. I plant my kiss somewhere lower down. Those who understand will require no further explanation. - Saul Bellow, Professor at Boston University (It contains the power to transform an ordinary life into one filled with Grace and Love and Dignity. - Eric Schmidt)
 
 * `Master`
   > Follow the master, Walk with master, Talk to master, Become master. -- Eric Raymond

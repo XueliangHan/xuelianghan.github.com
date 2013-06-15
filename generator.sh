@@ -117,7 +117,7 @@ perl md.pl "$SRC/skillsets/skillsets.markdown"          > "$DES/skillsets/skills
 #perl md.pl "$SRC/programming-languages.markdown" > "$DES/programming-languages.html"
 perl md.pl "$SRC/cs/cognition-of-cs.markdown"           > "$DES/cs/cognition-of-cs.html"
 perl md.pl "$SRC/cs/algorithms_data-structure.markdown" > "$DES/cs/algorithms_data-structure.html"
-perl md.pl "$SRC/cs/linux.markdown"                     > "$DES/cs/linux.html"
+perl md.pl "$SRC/cs/os.markdown"                        > "$DES/cs/os.html"
 perl md.pl "$SRC/cs/linux_command.markdown"             > "$DES/cs/linux_command.html"
 perl md.pl "$SRC/cs/linux-distro-arch-linux.markdown"   > "$DES/cs/linux-distro-arch-linux.html"
 perl md.pl "$SRC/cs/linux-distro-goobuntu.markdown"     > "$DES/cs/linux-distro-goobuntu.html"
