@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #generate program for Linux OS
 
 
@@ -6,15 +6,15 @@
 #detecting system type
 if [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
     echo "Script running under GNU/Linux"
-    SRC="~/publishing/xuelianghan.github.com"
-    DES="~/publishing/xuelianghan.github.com"
+    SRC="$HOME""/publishing/xuelianghan.github.com"
+    DES="$HOME""/publishing/xuelianghan.github.com"
     echo "Target Source=$SRC"
     echo "Target Desiny=$DES"
     echo "Generating pages..."
 elif [ "$(expr substr $(uname -s) 1 6)" == "Darwin" ]; then
     echo "Script running under Mac OS X (Darwin)"
-    SRC="~/xuelianghan.github.com"
-    DES="~/xuelianghan.github.com"
+    SRC="$HOME""/xuelianghan.github.com"
+    DES="$HOME""/xuelianghan.github.com"
     echo "Target Source=$SRC"
     echo "Target Desiny=$DES"
     echo "Generating pages..."
