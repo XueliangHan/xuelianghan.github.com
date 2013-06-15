@@ -144,22 +144,22 @@
 <li>a.Function of eval absolute value in <code>Scheme</code> way 1
 <blockquote>
   <p>(define (abs x) <br />
-  (cond ((&lt; x 0) (- x)) <br />
-        ((= x 0) 0) <br />
-        ((> x 0) x)))  </li>
-<li>b.Function of eval absolute value in <code>Scheme</code> way 2
-(define (abs x) <br />
-  (if (&lt; x 0) <br />
-      (- x) <br />
-      x))  </li>
-<li>c.Function of eval absolute value in <code>C</code>
-if      (x &lt;  0) x=-x; <br />
-else if (x == 0) x=0; <br />
-else if (x >  0) x=x;  </li>
-<li>The result: a equal to b equal to c</li>
-</ul></p>
-
-<h4>Recursive evaluate square of X</h4>
+    (cond ((&lt; x 0) (- x)) <br />
+          ((= x 0) 0) <br />
+          ((> x 0) x)))  </li>
+  <li>b.Function of eval absolute value in <code>Scheme</code> way 2
+  (define (abs x) <br />
+    (if (&lt; x 0) <br />
+        (- x) <br />
+        x))  </li>
+  <li>c.Function of eval absolute value in <code>C</code>
+  if      (x &lt;  0) x=-x; <br />
+  else if (x == 0) x=0; <br />
+  else if (x >  0) x=x;  </li>
+  <li>The result: a equal to b equal to c</li>
+  </ul></p>
+  
+  <h4>Recursive evaluate square of X</h4>
 </blockquote>
 
 <ul>
