@@ -13,8 +13,11 @@
 
 
 ##Links
+* [DY （杨  栋）(Dong Yang)   ]() - _Software Engineer (Security) at Anity Inc. Harbin, China._
 * [HY （贺  宇）(Yu  He)      ](http://www.heyucs.com), [贺宇@tumblr](http://xinyu1607.tumblr.com/) - _Natural Langauge Processing undergraduate student (Currently)._
 * [WB （王  斌）(Bin Wang)    ](http://www.crazyhotice.com) - _A person who follow the interest, strong self-learning abily._
+* [WJL（王骏龙）(Junlong Wang)]() - _Software Engineer at Alibaba Inc. `Data Mining`, `Algorithms`._ 
 * [WJP（王金鹏）(Jinpeng Wang)]() - _Able to focus on current works and obrain a right cognition to the TECHS._
+* [ZMJ（邹淼江）(Miaojiang Zou]() - _Software Engineer at Baidu Inc. `Web Front End Engineer`._
 * [ZY （邹  宇）(Yu  Zou)     ](http://www.0x90b9.com) - _Web Browser R&D at Baidu Inc._
 * [ZZL（张知临）(Zhilin Zhang)](http://blog.csdn.net/zhzhl202/), [张知临-百度搜索](http://www.baidu.com/s?wd=%E5%BC%A0%E7%9F%A5%E4%B8%B4&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&rsv_sug3=1&rsv_sug1=1&rsv_sug4=142) - _`Text Mining` Engineer at Baidu Inc. Graduate of Zhe-Jiang University, author of `TMSVM`, familiar with `Data Mining`/`Machine Learning`/`C/C++/Java/Pyhton/SQL/Matlab`._

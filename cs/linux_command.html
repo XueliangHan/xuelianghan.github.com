@@ -192,8 +192,8 @@
 
 <blockquote>
   <p>text data bss dec  hex filename <br />
-  1471 0504 016 1991 7c7 a.out  </li>
-  </ul></p>
+1471 0504 016 1991 7c7 a.out  </li>
+</ul></p>
 </blockquote></li>
 <li><p><code>split</code> - split a file into pieces</p>
 
@@ -367,18 +367,18 @@
 <li>small practise
 <blockquote>
   <p>$ cat > awk.txt
-  testing the awk command</li>
-  <li>print length of the first line
-  (wrong) $ awk <code>{ 1 = length($0; print i}</code> awk
-  (right) $ awk '{ i = length($0); print i }' awk.txt
-  (result) 23</li>
-  <li>print the position of string "ing"
-  $ awk '{ i = index($0, "ing"); print i }' awk.txt</li>
-  <li>split the text by space and print each word
-  $ awk BEGIN {i = 1} { n = split($0,a," "); while (i &lt; = n) {print a[i]; i++;} }' awk.txt</li>
-  </ul></p>
-  
-  <h3>Shell builtins</h3>
+testing the awk command</li>
+<li>print length of the first line
+(wrong) $ awk <code>{ 1 = length($0; print i}</code> awk
+(right) $ awk '{ i = length($0); print i }' awk.txt
+(result) 23</li>
+<li>print the position of string "ing"
+$ awk '{ i = index($0, "ing"); print i }' awk.txt</li>
+<li>split the text by space and print each word
+$ awk BEGIN {i = 1} { n = split($0,a," "); while (i &lt; = n) {print a[i]; i++;} }' awk.txt</li>
+</ul></p>
+
+<h3>Shell builtins</h3>
 </blockquote>
 
 <ul>
