@@ -29,6 +29,15 @@ elif [ "$(expr substr $(uname -s) 1 14)" == "MINGW32_NT-6.1" ]; then
 fi
 
 
+#Previous bash script in convert.sh
+#for f in `find . -name "*.markdown"` ;
+#    do perl markdown.pl $f > $f.html;
+    #use sed to trunc the file extension
+    #construct the site map with prefix(fixed url link)
+#done
+
+
+
 #Site structure
 # * html manually wrote: index.html, programming language
 #Level 1, life
@@ -40,6 +49,7 @@ perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
 
 #Level 1, professional
 #perl md.pl $SRC/programming-languages.markdown > $DES/programming-languages.html
+perl md.pl $SRC/about.markdown    > $DES/about.html
 perl md.pl $SRC/projects.markdown > $DES/projects.html
 perl md.pl $SRC/resume.markdown   > $DES/resume.html
 perl md.pl $SRC/jianli.markdown   > $DES/jianli.html
@@ -62,7 +72,7 @@ perl md.pl $SRC/cs/python.markdown                > $DES/cs/python.html
 perl md.pl $SRC/cs/c.markdown                     > $DES/cs/c.html
 
 ##Level 2, draft
-perl md.pl $SRC/draft/what-is-programming.markdown > $DES/draft/what-is-programming.html
+perl md.pl $SRC/drafts/what-is-programming.markdown > $DES/drafts/what-is-programming.html
 
 ##Level 2, hacks
 perl md.pl $SRC/hacks/hacks.markdown                                                          > $DES/hacks/hacks.html
@@ -80,11 +90,12 @@ perl md.pl $SRC/hobbies/music.markdown              > $DES/hobbies/music.html
 #perl md.pl $SRC/hobbies/.markdown   > $DES/hobbies/.html
 
 ##Level 2, people and masters
-perl md.pl $SRC/people/links.markdown      > $DES/people/links.html
-perl md.pl $SRC/people/masters.markdown    > $DES/people/masters.html
-perl md.pl $SRC/people/people.markdown     > $DES/people/people.html
-perl md.pl $SRC/people/Alan_Kay.markdown   > $DES/people/Alan_Kay.html
-perl md.pl $SRC/people/Steve_Jobs.markdown > $DES/people/Steve_Jobs.html
+perl md.pl $SRC/people/links.markdown          > $DES/people/links.html
+perl md.pl $SRC/people/masters.markdown        > $DES/people/masters.html
+perl md.pl $SRC/people/people.markdown         > $DES/people/people.html
+perl md.pl $SRC/people/Alan_Kay.markdown       > $DES/people/Alan_Kay.html
+perl md.pl $SRC/people/Jiangzhong_Lee.markdown > $DES/people/Jianghzong_Lee.html
+perl md.pl $SRC/people/Steve_Jobs.markdown     > $DES/people/Steve_Jobs.html
 
 ##Level 2, tools
 perl md.pl $SRC/tools/tools.markdown       > $DES/tools/tools.html
