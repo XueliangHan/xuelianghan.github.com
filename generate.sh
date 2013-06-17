@@ -97,6 +97,7 @@ perl md.pl $SRC/people/masters.markdown        > $DES/people/masters.html
 perl md.pl $SRC/people/people.markdown         > $DES/people/people.html
 perl md.pl $SRC/people/Alan_Kay.markdown       > $DES/people/Alan_Kay.html
 perl md.pl $SRC/people/Jianzhong_Lee.markdown  > $DES/people/Jianzhong_Lee.html
+perl md.pl $SRC/people/Linus_Torvalds.markdown > $DES/people/Linus_Torvalds.html
 perl md.pl $SRC/people/Steve_Jobs.markdown     > $DES/people/Steve_Jobs.html
 
 ##Level 2, tools
