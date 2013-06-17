@@ -13,6 +13,7 @@
 <div align="center"><h1>Links</h1></div>
 <hr>
 
+* [Contact Information](./static/images/card.jpg)
 * Email: `xmail.han` `at` `the mail service which provided by Google`
 * [Resume (LaTeX)](./resume.pdf) [简历](./jianli.html)
 * [Personal Website Backup Address](http://xuelianghan.github.com)
