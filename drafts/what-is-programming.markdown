@@ -35,5 +35,11 @@ A good data structure may solve the problem directly, take less procedures (simp
 Is algorithms more important than data strcuture? or data strcut more important than algorithms?  
 I don't think so, they are both important, just like eye and ear, but in some specific area, one of them may have less influence than other one.   
 
+
+###Programming and Logic
+Programming need a clear logic, write down the thoughts/ideas in your mind will be a good way, because it reify thoughts/ideas.
+
+###Programming is a universal ability
+Programming is a universal ability, it's abrove specific programming language.
 </body>
 </html>

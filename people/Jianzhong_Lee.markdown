@@ -1,4 +1,4 @@
-#Jianzhong Lee（李建中）
+#Jianzhong Lee
 
 * ![Jianzhong Lee on Life](./Jianzhong_Lee_2.jpg)
 

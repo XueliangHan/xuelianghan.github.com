@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<head>
-    <meta charset="GBK">
+<html><head>
+    <meta charset="utf-8">
     <title>Masters</title>
-</head>
-<body>
+</head><body>
 <div align="center"><h1>Masters</h1></div>
 
 
@@ -62,8 +61,8 @@
 
 
 ##ABG_Computer-Science gt 4
-* Alan Kay 艾伦-凯 4.5X
-  * [Alan Kay](./people/Alan_Kay.html): Turing Award (2003), created Object Oriented Technology, Smalltalk.</li><br>
+* [Alan Kay 艾伦-凯 4.5X](./people/Alan_Kay.html)Turing Award (2003), created Object Oriented Technology, Smalltalk.</li><br>
+  * The Real Computer Revolution Hasn’t Happened Yet.
   * [The Deep Insights of Alan Kay - mythz blog](http://mythz.servicestack.net/blog/2013/02/27/the-deep-insights-of-alan-kay/)
   * [艾伦·凯与Smalltalk语言 - liango的个人空间 - 开源中国社区](http://my.oschina.net/liango/blog/79982)
 

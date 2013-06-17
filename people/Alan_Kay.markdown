@@ -22,8 +22,8 @@ Famous Quotes from Alan Kay (The brillant deep thoughts)
 * Object Oriented
   * Actually I made up the term "object-oriented", and I can tell you I did not have C++ in mind.
 * [The Computer Revolution Hasn’t Happened Yet]
-  * [PDF Document](http://www.viewpointsresearch.org/pdf/m2007007a\_revolution.pdf)
-  * [Turing Award lecture: "The Computer Revolution Hasn't Happened Yet"](http://awards.acm.org/images/awards/140/vstream/2003/AlanKay/AK768kFull.mov)
+  * ["The Computer Revolution Hasn't Happened Yet" - Paper (PDF Document)](http://www.viewpointsresearch.org/pdf/m2007007a\_revolution.pdf)
+  * ["The Computer Revolution Hasn't Happened Yet" - Turing Award lecture (Video)](http://awards.acm.org/images/awards/140/vstream/2003/AlanKay/AK768kFull.mov)
 
 
 
