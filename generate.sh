@@ -39,21 +39,23 @@ fi
 
 
 #Site structure
-# * html manually wrote: index.html, programming language
+#html manually wrote: index.html, programming language
+#perl md.pl $SRC/about.markdown    > $DES/about.html
+perl md.pl $SRC/links.markdown    > $DES/links.html
+#Status-update
 #Level 1, life
 perl md.pl $SRC/interest.markdown             > $DES/interest.html
 perl md.pl $SRC/interest_technology.markdown  > $DES/interest_technology.html
 perl md.pl $SRC/inspiration.markdown          > $DES/inspiration.html
 perl md.pl $SRC/information-source.markdown   > $DES/information-source.html
 perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
-
 #Level 1, professional
 #perl md.pl $SRC/programming-languages.markdown > $DES/programming-languages.html
-perl md.pl $SRC/about.markdown    > $DES/about.html
 perl md.pl $SRC/projects.markdown > $DES/projects.html
 perl md.pl $SRC/resume.markdown   > $DES/resume.html
 perl md.pl $SRC/jianli.markdown   > $DES/jianli.html
 perl md.pl $SRC/skills.markdown   > $DES/skills.html
+
 
 
 ##Level 2, cs
@@ -82,7 +84,7 @@ perl md.pl $SRC/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-acce
 ##Level 2, Hobbies
 perl md.pl $SRC/hobbies/hobbies.markdown            > $DES/hobbies/hobbies.html
 #perl md.pl $SRC/hobbies/film-and-movie.markdown     > $DES/hobbies/film-and-movie.html
-#perl md.pl $SRC/hobbies/meditation.markdown         > $DES/hobbies/meditation.html
+perl md.pl $SRC/hobbies/meditation.markdown         > $DES/hobbies/meditation.html
 perl md.pl $SRC/hobbies/music.markdown              > $DES/hobbies/music.html
 #perl md.pl $SRC/hobbies/reading.markdown            > $DES/hobbies/reading.html
 #perl md.pl $SRC/hobbies/sports-and-fitness.markdown > $DES/hobbies/sports-and-fitness.html
