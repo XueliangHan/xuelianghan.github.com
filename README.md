@@ -1,4 +1,4 @@
-Publishing - Hacker's way to publishing(blogging)
+Hacker's way to publishing (blogging)
 =================================================
 Hi! Welcome to my personal publishing platform.
 
