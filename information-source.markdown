@@ -1,5 +1,5 @@
 <html>
-<head><title>Information Source of Horizon</title></head>
+<head><title>Information Source of Horizon</title><meta charset="utf-8"></head>
 <body>
 
 Preface

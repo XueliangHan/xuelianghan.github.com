@@ -49,6 +49,8 @@ __Links for Coder/Hacker/Programming/Developer/Software Engineer__
   * [Github](https://www.github.com)
   * [Google Code](https://code.google.com)
   * [SourceForge](https:www.sf.net)
+* For China Mainland
+  * [Startup News](https://news.dbanotes.net) - _Not recommand, Just no other options. Hacker News specific for Chinese culture._
 
 <!-- Filkr. Google+, Path, Renren. Quora, Reddit, Pinboard/Delicious/Digg) -->
 <!-- RenRen -->

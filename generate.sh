@@ -94,7 +94,7 @@ perl md.pl $SRC/hobbies/music.markdown              > $DES/hobbies/music.html
 ##Level 2, people and masters
 perl md.pl $SRC/people/links.markdown          > $DES/people/links.html
 perl md.pl $SRC/people/masters.markdown        > $DES/people/masters.html
-perl md.pl $SRC/people/people.markdown         > $DES/people/people.html
+perl md.pl $SRC/people/person.markdown         > $DES/people/person.html
 perl md.pl $SRC/people/Alan_Kay.markdown       > $DES/people/Alan_Kay.html
 perl md.pl $SRC/people/Jianzhong_Lee.markdown  > $DES/people/Jianzhong_Lee.html
 perl md.pl $SRC/people/Linus_Torvalds.markdown > $DES/people/Linus_Torvalds.html
