@@ -13,16 +13,16 @@
 <div align="center"><h1>Links</h1></div>
 
 <hr>
-
 __My Information__
+
 * [Contact Information (My Card)](./static/images/card.jpg)
 * Email: `xmail.han` `at` `the mail service which provided by Google`
 * [Resume (LaTeX)](./resume.pdf) [简历](./jianli.html)
 * [Personal Website Backup Address](http://xuelianghan.github.com)
 
 <hr>
-
 __My Links__
+
 * Douban（豆瓣）ID1: [中文](http://www.douban.com/people/3310247/) [English](http://translate.google.com.hk/translate?act=url&hl=en&ie=UTF8&prev=_t&sl=auto&tl=en&u=http://www.douban.com/people/3310247/) - Classic (created @2008-12-7)
 * Douban（豆瓣）ID2: [中文](http://www.douban.com/people/62362375/) [English](http://translate.google.com.hk/translate?hl=en&ie=UTF8&prev=_t&sl=auto&tl=zh-CN&u=http://www.douban.com/people/62362375/) - ThinkingNotes (Database created @2012-06-17, and main account.)
 * [Facebook](https://www.facebook.com/xueliang.han)
@@ -37,8 +37,8 @@ __My Links__
 
 
 <hr>
-
 __Links for Hacker/Programming/Developer/Software Engineer__
+
 * QA
   * [StackExchange](http://www.stackexchange.com)
   * [StackOverflow](http://www.stackoverflow.com)
