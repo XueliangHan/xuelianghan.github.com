@@ -217,16 +217,20 @@ Work Related Tools Kit
 
 ####Online tools (Platform independent)
 * For temporary usage.
-* Card maker: [moo](http://www.moo.com) - make you business card online.
-* Text storage
-  * [Notepad.cc](http://notepad.cc/) - Light weight online notepad, only plain-text, you can encrypt you specific URL with password.
-  * [Pastebin](http://pastebin.com) - Number one paste tool since 2002, Pastebin is where you can store text online for a set period of time.
-* Image Online Host [Imgur](http://imgur.com/): Upload image and get the image URL.
-* Video Downloader for online video website: [KeepVID](http://keepvid.com/) Support almost all online video website and Java is needed for faster fetching the download links. (Youtube downloader)
+* Card maker: [moo](http://www.moo.com) - _Make you business card online._
+* Email
+  * [GuerrillaMail.com](https://www.guerrillamail.com/) - _Temporary email service for 60 minutes, provide .com/.net/.biz/.org/.de/spam4.me mail._
+* Note/Text Service
+  * [Notepad.cc](http://notepad.cc/) - _Light weight online notepad, only plain-text, you can encrypt you specific URL with password._
+  * [Pastebin](http://pastebin.com) - _Number one paste tool since 2002, Pastebin is where you can store text online for a set period of time._
+* Image Online Host
+  * [Imgur](http://imgur.com/) - _Upload image and get the image URL._
+* Video Downloader for online video website
+  * [KeepVID](http://keepvid.com/) - _Support almost all online video website and Java is needed for faster fetching the download links. (Youtube downloader)._
 
 ####Online services
-* [About me](https://about.me): Beautiful way to make a bio for people to know you and find what you share.
-* [Avatar](https://en.gravatar.com/): Upload your avatar once and use it on many website.
+* [About me](https://about.me) - _Beautiful way to make a bio for people to know you and find what you share._
+* [Avatar](https://en.gravatar.com/) - _Upload your avatar once and use it on many website._
   * [A & Milky Way Thumbnail URL](http://www.gravatar.com/avatar/809acac2422892b33d66dbf79088b174.png)
 
 

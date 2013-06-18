@@ -2,6 +2,7 @@
 <hr>
 ####Some words about VCS (Version Control System)
 * If you are the new generation (born after 1990), I think you should use Git instead of SVN or even Mercurial, bucause it's better. and if the new generation grow up with better tools, they will make better tools, so, after generation and generation, our world become much better.
+  * [8 Reasons for swithing to git](http://www.git-tower.com/blog/8-reasons-for-switching-to-git/)
 * The whole idea behind any version control system is to store "safe" copies of a project so that you never have to worry about irreparably breaking your code base.
 
 ####Get the Git Program DONE
@@ -21,16 +22,17 @@
   * [Taobao, Inc.](https:/github.com/taobao)
 
 ####Learn - How to use Git
+* Two best place to learn git, [Git-SCM](http://book.git-scm.com) and [ProGit](http://progit.org/book)
+* [Git-SCM Official Website](http://git-scm.com): Download it from website.
+  * [Book - Pro Git](https://git-scm.com/book)
+  * [Documents](https://git-scm.com/doc): It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
+  * [Reference](https://git-scm.com/docs/)
+  * [Videos](https://git-scm.com/videos)
+  * [External Links](https://git-scm/doc/ext)
 * Git Recommended Tutorials
   * [Git Tutorials & Training](http://www.atlassian.com/git/tutorial/git-basics) - Good tutorials
   * [Git Video Tutorials](http://happycasts.net/search?q=git) - Chinese video tutoirals
   * [Learning Git Branching - Github](https://pcottle.github.io/learnGitBranching/?demo)
-* [Git-SCM Official Website](http://git-scm.com): Download it from website.
-* [Git-SCM Official Documents](https://git-scm.com/doc): It's all here, Reference, Book, Videos, External Links, Linus Trovalds on Git.
-  * [Reference](https://git-scm.com/docs/)
-  * (Book)[Pro Git](https://git-scm.com/book)
-  * [Videos](https://git-scm.com/videos)
-  * [External Links](https://git-scm/doc/ext)
 
 #####Git keywords and command
 * Stage, Tracked

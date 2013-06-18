@@ -37,8 +37,11 @@ __My Links__
 
 
 <hr>
-__Links for Hacker/Programming/Developer/Software Engineer__
+__Links for Coder/Hacker/Programming/Developer/Software Engineer__
 
+* News
+  * [Hacker News](https://news.ycombinator.com/news)
+  * [Reddit](https://www.reddit.com)
 * QA
   * [StackExchange](http://www.stackexchange.com)
   * [StackOverflow](http://www.stackoverflow.com)
