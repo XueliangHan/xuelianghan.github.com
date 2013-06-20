@@ -52,6 +52,55 @@ __Links for Coder/Hacker/Programming/Developer/Software Engineer__
 * For China Mainland
   * [Startup News](https://news.dbanotes.net) - _Not recommand, Just no other options. Hacker News specific for Chinese culture._
 
+
+<hr>
+___Links for daily life__
+
+* General Search Enginer
+  * [Google](https://www.google.com)
+  * [Bing](http://www.bing.com)
+  * [Yahoo](http://www.yahoo.com)
+  * [Baidu](http://www.baidu.com)(Chinese)
+  * [Yandex](http://www.yandex.com)(Russia)
+* Social Network
+  * [Facebook](http://www.facebook.com)
+  * [LinkedIn](http://www.linkedin.com)
+  * [Google Plus](http://plus.google.com)
+  * [Twitter](http://twitter.com)
+  * [Tumblr](http://www.tumblr.com)
+* Reference
+  * [Wikipedia](http://www.wikipedia.com)
+  * [Dictionary](http://www.dictionary.com)
+* Documents
+  * [Slideshare](http://www.slideshare.com)
+  * [Scribd](http://www.scribd.com)
+  * [ebookee](http://www.ebookee.org)
+* Shopping
+  * [Amazon](http://www.amazon.com)
+  * [eBuy](http://www.ebuy.com)
+  * [Pricewatch](http://www.pricewatch.com)
+  * [Price graber](http://www.pricegraber.com)
+  * [Shopping](http://www.shopping.com)
+  * [Jingdong (360Buy)](http://www.jd.com)(Chinese)
+  * [Newegg](http://www.newegg.com)(Chinese)
+  * [Taobao](http://www.taobao.com)(Chinese)
+  * [eTao](http://www.etao.com)
+* Image
+  * [Flickr](http://www.flickr.com)
+  * [Pinterest](http://pinterest)
+* Video
+  * [YouTube](http://www.youtube.com)
+  * [IMDB](http://www.imdb.com)
+* Recipes
+  * [Allrecipes](http:www.allrecipes.com)
+  * [FoodNetwork](http://www.foodnetwork.com)
+* Questions & Answers
+  * [Quora](http://www.quora.com)
+  * [Reddit](http://www.reddit.com)
+  * [Stackoverflow](http://www.stackoverflow.com)
+  * [Yahoo Answer](http:answers.yahoo.com)
+
+
 <!-- Filkr. Google+, Path, Renren. Quora, Reddit, Pinboard/Delicious/Digg) -->
 <!-- RenRen -->
 <!-- Google+ -->    <!-- a href="">Google+</a> --> <!-- Linus use it -->
@@ -63,35 +112,4 @@ __Links for Coder/Hacker/Programming/Developer/Software Engineer__
 <!-- TEXT:Webpage - The webpage I marked. -->     <!-- Pinboard/Delicious -->
 <!-- IMAGE:Photos -->                             <!-- My photos on filkr -->
 
-<!-- Backup for original links on index.html
-	 Replace "!-" with "comment-start-label" and "-!" with "commen-end-label"
-    <div id="links" align="center">
-      <a href="https://www.apple.com">Apple</a>
-      !- Social -!
-        !- Facebook -!   <a href="https://www.facebook.com/xueliang.han">Facebook</a>
-        !- Twitter -!    <a href="https://twitter.com/Xueliang_Han">Twitter</a>
-        !- RenRen -!
-        !- Sina-Weibo -! <a href="http://www.weibo.com/u/1622975475">Weibo(Sina)</a>
-        !- Google+ -!    !- a href="">Google+</a> -! !- Linus use it -!
-        !- Path -!       !- a href="">Path</a> -! !- Life < 150 -!
-        <strong> | </strong>
-
-        !- Github   -!   <a href="https://github.com/XueliangHan">Github</a>
-        !- LinkedIn -!   <a href="https://www.linkedin.com/profile/view?id=193554159">LinkedIn</a> !- Specific for Professional Career -!
-        !- StackOverflow -!<a href="http://stackoverflow.com/users/1576184/albert">StackOverflow</a>!- Professional QA Stack-Exchange -!
-        <strong> | </strong>
-        !- Homepage -!   <a href="https://xuelianghan.github.com">Homepage</a>
-        !- Blog.Tumblr -!                              <a href="xuelianghan.tumblr.com">Tumblr</a>
-        !- Blog.WordPress -!
-
-        !- QA(Question & Answer) -!
-        !- QA.Quora - Best Source for Knowledge -!     <a href="https://www.quora.com/Xueliang-Han"></a>
-        !- QA.Reddit - Reddit is Fun -!                !- a href="">Reddit</a> -!
-        !- Information Type -!
-        !- TEXT:Webpage - The webpage I marked. -!     !- Pinboard/Delicious -!
-        !- IMAGE:Photos -!                             !- My photos on filkr -!
-        !- VIDEO -!                                    <a href="https://www.youtube.com/channel/UCk1iR3u2DwC-A0B4fW35RQg">My Youtube Video</a>
-        !- | -!
-        <hr>
--->
 </body></html>

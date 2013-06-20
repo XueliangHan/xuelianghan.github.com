@@ -49,6 +49,7 @@ perl md.pl $SRC/interest_technology.markdown  > $DES/interest_technology.html
 perl md.pl $SRC/inspiration.markdown          > $DES/inspiration.html
 perl md.pl $SRC/information-source.markdown   > $DES/information-source.html
 perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
+perl md.pl $SRC/quotations.markdown           > $DES/quotations.html
 #Level 1, professional
 #perl md.pl $SRC/programming-languages.markdown > $DES/programming-languages.html
 perl md.pl $SRC/projects.markdown > $DES/projects.html
