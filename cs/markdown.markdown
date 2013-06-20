@@ -38,9 +38,14 @@ The above will translate into following HTML:
 <blockquotes><p>Write something.</p></blockquotes>
 
 ##External links
-[link text write here](link address write here)
-Example: [Markdown](https://en.wikipedia.org/wiki/Markdown)
+Links may be included inline:  
+  > [link text here](link.address.here)
+  > Ex. [Markdown](http://en.wikipedia.com/wiki/Markdown)
 
+Alternatively, links can be placed in footnotes outside of the paragraph, being referenced with some sort of reference tag. For example, including the following inline:  
+  > [link text here][linkref]
+would produce a link if the following showed up outside of the paragraph (or at the end of the document):  
+  > [linkref]: link.address.here "link title here"
 
 
 #Convert into HTML

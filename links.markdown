@@ -39,6 +39,8 @@ __My Links__
 <hr>
 __Links for Coder/Hacker/Programming/Developer/Software Engineer__
 
+* Jobs related
+  * [GlassDoor](https://www.glassdoor.com) - _Comments on companies._
 * News
   * [Hacker News](https://news.ycombinator.com/news)
   * [Reddit](https://www.reddit.com)
