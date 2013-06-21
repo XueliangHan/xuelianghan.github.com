@@ -59,8 +59,8 @@ perl md.pl $SRC/quotations.markdown           > $DES/quotations.html
 
 ##1 Professional
 perl md.pl $SRC/projects.markdown > $DES/projects.html
-perl md.pl $SRC/resume.markdown   > $DES/resume.html
-perl md.pl $SRC/jianli.markdown   > $DES/jianli.html
+perl md.pl $SRC/files/resume/resume.markdown   > $DES/files/resume/resume.html
+perl md.pl $SRC/files/resume/jianli.markdown   > $DES/files/resume/jianli.html
 perl md.pl $SRC/skills.markdown   > $DES/skills.html
 
 #perl md.pl $SRC/programming-languages.markdown > $DES/programming-languages.html
