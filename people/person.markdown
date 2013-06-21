@@ -9,6 +9,7 @@
 ##Links
 * [EM  (Evan Martin) ](http://neugierig.org/) - _Software Engineer at Google Inc._
 * [JA  (Jeff Atwood) ](http://www.codinghorror.com/) - _Software Engineer, Founder of StackExchange(StackOverflow)._
+* [SJ  (Sijin Joseph)](http://sijinjoseph.com/) - _Random thoughts on Technology and Software Development._
 * [FK  (范  凯)(Kai Fan)       ](http://robbinfan.com/) - _Software Engineer, Founder of JavaEye, CTO of CSDN.
 * [GJB（郭家宝）(Jiabao Guo)  ](http://www.byvoid.com) - _A different guy from Tsinghua (2010), Intern at Google, Hulu, MSRA, done a lot of project._
 * [TZJ（TanZhi军）(Zhijun Tan) ](https://tumutanzi.com/) - _Ph.D Civil Engineering, Cement field (Construction, Building)._
@@ -28,6 +29,8 @@
 * [JA  (Jeff Atwood) ](http://www.codinghorror.com/)
   * [Five Things You Didn't Know About Me (and my office)](http://www.codinghorror.com/blog/2007/01/five-things-you-didnt-know-about-me-and-my-office.html)
   * [The Future of Markdown](http://www.codinghorror.com/blog/2012/10/the-future-of-markdown.html)
+* [SJ  (Sijin Joseph)](http://sijinjoseph.com/)
+  * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 * [FK  (范  凯)(Kai Fan)](http://robbinfan.com/)
   * [bio - You've got to find what you love](http://robbinfan.com/blog/20/my-life).
 * [GJB（郭家宝）(Jiabao Guo)(ByVoid)](http://www.byvoid.com)

@@ -17,7 +17,7 @@ __My Information__
 
 * [Contact Information (My Card)](./static/images/card.jpg)
 * Email: `xmail.han` `at` `the mail service which provided by Google`
-* [Resume (LaTeX)](./resume.pdf) [简历](./jianli.html)
+* [Resume (LaTeX)](./files/resume/resume.pdf) [简历](./files/resume/jianli.html)
 * [Personal Website Backup Address](http://xuelianghan.github.com)
 
 <hr>

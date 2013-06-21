@@ -137,3 +137,7 @@ What I need to do is add a record, using the domain I bought - `www.xuelianghan.
   * `xuelianghan.com 600 IN CNAME xuelianghan.github.io.
   * `xuelianghan.github.io 3600 IN CNAME github.map.fastly.net.`
   * `github.map.fastly.net 30   IN A 103.245.222.133`
+
+5. Reference
+  * (Book) O Reilly - DNS & BIND Cookbook
+  * (Book) O Reilly - DNS and BIND 5th Edition May 2006
