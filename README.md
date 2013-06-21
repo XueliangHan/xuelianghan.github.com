@@ -108,7 +108,32 @@ Part two - The new project to build a tools-set meet my need
 * [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/manual/installation.html)
 
 
-###Domain
-* Name Server
-  * DNSPOD settings: follow the [Github Offical Procedures](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
-  * Godaddy_Account-Manager_NameServer_SetNameServer: Add DNSPOD nameserver: `f1g1ns1.dnspod.net` `f1g1ns2.dnspod.net`
+
+###Domain Name Server
+
+1. Where you bought your domain? Go there. Godaddy_Account-Manager_NameServer_SetNameServer: Add DNSPOD nameserver: `f1g1ns1.dnspod.net` `f1g1ns2.dnspod.net`
+
+2. Find a DNS service provider or just use the domain provider's.
+
+3. Set DNS, follow the [Github Offical Procedures](https://help.github.com/articles/setting-up-a-custom-domain-with-pages), for an example I use DNSPOD, I need add two DNS record, `dig xuelianghan.github.io +nostats +nocomments +nocmd` I got:
+  * `xuelianghan.github.io 3600 IN CNAME github.map.fastly.net.`
+  * `github.map.fastly.net 30   IN A 103.245.222.133`
+
+What I need to do is add a record, using the domain I bought - `www.xuelianghan.com` point to `xuelianghan.github.io` (this is a CNAME), and a record using `www.xuelianghan.com` point to `103.245.222.133`. Just like below:  
+
+* DNS Server Provider - Record 1
+  * Host type: *,  
+  * Record type: A,  
+  * Line type: default,  
+  * Record value: 103.245.222.133(Github server address, use dig `yourname.github.com` to get it
+
+* DNS Server Provider - Record 2
+  * Host type: @,  
+  * Record type: CNAME,  
+  * Line type: default,  
+  * Record value: yourname.github.io
+
+4. I `dig www.xuelianghan.com` and got this, it works.
+  * `xuelianghan.com 600 IN CNAME xuelianghan.github.io.
+  * `xuelianghan.github.io 3600 IN CNAME github.map.fastly.net.`
+  * `github.map.fastly.net 30   IN A 103.245.222.133`
