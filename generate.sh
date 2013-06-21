@@ -39,27 +39,32 @@ fi
 
 
 #Site structure
-#html manually wrote: index.html, programming language
-#perl md.pl $SRC/about.markdown    > $DES/about.html
+#html manually wrote
+#  index.html
+#  about.html
 perl md.pl $SRC/links.markdown    > $DES/links.html
-#Status-update
-#Level 1, life
+#  status-update.html
+#  statistics.html
+#  programming language
+
+#0 life
 perl md.pl $SRC/interest.markdown             > $DES/interest.html
 perl md.pl $SRC/interest_technology.markdown  > $DES/interest_technology.html
 perl md.pl $SRC/inspiration.markdown          > $DES/inspiration.html
 perl md.pl $SRC/information-source.markdown   > $DES/information-source.html
 perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
 perl md.pl $SRC/quotations.markdown           > $DES/quotations.html
-#Level 1, professional
-#perl md.pl $SRC/programming-languages.markdown > $DES/programming-languages.html
+
+
+
+##1 Professional
 perl md.pl $SRC/projects.markdown > $DES/projects.html
 perl md.pl $SRC/resume.markdown   > $DES/resume.html
 perl md.pl $SRC/jianli.markdown   > $DES/jianli.html
 perl md.pl $SRC/skills.markdown   > $DES/skills.html
 
+#perl md.pl $SRC/programming-languages.markdown > $DES/programming-languages.html
 
-
-##Level 2, cs
 perl md.pl $SRC/cs/algorithms_data-structure.markdown > $DES/cs/algorithms_data-structure.html
 perl md.pl $SRC/cs/linux.markdown                     > $DES/cs/linux.html
 perl md.pl $SRC/cs/linux_command.markdown             > $DES/cs/linux_command.html
