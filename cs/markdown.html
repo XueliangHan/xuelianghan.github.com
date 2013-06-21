@@ -43,14 +43,26 @@ Markdown has since been re-implemented by others as a Perl module available on C
 
 <blockquote>
   <p>"Write something."
-The above will translate into following HTML:
-<blockquotes><p>Write something.</p></blockquotes></p>
+  The above will translate into following HTML:
+  <blockquotes><p>Write something.</p></blockquotes></p>
 </blockquote>
 
 <h2>External links</h2>
 
-<p><a href="link address write here">link text write here</a>
-Example: <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a></p>
+<p>Links may be included inline:  </p>
+
+<blockquote>
+  <p><a href="link.address.here">link text here</a>
+  Ex. <a href="http://en.wikipedia.com/wiki/Markdown">Markdown</a></p>
+</blockquote>
+
+<p>Alternatively, links can be placed in footnotes outside of the paragraph, being referenced with some sort of reference tag. For example, including the following inline:  </p>
+
+<blockquote>
+  <p>[link text here][linkref]
+  would produce a link if the following showed up outside of the paragraph (or at the end of the document): <br />
+  [linkref]: link.address.here "link title here"</p>
+</blockquote>
 
 <h1>Convert into HTML</h1>
 
