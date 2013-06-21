@@ -220,6 +220,8 @@ Work Related Tools Kit
 * Card maker: [moo](http://www.moo.com) - _Make you business card online._
 * Email
   * [GuerrillaMail.com](https://www.guerrillamail.com/) - _Temporary email service for 60 minutes, provide .com/.net/.biz/.org/.de/spam4.me mail._
+* File sending and sharing
+  * [FileDrop](http://filedrop.in) - Built by [Hong Jiang](http://hjiang.net), NO register, NO installation, NO wired, Very easy to use, no legal issus (files will be automatically deleted in 24 hours.)
 * Note/Text Service
   * [Notepad.cc](http://notepad.cc/) - _Light weight online notepad, only plain-text, you can encrypt you specific URL with password._
   * [Pastebin](http://pastebin.com) - _Number one paste tool since 2002, Pastebin is where you can store text online for a set period of time._

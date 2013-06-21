@@ -55,6 +55,31 @@ perl md.pl $SRC/information-source.markdown   > $DES/information-source.html
 perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
 perl md.pl $SRC/quotations.markdown           > $DES/quotations.html
 
+##Level 2, Hobbies
+perl md.pl $SRC/hobbies/hobbies.markdown            > $DES/hobbies/hobbies.html
+#perl md.pl $SRC/hobbies/film-and-movie.markdown     > $DES/hobbies/film-and-movie.html
+perl md.pl $SRC/hobbies/meditation.markdown         > $DES/hobbies/meditation.html
+perl md.pl $SRC/hobbies/music.markdown              > $DES/hobbies/music.html
+#perl md.pl $SRC/hobbies/reading.markdown            > $DES/hobbies/reading.html
+#perl md.pl $SRC/hobbies/sports-and-fitness.markdown > $DES/hobbies/sports-and-fitness.html
+#perl md.pl $SRC/hobbies/travel.markdown             > $DES/hobbies/travel.html
+#perl md.pl $SRC/hobbies/.markdown   > $DES/hobbies/.html
+
+
+##Level 2, people and masters
+perl md.pl $SRC/people/links.markdown          > $DES/people/links.html
+perl md.pl $SRC/people/masters.markdown        > $DES/people/masters.html
+perl md.pl $SRC/people/person.markdown         > $DES/people/person.html
+perl md.pl $SRC/people/Alan_Kay.markdown       > $DES/people/Alan_Kay.html
+perl md.pl $SRC/people/Jianzhong_Lee.markdown  > $DES/people/Jianzhong_Lee.html
+perl md.pl $SRC/people/Linus_Torvalds.markdown > $DES/people/Linus_Torvalds.html
+perl md.pl $SRC/people/Steve_Jobs.markdown     > $DES/people/Steve_Jobs.html
+
+
+
+
+
+
 
 
 ##1 Professional
@@ -72,12 +97,16 @@ perl md.pl $SRC/cs/linux-distro-arch-linux.markdown   > $DES/cs/linux-distro-arc
 perl md.pl $SRC/cs/linux-distro-goobuntu.markdown     > $DES/cs/linux-distro-goobuntu.html
 perl md.pl $SRC/cs/networking.markdown                > $DES/cs/networking.html
 perl md.pl $SRC/cs/networking_command.markdown        > $DES/cs/networking_command.html
-#perl md.pl $SRC/cs/programming-language.markdown > $DES/cs/programming-language.html
-perl md.pl $SRC/cs/bash.markdown                  > $DES/cs/bash.html
-perl md.pl $SRC/cs/LISP.markdown                  > $DES/cs/LISP.html #
-perl md.pl $SRC/cs/markdown.markdown              > $DES/cs/markdown.html
-perl md.pl $SRC/cs/python.markdown                > $DES/cs/python.html
-perl md.pl $SRC/cs/c.markdown                     > $DES/cs/c.html
+
+
+#folder pl
+perl md.pl $SRC/cs/pl/programming-language.markdown > $DES/cs/pl/programming-language.html
+perl md.pl $SRC/cs/pl/c.markdown                     > $DES/cs/pl/c.html
+perl md.pl $SRC/cs/pl/LISP.markdown                  > $DES/cs/pl/LISP.html #
+perl md.pl $SRC/cs/pl/python.markdown                > $DES/cs/pl/python.html
+perl md.pl $SRC/cs/pl/bash.markdown                  > $DES/cs/pl/bash.html
+perl md.pl $SRC/cs/pl/HTML.markdown                  > $DES/cs/pl/HTML.html
+perl md.pl $SRC/cs/pl/markdown.markdown              > $DES/cs/pl/markdown.html
 
 ##Level 2, draft
 perl md.pl $SRC/drafts/what-is-programming.markdown > $DES/drafts/what-is-programming.html
@@ -87,24 +116,7 @@ perl md.pl $SRC/hacks/hacks.markdown                                            
 perl md.pl $SRC/hacks/reverse-engineering-how-to-convert-epub-book-into-html-doc-pdf.markdown > $DES/hacks/reverse-engineering-how-to-convert-epub-book-into-html-doc-pdf.html
 perl md.pl $SRC/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-access.markdown   > $DES/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-access.html
 
-##Level 2, Hobbies
-perl md.pl $SRC/hobbies/hobbies.markdown            > $DES/hobbies/hobbies.html
-#perl md.pl $SRC/hobbies/film-and-movie.markdown     > $DES/hobbies/film-and-movie.html
-perl md.pl $SRC/hobbies/meditation.markdown         > $DES/hobbies/meditation.html
-perl md.pl $SRC/hobbies/music.markdown              > $DES/hobbies/music.html
-#perl md.pl $SRC/hobbies/reading.markdown            > $DES/hobbies/reading.html
-#perl md.pl $SRC/hobbies/sports-and-fitness.markdown > $DES/hobbies/sports-and-fitness.html
-#perl md.pl $SRC/hobbies/travel.markdown             > $DES/hobbies/travel.html
-#perl md.pl $SRC/hobbies/.markdown   > $DES/hobbies/.html
 
-##Level 2, people and masters
-perl md.pl $SRC/people/links.markdown          > $DES/people/links.html
-perl md.pl $SRC/people/masters.markdown        > $DES/people/masters.html
-perl md.pl $SRC/people/person.markdown         > $DES/people/person.html
-perl md.pl $SRC/people/Alan_Kay.markdown       > $DES/people/Alan_Kay.html
-perl md.pl $SRC/people/Jianzhong_Lee.markdown  > $DES/people/Jianzhong_Lee.html
-perl md.pl $SRC/people/Linus_Torvalds.markdown > $DES/people/Linus_Torvalds.html
-perl md.pl $SRC/people/Steve_Jobs.markdown     > $DES/people/Steve_Jobs.html
 
 ##Level 2, tools
 perl md.pl $SRC/tools/tools.markdown       > $DES/tools/tools.html
