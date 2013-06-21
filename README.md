@@ -106,3 +106,9 @@ Part two - The new project to build a tools-set meet my need
 ###Code Highlight
 * [Pygments](http://zyzhang.github.io/blog/2012/08/31/highlight-with-Jekyll-and-Pygments/)
 * [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/manual/installation.html)
+
+
+###Domain
+* Name Server
+  * DNSPOD settings: follow the [Github Offical Procedures](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
+  * Godaddy_Account-Manager_NameServer_SetNameServer: Add DNSPOD nameserver: `f1g1ns1.dnspod.net` `f1g1ns2.dnspod.net`
