@@ -9,7 +9,6 @@ Artisan's tools in Computer World
 * This is a place where I learn how to use tools  
 * The best way to master a tools is to use it in the real world to do some parctical task, and it's better have a master walk with you, so you will know which shouldn't do or don't need to do, and when things go wrong, you can fix it very quickly with the help of master, this kind of learning stragety will help you mastering the tools as quick as possible at the beginning stage.
 * (I write here as a mark) The limit which I can't beyond now - The religion war about the tools(compiler/database/editor/operating system/version control system/etc.), yes, religion in computer world, I never thought about that before, or I never thought religion will appeared in the computer world, in my work, in my professional career, unfortunately, I was affected by the environment I grow up with, I was too young to have ability to distinguish right and wrong, kind and evil, and there are no masters around me give advices, most information on the Internet are wrong and low quality, especially carried by Chinese language, and I was devoted my time and energy into that debate, a debate may won't have an end after my death, the tools are matter, what matter is what you are doing with them, just like the computer programming language - [Advice From An Old Programmer](http://hackecho.com/2011/06/advice-from-an-old-programmer/): At the end of the book "Learn Python The Hard Way, 2nd Edition".
-
 * (Reminder - Things need to do) Data transfer from word document into here.
 
 
@@ -236,9 +235,10 @@ Work Related Tools Kit
 
 
 
-Reference
-----------------------
+##Reference
 <hr>
+###Dash
+* [Dash 1.6.9 for Mac OS X Snow Leopard](http://dl.vmall.com/c01iczclc6#) - _An API refernece browser and code segment manager, almost all documentations such as JAVA，C ++，Perl和Ruby，PHP，Python，jQuery，Django，Cocos2D，JavaScript的HTML，CSS，XUL，XSLT._
 ###My Configuration
 * (File) Bash configuration file -> [bashrc](./files/bashrc), usage: rename bashrc to .bashrc, put it in your HOME directory.  
 * (File) Vi/Vim configuration file -> [vimrc](./files/vimrc), usage: rename vimrc to .vimrc, put it in your HOME directory.  
