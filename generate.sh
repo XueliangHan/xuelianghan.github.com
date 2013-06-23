@@ -94,7 +94,7 @@ perl md.pl $SRC/references/symbols.markdown    > $DES/references/symbols.html
 perl md.pl $SRC/projects.markdown > $DES/projects.html
 perl md.pl $SRC/files/resume/resume.markdown   > $DES/files/resume/resume.html
 perl md.pl $SRC/files/resume/jianli.markdown   > $DES/files/resume/jianli.html
-perl md.pl $SRC/skills.markdown   > $DES/skills.html
+perl md.pl $SRC/skillsets/skillsets.markdown   > $DES/skillsets/skillsets.html
 
 #perl md.pl $SRC/programming-languages.markdown > $DES/programming-languages.html
 
@@ -127,8 +127,8 @@ perl md.pl $SRC/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-acce
 
 
 ##tools
-perl md.pl $SRC/tools/tools.markdown       > $DES/tools/tools.html
-perl md.pl $SRC/tools/gcc.markdown         > $DES/tools/gcc.html
-perl md.pl $SRC/tools/git.markdown         > $DES/tools/git.html
-perl md.pl $SRC/tools/text-editor.markdown > $DES/tools/text-editor.html
-perl md.pl $SRC/tools/vi-vim.markdown      > $DES/tools/vi-vim.html
+perl md.pl $SRC/toolkits/toolkits.markdown    > $DES/toolkits/toolkits.html
+perl md.pl $SRC/toolkits/gcc.markdown         > $DES/toolkits/gcc.html
+perl md.pl $SRC/toolkits/git.markdown         > $DES/toolkits/git.html
+perl md.pl $SRC/toolkits/text-editor.markdown > $DES/toolkits/text-editor.html
+perl md.pl $SRC/toolkits/vi-vim.markdown      > $DES/toolkits/vi-vim.html
