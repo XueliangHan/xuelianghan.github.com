@@ -1,8 +1,12 @@
 #!/bin/bash
 #generate program for Linux OS
 
-#Design need to know, SRC is where I put my markdown file, DES is where I want to generate the html from markdown.
-#detecting system type
+#####################################################################################
+#                             Detecting system type                                 #
+# Design need to know:                                                              #
+# SRC is where I put my markdown file                                               #
+# DES is where I want to generate the html from markdown.                           #
+#####################################################################################
 #if [ "$(expr substr $(uname -s) 1 6)" == "Darwin" ]; then
 if [ "$(uname)" == "Darwin" ]; then
     echo "Script running under Mac OS X (Darwin)"
@@ -28,7 +32,6 @@ elif [ "$(expr substr $(uname -s) 1 14)" == "MINGW32_NT-6.1" ]; then
     echo "Generating pages..."
 fi
 
-
 #Previous bash script in convert.sh
 #for f in `find . -name "*.markdown"` ;
 #    do perl markdown.pl $f > $f.html;
@@ -37,7 +40,9 @@ fi
 #done
 
 
-
+#####################################################################################
+#                                     HOMEPAGE                                      #
+#####################################################################################
 #Site structure
 #html manually wrote
 #  index.html
@@ -47,13 +52,19 @@ perl md.pl $SRC/links.markdown    > $DES/links.html
 #  statistics.html
 #  programming language
 
+
+#####################################################################################
+#                                       LIFE                                        #
+#####################################################################################
 #0 life
 perl md.pl $SRC/interest.markdown             > $DES/interest.html
 perl md.pl $SRC/interest_technology.markdown  > $DES/interest_technology.html
 perl md.pl $SRC/inspiration.markdown          > $DES/inspiration.html
 perl md.pl $SRC/information-source.markdown   > $DES/information-source.html
-perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
 
+
+##Essays
+perl md.pl $SRC/essays/essays.markdown        > $DES/essays/essays.html
 
 ##Hobbies
 perl md.pl $SRC/hobbies/hobbies.markdown            > $DES/hobbies/hobbies.html
@@ -81,14 +92,16 @@ perl md.pl $SRC/quotes/quotes.markdown          > $DES/quotes/quotes.html
 perl md.pl $SRC/quotes/albert-einstein.markdown > $DES/quotes/albert-einstein.html
 
 
-##references
+##References
 perl md.pl $SRC/references/references.markdown > $DES/references/references.html
 perl md.pl $SRC/references/taxonomy.markdown   > $DES/references/taxonomy.html
 perl md.pl $SRC/references/symbols.markdown    > $DES/references/symbols.html
 
 
 
-
+#####################################################################################
+#                                       WORKS                                       #
+#####################################################################################
 
 ##1 Professional
 perl md.pl $SRC/projects.markdown > $DES/projects.html
@@ -107,7 +120,7 @@ perl md.pl $SRC/cs/networking.markdown                > $DES/cs/networking.html
 perl md.pl $SRC/cs/networking_command.markdown        > $DES/cs/networking_command.html
 
 
-#folder pl
+#pl
 perl md.pl $SRC/cs/pl/programming-language.markdown > $DES/cs/pl/programming-language.html
 perl md.pl $SRC/cs/pl/c.markdown                     > $DES/cs/pl/c.html
 perl md.pl $SRC/cs/pl/LISP.markdown                  > $DES/cs/pl/LISP.html #
@@ -126,7 +139,7 @@ perl md.pl $SRC/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-acce
 
 
 
-##tools
+##toolkits
 perl md.pl $SRC/toolkits/toolkits.markdown    > $DES/toolkits/toolkits.html
 perl md.pl $SRC/toolkits/gcc.markdown         > $DES/toolkits/gcc.html
 perl md.pl $SRC/toolkits/git.markdown         > $DES/toolkits/git.html
