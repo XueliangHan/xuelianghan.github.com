@@ -214,25 +214,21 @@ Work Related Tools Kit
   * (Software) MindJet: People related to business will like it, because it will thing _looks_ better from surface.
   * (Online) [Mindomo](http://www.mindomo.com/)
 
-####Online tools (Platform independent)
-* For temporary usage.
-* Card maker: [moo](http://www.moo.com) - _Make you business card online._
-* Email
-  * [GuerrillaMail.com](https://www.guerrillamail.com/) - _Temporary email service for 60 minutes, provide .com/.net/.biz/.org/.de/spam4.me mail._
-* File sending and sharing
-  * [FileDrop](http://filedrop.in) - Built by [Hong Jiang](http://hjiang.net), NO register, NO installation, NO wired, Very easy to use, no legal issus (files will be automatically deleted in 24 hours.)
-* Note/Text Service
+####Online tools for temporary usage(Platform independent)
+* __Card maker__: [moo](http://www.moo.com) - _Make you business card online._
+* __Email__: [GuerrillaMail.com](https://www.guerrillamail.com/) - _Temporary email service for 60 minutes, provide .com/.net/.biz/.org/.de/spam4.me mail._
+* __File sending and sharing__: [FileDrop](http://filedrop.in) - Built by [Hong Jiang](http://hjiang.net), NO register, NO installation, NO wired, Very easy to use, no legal issus (files will be automatically deleted in 24 hours.)
+* __Note/Text Service__
   * [Notepad.cc](http://notepad.cc/) - _Light weight online notepad, only plain-text, you can encrypt you specific URL with password._
   * [Pastebin](http://pastebin.com) - _Number one paste tool since 2002, Pastebin is where you can store text online for a set period of time._
-* Image Online Host
+* __Image Online Host__
   * [Imgur](http://imgur.com/) - _Upload image and get the image URL._
-* Video Downloader for online video website
+* __Video Downloader for online video website__
   * [KeepVID](http://keepvid.com/) - _Support almost all online video website and Java is needed for faster fetching the download links. (Youtube downloader)._
 
 ####Online services
 * [About me](https://about.me) - _Beautiful way to make a bio for people to know you and find what you share._
-* [Avatar](https://en.gravatar.com/) - _Upload your avatar once and use it on many website._
-  * [A & Milky Way Thumbnail URL](http://www.gravatar.com/avatar/809acac2422892b33d66dbf79088b174.png)
+* [Avatar](https://en.gravatar.com/) - _Upload your avatar once and use it on many website. [A & Milky Way Thumbnail URL](http://www.gravatar.com/avatar/809acac2422892b33d66dbf79088b174.png)._
 
 
 

@@ -1,6 +1,6 @@
 <html><head><meta charset="utf-8">
 <title>Quotes</title>
-<link id="css" type="text/css" rel="stylesheet" href="./static/stylesheets/main.css"/></head><body>
+<link id="css" type="text/css" rel="stylesheet" href="../static/stylesheets/main.css"/></head><body>
 
 
 
@@ -8,8 +8,12 @@
 * Quotes which are benefited me (_Enlighten_, _Inspired_, _Encourage_ me).
 * These quotes are ordered by Alphabet from A-Z.
 
+##Quotes (Collection)
+* [Albert Einstein's Quotes (txt)](./albert-einstein-quotes.txt)
+* [Albert Einstein's Quotes (html)](./albert-einstein-quotes.txt)
 
 
+##Quotes (A~Z)
 * `Adventure`
   > The biggest adventure you can take is to live the life of your dreams.
 

@@ -19,6 +19,6 @@
   * A,B,C. - Upper case Alph number（大写字母编号）
   * i,ii,iii. - Lower case Roman number（小写罗马数字编号）
   * I,II,II. - Upper case Roman number（大写罗马数字编号）
-  * Apha is the most classic, most simple, most practical approach to classify.
+  * Alphabet is the most classic, most simple, most practical approach to classify.
 
 </body></html>

@@ -53,9 +53,9 @@ perl md.pl $SRC/interest_technology.markdown  > $DES/interest_technology.html
 perl md.pl $SRC/inspiration.markdown          > $DES/inspiration.html
 perl md.pl $SRC/information-source.markdown   > $DES/information-source.html
 perl md.pl $SRC/personal-development.markdown > $DES/personal-development.html
-perl md.pl $SRC/quotations.markdown           > $DES/quotations.html
 
-##Level 2, Hobbies
+
+##Hobbies
 perl md.pl $SRC/hobbies/hobbies.markdown            > $DES/hobbies/hobbies.html
 #perl md.pl $SRC/hobbies/film-and-movie.markdown     > $DES/hobbies/film-and-movie.html
 perl md.pl $SRC/hobbies/meditation.markdown         > $DES/hobbies/meditation.html
@@ -66,7 +66,7 @@ perl md.pl $SRC/hobbies/music.markdown              > $DES/hobbies/music.html
 #perl md.pl $SRC/hobbies/.markdown   > $DES/hobbies/.html
 
 
-##Level 2, people and masters
+##people and masters
 perl md.pl $SRC/people/links.markdown          > $DES/people/links.html
 perl md.pl $SRC/people/masters.markdown        > $DES/people/masters.html
 perl md.pl $SRC/people/person.markdown         > $DES/people/person.html
@@ -74,6 +74,11 @@ perl md.pl $SRC/people/Alan_Kay.markdown       > $DES/people/Alan_Kay.html
 perl md.pl $SRC/people/Jianzhong_Lee.markdown  > $DES/people/Jianzhong_Lee.html
 perl md.pl $SRC/people/Linus_Torvalds.markdown > $DES/people/Linus_Torvalds.html
 perl md.pl $SRC/people/Steve_Jobs.markdown     > $DES/people/Steve_Jobs.html
+
+
+##Quotes
+perl md.pl $SRC/quotes/quotes.markdown          > $DES/quotes/quotes.html
+perl md.pl $SRC/quotes/albert-einstein.markdown > $DES/quotes/albert-einstein.html
 
 
 ##references
@@ -111,17 +116,17 @@ perl md.pl $SRC/cs/pl/bash.markdown                  > $DES/cs/pl/bash.html
 perl md.pl $SRC/cs/pl/HTML.markdown                  > $DES/cs/pl/HTML.html
 perl md.pl $SRC/cs/pl/markdown.markdown              > $DES/cs/pl/markdown.html
 
-##Level 2, draft
+##draft
 perl md.pl $SRC/drafts/what-is-programming.markdown > $DES/drafts/what-is-programming.html
 
-##Level 2, hacks
+##hacks
 perl md.pl $SRC/hacks/hacks.markdown                                                          > $DES/hacks/hacks.html
 perl md.pl $SRC/hacks/reverse-engineering-how-to-convert-epub-book-into-html-doc-pdf.markdown > $DES/hacks/reverse-engineering-how-to-convert-epub-book-into-html-doc-pdf.html
 perl md.pl $SRC/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-access.markdown   > $DES/hacks/use-goagent-and-gae-to-setup-a-free-and-open-internet-access.html
 
 
 
-##Level 2, tools
+##tools
 perl md.pl $SRC/tools/tools.markdown       > $DES/tools/tools.html
 perl md.pl $SRC/tools/gcc.markdown         > $DES/tools/gcc.html
 perl md.pl $SRC/tools/git.markdown         > $DES/tools/git.html
