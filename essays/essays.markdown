@@ -3,7 +3,7 @@
 ##__Hierarchical Theory__ - _need a little abstractive and hierarhcical thinking to understand._
 * [3 - The Evolutionary Consciousness: Three Different Level of Working Attitudes][2013-06-21]
 
-[2013-06-21]: ./essays/ "3 - The Evolutionary Consciousness: Three Different Level of Working Attitudes"
+[2013-06-21]: ./essays/3-level-of-working-con "3 - The Evolutionary Consciousness: Three Different Level of Working Attitudes"
 
 
 <!--

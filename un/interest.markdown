@@ -40,9 +40,9 @@ Self-Education (Training & Learning)
 * Learn how to code online
   * [Code.org](http://code.org) founded by [Hadi Partovi](http://crunchbase.com/person/hadi-partovi) and [Ali Partovi](http://crunchbase.com/person/ali-partovi)
   * [Code Academy](http://www.codeacedemy.com/) - Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends. (Web Fundamentals, PHP, jQuery, JavaScript, Projects, Python, Ruby, API)
-  * [CodeSchool](http://www.codeschool.com): HTML/CSS, JavaScript, Ruby, iOS, and Electives(R, Git, DevTools, Unix Basics)
-  * [CodeDojo](http://www.codedojo.com)
-  * [TeachingTree(Computer Science)](http://www.teachingtree.co/): For students to quickly access the exact clips they need in order to learn individual concepts
+  * [Code School](http://www.codeschool.com): HTML/CSS, JavaScript, Ruby, iOS, and Electives(R, Git, DevTools, Unix Basics)
+  * [Code Dojo](http://www.codedojo.com)
+  * [Teaching Tree(Computer Science)](http://www.teachingtree.co/): For students to quickly access the exact clips they need in order to learn individual concepts
 * Others
   * [OverAPI](http://overapi.com): A website indexed all API from almost all languages and many techniques.
 
