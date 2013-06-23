@@ -76,7 +76,10 @@ perl md.pl $SRC/people/Linus_Torvalds.markdown > $DES/people/Linus_Torvalds.html
 perl md.pl $SRC/people/Steve_Jobs.markdown     > $DES/people/Steve_Jobs.html
 
 
-
+##references
+perl md.pl $SRC/references/references.markdown > $DES/references/references.html
+perl md.pl $SRC/references/taxonomy.markdown   > $DES/references/taxonomy.html
+perl md.pl $SRC/references/symbols.markdown    > $DES/references/symbols.html
 
 
 
