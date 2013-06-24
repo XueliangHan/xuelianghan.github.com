@@ -1,6 +1,12 @@
 <html><head><title>Tools</title></head><body>
 
 
+
+* Tracking system
+  * [Trakr](https://trakrapp.com/). [Trakr Public Beta 28 June 2011](http://onycloud.com/2011/06/28/trakr-public-beta.html)
+  * Trakr is an easy-to-use and powerful issue tracking system for team and individuals who want to focus on delivering great products. Whether you are a one-person shop or a team of hundreds, Trakr takes care of the mechanics in issue tracking and let you focus on what you are good at.
+  * Trakr is free for all users during the public beta and will be always free for public projects. We will announce a pricing plan after the beta. Our pricing will be very competitive to similar products on the market, and even if you do not want to stay with us (we hope you do!), you will have plenty of time to export all your data.
+
 Artisan's tools in Computer World
 ===================================
 
@@ -229,8 +235,8 @@ Work Related Tools Kit
 ####Online services
 * [About me](https://about.me) - _Beautiful way to make a bio for people to know you and find what you share._
 * [Avatar](https://en.gravatar.com/) - _Upload your avatar once and use it on many website. [A & Milky Way Thumbnail URL](http://www.gravatar.com/avatar/809acac2422892b33d66dbf79088b174.png)._
-
-
+* [California Salary Paycheck Calculator | Payroll Calculator | Paycheck City](http://www.paycheckcity.com/calculator/netpay/us/california/calculator.html)
+* [Reviews - Top Ten Review](http://www.toptenreviews.com/)
 
 
 ##Reference

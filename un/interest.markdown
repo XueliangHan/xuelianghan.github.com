@@ -30,6 +30,7 @@ Self-Education (Training & Learning)
 * University Courses Online
   * [MIT-OCW:OpenCourseWare](http://ocw.mit.edu/index.htm): MIT have the best classification system, you can [Find by topic](http://ocw.mit.edu/courses/find-by-topic/)
   * [Open Yale Course](http://oyc.yale.edu/)
+  * [Stanford School of Engineering - Stanford Engineering Everywhere](http://see.stanford.edu/see/courses.aspx)
 * [Education on Open Directory Project - Reference](http://www.dmoz.org/Reference/)
 * News/Informations
   * [Ten websites that teach coding and a bunch of other things](http://pandodaily.com/2013/04/05/ten-websites-that-teach-coding-and-a-bunch-of-other-things/)

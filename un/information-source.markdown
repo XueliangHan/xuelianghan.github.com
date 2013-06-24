@@ -55,15 +55,15 @@ General Information Source
   * [The Victorian Web](http://www.victorianweb.org/index.html): An old but interesting information site, high quality.
   
 * Wikipedia and it's sister projects
-  * Book-[Wikibooks](https://en.wikibooks.org/): Free textbooks and manuals
-  * Data-[Wikidata](https://en.wikidata.org/): Free knowledge base
-  * News-[Wikinews](https://en.wikinews.org/): Free-content news
-  * Quote-[Wikiquote](https://en.wikiquote.org/): Collection of quotations
-  * Source-[Wikisource](https://en.wikisource.org/): Free-content library
-  * Species-[Wikispecies](https://species.wikimedia.org/): Directory of species
-  * Versity-[Wikiversity](https://en.wikiversity.org/): Free learning materials and activities
-  * Voyage-[Wikivoyage](https://en.wikivoyage.org/): Free travel guide
-  * Tionary-[Wiktionary](https://en.wiktionary.org/): Dictionary and thesaurus
+  * [Book-Wikibooks](https://en.wikibooks.org/): Free textbooks and manuals
+  * [Data-Wikidata](https://en.wikidata.org/): Free knowledge base
+  * [News-Wikinews](https://en.wikinews.org/): Free-content news
+  * [Quote-Wikiquote](https://en.wikiquote.org/): Collection of quotations
+  * [Source-Wikisource](https://en.wikisource.org/): Free-content library
+  * [Species-Wikispecies](https://species.wikimedia.org/): Directory of species
+  * [Versity-Wikiversity](https://en.wikiversity.org/): Free learning materials and activities
+  * [Voyage-Wikivoyage](https://en.wikivoyage.org/): Free travel guide
+  * [Tionary-Wiktionary](https://en.wiktionary.org/): Dictionary and thesaurus
   * [Commons](https://commons.wikimedia.org/): Free media repository
   * [MediaWiki](https://mediawiki.org/): Free software development
   * [Meta-Wiki](https://meta.wikimedia.org/): Wikimedia project coordination
@@ -95,16 +95,26 @@ Specific Information Source
   * (Chinese) [作为主流媒体，最起码的一条是说话得负责任。出现假新闻是奇耻大辱。因为这个原因，如果你想看关于中国内部的政治传闻，实际上最好的消息来源不是什么港台媒体，那上面每天都有新的谣言；最好的消息来源是纽约时报。重要的消息都是纽约时报发了以后中文媒体才跟上。我发现国内真正有价值的”消息人士”，似乎 更愿意把消息透露给纽约时报而不是别的报纸，例子太敏感就不说了。——学而时嘻之](http://www.geekonomics10000.com/76)
 
 * Technology News
+  * Technology News/Info website: Subscribed into Reader. (Not too many, just top 10 best orignal website, and 3 comprehensive news site like Hacker-News/ Slashdot)
+  * [ACM TechNews](http://technews.acm.org): Providing timely information for IT professionals three times a week.
+  * [CNET](http://www.cnet.com)
+  * [DARPA](http://www.darpa.mil), [DARPA's RSS](http://www.darpa.mil/Rss.aspx?Colid=24)
   * [Hacker News](https://news.ycombinator.com/)
-  * [Kurzweil Accelerating Intelligence](http://www.kurzweilai.com/)
+  * [Kurzweil AI (Accelerating Intelligence)](http://www.kurzweilai.com/)
   * [MIT Technology Review](http://technologyreview.com/)
   * [Masable](http://www.masable.com/)
+  * [NPR](http://www.npr.com)
   * [Slashdot](http://slashdot.com/)
-  * [ACM TechNews](http://technews.acm.org): Providing timely information for IT professionals three times a week.
   * [TechCrunch](http://techcrunch.com)
   * [The Next Web](http://thenextweb.com)
-  * [CNET](http://www.cnet.com)
+  * [Linuxeden](http://www.linuxeden.com) - _Chinese source._
 
+* High quality news
+  * BBC
+  * CNN
+  * Advantages of TV News
+    * 1.Information on TV go fast, because you don't have to read, just listen or watch, easiy filp massive key news/information in a short time.
+    * 2.Much more high quality information on TV than Internet, whatever been broadcasted must be valuable, because it cost much more than Internet which was determined by the media properity of TV.
 
 </body>
 </html>

@@ -10,7 +10,7 @@
 
 ##Quotes (Collection)
 * [Albert Einstein's Quotes (txt)](./albert-einstein-quotes.txt)
-* [Albert Einstein's Quotes (html)](./albert-einstein-quotes.txt)
+* [Albert Einstein's Quotes (html)](./albert-einstein-quotes.html)
 
 
 ##Quotes (A~Z)
@@ -27,11 +27,11 @@
   > Depend upon it, Sir, when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully - Samuel Johnson (<em>September 19, 1777, p. 351, often misquoted as being hanged in the morning.</em>)  
   > 
 
+* `Future`
+  > The best way to predict the future is to invent it. - Alan Kay.
+
 * `Hunged`
   > Depend upon it, Sir, when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully - Samuel Johnson (September 19, 1777, p. 351, often misquoted as being hanged in the morning.)
-
-* `Live in my own life`
-  > The real moment you live in your own life probability the same time you independently living in your own space.
 
 * `Knowledge` - _Power of knowledge_
   > The more <b>time</b> and <b>energy</b> you spend acquriing **pertinent knowledge**, the more control you have over your life.

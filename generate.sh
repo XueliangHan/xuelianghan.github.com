@@ -57,10 +57,10 @@ perl md.pl $SRC/links.markdown    > $DES/links.html
 #                                       LIFE                                        #
 #####################################################################################
 #0 life
-perl md.pl $SRC/interest.markdown             > $DES/interest.html
-perl md.pl $SRC/interest_technology.markdown  > $DES/interest_technology.html
-perl md.pl $SRC/inspiration.markdown          > $DES/inspiration.html
-perl md.pl $SRC/information-source.markdown   > $DES/information-source.html
+perl md.pl $SRC/un/information-source.markdown   > $DES/un/information-source.html
+perl md.pl $SRC/un/inspiration.markdown          > $DES/un/inspiration.html
+perl md.pl $SRC/un/interest.markdown             > $DES/un/interest.html
+perl md.pl $SRC/un/interest_technology.markdown  > $DES/un/interest_technology.html
 
 
 ##Essays
@@ -88,8 +88,8 @@ perl md.pl $SRC/people/Steve_Jobs.markdown     > $DES/people/Steve_Jobs.html
 
 
 ##Quotes
-perl md.pl $SRC/quotes/quotes.markdown          > $DES/quotes/quotes.html
-perl md.pl $SRC/quotes/albert-einstein.markdown > $DES/quotes/albert-einstein.html
+perl md.pl $SRC/quotes/quotes.markdown                 > $DES/quotes/quotes.html
+perl md.pl $SRC/quotes/albert-einstein-quotes.markdown > $DES/quotes/albert-einstein-quotes.html
 
 
 ##References
@@ -104,7 +104,7 @@ perl md.pl $SRC/references/symbols.markdown    > $DES/references/symbols.html
 #####################################################################################
 
 ##1 Professional
-perl md.pl $SRC/projects.markdown > $DES/projects.html
+perl md.pl $SRC/un/projects.markdown > $DES/un/projects.html
 perl md.pl $SRC/files/resume/resume.markdown   > $DES/files/resume/resume.html
 perl md.pl $SRC/files/resume/jianli.markdown   > $DES/files/resume/jianli.html
 perl md.pl $SRC/skillsets/skillsets.markdown   > $DES/skillsets/skillsets.html
