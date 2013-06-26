@@ -21,4 +21,13 @@
   * I,II,II. - Upper case Roman number（大写罗马数字编号）
   * Alphabet is the most classic, most simple, most practical approach to classify.
 
+* Special characters
+  * `.` Split
+  * `_` Sub
+  * `-` Link words symbol
+  * `!` Important
+  * `()` Explain
+  * `[]` Label - Usage1: Label data type, like [MetaData],[Binary],[Text],[Image][Video]
+  * `{}` Multi values, like(example) {knowledge,horizon,thought,virtual-experience)
+
 </body></html>

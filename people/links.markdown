@@ -16,7 +16,7 @@
 ##Links
 * [DY （杨  栋）(Dong Yang)    ]() - _Software Engineer (Security) at Anity Inc. Harbin, China._
 * [HY （贺  宇）(Yu  He)       ](http://www.heyucs.com), [贺宇@tumblr](http://xinyu1607.tumblr.com/) - _Natural Langauge Processing undergraduate student (Currently)._
-* [WB （王  斌）(Bin Wang)     ](http://www.crazyhotice.com) - _A person who follow the interest, strong self-learning abily._
+* [WB （王  斌）(Bin Wang)     ](http://www.binwang.me) - _A person who follow the interest, strong self-learning abily._
 * [WJL（王骏龙）(Junlong Wang) ]() - _Software Engineer at Alibaba Inc. `Data Mining`, `Algorithms`._ 
 * [WJP（王金鹏）(Jinpeng Wang) ]() - _Able to focus on current works and obrain a right cognition to the TECHS._
 * [ZMJ（邹淼江）(Miaojiang Zou)]() - _Software Engineer at Baidu Inc. `Web Front End Engineer`._

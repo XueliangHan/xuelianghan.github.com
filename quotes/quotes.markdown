@@ -17,43 +17,42 @@
 * `Adventure`
   > The biggest adventure you can take is to live the life of your dreams.
 
+* `Creativity`
+  > 别人无法教会你创造和创新：新的理念来自于个人经历以及你和周围环境的互动。  
+  > Creation and Creativity can't be teached by other people, the new ideas come from **personal experience** and the **interaction** between you and the **environment around** you.
+
 * [`Facebook`](http://xuelianghan.tumblr.com/post/52540580981/facebook-slogan) <!-- 2012-10-29 -->
   > Code Wins Argument. -- Facebook  
   > Move Fast and Break Things. -- Facebook  
   > Done is Better than Perfect. -- Facebook <!-- (Rapid prototyping and Fast iteration) -->  
   > Stay Focus and Keep Shipping. -- Facebook <!-- Smart people known that focus is the mechaniasm to success and also to be a failure protection -->   
 
-* `Focus/Concentrate`
-  > Depend upon it, Sir, when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully - Samuel Johnson (<em>September 19, 1777, p. 351, often misquoted as being hanged in the morning.</em>)  
-  > 
+* `Focus`
+  > Depend upon it, Sir, when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully - Samuel Johnson, September 19, 1777, p. 351, often misquoted as being hanged in the morning.
 
 * `Future`
   > The best way to predict the future is to invent it. - Alan Kay.
 
-* `Hunged`
-  > Depend upon it, Sir, when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully - Samuel Johnson (September 19, 1777, p. 351, often misquoted as being hanged in the morning.)
-
 * `Knowledge` - _Power of knowledge_
-  > The more <b>time</b> and <b>energy</b> you spend acquriing **pertinent knowledge**, the more control you have over your life.
+  > The more **time** and **energy** you spend acquriing **pertinent knowledge**, the more control you have over your life.
 
 * `Master`
   > Follow the master, Walk with master, Talk to master, Become master. -- Eric Raymond
-
-* `Remain`
-  > All children are artists. The problem is how to remain an artist once you grow up. -- Pablo Picasso
 
 * `Simple`
   > Make things as simple as possible but not simpler." -- Albert Einstein.
 
 * `Steve Jobs`
-  > Think different.  
-  > Stay hungry and stay fooliash.  
-  > Keep looking and don't settle.  
-  > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma -- which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.   
+  > 1.Think different.  
+  > 2.Stay hungry and stay fooliash.  
+  > 3.Keep looking and don't settle.  
+  > 4.Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma -- which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.   
 
 * `Vision`
-  > Vision without execution is hallucination. -- Thomas Edison. ([An post on LinkedIn by Bill Gross](http://www.linkedin.com/today/post/article/20130505003524-9947747-vision-without-execution-is-hallucination))
+  > Vision without execution is hallucination. -- Thomas Edison. ([A post on LinkedIn by Bill Gross](http://www.linkedin.com/today/post/article/20130505003524-9947747-vision-without-execution-is-hallucination))
 
+* `Yourself`
+  > All children are artists. The problem is how to remain an artist once you grow up. -- Pablo Picasso
 
 
 </body></html>

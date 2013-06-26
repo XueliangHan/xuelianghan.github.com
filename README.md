@@ -68,19 +68,13 @@ By the way, Markdown have a very bothering issue, you must put two "space" at th
 
 
 ###Design - New website architecture and structure
-* folders
+* website related folders and files  
   > |-- .git - folder which used by git  
-  > |-- files  
-  >     |-- config - my configuration files  
-  >     |-- images - images used by posts  
-  >     |-- resume - my resume  
   > |-- static
   >     |-- images - images used by this website   
   >     |-- javascripts - JavaScript used by this website   
   >     |-- stylesheets - CSS used by this website  
   >         |-- main.css (css for the primary and secondary html pages)  
-
-* files
   > |-- .gitignore - git configuration file  
   > |-- CNAME - Github customize domain file    
   > |-- generate.sh - site content generator
@@ -88,7 +82,7 @@ By the way, Markdown have a very bothering issue, you must put two "space" at th
   > |-- README.md - documentation about this website  
   > |-- upload.sh - script used to upload this site to remote server   
 
-* pages
+* pages and posts
   > |-- about.html - about this website and me  
   > |-- index.html - homepage  
   > |-- index0.html - navigation page 0    
@@ -97,7 +91,10 @@ By the way, Markdown have a very bothering issue, you must put two "space" at th
   > |-- status.html - my status update   
   > |-- statistics.html - statistics about this website  
   > |-- template.markdown/html - template for new html/markdown file  
-
+  > |-- files  
+  >     |-- config - my configuration files  
+  >     |-- images - images used by posts  
+  >     |-- resume - my resume  
 
 
 ###Code Highlight

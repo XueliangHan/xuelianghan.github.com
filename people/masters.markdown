@@ -22,7 +22,7 @@
   * Dennis Ritchie
   * Dan Friedman
 
-* Engineering
+* Engineers (Engineering)
   * Aaron Swartz
   * Bill Joey
   * Eric Steven Raymond
@@ -35,7 +35,7 @@
 * Technology
   * Ray Kurzweil
 
-* Science 
+* Scientist (Science)
   * Albert Einstein
   * John Von Neumann
   * Richard Feynman
@@ -61,30 +61,27 @@
 
 
 ##ABG_Computer-Science gt 4
-* [Alan Kay 艾伦-凯 4.5X](./people/Alan_Kay.html)Turing Award (2003), created Object Oriented Technology, Smalltalk.</li><br>
+* [Alan Kay 艾伦-凯 4.5X](./Alan_Kay.html)Turing Award (2003), created Object Oriented Technology, Smalltalk.
   * The Real Computer Revolution Hasn’t Happened Yet.
   * [The Deep Insights of Alan Kay - mythz blog](http://mythz.servicestack.net/blog/2013/02/27/the-deep-insights-of-alan-kay/)
   * [艾伦·凯与Smalltalk语言 - liango的个人空间 - 开源中国社区](http://my.oschina.net/liango/blog/79982)
 
-* John McCarthy麦卡锡 LISP 4.5X
-
-* G D. Kunth高德纳克努图 4.5X (TAOCP&TeX )
+* D. Kunth（高德纳克努图） 4.5X (TAOCP&TeX )
 
 * Dennis Ritchie （丹尼斯）4.5X
-  * [C, the Enduring Legacy of Dennis Ritchie](http://rrurl.cn/3lQJ72), [C语言：丹尼斯·里奇的不朽遗产-人人探索explore—人人网](http://explore.renren.com/item/50754c22c8f2bda80db8ad62)： 
-艾尔弗雷德·阿霍，哥伦比亚大学 计算机科学系 劳伦斯·古斯曼讲席教授，《编译原理》龙书第一作者
+  * [C, the Enduring Legacy of Dennis Ritchie](http://rrurl.cn/3lQJ72)
+  * [C语言：丹尼斯·里奇的不朽遗产](http://explore.renren.com/item/50754c22c8f2bda80db8ad62) by 艾尔弗雷德·阿霍，哥伦比亚大学 计算机科学系 劳伦斯·古斯曼讲席教授，《编译原理》龙书第一作者
 
-###Dan Friedman (Compiler & Computer Programming Language)
-* [GTF: Great Teacher Friedman_王垠_新浪博客](http://blog.sina.com.cn/s/blog_5d90e82f010177qx.html)
-* __"The Little Schemer"/"The Little Lisper"__
-  * 他主要的著作《The Little Schemer》（前身叫《The Little Lisper》) 是程序语言界最具影响力的书籍之一。现在很多程序语言界的元老级人物，当年都是看这本“小人书”学会了 Lisp/Scheme，才决心进入这一领域。
-* __"The Little MLer"__
-  * 觉得 ML 比 Scheme 先进很多的人们应该看看 Friedman 这本书：The Little MLer
-* __"A Little Java, A Few Patterns"__
-  * 想要真正理解 Java 设计模式的人，可以看看这本：A Little Java, A Few Patterns
-* 1. 你知道些什么？ 2. 反向运行 3. miniCoq 4. C311 5. 独立思维
+* Dan Friedman (Compiler & Computer Programming Language)
+  * [GTF: Great Teacher Friedman_王垠_新浪博客](http://blog.sina.com.cn/s/blog_5d90e82f010177qx.html)
+  * __"The Little Schemer"/"The Little Lisper"__ - _他主要的著作《The Little Schemer》（前身叫《The Little Lisper》) 是程序语言界最具影响力的书籍之一。现在很多程序语言界的元老级人物，当年都是看这本“小人书”学会了 Lisp/Scheme，才决心进入这一领域。_
+  * __"The Little MLer"__ - _觉得 ML 比 Scheme 先进很多的人们应该看看 Friedman 这本书：The Little MLer
+  * __"A Little Java, A Few Patterns"__ - _想要真正理解 Java 设计模式的人，可以看看这本：A Little Java, A Few Patterns._
+  * 1.你知道些什么？ 2.反向运行 3.miniCoq 4.C311 5.独立思维
 
+* John McCarthy麦卡锡 LISP 4.5X
 
+* [Jianzhong Lee（李建中） 4X](./Jianzhong_Lee.html)
 
 ##ABG_Engineering gt3
 * Master Programmer, Highly skilled in programming.
@@ -145,7 +142,18 @@
 * 姚期智
   * [科学网—中科院外籍院士姚期智：科学家与科学之路](http://news.sciencenet.cn/htmlnews/2012/4/263418.shtm)
 
-
+* Scientists
+  * Astronomers
+  * Biologists
+  * Chemists
+  * Climatologists
+  * Geologists
+  * Mathematicians
+  * Meteorologists
+  * Oceanographers
+  * Physicists
+  * Physiologists/Medicine
+  * Nobel Prize Winners
   
 
 ##Technology
@@ -164,7 +172,7 @@
 
 ##Entrepreneur, Enterprise, and Company-Leader
 ###Steve Jobs 5X
-* [Steve Jobs](./people/Steve_Jobs.html)
+* [Steve Jobs](./Steve_Jobs.html)
   * The __Vision__ - He can see it, see through decades.
   * Keywords: _Taste_, _People_, _Product_.
   * One of the things I always found is that _you got start with the customer experience, and work backward to the technology, you can't start with the technology, and try to figure out where you gonna sale it, and I made this mistake probably more than anybody else in this room, and I got a * T-shit to prove it, and I know that is the case, and we have try to come up with a stragety and a vision for apple, it starts with what incredible benifits can we give to the customer, what can we take the costomer,not, not starting with let sit down with the engineers, and figure out that awesome technologies we have and how we gonna market that, and I think that is the right path to ... take._ -- _from Steve Jobs Insult? Response_
