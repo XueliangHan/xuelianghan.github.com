@@ -76,17 +76,22 @@
   * Society and social sciences 
   * Technology and applied sciences
 
-* Refernece type - Zotero (English):
+* Refernece type - Zotero (English)
+  * Simple: Book, Book Section, Document, Journal Article, Newspaper Article.
+  * Complete: Artwork, Audio Recording, Bill, Blog Post, Book, Book Section, Case, Computer Program, Conference Paper, Dictionary Entry, Document, E-mail, Encyclopedia Article, Film, Forum Post, Hearing, Instant Message, Interview, Journal Article, Letter, Magazine Article, Manuscript, Map, Newspaper Article, Patent, Podcast, Presentation, Radio Broadcast, Report, Statute, Thesis, TV Broadcast, Video Recording.
 
-* Refernece type - Zotero（中文）：书籍、图书章节、文档、新闻文章、期刊文章 | E-mail、TV广播、专利、书籍、会议论文、信件、博客帖子、即时讯息、听证会、图书章节、地图、账单、手稿、报告稿、博客、文档、新闻文章、无线广播、期刊文章、杂志文章、案例、法规、演示文档、电影、百科全书文章、艺术品、视频剪辑、计算机程序、论坛帖子、论文、词条、采访稿、音频剪辑。
+
+* Refernece type - Zotero（中文）：
+  * 简单： 书籍、图书章节、文档、新闻文章、期刊文章
+  * 完全： E-mail、TV广播、专利、书籍、会议论文、信件、博客帖子、即时讯息、听证会、图书章节、地图、账单、手稿、报告稿、博客、文档、新闻文章、无线广播、期刊文章、杂志文章、案例、法规、演示文档、电影、百科全书文章、艺术品、视频剪辑、计算机程序、论坛帖子、论文、词条、采访稿、音频剪辑。
 
 * 西学-孙中山
   * Note: 2012-10-25，found a sticky note
-  * 玄妙：宗教、哲学 
-  * 奥衍：天、算、理、化 
-  * 资治：政治、经济 
-  * 实用：农、工、商、兵 
-  * 博雅：历史、文艺
+  * 玄妙： 宗教、哲学 
+  * 奥衍： 天、算、理、化 
+  * 资治： 政治、经济 
+  * 实用： 农、工、商、兵 
+  * 博雅： 历史、文艺
 
 
 
