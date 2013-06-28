@@ -19,11 +19,11 @@
 
 <!-- Ref -->
 
-[one-life.pdf]: ../un/One-life-experience-of-different-area-from-planet-Earth-(China-America-Europe-Africa-MidEast-Indian-North-Korea).pdf "地球上不同区域人的一经历图解[中国 美国 欧洲 非洲贫穷地区 中东 印度 朝鲜]"
-[one-life.one]: ../un/One-life-experience-of-different-area-from-planet-Earth-(China-America-Europe-Africa-MidEast-Indian-North-Korea)-v2010.one "地球上不同区域人的一经历图解[中国 美国 欧洲 非洲贫穷地区 中东 印度 朝鲜]"
+[one-life.pdf]: ../files/documents/One-life-experience-of-different-area-from-planet-Earth-(China-America-Europe-Africa-MidEast-Indian-North-Korea).pdf "地球上不同区域人的一经历图解[中国 美国 欧洲 非洲贫穷地区 中东 印度 朝鲜]"
+[one-life.one]: ../files/documents/One-life-experience-of-different-area-from-planet-Earth-(China-America-Europe-Africa-MidEast-Indian-North-Korea)-v2010.one "地球上不同区域人的一经历图解[中国 美国 欧洲 非洲贫穷地区 中东 印度 朝鲜]"
 
 
 ##External Links
-* [catb How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
+* [How To Ask Questions The Smart Way - catb](http://www.catb.org/esr/faqs/smart-questions.html) [Local cached](../files/documents/how-to-ask-questions-the-smart-way.htm)
 
 </body></html>

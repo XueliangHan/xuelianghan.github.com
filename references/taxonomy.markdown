@@ -76,10 +76,11 @@
   * Society and social sciences 
   * Technology and applied sciences
 
+Reference type - iTunes: Apps, Books, Movies, Podcasts, TV Shows, iTunes U.
+
 * Refernece type - Zotero (English)
   * Simple: Book, Book Section, Document, Journal Article, Newspaper Article.
   * Complete: Artwork, Audio Recording, Bill, Blog Post, Book, Book Section, Case, Computer Program, Conference Paper, Dictionary Entry, Document, E-mail, Encyclopedia Article, Film, Forum Post, Hearing, Instant Message, Interview, Journal Article, Letter, Magazine Article, Manuscript, Map, Newspaper Article, Patent, Podcast, Presentation, Radio Broadcast, Report, Statute, Thesis, TV Broadcast, Video Recording.
-
 
 * Refernece type - Zotero（中文）：
   * 简单： 书籍、图书章节、文档、新闻文章、期刊文章
