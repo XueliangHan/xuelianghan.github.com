@@ -2,7 +2,7 @@
 <head>
 	<meta charset='utf-8'>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-    <title></title>
+    <title>Hacks - Hacker &amp; Hacking</title>
     <link id="MainCSS" type="text/css" rel="stylesheet" href="../static/stylesheets/main.css"/><script type="text/javascript" src=""></script>
 </head><body>
 
@@ -28,6 +28,7 @@
 ##External Links
 * (Book) Hackers: Heroes of the Computer Revolution by Steven Levy
   * [Hackers: Heroes of the Computer Revolution - Wikipedia](http://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution)
+* [How To Become A Hacker by Eric Steven Raymond](), [Local copy](../files/documents/how-to-become-a-hacker.html)
 * [TED-Talks] Misha Glenny - Hire Hackers: They are ideologically driven.
 
 
