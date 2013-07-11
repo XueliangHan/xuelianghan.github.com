@@ -17,6 +17,7 @@
 ##Others works
 * [A Theory of Human Motivation, A. H. Maslow (1943), Originally Published in Psychological Review, 50, 370-396.](http://psychclassics.yorku.ca/Maslow/motivation.htm)
 * [Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)
+* [Beijing Map (Abstracted)](../files/images/map.beijing.abstractly.jpg)
 * [One Life Experience (PDF)][one-life.pdf], [One Life Experience (MS OneNote 2010)][one-life.one]
   * 中文：地球上不同区域人的一经历图解[中国 美国 欧洲 非洲贫穷地区 中东 印度 朝鲜]
   * English: One-life-experience-of-different-area-from-planet-Earth-[China-America-Europe-Africa-MidEast-Indian-North-Korea]
