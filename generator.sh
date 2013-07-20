@@ -23,7 +23,7 @@ elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
     echo "Target Desiny=$DES"
     echo "Generating pages..."
 #elif [ "$(expr substr $(uname -s) 1 14)" == "MINGW_NT-6.1" ]; then
-elif [ "$(expr substr $(uname -s) 1 14)" == "MINGW32_NT-6.1" ]; then
+elif [ "$(expr substr $(uname -s) 1 10)" == "MINGW32_NT" ]; then
     echo "Script running under Windows (NT)"
     SRC="/c/Users/H/xuelianghan.github.com"
     DES="/c/Users/H/xuelianghan.github.com"
@@ -88,6 +88,7 @@ perl md.pl "$SRC/hobbies/sci-fi.markdown"               > "$DES/hobbies/sci-fi.h
 perl md.pl "$SRC/people/links.markdown"                 > "$DES/people/links.html"
 perl md.pl "$SRC/people/masters.markdown"               > "$DES/people/masters.html"
 perl md.pl "$SRC/people/person.markdown"                > "$DES/people/person.html"
+perl md.pl "$SRC/people/professionals.markdown"         > "$DES/people/professionals.html"
 perl md.pl "$SRC/people/Alan_Kay.markdown"              > "$DES/people/Alan_Kay.html"
 perl md.pl "$SRC/people/Jianzhong_Lee.markdown"         > "$DES/people/Jianzhong_Lee.html"
 perl md.pl "$SRC/people/Linus_Torvalds.markdown"        > "$DES/people/Linus_Torvalds.html"

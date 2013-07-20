@@ -16,7 +16,7 @@
 * [TZJ（TanZhi军）(Zhijun Tan) ](https://tumutanzi.com/) - _Ph.D Civil Engineering, Cement field (Construction, Building)._
 * [WL （王  路）(Lu Wang)      ](http://blog.renren.com/blog/44432371/) - _Unknown, A person have deep understanding to things, and have his own theory to explain outside world._
 * [XD （徐  宕）(Dang Xu)     ](blog.youxu.info) - _Software Engineer at Google Inc. China._
-* [YW （王垠）(Shredder Yin)   ](http://www.yinwang.org)
+* [YW （王  垠）(Shredder Yin)   ](http://www.yinwang.org) - _Expertise in Compiler._
 * [ZC （赵  超）(Chao Zhao)    ](http://blog.sina.com.cn/calvinzhaoc/) - _Software Engineer, Taobao Inc._
 * [ZCY（张驰原）(Chiyuan Zhang)](http://blog.pluskid.org) - _MIT Machine Learning Ph.D Candidate, Zhe-Jiang University. [Old blog](http://lifegoo.pluskid.org), [Old domain](http://pluskid.lifegoo.com), [resume.pdf](http://pluskid.org/data/resume.pdf)_
 * [ZSP（张沈鹏）(Shenpeng Zhang)](http://zuroc.42qu.com/) - _Software Engineer, Founder of [website]42Qu(Python), Current living at Chang-Ping, BeiJing._
