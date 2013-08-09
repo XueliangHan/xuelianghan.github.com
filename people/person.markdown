@@ -19,7 +19,7 @@
 * [YW （王垠）(Shredder Yin)   ](http://www.yinwang.org)
 * [ZC （赵  超）(Chao Zhao)    ](http://blog.sina.com.cn/calvinzhaoc/) - _Software Engineer, Taobao Inc._
 * [ZCY（张驰原）(Chiyuan Zhang)](http://blog.pluskid.org) - _MIT Machine Learning Ph.D Candidate, Zhe-Jiang University. [Old blog](http://lifegoo.pluskid.org), [Old domain](http://pluskid.lifegoo.com), [resume.pdf](http://pluskid.org/data/resume.pdf)_
-* [ZSP（张沈鹏）(Shenpeng Zhang)](http://zuroc.42qu.com/) - _Software Engineer, Founder of [website]42Qu(Python), Current living at Chang-Ping, BeiJing._
+* [ZSP（张沈鹏）(Shenpeng Zhang)](http://zuroc.42qu.com/) - _Software Engineer, Founder of [42Qu(Website)](http://www.42qu.com) with Python, Current living at Chang-Ping, BeiJing._
 * [ZZQ（张志强）(Zhiqiang Zhang)](http://zhiqiang.org) - _Ph.D FRM. `Mathematics`, `Financial` and `Computer`._
 
 
