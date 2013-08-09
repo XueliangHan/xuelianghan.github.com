@@ -2,12 +2,14 @@
 
 
 ##My playlist
-* Beyond - About beyond the limit, the music from `Beyond`.
-* Friends by _Huajian Zhou_
-* Social Network - When I do hacking/programming, I like the tracks from the film `The Social Network` by Trent Reznor and Atticus Ross, [listen it online at XiaMi (China)](http://www.xiami.com/album/406012), [maglink](magnet:?xt=urn:btih:8f8445d0a78c9df42169b4fd1690b208ef886b40&dn=trent+reznor+and+atticus+ross+the+social+network+ost+web+2010+daa&tr=http%3A%2F%2Fexodus.1337x.org%2Fannounce)
-* Star Trek by _Michael Giacchino_
+* __Beyond__ by _Beyond_.
+* __Friends__ by _Huajian Zhou_
+* __Social Network__ Soundtrack
+  * When I do hacking/programming, I like the tracks from the film `The Social Network` by Trent Reznor and Atticus Ross, [listen it online at XiaMi (China)](http://www.xiami.com/album/406012), [maglink](magnet:?xt=urn:btih:8f8445d0a78c9df42169b4fd1690b208ef886b40&dn=trent+reznor+and+atticus+ross+the+social+network+ost+web+2010+daa&tr=http%3A%2F%2Fexodus.1337x.org%2Fannounce)
+* __Star Trek__ Soundtrack by _Michael Giacchino_
   * Main Theme - The classic.
   * Sub Prime Directive
+* __Serenity__ from the film __Serenity (2005) - Soundtrack__
 
 
 

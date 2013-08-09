@@ -19,7 +19,7 @@
 
 * `Creativity` and `New Ideas`
   > 别人无法教会你创造和创新：新的理念来自于个人经历以及你和周围环境的互动。  
-  > Creation and Creativity can't be teached by other people, the new ideas come from **personal experience** and the **interaction** between you and the **environment around** you.
+  > Innovation and Creativity can not be taught by other people, the new ideas are from **personal experience** and the **interaction** between you and the **environment around** you.
 
 * [`Facebook`](http://xuelianghan.tumblr.com/post/52540580981/facebook-slogan) <!-- 2012-10-29 -->
   > Code Wins Argument. -- Facebook  
@@ -31,14 +31,15 @@
   > Depend upon it, Sir, when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully - Samuel Johnson, September 19, 1777, p. 351, often misquoted as being hanged in the morning.
 
 * `Future`, `Vision` and `Execution`
-  > The best way to predict the future is to invent it. - Alan Kay.
-  > Vision without execution is hallucination. -- Thomas Edison. ([A post on LinkedIn by Bill Gross](http://www.linkedin.com/today/post/article/20130505003524-9947747-vision-without-execution-is-hallucination))
+  > The best way to predict the future is to invent it. - Alan Kay.  
+  > **Vision** without **execution** is **hallucination**. -- Thomas Edison. ([A post on LinkedIn by Bill Gross](http://www.linkedin.com/today/post/article/20130505003524-9947747-vision-without-execution-is-hallucination))
 
 * `Knowledge` - _Power of knowledge_
   > The more **time** and **energy** you spend acquriing **pertinent knowledge**, the more control you have over your life.
 
 * `Life`
-  > I am a true adorer of life, and if I can't reach as high as the face of it. I plant my kiss somewhere lower down. Those who understand will require no further explanation. - Saul Bellow, Professor at Boston University (It contains the power to transform an ordinary life into one filled with Grace and Love and Dignity. - Eric Schmidt)
+  > I am a true adorer of life, and if I can't reach as high as the face of it. I plant my kiss somewhere lower down. Those who understand will require no further explanation. - Saul Bellow, Professor at Boston University.  
+  > It contains the power to transform an ordinary life into one filled with Grace and Love and Dignity. - Eric Schmidt  
 
 * `Master`
   > Follow the master, Walk with master, Talk to master, Become master. -- Eric Raymond
