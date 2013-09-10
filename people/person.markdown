@@ -7,31 +7,37 @@
 
 
 ##Links
-* [EM  (Evan Martin) ](http://neugierig.org/) - _Software Engineer at Google Inc._
-* [JA  (Jeff Atwood) ](http://www.codinghorror.com/) - _Software Engineer, Founder of StackExchange(StackOverflow)._
-* [SJ  (Sijin Joseph)](http://sijinjoseph.com/) - _Random thoughts on Technology and Software Development._
-* [FK  (范  凯）(Kai Fan)      ](http://robbinfan.com/) - _Software Engineer, Founder of JavaEye, CTO of CSDN.
-* [GJB（郭家宝）(Jiabao Guo)   ](http://www.byvoid.com) - _A different guy from Tsinghua (2010), Intern at Google, Hulu, MSRA, done a lot of project._
-* [JH （江 宏）(Hong Jiang)    ](http://www.hjiang.net/about/) - _Software Engineer, AVOS(Chine), Ex-Googler, Ph.D. at Yale advised by [Michael J. Fischer](http://www.cs.yale.edu/homes/fischer)._
-* [TZJ（TanZhi军）(Zhijun Tan) ](https://tumutanzi.com/) - _Ph.D Civil Engineering, Cement field (Construction, Building)._
-* [WL （王  路）(Lu Wang)      ](http://blog.renren.com/blog/44432371/) - _Unknown, A person have deep understanding to things, and have his own theory to explain outside world._
-* [XD （徐  宕）(Dang Xu)     ](blog.youxu.info) - _Software Engineer at Google Inc. China._
-* [YW （王  垠）(Shredder Yin)   ](http://www.yinwang.org) - _Expertise in Compiler._
-* [ZC （赵  超）(Chao Zhao)    ](http://blog.sina.com.cn/calvinzhaoc/) - _Software Engineer, Taobao Inc._
-* [ZCY（张驰原）(Chiyuan Zhang)](http://blog.pluskid.org) - _MIT Machine Learning Ph.D Candidate, Zhe-Jiang University. [Old blog](http://lifegoo.pluskid.org), [Old domain](http://pluskid.lifegoo.com), [resume.pdf](http://pluskid.org/data/resume.pdf)_
-* [ZSP（张沈鹏）(Shenpeng Zhang)](http://zuroc.42qu.com/) - _Software Engineer, Founder of [42Qu(Website)](http://www.42qu.com) with Python, Current living at Chang-Ping, BeiJing._
-* [ZZQ（张志强）(Zhiqiang Zhang)](http://zhiqiang.org) - _Ph.D FRM. `Mathematics`, `Financial` and `Computer`._
+* [EM  (Evan Martin) ](http://neugierig.org/) - Software Engineer at Google Inc.
+* [LS  (Laurent Sansonetti)](https://www.google.com/search?q=Laurent+Sansonetti) - Software Hacker from Liège Area, Belgium, work at HipByte (current 2013-08), Apple, Alcatel, DataRescue. Developer of MacRuby and RubyCococa.
+* [JA  (Jeff Atwood) ](http://www.codinghorror.com/) - Software Engineer, Founder of StackExchange(StackOverflow).
+* [RJ  (Robert Johnson)](https://www.quora.com/Robert-Johnson) - California Institute of Technology, B.S. 1998 Engineering and Applied Science. Page House.
+* [SS  (Salvatore Sanfilippo)](http://invece.org/) - Also known as antirez. A computer programmer from [Campobello di Licata](http://en.wikipedia.org/wiki/Campobello_di_Licata), Sicily, Italy. Work for [Pivotal](http://gopivotal.com/). Currently lived near [Catania](http://en.wikipedia.org/wiki/Catania). 
+* [SJ  (Sijin Joseph)](http://sijinjoseph.com/) - Random thoughts on Technology and Software Development.
+* [FK  (范  凯）(Kai Fan)      ](http://robbinfan.com/) - Software Engineer, Founder of JavaEye, CTO of CSDN.
+* [GJB（郭家宝）(Jiabao Guo)   ](http://www.byvoid.com) - A different guy from Tsinghua (2010), Intern at Google, Hulu, MSRA, done a lot of project.
+* [JH （江 宏）(Hong Jiang)    ](http://www.hjiang.net/about/) - Software Engineer, AVOS(Chine), Ex-Googler, Ph.D. at Yale advised by [Michael J. Fischer](http://www.cs.yale.edu/homes/fischer).
+* [TZJ（TanZhi军）(Zhijun Tan) ](https://tumutanzi.com/) - Ph.D Civil Engineering, Cement field (Construction, Building).
+* [WL （王  路）(Lu Wang)      ](http://blog.renren.com/blog/44432371/) - Unknown, A person have deep understanding to things, and have his own theory to explain outside world.
+* [WY （王  垠）(Shredder Yin) ](http://www.yinwang.org) - Expertise in Compiler.
+* [XD （徐  宕）(Dang Xu)      ](blog.youxu.info) - Software Engineer at Google Inc. China.
+* [YWH (杨卫华) (Weihua Yang)  ](http://timyang.net) - Software engineer at Weibo (Sina) Inc.
+* [ZC （赵  超）(Chao Zhao)    ](http://blog.sina.com.cn/calvinzhaoc/) - Software Engineer, Taobao Inc.
+* [ZCY（张驰原）(Chiyuan Zhang)](http://blog.pluskid.org) - MIT Machine Learning Ph.D Candidate, Zhe-Jiang University. [Old blog](http://lifegoo.pluskid.org), [Old domain](http://pluskid.lifegoo.com), [resume.pdf](http://pluskid.org/data/resume.pdf)
+* [ZSP（张沈鹏）(Shenpeng Zhang)](http://zuroc.42qu.com/) - Software Engineer, Founder of [42Qu(Website)](http://www.42qu.com) with Python, Current living at Chang-Ping, BeiJing.
+* [ZZQ（张志强）(Zhiqiang Zhang)](http://zhiqiang.org) - Ph.D FRM. `Mathematics`, `Financial` and `Computer`.
 
 
 
 ##Hightlights
 * [Evan Martin ](http://neugierig.org/)
-  * [Platform of the Future](http://neugierig.org/software/blog/2011/09/platform-of-the-future.html) - _Terminal and Browser._
+  * [Platform of the Future](http://neugierig.org/software/blog/2011/09/platform-of-the-future.html) - Terminal and Browser.
 * [JA  (Jeff Atwood) ](http://www.codinghorror.com/)
   * [Five Things You Didn't Know About Me (and my office)](http://www.codinghorror.com/blog/2007/01/five-things-you-didnt-know-about-me-and-my-office.html)
   * [The Future of Markdown](http://www.codinghorror.com/blog/2012/10/the-future-of-markdown.html)
 * [SJ  (Sijin Joseph)](http://sijinjoseph.com/)
   * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+* [SS  (Salvatore Sanfilippo)](http://invece.org/)
+  * [Why the MBA 11 is now my sole computer](http://oldblog.antirez.com/post/apple-mba11-my-sole-computer.html) - As same as I did.)
 * [FK  (范  凯)(Kai Fan)](http://robbinfan.com/)
   * [bio - You've got to find what you love](http://robbinfan.com/blog/20/my-life).
 * [GJB（郭家宝）(Jiabao Guo)(ByVoid)](http://www.byvoid.com)
@@ -55,12 +61,14 @@
   * [Old Website 2006](http://docs.huihoo.com/homepage/shredderyin/), many useful stuff.
   * [Yin's Mid-Term Memory (Mindmap-mindomo)](http://www.mindomo.com/view?m=8cc4f95228f942f8886106d876d1b041)
   * [Yin Wang's Sina Weblog (Stop update at April 2013](http://blog.sina.com.cn/s/articlelist_1569777711_0_1.html)
+* [YWH (杨卫华) (Weihua Yang)  ](http://timyang.net) - Software engineer at Weibo (Sina) Inc.
+  * [MacBook Air与工作效率](http://timyang.net/misc/macbook-air-productive/) - Very good sharing.
 * [ZC （赵  超）(Chao Zhao)     ](http://blog.sina.com.cn/calvinzhaoc/)
-  * "从P1到P7——我在淘宝这7年". and his experience about `苦B` - "(1)做这事最多的据说是三丰，他现在是淘宝网的总裁。现在我们知道，任何牛B的人物，都有一段苦B的经历。(2)多隆，现在我们再一次知道，任何牛B的人物，都必须有一段苦B的经历。"_
+  * "从P1到P7——我在淘宝这7年". and his experience about `苦B` - "(1)做这事最多的据说是三丰，他现在是淘宝网的总裁。现在我们知道，任何牛B的人物，都有一段苦B的经历。(2)多隆，现在我们再一次知道，任何牛B的人物，都必须有一段苦B的经历。"
 
 ##Buffer
 * Personal Weblog+ on blog service
-* Personal Weblog  on IndependentHost _ What I observed, [Original]There have more original writing, most of them are more __open__ to talk/share, and they have more power._
+* Personal Weblog  on IndependentHost  What I observed, [Original]There have more original writing, most of them are more __open__ to talk/share, and they have more power.
 * Ordered Engineers in China Mainland
 * Luna那Google美国Offer的二本应届研究生，[9个offer，12家公司，35场面试，从微软到谷歌，应届计算机毕业生的2012求职之路 - _Luc_ - 博客园](http://www.cnblogs.com/figure9/archive/2013/01/09/2853649.html)，[Luna的大学读书史(1,Intro) - _Luc_ - 博客园](http://www.cnblogs.com/figure9/archive/2008/12/21/1359473.html)
 
