@@ -97,64 +97,63 @@
 <li><code>git configuration files</code>: Git stores configuration options in three separate files, which lets you scope options to individual repositories, users, or the entire system, when options in these files conflict, local settings override user settings, user settings override system settings.
 <blockquote>
   <p><code>'repo'/.git/config</code> - Repository-specific settings. <br />
-<code>~/.gitconfig</code> - User-specific settings. This is where options set with the --global flag are stored. <br />
-<code>$(prefix)/etc/gitconfig</code> - System-wide settings.  </li>
-<li><code>Recommendation</code>: I recommand you open configuration files and add below into it once and once for all.
-[user] <br />
-name = your-name <br />
-email = your-email <br />
-[alias] <br />
-st = status <br />
-co = checkout <br />
-br = branch <br />
-up = rebase <br />
-ci = commit <br />
-[core] <br />
-editor = vim  </li>
-</ul></li>
-<li><strong><code>git add</code></strong></p>
-
-<ul>
-<li><code>git add 'file'</code>: Stage all changes in 'file' for the next commit.</li>
-<li><code>git add 'directory'</code>: Stage all changes in 'directory' for the next commit.</li>
-<li><code>git add -p</code>: Begin an interactive staging session that lets you choose portions of a file to add to the next commit. This will present you with a hunk of changes and prompt you for a command. Use y to stage the hunk, n to ignore the hunk, s to split it into smaller hunks, e to manually edit the hunk, and q to exit.</li>
-<li><code>The Staging Area</code>: The staging area s one of Git's more unique features, and it can take some time to wrap your head around it if you's coming from an <code>SVN</code> (or even a <code>Mercurial</code>) background, it healps to think of it as a buffer between the working directory and the project history.</li>
-</ul></li>
-<li><strong><code>git commit</code></strong>
-<ul>
-<li><code>git commit</code> - Commit the staged snapshot. A text editor will be launched for you to write a commit message, entered a message -> save the file -> close the editor to create the actual commit.</li>
-<li><code>git commit -m "message"</code> - Commit the staged snapshot, use "Message" instead of launching a text editor.</li>
-<li><code>git commit -a</code> - Commit a snapshot of all changes in the working directory (Only includes modifications to tracked files which have been added with <code>git add</code> at some point in their history). </li>
-<li><code>Difference between Git and SVN</code> - Snapshots are always committed to the local repository, this is fundamentally different than SVN, wherein te working copy is committed to the central repository. In contrast, Git doesn't force you to interact with the central repository until you're ready. You can commit to local repository after a function or module is done, and push them to remote at once, this is a ballance of controling the repository size and the commit review. Just as the staging area is a buffer between the working directory and the project history, each developer's local repository is a buffer between their contributions and the central repository.</li>
-<li><code>Snapshots, Not Differences</code> - Git's snapshot model has a far-reaching impact on virtually every aspect of its version control model. SVN recodig file diffs and Git record snapshots which makes many Git operations much faster than SVN (A particular version of a file doesn't have to be "assembled" from its diffs - the complete version of each file is immediately available from Git's internal database.</li>
-<li>(Pay attention): the timestamp <code>git commit</code> command record is the time you commit, not the time you <code>git push</code>, I actually got confused, haha.</li>
-</ul></li>
-<li><strong><code>git status</code></strong>
-<ul>
-<li><code>git status</code> - The <code>git status</code> command displays the state of the working directory and the staging area. It lets you see which changes have been <code>staged</code>, which haven't, and which files aren't being <code>tracked</code> by Git, and it also include relevant instructions for staging /unstaging files.</li>
-<li>Status output does not show you any information regarding the committed project history. For this, you need to use <code>git log</code>.</li>
-<li><code>Ignoring Files</code> - Untracked files typically fall into two categories: 1.They are files that have just added to the project and haven't been committed yet. 2.They're compiled binaries like <code>.pyc</code>, <code>.obj</code>, <code>.exe</code>, <code>etc.</code>, the compiled binaries will make it hard to see what's actually going on in your repository, for this reason, a special file called <code>.gitignore</code> is for you to add the files you want to ignored, and these files will not appearing in <code>git status</code>. (An example of <code>.gitignore</code> file content: <em>.</em>.swp)</li>
-</ul></li>
-<li><strong><code>git log</code></strong>
-<ul>
-<li>The <code>git log</code> command displays committed snapshots. It lets you <code>list</code> the <em>project history</em>, <code>filter</code> it, and <code>search</code> for specific changes. While <code>git status</code> lets you inspect the <em>working directory</em> and the <em>staging</em> area, <code>git log</code> only operates on the committed history.</li>
-<li><code>Identification</code> - the 40 character string is an SHA-1 checksum of cmomits contents. This serves two purposes, First, it ensures the integrity of the commit - if it was ever corrupted, the commit world generate a different checksum. Second, it serves as a unique ID for the commit. <em>The idea behind all of these identification methods is to let you perform actions based on specific commits.</em></li>
-<li><strong><code>git log</code></strong> - Display the entire commit history using the default formatting. If the output takes up more than one screen, you can use Space to scroll and q to exit.</li>
-<li><strong><code>git log -n "limit"</code></strong>  - Limit the number of commits by "limit" . For example, git log -n 3 will display only 3 commits.</li>
-<li><strong><code>git log --oneline</code></strong>  - Condense each commit to a single line. This is useful for getting a high-level overview of the project history.</li>
-<li><strong><code>git log --stat</code></strong>  - Along with the ordinary git log information, include which files were altered and the relative number of lines that were added or deleted from each     of them.   </li>
-<li><strong><code>git log -p</code></strong>  - Display the patch representing each commit. This shows the full diff of each commit, which is the most detailed view you can have of your project histo    ry.</li>
-<li><strong><code>git log --author="pattern"</code></strong>  - Search for commits by a particular author. The  argument can be a plain string or a regular expression.</li>
-<li><strong><code>git log --grep="pattern"</code></strong>  - Search for commits with a commit message that matches "pattern" , which can be a plain string or a regular expression.</li>
-<li><strong><code>git log "since".."until"</code></strong>  - Show only commits that occur between "since" and "until". Both arguments can be either a commit ID, a branch name, HEAD, or any other kin    d of revision reference.</li>
-<li><strong><code>git log "file"</code></strong>  - Only display commits that include the specified file. This is an easy way to see the history of a particular file.</li>
-<li><strong><code>git log --graph --decorate --oneline</code></strong>  - A few useful options to consider. The --graph flag that will draw a text based graph of the commits on the left hand side of     the commit messages. --decorate adds the names of branches or tags of the commits that are shown. --oneline shows the commit information on a single line making it easier to b    rowse through commits at-a-glance.</li>
-</ul></li>
-</ul>
-
-<h5>2.Undoing Changes</h5>
-
-<p></blockquote></p>
+  <code>~/.gitconfig</code> - User-specific settings. This is where options set with the --global flag are stored. <br />
+  <code>$(prefix)/etc/gitconfig</code> - System-wide settings.  </li>
+  <li><code>Recommendation</code>: I recommand you open configuration files and add below into it once and once for all.
+  [user] <br />
+  name = your-name <br />
+  email = your-email <br />
+  [alias] <br />
+  st = status <br />
+  co = checkout <br />
+  br = branch <br />
+  up = rebase <br />
+  ci = commit <br />
+  [core] <br />
+  editor = vim  </li>
+  </ul></li>
+  <li><strong><code>git add</code></strong></p>
+  
+  <ul>
+  <li><code>git add 'file'</code>: Stage all changes in 'file' for the next commit.</li>
+  <li><code>git add 'directory'</code>: Stage all changes in 'directory' for the next commit.</li>
+  <li><code>git add -p</code>: Begin an interactive staging session that lets you choose portions of a file to add to the next commit. This will present you with a hunk of changes and prompt you for a command. Use y to stage the hunk, n to ignore the hunk, s to split it into smaller hunks, e to manually edit the hunk, and q to exit.</li>
+  <li><code>The Staging Area</code>: The staging area s one of Git's more unique features, and it can take some time to wrap your head around it if you's coming from an <code>SVN</code> (or even a <code>Mercurial</code>) background, it healps to think of it as a buffer between the working directory and the project history.</li>
+  </ul></li>
+  <li><strong><code>git commit</code></strong>
+  <ul>
+  <li><code>git commit</code> - Commit the staged snapshot. A text editor will be launched for you to write a commit message, entered a message -> save the file -> close the editor to create the actual commit.</li>
+  <li><code>git commit -m "message"</code> - Commit the staged snapshot, use "Message" instead of launching a text editor.</li>
+  <li><code>git commit -a</code> - Commit a snapshot of all changes in the working directory (Only includes modifications to tracked files which have been added with <code>git add</code> at some point in their history). </li>
+  <li><code>Difference between Git and SVN</code> - Snapshots are always committed to the local repository, this is fundamentally different than SVN, wherein te working copy is committed to the central repository. In contrast, Git doesn't force you to interact with the central repository until you're ready. You can commit to local repository after a function or module is done, and push them to remote at once, this is a ballance of controling the repository size and the commit review. Just as the staging area is a buffer between the working directory and the project history, each developer's local repository is a buffer between their contributions and the central repository.</li>
+  <li><code>Snapshots, Not Differences</code> - Git's snapshot model has a far-reaching impact on virtually every aspect of its version control model. SVN recodig file diffs and Git record snapshots which makes many Git operations much faster than SVN (A particular version of a file doesn't have to be "assembled" from its diffs - the complete version of each file is immediately available from Git's internal database.</li>
+  <li>(Pay attention): the timestamp <code>git commit</code> command record is the time you commit, not the time you <code>git push</code>, I actually got confused, haha.</li>
+  </ul></li>
+  <li><strong><code>git status</code></strong>
+  <ul>
+  <li><code>git status</code> - The <code>git status</code> command displays the state of the working directory and the staging area. It lets you see which changes have been <code>staged</code>, which haven't, and which files aren't being <code>tracked</code> by Git, and it also include relevant instructions for staging /unstaging files.</li>
+  <li>Status output does not show you any information regarding the committed project history. For this, you need to use <code>git log</code>.</li>
+  <li><code>Ignoring Files</code> - Untracked files typically fall into two categories: 1.They are files that have just added to the project and haven't been committed yet. 2.They're compiled binaries like <code>.pyc</code>, <code>.obj</code>, <code>.exe</code>, <code>etc.</code>, the compiled binaries will make it hard to see what's actually going on in your repository, for this reason, a special file called <code>.gitignore</code> is for you to add the files you want to ignored, and these files will not appearing in <code>git status</code>. (An example of <code>.gitignore</code> file content: <em>.</em>.swp)</li>
+  </ul></li>
+  <li><strong><code>git log</code></strong>
+  <ul>
+  <li>The <code>git log</code> command displays committed snapshots. It lets you <code>list</code> the <em>project history</em>, <code>filter</code> it, and <code>search</code> for specific changes. While <code>git status</code> lets you inspect the <em>working directory</em> and the <em>staging</em> area, <code>git log</code> only operates on the committed history.</li>
+  <li><code>Identification</code> - the 40 character string is an SHA-1 checksum of cmomits contents. This serves two purposes, First, it ensures the integrity of the commit - if it was ever corrupted, the commit world generate a different checksum. Second, it serves as a unique ID for the commit. <em>The idea behind all of these identification methods is to let you perform actions based on specific commits.</em></li>
+  <li><strong><code>git log</code></strong> - Display the entire commit history using the default formatting. If the output takes up more than one screen, you can use Space to scroll and q to exit.</li>
+  <li><strong><code>git log -n "limit"</code></strong>  - Limit the number of commits by "limit" . For example, git log -n 3 will display only 3 commits.</li>
+  <li><strong><code>git log --oneline</code></strong>  - Condense each commit to a single line. This is useful for getting a high-level overview of the project history.</li>
+  <li><strong><code>git log --stat</code></strong>  - Along with the ordinary git log information, include which files were altered and the relative number of lines that were added or deleted from each     of them.   </li>
+  <li><strong><code>git log -p</code></strong>  - Display the patch representing each commit. This shows the full diff of each commit, which is the most detailed view you can have of your project histo    ry.</li>
+  <li><strong><code>git log --author="pattern"</code></strong>  - Search for commits by a particular author. The  argument can be a plain string or a regular expression.</li>
+  <li><strong><code>git log --grep="pattern"</code></strong>  - Search for commits with a commit message that matches "pattern" , which can be a plain string or a regular expression.</li>
+  <li><strong><code>git log "since".."until"</code></strong>  - Show only commits that occur between "since" and "until". Both arguments can be either a commit ID, a branch name, HEAD, or any other kin    d of revision reference.</li>
+  <li><strong><code>git log "file"</code></strong>  - Only display commits that include the specified file. This is an easy way to see the history of a particular file.</li>
+  <li><strong><code>git log --graph --decorate --oneline</code></strong>  - A few useful options to consider. The --graph flag that will draw a text based graph of the commits on the left hand side of     the commit messages. --decorate adds the names of branches or tags of the commits that are shown. --oneline shows the commit information on a single line making it easier to b    rowse through commits at-a-glance.</li>
+  </ul></li>
+  </ul>
+  
+  <h5>2.Undoing Changes</h5>
+</blockquote>
 
 <ul>
 <li><strong><code>git checkout</code></strong>
