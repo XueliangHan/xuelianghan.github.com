@@ -35,7 +35,7 @@
   > **Vision** without **execution** is **hallucination**. -- Thomas Edison. ([A post on LinkedIn by Bill Gross](http://www.linkedin.com/today/post/article/20130505003524-9947747-vision-without-execution-is-hallucination))
 
 * `Knowledge` - _Power of knowledge_
-  > The more **time** and **energy** you spend acquriing **pertinent knowledge**, the more control you have over your life.
+  > The more **time** and **energy** you spend acquiring **pertinent knowledge**, the more control you have over your life.
 
 * `Life`
   > I am a true adorer of life, and if I can't reach as high as the face of it. I plant my kiss somewhere lower down. Those who understand will require no further explanation. - Saul Bellow, Professor at Boston University.  

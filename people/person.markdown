@@ -16,8 +16,10 @@
 * [FK  (范  凯）(Kai Fan)      ](http://robbinfan.com/) - Software Engineer, Founder of JavaEye, CTO of CSDN.
 * [GJB（郭家宝）(Jiabao Guo)   ](http://www.byvoid.com) - A different guy from Tsinghua (2010), Intern at Google, Hulu, MSRA, done a lot of project.
 * [JH （江 宏）(Hong Jiang)    ](http://www.hjiang.net/about/) - Software Engineer, AVOS(Chine), Ex-Googler, Ph.D. at Yale advised by [Michael J. Fischer](http://www.cs.yale.edu/homes/fischer).
+* [L（路易斯干了这杯（豆瓣）   ](http://www.douban.com/people/59950542/)
 * [TZJ（TanZhi军）(Zhijun Tan) ](https://tumutanzi.com/) - Ph.D Civil Engineering, Cement field (Construction, Building).
 * [WL （王  路）(Lu Wang)      ](http://blog.renren.com/blog/44432371/) - Unknown, A person have deep understanding to things, and have his own theory to explain outside world.
+* [WW  (王  微) (Wei Wang)     ](http://visiblemind.org/) - Entrepreneur, Software Engineer. Founder of TuDou.com
 * [WY （王  垠）(Shredder Yin) ](http://www.yinwang.org) - Expertise in Compiler.
 * [XD （徐  宕）(Dang Xu)      ](blog.youxu.info) - Software Engineer at Google Inc. China.
 * [YWH (杨卫华) (Weihua Yang)  ](http://timyang.net) - Software engineer at Weibo (Sina) Inc.
@@ -56,6 +58,8 @@
   * [绝交要趁早（文/王路）](http://www.douban.com/note/257248611/) ([解雇 | 36氪](http://www.36kr.com/p/120219.html))
   * [退缩就是堕落，满足就是怯懦（文/王路）](http://www.douban.com/note/261015218/)
   * [我始终不信努力奋斗的意义](http://blog.renren.com/blog/44432371/811862152)
+* [WW  (王  微) (Wei Wang)     ](http://visiblemind.org/) - Entrepreneur, Software Engineer. Founder of TuDou.com
+  * [读书笔记 － 达尔文的雀](http://visiblemind.org/?p=97242) - 多么细微的差别，决定着谁会活着，谁会死去
 * [YW （王垠）(Shredder Yin)](http://www.yinwang.org)
   * [New Website 2013 (Hosted on Github)](http://www.yinwang.org)
   * [Old Website 2006](http://docs.huihoo.com/homepage/shredderyin/), many useful stuff.

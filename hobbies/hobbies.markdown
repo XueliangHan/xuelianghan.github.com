@@ -9,19 +9,19 @@
 </div>
 
 
-##Primary hobbies
+##Primary Approaches
 <!-- add @ 2013-07-26 22:19 at Hui Rui hotel, Zhu hai, Guang dong, China --> 
 
 * Travel (Long distance, different culture and language)  
   * Travel is an activity contain interaction and introspectiveness, or to say social and review.  
-* Social  
-
-
-
-
-##Means - Secondary hobbies
-* [Music](./music.html) - _Spiritual energy._
+* Social
 * Reading
+
+
+
+##Secondary Approaches
+* [Music](./music.html) - _Spiritual energy._
+* Reading - The Classic Way
 * Writing
 
 

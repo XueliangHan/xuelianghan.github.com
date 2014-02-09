@@ -226,6 +226,7 @@ Work Related Tools Kit
 * __File sending and sharing__: [FileDrop](http://filedrop.in) - Built by [Hong Jiang](http://hjiang.net), NO register, NO installation, NO wired, Very easy to use, no legal issus (files will be automatically deleted in 24 hours.)
 * __Note/Text Service__
   * [Notepad.cc](http://notepad.cc/) - _Light weight online notepad, only plain-text, you can encrypt you specific URL with password._
+  * [PasteBay](http://pastebay.net/) - _PasteBay.com - Free uncensored text hosting._
   * [Pastebin](http://pastebin.com) - _Number one paste tool since 2002, Pastebin is where you can store text online for a set period of time._
 * __Image Online Host__
   * [Imgur](http://imgur.com/) - _Upload image and get the image URL._

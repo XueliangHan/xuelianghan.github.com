@@ -13,10 +13,10 @@
 ###Architecture in Virtual/Digital World
  * [AF (Asher Feldman)](http://www.google.com/?q=Asher+Feldman) - Site Architect and MySQL DBA belonging to the [Staff of the Wikimedia Foundation](http://wikimediafoundation.org/wiki/Staff)
  * [JD (Jeroen Domburg)](http://www.google.com/?q=Jeroen Domburg) - Hacker and Software Engineer, born on 1982 at east of Netherlands.
-
+ * [Engineering OneNote Blog](http://blogs.msdn.com/b/descapa/) - Engineering team blog of Note taking software "OneNote" from Microsoft Cop.
 
 ##Highlights
- * [JD (Jeroen Domburg)](http://www.google.com/?q=Jeroen Domburg) - Electronic and Computer Hacker, Software Engineer at broadcast equipment manufacturer born 1982, from east of Netherlands.
+ * [JD (Jeroen Domburg)](http://www.google.com/?q=Jeroen+Domburg) - Electronic and Computer Hacker, Software Engineer at broadcast equipment manufacturer born 1982, from east of Netherlands.
    * [Elektor](http://elektor.com/) is an website published electronics magazine, and his articles too.
    * [SpritesMods.com](http://www.spritsmods.com) is an website created to document projects the electronics/computer-community might think of as interesting, replacing the previously used loose and design-less HTML-pages maintained on sprite.student.utwente.nl.
    * [An Interview With Jeroen “Sprite_tm” Domburg, Creator Of The Tiny MAME Arcade Cabinet](http://techcrunch.com/2012/11/28/an-interview-with-jeroen-sprite_tm-domburg-creator-of-the-tiny-mame-arcade-cabinet/) - An interview to Jeroen Domburg done by TechCrunch and published at November 28th, 2012.
