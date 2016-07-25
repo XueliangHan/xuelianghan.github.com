@@ -21,7 +21,7 @@ Self-Education (Training & Learning)
 * Integrate Online education and Continuous learning into daily life.
 * Thinking: Purpose of Education - What is the mission and meaning of education
 
-####Online Education Revolution - Massive Open Online Academic Education programs
+####Online Education Revolution - Massive Open Online Academic Education Programs
 * Online Education
   * [Coursera.org](https://www.coursera.org/): Take the world's best courses, Online, for Free.
   * [edX.org](https://www.edx.org/): The Future of Online Education for anyone, anywhere, anytime.  
@@ -36,6 +36,8 @@ Self-Education (Training & Learning)
   * [Ten websites that teach coding and a bunch of other things](http://pandodaily.com/2013/04/05/ten-websites-that-teach-coding-and-a-bunch-of-other-things/)
   * [Top 10 Study Groups & Resources for Stanford’s Open Class on AI](http://therohanaurora.com/stanford-ai-open-class-resources/)
   * [10+ New Stanford's Open Classes for Spring 2012](http://therohanaurora.com/new-stanfords-free-courses/)
+* Guide, Handbook, Help, How-to, Instruction, Manual, Tutorial
+  * [The Online Learning Guidebook](http://www.accreditedschoolsonline.org/online-schools-guidebook/)
 
 ####Learning Resource - Specific focus on Computer Science field or related
 * Learn how to code online

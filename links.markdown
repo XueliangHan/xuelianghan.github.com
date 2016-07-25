@@ -1,6 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <?xml version="1.0" encoding="utf-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<meta charset='utf-8'>
     <meta content='Links about me' name='description'>
@@ -23,21 +23,21 @@ __My Information__
 <hr>
 __My Links__
 
-* Douban（豆瓣）ID1: [中文](http://www.douban.com/people/3310247/) [English](http://translate.google.com.hk/translate?act=url&hl=en&ie=UTF8&prev=_t&sl=auto&tl=en&u=http://www.douban.com/people/3310247/) - Classic (created @2008-12-7)
-* Douban（豆瓣）ID2: [中文](http://www.douban.com/people/62362375/) [English](http://translate.google.com.hk/translate?hl=en&ie=UTF8&prev=_t&sl=auto&tl=zh-CN&u=http://www.douban.com/people/62362375/) - ThinkingNotes (Database created @2012-06-17, and main account.)
+* Douban（豆瓣）ID1: [中文](https://www.douban.com/people/3310247/) [English](https://translate.google.com.hk/translate?act=url&hl=en&ie=UTF8&prev=_t&sl=auto&tl=en&u=https://www.douban.com/people/3310247/) - Classic (created @2008-12-7)
+* Douban（豆瓣）ID2: [中文](https://www.douban.com/people/62362375/) [English](https://translate.google.com.hk/translate?hl=en&ie=UTF8&prev=_t&sl=auto&tl=zh-CN&u=https://www.douban.com/people/62362375/) - ThinkingNotes (Database created @2012-06-17, and main account.)
 * [Facebook](https://www.facebook.com/xueliang.han)
 * [Github](https://github.com/XueliangHan)
-* [LindedIn](http://www.linkedin.com/profile/view?id=193554159)
-* [Slideshare](http://www.slideshare.net/XueliangHan)
-* [StackOverFlow(StackExchange)](http://stackoverflow.com/users/1576184/albert)
-* [Sina-Weibo（新浪微博）](http://www.weibo.com/u/1622975475)
+* [LindedIn](https://www.linkedin.com/profile/view?id=193554159)
+* [Slideshare](https://www.slideshare.net/XueliangHan)
+* [StackOverFlow(StackExchange)](https://stackoverflow.com/users/1576184/albert)
+* [Sina-Weibo（新浪微博）](https://www.weibo.com/u/1622975475)
 * [Twitter](https://twitter.com/Xueliang_Han)
-* [Tumblr](http://xuelianghan.tumblr.com)
+* [Tumblr](https://xuelianghan.tumblr.com)
 * [Youtube](https://www.youtube.com/channel/UCk1iR3u2DwC-A0B4fW35RQg)
 
 
 <hr>
-__Links for Coder/Hacker/Programming/Developer/Software Engineer__
+__Links for Coder/Hacker/Programmer/Developer/Software Engineer__
 
 * Jobs related
   * [GlassDoor](https://www.glassdoor.com) - _Comments on companies._
@@ -45,8 +45,8 @@ __Links for Coder/Hacker/Programming/Developer/Software Engineer__
   * [Hacker News](https://news.ycombinator.com/news)
   * [Reddit](https://www.reddit.com)
 * QA
-  * [StackExchange](http://www.stackexchange.com)
-  * [StackOverflow](http://www.stackoverflow.com)
+  * [StackExchange](https://www.stackexchange.com)
+  * [StackOverflow](https://www.stackoverflow.com)
 * Open Source
   * [Github](https://www.github.com)
   * [Google Code](https://code.google.com)
@@ -56,50 +56,50 @@ __Links for Coder/Hacker/Programming/Developer/Software Engineer__
 
 
 <hr>
-___Links for daily life__
+__Links for daily life__
 
 * General Search Enginer
   * [Google](https://www.google.com)
-  * [Bing](http://www.bing.com)
-  * [Yahoo](http://www.yahoo.com)
-  * [Baidu](http://www.baidu.com)(Chinese)
-  * [Yandex](http://www.yandex.com)(Russia)
+  * [Bing](https://www.bing.com)
+  * [Yahoo](https://www.yahoo.com)
+  * [Baidu](https://www.baidu.com)(Chinese)
+  * [Yandex](https://www.yandex.com)(Russia)
 * Social Network
-  * [Facebook](http://www.facebook.com)
-  * [LinkedIn](http://www.linkedin.com)
-  * [Google Plus](http://plus.google.com)
-  * [Twitter](http://twitter.com)
-  * [Tumblr](http://www.tumblr.com)
+  * [Facebook](https://www.facebook.com)
+  * [LinkedIn](https://www.linkedin.com)
+  * [Google Plus](https://plus.google.com)
+  * [Twitter](https://twitter.com)
+  * [Tumblr](https://www.tumblr.com)
 * Reference
-  * [Wikipedia](http://www.wikipedia.com)
-  * [Dictionary](http://www.dictionary.com)
+  * [Wikipedia](https://www.wikipedia.com)
+  * [Dictionary](https://www.dictionary.com)
 * Documents
-  * [Slideshare](http://www.slideshare.com)
-  * [Scribd](http://www.scribd.com)
-  * [ebookee](http://www.ebookee.org)
+  * [Slideshare](https://www.slideshare.com)
+  * [Scribd](https://www.scribd.com)
+  * [ebookee](https://www.ebookee.org)
 * Shopping
-  * [Amazon](http://www.amazon.com)
-  * [eBuy](http://www.ebuy.com)
-  * [Pricewatch](http://www.pricewatch.com)
-  * [Price graber](http://www.pricegraber.com)
-  * [Shopping](http://www.shopping.com)
-  * [Jingdong (360Buy)](http://www.jd.com)(Chinese)
-  * [Newegg](http://www.newegg.com)(Chinese)
-  * [Taobao](http://www.taobao.com)(Chinese)
-  * [eTao](http://www.etao.com)
+  * [Amazon](https://www.amazon.com)
+  * [eBuy](https://www.ebuy.com)
+  * [Pricewatch](https://www.pricewatch.com)
+  * [Price graber](https://www.pricegraber.com)
+  * [Shopping](https://www.shopping.com)
+  * [Jingdong (360Buy)](https://www.jd.com)(Chinese)
+  * [Newegg](https://www.newegg.com)(Chinese)
+  * [Taobao](https://www.taobao.com)(Chinese)
+  * [eTao](https://www.etao.com)
 * Image
-  * [Flickr](http://www.flickr.com)
-  * [Pinterest](http://pinterest)
+  * [Flickr](https://www.flickr.com)
+  * [Pinterest](https://www.pinterest.com)
 * Video
-  * [YouTube](http://www.youtube.com)
-  * [IMDB](http://www.imdb.com)
+  * [YouTube](https://www.youtube.com)
+  * [IMDB](https://www.imdb.com)
 * Recipes
-  * [Allrecipes](http:www.allrecipes.com)
-  * [FoodNetwork](http://www.foodnetwork.com)
+  * [Allrecipes](https://www.allrecipes.com)
+  * [FoodNetwork](https://www.foodnetwork.com)
 * Questions & Answers
-  * [Quora](http://www.quora.com)
-  * [Reddit](http://www.reddit.com)
-  * [Stackoverflow](http://www.stackoverflow.com)
+  * [Quora](https://www.quora.com)
+  * [Reddit](https://www.reddit.com)
+  * [Stackoverflow](https://www.stackoverflow.com)
   * [Yahoo Answer](http:answers.yahoo.com)
 
 

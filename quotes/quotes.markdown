@@ -48,6 +48,9 @@
   > Make things as simple as possible but not simpler. -- Albert Einstein.
   > Any intelligent fool can make things <strong>bigger</strong>, <strong>more complex</strong>, and <strong>more violent</strong>. It takes <strong>a touch of genius</strong> -- and <strong>a lot of courage</strong> -- to move in the <strong>opposite direction</strong>. -- Albert Einstein.
 
+* `Simplicity`
+  > Simplicity is the ultimate <strong>sophistication</strong>. —- Leonardo da Vinci
+
 * `Steve Jobs`
   > 1.Think different.  
   > 2.Stay hungry and stay foolish.  
