@@ -1,7 +1,7 @@
 #Markdown - The power of plain text(Text markup language)
 
 #Cognition form Wikipedia
-Markdown is a lightweight markup language, originally created by John Gruber with substantial contributions from Aaron Swartz, allowing people ¡°to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)¡±.[1] The language takes many cues from existing conventions for marking up plain text in email. In other words, Markdown is a text-to-HTML conversion tool (for web writers). -- Wikipedia
+Markdown is a lightweight markup language, originally created by John Gruber with substantial contributions from Aaron Swartz, allowing people Â¡Â°to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)Â¡Â±.[1] The language takes many cues from existing conventions for marking up plain text in email. In other words, Markdown is a text-to-HTML conversion tool (for web writers). -- Wikipedia
 
 
 #Cognition from Ablert Han(Me)
