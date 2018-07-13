@@ -1,4 +1,5 @@
 #!/bin/python
+# -*- coding:utf-8 -*-
 
 # Single line comment in Python
 """ Doc strings in Python """
@@ -10,6 +11,10 @@
 
 
 # DESIGN
+
+# scan recursively for .markdown files
+# convert it into .html via perl script
+# 
 
 
 # IMPLEMENTATION
