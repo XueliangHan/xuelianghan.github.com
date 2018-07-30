@@ -103,6 +103,35 @@ __Links for daily life__
   * [Yahoo Answer](http:answers.yahoo.com)
 
 
+<hr>
+__Links for Crucial/Key Topics__
+
+* CAREER
+* Career Development
+    * [职业发展 - 知乎 - 时间排序](https://www.zhihu.com/topic/19554825/newest)
+    * [职业发展 - 知乎 - 热门排序](https://www.zhihu.com/topic/19554825/hot)
+* Career Guide
+  * Stanford Career Guide
+      * [The Career Planning Handbook for Bachelor's & Master's Students]
+      * [PhD & Postdoc Career Guide]
+* [Career Resources](https://www.gsb.stanford.edu/alumni/career-resources)
+  * [Job Search Resources]( https://www.gsb.stanford.edu/alumni/career-resources/job-search )
+      * [Resumes & Cover Letters]( https://www.gsb.stanford.edu/alumni/career-resources/job-search/resumes-cover-letters )
+      * [Interviewing]( https://www.gsb.stanford.edu/alumni/career-resources/job-search/interviewing )
+      * [Negotiating]( https://www.gsb.stanford.edu/alumni/career-resources/job-search/negotiating )
+      * ...
+  * [Career & Life Transitions]( https://www.gsb.stanford.edu/alumni/career-resources/transitions ) ...
+* [Lifelong Learning]( https://www.gsb.stanford.edu/alumni/lifelong-learning ) ...
+* [TREE - __T__ools for Career __R__eadiness, __E__xploration, and __E__valuation]( https://cdc-tree.stanford.edu/ )
+  * [Know Thyself]( https://cdc-tree.stanford.edu/steps/readiness ) phase including Overview, Career Interest, Values, Skills, Preferred Work Style, Clues to Clarify, Reflection (Mind Map) acitivities.
+  * [Explore Options](https://cdc-tree.stanford.edu/steps/exploration) phase including "Unfinished" ...
+  * [Pursue Jobs/Internships](https://cdc-tree.stanford.edu/steps/pursuit) phase including "Unfinished" ...
+* [Job Search Guide]( http://libguides.stanford.edu/career )
+* [Library Browser Extensions]( http://libguides.stanford.edu/extension )
+
+  
+
+
 <!-- Filkr. Google+, Path, Renren. Quora, Reddit, Pinboard/Delicious/Digg) -->
 <!-- RenRen -->
 <!-- Google+ -->    <!-- a href="">Google+</a> --> <!-- Linus use it -->

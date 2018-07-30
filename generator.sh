@@ -10,26 +10,28 @@
 #if [ "$(expr substr $(uname -s) 1 6)" == "Darwin" ]; then
 if [ "$(uname)" == "Darwin" ]; then
     echo "Script running under Mac OS X (Darwin)"
-    SRC="$HOME""/xuelianghan.github.com"
-    DES="$HOME""/xuelianghan.github.com"
+    #SRC="$HOME""/xuelianghan.github.com"
+    #DES="$HOME""/xuelianghan.github.com"
+    SRC="./"
+    DES="./"
     echo "Target Source=$SRC"
     echo "Target Desiny=$DES"
-    echo "Generating pages..."
+    echo "Generating pages ..."
 elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
     echo "Script running under GNU/Linux"
-    SRC="$HOME""/publishing/xuelianghan.github.com"
-    DES="$HOME""/publishing/xuelianghan.github.com"
+    SRC="./"
+    DES="./"
     echo "Target Source=$SRC"
     echo "Target Desiny=$DES"
-    echo "Generating pages..."
+    echo "Generating pages ..."
 #elif [ "$(expr substr $(uname -s) 1 14)" == "MINGW_NT-6.1" ]; then
 elif [ "$(expr substr $(uname -s) 1 10)" == "MINGW32_NT" ]; then
     echo "Script running under Windows (NT)"
-    SRC="/c/Users/H/xuelianghan.github.com"
-    DES="/c/Users/H/xuelianghan.github.com"
+    SRC="./"
+    DES="./"
     echo "Target Source=$SRC"
     echo "Target Desiny=$DES"
-    echo "Generating pages..."
+    echo "Generating pages ..."
 fi
 
 #Previous bash script in convert.sh
@@ -148,3 +150,5 @@ perl md.pl "$SRC/toolkits/gcc.markdown"                 > "$DES/toolkits/gcc.htm
 perl md.pl "$SRC/toolkits/git.markdown"                 > "$DES/toolkits/git.html"
 perl md.pl "$SRC/toolkits/text-editor.markdown"         > "$DES/toolkits/text-editor.html"
 perl md.pl "$SRC/toolkits/vi-vim.markdown"              > "$DES/toolkits/vi-vim.html"
+
+echo "Generation complete."
