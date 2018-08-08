@@ -13,7 +13,7 @@
 <div align="center"><h1>Links</h1></div>
 
 <hr>
-__My Information__
+##__My Information__
 
 * [Contact Information (My Card)](./static/images/card.jpg)
 * Email: `xmail.han` `at` `the mail service which provided by Google`
@@ -21,7 +21,7 @@ __My Information__
 * [Personal Website Backup Address](http://xuelianghan.github.com)
 
 <hr>
-__My Links__
+##__My Links__
 
 * Douban（豆瓣）ID1: [中文](https://www.douban.com/people/3310247/) [English](https://translate.google.com.hk/translate?act=url&hl=en&ie=UTF8&prev=_t&sl=auto&tl=en&u=https://www.douban.com/people/3310247/) - Classic (created @2008-12-7)
 * Douban（豆瓣）ID2: [中文](https://www.douban.com/people/62362375/) [English](https://translate.google.com.hk/translate?hl=en&ie=UTF8&prev=_t&sl=auto&tl=zh-CN&u=https://www.douban.com/people/62362375/) - ThinkingNotes (Database created @2012-06-17, and main account.)
@@ -37,7 +37,7 @@ __My Links__
 
 
 <hr>
-__Links for Coder/Hacker/Programmer/Developer/Software Engineer__
+##__Links for Coder/Hacker/Programmer/Developer/Software Engineer__
 
 * Jobs related
   * [GlassDoor](https://www.glassdoor.com) - _Comments on companies._
@@ -56,7 +56,7 @@ __Links for Coder/Hacker/Programmer/Developer/Software Engineer__
 
 
 <hr>
-__Links for daily life__
+##__Links for daily life__
 
 * General Search Enginer
   * [Google](https://www.google.com)
@@ -104,9 +104,9 @@ __Links for daily life__
 
 
 <hr>
-__Links for Crucial/Key Topics__
+##__Links for Crucial/Key Topics__
 
-* CAREER
+###CAREER
 * Career Development
     * [职业发展 - 知乎 - 时间排序](https://www.zhihu.com/topic/19554825/newest)
     * [职业发展 - 知乎 - 热门排序](https://www.zhihu.com/topic/19554825/hot)
@@ -129,7 +129,32 @@ __Links for Crucial/Key Topics__
 * [Job Search Guide]( http://libguides.stanford.edu/career )
 * [Library Browser Extensions]( http://libguides.stanford.edu/extension )
 
-  
+
+<hr>
+
+<!--
+##__Links for News__
+
+###News Indexes
+* CA News
+* CN News
+* DE News
+* EU News
+* FR News
+* JP News
+* RU News
+  * [俄罗斯主要媒体网站](http://202.112.126.101/jpkc/wgxwcbs/menu10/els.html) (Major Russian news media websites)
+* US News
+* UK News
+-->
+
+
+<!--
+###ForEx (Foreign Exchange)
+* [火线速递_外汇快讯_外汇宝_财经新闻-FX168财经网](http://t.news.fx168.com/)
+    * 描述（Description）: FX168外汇火线速递栏目24小时提供短讯报道，是汇民了解外汇短讯、外汇速报、外汇快讯、判断汇市走向的重要信息来源。
+    * 关键字（Keywords）: 火线速递,火线,火线金融,短讯,速报,快讯,外汇,外汇宝,外汇牌价,外汇汇率,外汇资讯,FX168,Forex.
+-->
 
 
 <!-- Filkr. Google+, Path, Renren. Quora, Reddit, Pinboard/Delicious/Digg) -->
