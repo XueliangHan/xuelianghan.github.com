@@ -39,18 +39,22 @@
 <hr>
 ##__Links for Coder/Hacker/Programmer/Developer/Software Engineer__
 
+* Conferences Calendar
+  * [The LWN.net Community Calendar](https://lwn.net/Calendar/) for events like conferences about Linux and free software (Python, etc.) at .au, .de, .eu, etc.
 * Jobs related
   * [GlassDoor](https://www.glassdoor.com) - _Comments on companies._
 * News
   * [Hacker News](https://news.ycombinator.com/news)
   * [Reddit](https://www.reddit.com)
-* QA
-  * [StackExchange](https://www.stackexchange.com)
-  * [StackOverflow](https://www.stackoverflow.com)
 * Open Source
   * [Github](https://www.github.com)
   * [Google Code](https://code.google.com)
   * [SourceForge](https:www.sf.net)
+* QA
+  * [StackExchange](https://www.stackexchange.com)
+  * [StackOverflow](https://www.stackoverflow.com)
+* Surveys
+  * [W3Techs - World Wide Web Technology Surveys](https://w3techs.com/)
 * For China Mainland
   * [Startup News](https://news.dbanotes.net) - _Not recommand, Just no other options. Hacker News specific for Chinese culture._
 
@@ -132,6 +136,12 @@
 
 <hr>
 
+
+###Reading
+
+
+
+
 <!--
 ##__Links for News__
 
@@ -148,13 +158,6 @@
 * UK News
 -->
 
-
-<!--
-###ForEx (Foreign Exchange)
-* [火线速递_外汇快讯_外汇宝_财经新闻-FX168财经网](http://t.news.fx168.com/)
-    * 描述（Description）: FX168外汇火线速递栏目24小时提供短讯报道，是汇民了解外汇短讯、外汇速报、外汇快讯、判断汇市走向的重要信息来源。
-    * 关键字（Keywords）: 火线速递,火线,火线金融,短讯,速报,快讯,外汇,外汇宝,外汇牌价,外汇汇率,外汇资讯,FX168,Forex.
--->
 
 
 <!-- Filkr. Google+, Path, Renren. Quora, Reddit, Pinboard/Delicious/Digg) -->
